@@ -23,7 +23,7 @@ jobs:
         pip install -r requirements.txt
 
     - name: Generate Yandex feed
-      run: python main.py  # Убедись, что он пишет выход в ./docs/yandex_feed.xml
+      run: python main.py --test
 
     - name: Commit and push feed to docs
       run: |
