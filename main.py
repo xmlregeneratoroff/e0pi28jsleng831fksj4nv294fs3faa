@@ -18,7 +18,7 @@ import sys
 SITE_URL = "https://i-sosna.ru"
 FEED_URL = "https://i-sosna.ru/bitrix/catalog_export/min_ya_feed.xml"
 COLLECTIONS_URL = f"{SITE_URL}/catalog/series/"
-OUTPUT_FEED_PATH = "yandex_feed.xml"
+OUTPUT_FEED_PATH = "docs/yandex_feed.xml"
 MAX_RETRIES = 3
 REQUEST_TIMEOUT = 15
 MAX_WORKERS = 5
