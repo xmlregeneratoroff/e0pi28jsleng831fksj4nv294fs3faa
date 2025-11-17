@@ -12,6 +12,7 @@ import xml.etree.ElementTree as ET
 import os
 from datetime import datetime, timedelta
 import sys
+from datetime import datetime, timedelta, timezone
 
 
 # Конфигурация
@@ -552,8 +553,9 @@ def main():
             remove_offers(root, offers_to_remove)
         
         # Шаг 6: Обновляем дату в фиде
-        current_time = datetime.now().astimezone().isoformat(timespec='seconds')
-        # Формат будет: 2025-11-18T19:24:50+03:00
+        utc_now = datetime.now(timezone.utc)
+        moscow_time = utc_now + timedelta(hours=3)
+        current_time = moscow_time.strftime("%Y-%m-%dT%H:%M:%S+03:00")
         root.set('date', current_time)
         logger.info(f"Дата фида обновлена: {current_time}")
         
