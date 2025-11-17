@@ -1,0 +1,2435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-11-17T22:10:35+00:00">
+  <shop>
+    <name>Гармония дерева</name>
+    <company>ООО Гармония дерева</company>
+    <url>https://i-sosna.ru</url>
+    <platform>BSM/Yandex/Market</platform>
+    <version>2.6.2</version>
+    <currencies>
+      <currency id="RUR" rate="1" />
+    </currencies>
+    <categories>
+      <category id="183">КАТАЛОГ</category>
+      <category id="737" parentId="183">РАСПРОДАЖА</category>
+      <category id="792" parentId="737">Комоды</category>
+      <category id="795" parentId="737">Кровати</category>
+      <category id="823" parentId="737">Кухни</category>
+      <category id="790" parentId="737">Столы</category>
+      <category id="821" parentId="737">Стулья</category>
+      <category id="791" parentId="737">Шкафы</category>
+      <category id="774" parentId="183">Библиотеки</category>
+      <category id="733" parentId="183">Гарнитуры в прихожую</category>
+      <category id="728" parentId="183">Гостиные гарнитуры</category>
+      <category id="727" parentId="183">Детские гарнитуры</category>
+      <category id="732" parentId="183">Кухонные гарнитуры</category>
+      <category id="726" parentId="183">Спальные гарнитуры</category>
+      <category id="729" parentId="183">Кабинеты из дерева</category>
+      <category id="832" parentId="183">Банкетки</category>
+      <category id="388" parentId="183">Буфеты</category>
+      <category id="436" parentId="183">Вешалки</category>
+      <category id="389" parentId="183">Витрины</category>
+      <category id="390" parentId="183">Диваны</category>
+      <category id="391" parentId="390">Диваны-кровати</category>
+      <category id="392" parentId="390">Диваны</category>
+      <category id="399" parentId="183">Зеркала</category>
+      <category id="400" parentId="183">Комоды и тумбы</category>
+      <category id="401" parentId="400">Комоды</category>
+      <category id="402" parentId="400">Тумбы</category>
+      <category id="403" parentId="402">Тумбы под TV</category>
+      <category id="404" parentId="402">Тумбы прикроватные</category>
+      <category id="438" parentId="402">Тумбы для обуви</category>
+      <category id="617" parentId="183">Консоли</category>
+      <category id="406" parentId="183">Кровати</category>
+      <category id="780" parentId="406">Взрослые кровати</category>
+      <category id="407" parentId="406">Детские кровати</category>
+      <category id="758" parentId="406">Кровати-тахта</category>
+      <category id="408" parentId="406">Двухъярусные кровати</category>
+      <category id="410" parentId="406">Основания под матрас</category>
+      <category id="627" parentId="183">Кухни</category>
+      <category id="215" parentId="627">Кухня Адель</category>
+      <category id="618" parentId="627">Кухня Анюта</category>
+      <category id="219" parentId="627">Кухня Вариант</category>
+      <category id="471" parentId="627">Кухня Викинг (браширование)</category>
+      <category id="472" parentId="627">Кухня Викинг (старение)</category>
+      <category id="220" parentId="627">Кухня Камилла</category>
+      <category id="623" parentId="627">Кухня Прованс</category>
+      <category id="628" parentId="627">Кухня Скайда -1</category>
+      <category id="631" parentId="627">Кухня Скайда -2</category>
+      <category id="415" parentId="627">Кухня Утро-3</category>
+      <category id="704" parentId="627">Кухня Чезаре</category>
+      <category id="748" parentId="627">Кухня Валенсия</category>
+      <category id="781" parentId="627">Кухня Классик</category>
+      <category id="829" parentId="627">Кухня Profi&amp;Hobby</category>
+      <category id="757" parentId="627">Кухни Тимберика</category>
+      <category id="827" parentId="627">Кухня Шампань</category>
+      <category id="853" parentId="627">Кухня Гретта</category>
+      <category id="833" parentId="183">Кресла</category>
+      <category id="834" parentId="833">Кресла и кресла-кровати</category>
+      <category id="835" parentId="833">Кресла-маятники</category>
+      <category id="836" parentId="833">Кресла-качалки</category>
+      <category id="838" parentId="833">Подвесные кресла</category>
+      <category id="423" parentId="183">Матрасы</category>
+      <category id="652" parentId="423">Матрасы Орматек</category>
+      <category id="425" parentId="423">Матрасы Sontery by Askona</category>
+      <category id="650" parentId="425">Матрасы  Prime/Balance</category>
+      <category id="651" parentId="425">Матрасы  Terapia</category>
+      <category id="854" parentId="425">Матрасы Sleep/Infiniti</category>
+      <category id="789" parentId="425">Матрасы  Кидс</category>
+      <category id="447" parentId="183">Полки</category>
+      <category id="448" parentId="183">Предметы интерьера</category>
+      <category id="470" parentId="448">Подставки под цветы</category>
+      <category id="462" parentId="448">Часы настенные</category>
+      <category id="450" parentId="183">Скамьи и лавки</category>
+      <category id="452" parentId="183">Стеллажи</category>
+      <category id="454" parentId="183">Столы и стулья</category>
+      <category id="773" parentId="454">Столы</category>
+      <category id="455" parentId="773">Туалетные столики</category>
+      <category id="456" parentId="773">Столы журнальные</category>
+      <category id="457" parentId="773">Столы обеденные</category>
+      <category id="458" parentId="773">Столы письменные</category>
+      <category id="459" parentId="773">Столы сервировочные</category>
+      <category id="460" parentId="454">Стулья</category>
+      <category id="772" parentId="454">Табуреты</category>
+      <category id="461" parentId="183">Сундуки</category>
+      <category id="463" parentId="183">Шкафы</category>
+      <category id="467" parentId="463">Шкафы распашные</category>
+      <category id="468" parentId="463">Шкафы угловые</category>
+      <category id="469" parentId="463">Шкафы-купе</category>
+      <category id="466" parentId="463">Шкафы для книг</category>
+      <category id="786" parentId="463">Шкафы для посуды</category>
+      <category id="439" parentId="463">Шкафы для прихожей</category>
+      <category id="465" parentId="463">Угловые завершения</category>
+      <category id="464" parentId="463">Антресоли</category>
+      <category id="843" parentId="183">Плетеная мебель</category>
+      <category id="845" parentId="843">Диваны</category>
+      <category id="846" parentId="843">Комплекты мебели</category>
+      <category id="847" parentId="843">Кресла</category>
+      <category id="848" parentId="843">Столы</category>
+      <category id="849" parentId="843">Стулья</category>
+      <category id="850" parentId="843">Шезлонги</category>
+      <category id="840" parentId="183">Мебельная комплектация</category>
+    </categories>
+    <enable_auto_discounts>true</enable_auto_discounts>
+    <offers>
+      <offer id="3062" available="true" group_id="3062">
+        <url>https://i-sosna.ru/catalog/kukhnya_provans/provans_ballyustrada_1250_mm/</url>
+        <price>2100</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>623</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/cbf/cbfbe69ddc903d1a013a832966f2ac26.png</picture>
+        <name>"Прованс" Баллюстрада 1250 мм</name>
+        <model>"Прованс" Баллюстрада 1250 мм</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">125</param>
+        <param name="Высота" unit="см">5</param>
+        <param name="Глубина" unit="см">2</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>2620</oldprice>
+      </offer>
+      <offer id="3063" available="true" group_id="3063">
+        <url>https://i-sosna.ru/catalog/kukhnya_provans/provans_ballyustrada_800_mm/</url>
+        <price>1900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>623</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/40c/40c464a712d9fe6ac7672e5e03ae78c2.png</picture>
+        <name>"Прованс" Баллюстрада 800 мм</name>
+        <model>"Прованс" Баллюстрада 800 мм</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">80</param>
+        <param name="Высота" unit="см">4</param>
+        <param name="Глубина" unit="см">2</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>2370</oldprice>
+      </offer>
+      <offer id="3064" available="true" group_id="3064">
+        <url>https://i-sosna.ru/catalog/kukhnya_provans/provans_karniz_pryamoy/</url>
+        <price>510</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>623</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/253/25315afde806e673061b9f83d1ab76fa.png</picture>
+        <name>"Прованс" Карниз прямой</name>
+        <model>"Прованс" Карниз прямой</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">100</param>
+        <param name="Высота" unit="см">4</param>
+        <param name="Глубина" unit="см">5</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>630</oldprice>
+      </offer>
+      <offer id="3065" available="true" group_id="3065">
+        <url>https://i-sosna.ru/catalog/kukhnya_provans/provans_bokovaya_panel_dlya_posudomoechnoy_mashiny_540_kh_820/</url>
+        <price>2800</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>623</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/bbd/bbdb92799da78dbbe737c8d5dc74aea1.png</picture>
+        <name>"Прованс" Боковая панель для посудомоечной машины (540 х 820)</name>
+        <model>"Прованс" Боковая панель для посудомоечной машины (540 х 820)</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">54</param>
+        <param name="Высота" unit="см">82</param>
+        <param name="Глубина" unit="см">2</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>3490</oldprice>
+      </offer>
+      <offer id="3066" available="true" group_id="3066">
+        <url>https://i-sosna.ru/catalog/kukhnya_provans/provans_bokovaya_panel_dlya_posudomoechnoy_mashiny_540_kh_720/</url>
+        <price>2490</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>623</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/9d9/9d93e85bd57ed0167ce06fee51b6e8f3.png</picture>
+        <name>"Прованс" Боковая панель для посудомоечной машины (540 х 720)</name>
+        <model>"Прованс" Боковая панель для посудомоечной машины (540 х 720)</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">54</param>
+        <param name="Высота" unit="см">72</param>
+        <param name="Глубина" unit="см">2</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>3110</oldprice>
+      </offer>
+      <offer id="3067" available="true" group_id="3067">
+        <url>https://i-sosna.ru/catalog/kukhnya_provans/provans_tsokol/</url>
+        <price>710</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>623</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/a54/a548c8030bbb2d8bca320d4e536798b0.png</picture>
+        <name>"Прованс" Цоколь</name>
+        <model>"Прованс" Цоколь</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">100</param>
+        <param name="Высота" unit="см">10</param>
+        <param name="Глубина" unit="см">2</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>880</oldprice>
+      </offer>
+      <offer id="3068" available="true" group_id="3068">
+        <url>https://i-sosna.ru/catalog/kukhnya_provans/provans_stoleshnitsa_dlya_barnoy_stoyki_1600_kh_400_kh_36/</url>
+        <price>9550</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>623</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/75b/75b88a08e9b372cf5602081fb51036f6.jpeg</picture>
+        <name>"Прованс" Столешница для барной стойки 1600 х 400 х 36</name>
+        <model>"Прованс" Столешница для барной стойки 1600 х 400 х 36</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">160</param>
+        <param name="Высота" unit="см">4</param>
+        <param name="Глубина" unit="см">40</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>11930</oldprice>
+      </offer>
+      <offer id="3069" available="true" group_id="3069">
+        <url>https://i-sosna.ru/catalog/kukhnya_provans/provans_stoleshnitsa_dlya_barnoy_stoyki_1600_kh_450_kh_36/</url>
+        <price>9750</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>623</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/7ed/7ed5f14a940efbdd63eb597b555a5fb0.jpeg</picture>
+        <name>"Прованс" Столешница для барной стойки 1600 х 450 х 36</name>
+        <model>"Прованс" Столешница для барной стойки 1600 х 450 х 36</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">160</param>
+        <param name="Высота" unit="см">4</param>
+        <param name="Глубина" unit="см">45</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>12180</oldprice>
+      </offer>
+      <offer id="3070" available="true" group_id="3070">
+        <url>https://i-sosna.ru/catalog/kukhnya_provans/provans_stoleshnitsa_dlya_barnoy_stoyki_1600_kh_600_kh_36/</url>
+        <price>9950</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>623</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/7d6/7d6a1fd7bd125832da4bd784fcab15a7.jpeg</picture>
+        <name>"Прованс" Столешница для барной стойки 1600 х 600 х 36</name>
+        <model>"Прованс" Столешница для барной стойки 1600 х 600 х 36</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">160</param>
+        <param name="Высота" unit="см">4</param>
+        <param name="Глубина" unit="см">60</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>12430</oldprice>
+      </offer>
+      <offer id="3058" available="true" group_id="3058">
+        <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_shkaf_nastennyy_nad_vytyazhkoy_500/</url>
+        <price>10820</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>618</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/159/1592e0ca71b8fe414a022322b7a4ca07.jpeg</picture>
+        <name>Кухня «Анюта» Шкаф-настенный над вытяжкой</name>
+        <model>Кухня «Анюта» Шкаф-настенный над вытяжкой</model>
+        <vendor>Добрый мастер</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">50</param>
+        <param name="Высота" unit="см">45</param>
+        <param name="Глубина" unit="см">33</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>11630</oldprice>
+      </offer>
+      <offer id="3061" available="true" group_id="3061">
+        <url>https://i-sosna.ru/catalog/kukhnya_provans/provans_shkaf_stol_uglovoy_pod_moyku_33_850/</url>
+        <price>22870</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>623</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/a9b/a9bba8c9fd3338ee36780ee4399fe731.jpeg</picture>
+        <name>"Прованс" Шкаф-стол угловой под мойку № 33</name>
+        <model>"Прованс" Шкаф-стол угловой под мойку № 33</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">85</param>
+        <param name="Высота" unit="см">82</param>
+        <param name="Глубина" unit="см">54</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>28580</oldprice>
+      </offer>
+      <offer id="2930" available="true" group_id="2930">
+        <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_fasad_dlya_posudomoechnoy_mashiny_600/</url>
+        <price>4450</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>618</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/0bb/0bb22c52945559bf8c21237e731f0458.png</picture>
+        <name>Кухня «Анюта» Фасад для посудомоечной машины 600</name>
+        <model>Кухня «Анюта» Фасад для посудомоечной машины 600</model>
+        <vendor>Добрый мастер</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">60</param>
+        <param name="Высота" unit="см">72</param>
+        <param name="Глубина" unit="см">2</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>4780</oldprice>
+      </offer>
+      <offer id="2931" available="true" group_id="2931">
+        <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_fasad_dlya_posudomoechnoy_mashiny_450/</url>
+        <price>3330</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>618</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/055/055b870d98c082fa8b7174302789c984.png</picture>
+        <name>Кухня «Анюта» Фасад для посудомоечной машины 450</name>
+        <model>Кухня «Анюта» Фасад для посудомоечной машины 450</model>
+        <vendor>Добрый мастер</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">45</param>
+        <param name="Высота" unit="см">72</param>
+        <param name="Глубина" unit="см">2</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>3580</oldprice>
+      </offer>
+      <offer id="2997" available="true" group_id="2997">
+        <url>https://i-sosna.ru/catalog/tumby_pod_tv/tumba_ba_200/</url>
+        <price>66610</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>403</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/fd0/fd0ed2e36ed5ff23e9287328132bee13.jpeg</picture>
+        <name>Тумба BA 200</name>
+        <model>Тумба BA 200</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">200</param>
+        <param name="Высота" unit="см">96</param>
+        <param name="Глубина" unit="см">48</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>74010</oldprice>
+        <collectionId>54</collectionId>
+      </offer>
+      <offer id="3110" available="true" group_id="3110">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_brashirovanie/shkaf_nastennyy_150_viking_gl_brashirovanie_07/</url>
+        <price>17550</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>471</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/a0d/a0d644243ccdd772c4e88cc8448149a3.jpeg</picture>
+        <name>Шкаф настенный (150)  "Викинг GL" (браширование) №07</name>
+        <model>Шкаф настенный (150)  "Викинг GL" (браширование) №07</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">15</param>
+        <param name="Высота" unit="см">72</param>
+        <param name="Глубина" unit="см">34</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="3111" available="true" group_id="3111">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_brashirovanie/shkaf_nastennyy_450_viking_gl_brashirovanie_08/</url>
+        <price>12150</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>471</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/2c9/2c9dea6236d24c54ea3f2c548288735c.jpeg</picture>
+        <name>Шкаф настенный (450)  "Викинг GL" (браширование) №08</name>
+        <model>Шкаф настенный (450)  "Викинг GL" (браширование) №08</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">45</param>
+        <param name="Высота" unit="см">72</param>
+        <param name="Глубина" unit="см">34</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="3114" available="true" group_id="3114">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_brashirovanie/shkaf_nastennyy_uglovoy_viking_gl_brashirovanie_11/</url>
+        <price>21600</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>471</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/4b1/4b1807fcfc8929859c8715cae39c0826.jpeg</picture>
+        <name>Шкаф настенный угловой  "Викинг GL" (браширование) №11</name>
+        <model>Шкаф настенный угловой  "Викинг GL" (браширование) №11</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">60</param>
+        <param name="Высота" unit="см">72</param>
+        <param name="Глубина" unit="см">34</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="3289" available="true" group_id="3289">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_brashirovanie/shkaf_stol_450_s_3_mya_yashch_viking_gl_brashirovanie_02/</url>
+        <price>22950</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>471</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/1c4/1c4653df8d9044acaf8be681a4466e00.jpeg</picture>
+        <name>Шкаф-стол (450) с 3-мя ящ. "Викинг GL" (браширование) №02</name>
+        <model>Шкаф-стол (450) с 3-мя ящ. "Викинг GL" (браширование) №02</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">45</param>
+        <param name="Высота" unit="см">81</param>
+        <param name="Глубина" unit="см">52</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="3290" available="true" group_id="3290">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_brashirovanie/shkaf_stol_600mm_viking_gl_s_polkoy_brashirovanie_03/</url>
+        <price>16200</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>471</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/1d4/1d4b8c71fc5963ce1b2b8da0f1ee30bf.jpeg</picture>
+        <name>Шкаф-стол (600мм) "Викинг GL" (с полкой) (браширование) №03</name>
+        <model>Шкаф-стол (600мм) "Викинг GL" (с полкой) (браширование) №03</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">60</param>
+        <param name="Высота" unit="см">81</param>
+        <param name="Глубина" unit="см">52</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="3291" available="true" group_id="3291">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_brashirovanie/shkaf_stol_pod_dukhovoy_shkaf_600_viking_gl_brashirovanie_12/</url>
+        <price>12040</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>471</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/8ef/8efa26fec90187f231a79115bd8a02d4.jpeg</picture>
+        <name>Шкаф-стол под духовой шкаф (600)  "Викинг GL" (браширование) №12</name>
+        <model>Шкаф-стол под духовой шкаф (600)  "Викинг GL" (браширование) №12</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">60</param>
+        <param name="Высота" unit="см">81</param>
+        <param name="Глубина" unit="см">52</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="3292" available="true" group_id="3292">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_brashirovanie/shkaf_stol_pod_moyku_600_viking_gl_brashirovanie_04/</url>
+        <price>14850</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>471</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/a1d/a1d98a94263d7a3861f8483c0559ef7a.jpeg</picture>
+        <name>Шкаф-стол под мойку (600)  "Викинг GL" (браширование) №04</name>
+        <model>Шкаф-стол под мойку (600)  "Викинг GL" (браширование) №04</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">60</param>
+        <param name="Высота" unit="см">81</param>
+        <param name="Глубина" unit="см">52</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="3293" available="true" group_id="3293">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_brashirovanie/shkaf_stol_150_s_kargo_viking_gl_brashirovanie_01/</url>
+        <price>27000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>471</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/aa4/aa48d903c5b3d03c5d8017ba327ddd1a.jpeg</picture>
+        <name>Шкаф-стол (150) с карго  "Викинг GL" (браширование) №01</name>
+        <model>Шкаф-стол (150) с карго  "Викинг GL" (браширование) №01</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">15</param>
+        <param name="Высота" unit="см">81</param>
+        <param name="Глубина" unit="см">52</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="3294" available="true" group_id="3294">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_brashirovanie/shkaf_stol_150_bez_kargo_viking_gl_brashirovanie_01/</url>
+        <price>20250</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>471</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/903/9030b6c32c8ddad032af6483bc83634e.jpeg</picture>
+        <name>Шкаф-стол (150) без карго "Викинг GL" (браширование) №01</name>
+        <model>Шкаф-стол (150) без карго "Викинг GL" (браширование) №01</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">15</param>
+        <param name="Высота" unit="см">81</param>
+        <param name="Глубина" unit="см">52</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="3295" available="true" group_id="3295">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_brashirovanie/shkaf_stol_900_s_2_yashch_viking_gl_brashirovanie_05/</url>
+        <price>33750</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>471</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/7d9/7d95296d558592e3f9fcdc6a2f4ab3db.jpeg</picture>
+        <name>Шкаф-стол (900)  с 2 ящ. "Викинг GL" (браширование) №05</name>
+        <model>Шкаф-стол (900)  с 2 ящ. "Викинг GL" (браширование) №05</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">90</param>
+        <param name="Высота" unit="см">81</param>
+        <param name="Глубина" unit="см">52</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="3296" available="true" group_id="3296">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_brashirovanie/shkaf_stol_v_ugol_990_viking_gl_brashirovanie_06/</url>
+        <price>18900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>471</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/67e/67e16b7f6888fedc6c69a1957cd7d775.jpeg</picture>
+        <name>Шкаф-стол в угол (990)  "Викинг GL" (браширование) №06</name>
+        <model>Шкаф-стол в угол (990)  "Викинг GL" (браширование) №06</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">99</param>
+        <param name="Высота" unit="см">81</param>
+        <param name="Глубина" unit="см">52</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="6442" available="true" group_id="6442">
+        <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_shkaf_nastennyy_1_dv_720/</url>
+        <price>8790</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>618</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/28a/28a3fe2f706636bf11600b8e445aa8fb.jpeg</picture>
+        <name>Кухня «Анюта» Шкаф-настенный 1 дв. 720</name>
+        <model>Кухня «Анюта» Шкаф-настенный 1 дв. 720</model>
+        <vendor>Добрый мастер</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">30</param>
+        <param name="Высота" unit="см">72</param>
+        <param name="Глубина" unit="см">33</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>9450</oldprice>
+      </offer>
+      <offer id="6450" available="true" group_id="6450">
+        <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_shkaf_nastennyy_2_dv_720/</url>
+        <price>13900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>618</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/0a3/0a3eea5abc3721b1027b8b886a3c7d07.jpeg</picture>
+        <name>Кухня «Анюта» Шкаф-настенный 2 дв. 720</name>
+        <model>Кухня «Анюта» Шкаф-настенный 2 дв. 720</model>
+        <vendor>Добрый мастер</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">100</param>
+        <param name="Высота" unit="см">72</param>
+        <param name="Глубина" unit="см">33</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>14940</oldprice>
+      </offer>
+      <offer id="6430" available="true" group_id="6430">
+        <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_shkaf_stol_uglovoy/</url>
+        <price>10740</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>618</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/fd9/fd9df3b0cf055a9b966718769910cd24.png</picture>
+        <name>Кухня «Анюта» Шкаф-стол угловой</name>
+        <model>Кухня «Анюта» Шкаф-стол угловой</model>
+        <vendor>Добрый мастер</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">40</param>
+        <param name="Высота" unit="см">72</param>
+        <param name="Глубина" unit="см">55</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>11540</oldprice>
+      </offer>
+      <offer id="6433" available="true" group_id="6433">
+        <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_shkaf_stol_otkrytoe_uglovoe_zavershenie_pravoe_n_300_otkr_/</url>
+        <price>6470</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>618</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/aa2/aa2a586a5efb564d93ad37d8262a4281.png</picture>
+        <name>Кухня «Анюта» Шкаф-стол открытое угловое завершение правое (Н-300 откр.)</name>
+        <model>Кухня «Анюта» Шкаф-стол открытое угловое завершение правое (Н-300 откр.)</model>
+        <vendor>Добрый мастер</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">30</param>
+        <param name="Высота" unit="см">72</param>
+        <param name="Глубина" unit="см">55</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>6950</oldprice>
+      </offer>
+      <offer id="6436" available="true" group_id="6436">
+        <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_shkaf_penal_kukhonnyy_s_2_mya_yashchikami_i_nishey_2220/</url>
+        <price>36310</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>618</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/dde/ddecbc4eccb2802d177c67d10652fa12.png</picture>
+        <name>Кухня «Анюта» Шкаф-пенал кухонный с 2-мя ящиками и нишей 2220</name>
+        <model>Кухня «Анюта» Шкаф-пенал кухонный с 2-мя ящиками и нишей 2220</model>
+        <vendor>Добрый мастер</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">40</param>
+        <param name="Высота" unit="см">222</param>
+        <param name="Глубина" unit="см">55</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>39040</oldprice>
+      </offer>
+      <offer id="6439" available="true" group_id="6439">
+        <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_shkaf_penal_kukhonnyy_s_4_mya_yashchikami_2040/</url>
+        <price>37110</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>618</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/e87/e87763d971102145b6bbc7c961c25d0b.png</picture>
+        <name>Кухня «Анюта» Шкаф-пенал кухонный с 4-мя ящиками 2040</name>
+        <model>Кухня «Анюта» Шкаф-пенал кухонный с 4-мя ящиками 2040</model>
+        <vendor>Добрый мастер</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">40</param>
+        <param name="Высота" unit="см">204</param>
+        <param name="Глубина" unit="см">55</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>39900</oldprice>
+      </offer>
+      <offer id="6441" available="true" group_id="6441">
+        <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_shkaf_penal_kukhonnyy_s_4_mya_yashchikami_2220/</url>
+        <price>40210</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>618</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/9da/9da5b02c2f30d553f95da983e1199cba.png</picture>
+        <name>Кухня «Анюта» Шкаф-пенал кухонный с 4-мя ящиками 2220</name>
+        <model>Кухня «Анюта» Шкаф-пенал кухонный с 4-мя ящиками 2220</model>
+        <vendor>Добрый мастер</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">60</param>
+        <param name="Высота" unit="см">222</param>
+        <param name="Глубина" unit="см">55</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>43230</oldprice>
+      </offer>
+      <offer id="6408" available="true" group_id="6408">
+        <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_uglovoe_zavershenie_otkrytaya_polka_v_u_300o_900/</url>
+        <price>6800</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>618</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/27b/27b98f5f1722dad0189e0a31f544f3e8.png</picture>
+        <name>Кухня «Анюта» Угловое завершение (открытая полка) (В-У-300о-900)</name>
+        <model>Кухня «Анюта» Угловое завершение (открытая полка) (В-У-300о-900)</model>
+        <vendor>Добрый мастер</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">30</param>
+        <param name="Высота" unit="см">90</param>
+        <param name="Глубина" unit="см">33</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>7310</oldprice>
+      </offer>
+      <offer id="6409" available="true" group_id="6409">
+        <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_shkaf_nastennyy_uglovoy_universalnyy_720/</url>
+        <price>11460</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>618</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/e4f/e4f46c77cd5affd5d48e2fd596b75b6c.png</picture>
+        <name>Кухня «Анюта» Шкаф-настенный угловой универсальный 720</name>
+        <model>Кухня «Анюта» Шкаф-настенный угловой универсальный 720</model>
+        <vendor>Добрый мастер</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">40</param>
+        <param name="Высота" unit="см">90</param>
+        <param name="Глубина" unit="см">33</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>12320</oldprice>
+      </offer>
+      <offer id="6410" available="true" group_id="6410">
+        <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_shkaf_nastennyy_uglovoy_universalnyy_900/</url>
+        <price>12310</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>618</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/e3f/e3fd5dd24c8dcd73881435013a3eaeba.png</picture>
+        <name>Кухня «Анюта» Шкаф-настенный угловой универсальный 900</name>
+        <model>Кухня «Анюта» Шкаф-настенный угловой универсальный 900</model>
+        <vendor>Добрый мастер</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">45</param>
+        <param name="Высота" unit="см">90</param>
+        <param name="Глубина" unit="см">33</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>13230</oldprice>
+      </offer>
+      <offer id="6411" available="true" group_id="6411">
+        <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_shkaf_nastennyy_primykanie_k_penalu_900/</url>
+        <price>14640</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>618</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/14a/14ad52eca7936da1ec38dcd5e752c522.jpeg</picture>
+        <name>Кухня «Анюта» Шкаф настенный примыкание к пеналу 900</name>
+        <model>Кухня «Анюта» Шкаф настенный примыкание к пеналу 900</model>
+        <vendor>Добрый мастер</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">40</param>
+        <param name="Высота" unit="см">90</param>
+        <param name="Глубина" unit="см">55</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>15740</oldprice>
+      </offer>
+      <offer id="6413" available="true" group_id="6413">
+        <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_shkaf_nastennyy_primykanie_k_penalu_720/</url>
+        <price>14090</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>618</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/28c/28cca25b5a77ab0ae7fba6c294cdd5b3.jpeg</picture>
+        <name>Кухня «Анюта» Шкаф настенный примыкание к пеналу 720</name>
+        <model>Кухня «Анюта» Шкаф настенный примыкание к пеналу 720</model>
+        <vendor>Добрый мастер</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">40</param>
+        <param name="Высота" unit="см">72</param>
+        <param name="Глубина" unit="см">55</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>15150</oldprice>
+      </offer>
+      <offer id="6415" available="true" group_id="6415">
+        <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_shkaf_nastennyy_uglovoy_v_u_600kh600v_720/</url>
+        <price>14220</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>618</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/24f/24f744cd0e0502da592644ed361f11eb.png</picture>
+        <name>Кухня «Анюта» Шкаф-настенный угловой (В-У-600х600В-720)</name>
+        <model>Кухня «Анюта» Шкаф-настенный угловой (В-У-600х600В-720)</model>
+        <vendor>Добрый мастер</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">60</param>
+        <param name="Высота" unit="см">72</param>
+        <param name="Глубина" unit="см">33</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>15280</oldprice>
+      </offer>
+      <offer id="6418" available="true" group_id="6418">
+        <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_uglovoe_zavershenie_otkrytaya_polka_v_u_300o_720/</url>
+        <price>6240</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>618</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/608/608144e7f583acfd4c2f5b6258fe7e74.png</picture>
+        <name>Кухня «Анюта» Угловое завершение (открытая полка) (В-У-300о-720)</name>
+        <model>Кухня «Анюта» Угловое завершение (открытая полка) (В-У-300о-720)</model>
+        <vendor>Добрый мастер</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">30</param>
+        <param name="Высота" unit="см">72</param>
+        <param name="Глубина" unit="см">33</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>6700</oldprice>
+      </offer>
+      <offer id="6458" available="true" group_id="6458">
+        <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_shkaf_nastennyy_1_dv_900/</url>
+        <price>10160</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>618</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/888/888b232fbc729334984537d790af649a.jpeg</picture>
+        <name>Кухня «Анюта» Шкаф-настенный 1 дв. 900</name>
+        <model>Кухня «Анюта» Шкаф-настенный 1 дв. 900</model>
+        <vendor>Добрый мастер</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">50</param>
+        <param name="Высота" unit="см">90</param>
+        <param name="Глубина" unit="см">33</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>10920</oldprice>
+      </offer>
+      <offer id="6400" available="true" group_id="6400">
+        <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_shkaf_nastennyy_2_dv_900/</url>
+        <price>14240</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>618</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/ea1/ea1a7632926a81bf588b9d1a6c5f7b41.png</picture>
+        <name>Кухня «Анюта» Шкаф-настенный 2 дв. 900</name>
+        <model>Кухня «Анюта» Шкаф-настенный 2 дв. 900</model>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">100</param>
+        <param name="Высота" unit="см">90</param>
+        <param name="Глубина" unit="см">33</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>15310</oldprice>
+      </offer>
+      <offer id="6406" available="true" group_id="6406">
+        <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_sushka_dlya_posudy_dlya_navesnogo_shkafa_anyuta/</url>
+        <price>4170</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>618</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/bb9/bb9ce66fb38803050f386e23f2ff2aab.png</picture>
+        <name>Кухня «Анюта» Сушка для посуды для навесного шкафа</name>
+        <model>Кухня «Анюта» Сушка для посуды для навесного шкафа</model>
+        <vendor>Добрый мастер</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">100</param>
+        <param name="Высота" unit="см">90</param>
+        <param name="Глубина" unit="см">33</param>
+        <param name="Материал">Нержавейка</param>
+        <oldprice>4480</oldprice>
+      </offer>
+      <offer id="6407" available="true" group_id="6407">
+        <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_shkaf_nastennyy_ugl_v_u_600kh600_v_900/</url>
+        <price>15410</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>618</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/fca/fca3d5c57638deef55869954a32c115d.png</picture>
+        <name>Кухня «Анюта» Шкаф-настенный угл. (В-У-600х600 В-900)</name>
+        <model>Кухня «Анюта» Шкаф-настенный угл. (В-У-600х600 В-900)</model>
+        <vendor>Добрый мастер</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">60</param>
+        <param name="Высота" unit="см">90</param>
+        <param name="Глубина" unit="см">33</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>16560</oldprice>
+      </offer>
+      <offer id="6386" available="true" group_id="6386">
+        <url>https://i-sosna.ru/catalog/vzroslye_krovati/krovat_malta_m_s_yashchikami/</url>
+        <price>47590</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>780</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/190/190bfd777cc09a74efb7055a064fbff0.jpeg</picture>
+        <name>Кровать Мальта М с ящиками</name>
+        <model>Кровать Мальта М с ящиками</model>
+        <vendor>ММЦ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">168</param>
+        <param name="Высота" unit="см">113</param>
+        <param name="Глубина" unit="см">222</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>66090</oldprice>
+        <collectionId>43</collectionId>
+      </offer>
+      <offer id="6355" available="true" group_id="6355">
+        <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_shkaf_stol_2_dv_n_1000/</url>
+        <price>16160</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>618</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/e83/e837973b3e863fb37654d43b59a3623d.png</picture>
+        <name>Кухня «Анюта» Шкаф-стол 2 дв.</name>
+        <model>Кухня «Анюта» Шкаф-стол 2 дв.</model>
+        <vendor>Добрый мастер</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">100</param>
+        <param name="Высота" unit="см">72</param>
+        <param name="Глубина" unit="см">55</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>17370</oldprice>
+      </offer>
+      <offer id="6357" available="true" group_id="6357">
+        <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_shkaf_stol_4_yashch_n_1111_300ya_/</url>
+        <price>17690</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>618</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/01f/01f0103a3e13a92012b62a78a2d77e8b.png</picture>
+        <name>Кухня «Анюта» Шкаф-стол 4 ящ.</name>
+        <model>Кухня «Анюта» Шкаф-стол 4 ящ.</model>
+        <vendor>Добрый мастер</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">30</param>
+        <param name="Высота" unit="см">72</param>
+        <param name="Глубина" unit="см">55</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>19020</oldprice>
+      </offer>
+      <offer id="6360" available="true" group_id="6360">
+        <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_shkaf_stol_3_yashch_n_112_300ya_/</url>
+        <price>15930</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>618</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/d70/d70fe1d2f7466ad0f867cfce8a2edb9b.png</picture>
+        <name>Кухня «Анюта» Шкаф-стол 3 ящ.</name>
+        <model>Кухня «Анюта» Шкаф-стол 3 ящ.</model>
+        <vendor>Добрый мастер</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">30</param>
+        <param name="Высота" unit="см">72</param>
+        <param name="Глубина" unit="см">55</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>17120</oldprice>
+      </offer>
+      <offer id="6364" available="true" group_id="6364">
+        <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_shkaf_stol_2_yashch_n_22_300ya_/</url>
+        <price>13490</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>618</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/b6f/b6fbb9aa56a3ab2401cdc25fc7655624.png</picture>
+        <name>Кухня «Анюта» Шкаф-стол 2 ящ.</name>
+        <model>Кухня «Анюта» Шкаф-стол 2 ящ.</model>
+        <vendor>Добрый мастер</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">30</param>
+        <param name="Высота" unit="см">72</param>
+        <param name="Глубина" unit="см">55</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>14500</oldprice>
+      </offer>
+      <offer id="6425" available="true" group_id="6425">
+        <url>https://i-sosna.ru/catalog/shkafy_raspashnye/selena_shkaf_dlya_odezhdy_3_dvernyy_2/</url>
+        <price>235030</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>467</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/48d/48d969042145673c0bf5ed9fbcac9813.jpeg</picture>
+        <name>"Селена" Шкаф для одежды 3-дверный № 2</name>
+        <model>"Селена" Шкаф для одежды 3-дверный № 2</model>
+        <vendor>Ласорт</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">140</param>
+        <param name="Высота" unit="см">217</param>
+        <param name="Глубина" unit="см">65</param>
+        <param name="Материал">Массив бука и дуба</param>
+        <param name="Коллекция">Селена</param>
+      </offer>
+      <offer id="6426" available="true" group_id="6426">
+        <url>https://i-sosna.ru/catalog/shkafy_raspashnye/selena_shkaf_dlya_odezhdy_4_dvernyy/</url>
+        <price>297880</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>467</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/6df/6df7bbd4b8188b452faec233fcba742a.jpeg</picture>
+        <name>"Селена" Шкаф для одежды 4-дверный</name>
+        <model>"Селена" Шкаф для одежды 4-дверный</model>
+        <vendor>Ласорт</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">185</param>
+        <param name="Высота" unit="см">217</param>
+        <param name="Глубина" unit="см">65</param>
+        <param name="Материал">Массив бука и дуба</param>
+        <param name="Коллекция">Селена</param>
+      </offer>
+      <offer id="6620" available="true" group_id="6620">
+        <url>https://i-sosna.ru/catalog/sunduki/sunduk_105_coffre_105/</url>
+        <price>18640</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>461</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/636/63608184196e8dccc913473fa83faaa2.png</picture>
+        <name>Сундук 105 (COFFRE 105)</name>
+        <model>Сундук 105 (COFFRE 105)</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">105</param>
+        <param name="Высота" unit="см">50</param>
+        <param name="Глубина" unit="см">50</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>20710</oldprice>
+        <collectionId>54</collectionId>
+      </offer>
+      <offer id="6930" available="true" group_id="6930">
+        <url>https://i-sosna.ru/catalog/komody/komod_shifoner_vellington/</url>
+        <price>33930</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>401</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/3c7/rwwr4oo5ie25ok6mhu4wi69oomylutaj.jpeg</picture>
+        <name>Комод/шифоньер Веллингтон</name>
+        <model>Комод/шифоньер Веллингтон</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">65</param>
+        <param name="Высота" unit="см">110</param>
+        <param name="Глубина" unit="см">43</param>
+        <param name="Материал">Массив сосны</param>
+        <param name="Коллекция">Коллекция: Прованс</param>
+        <oldprice>37690</oldprice>
+      </offer>
+      <offer id="6933" available="true" group_id="6933">
+        <url>https://i-sosna.ru/catalog/komody/shifoner_notarius/</url>
+        <price>35220</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>401</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/333/mio3c6fznq2cm6a76d3ppnxw87aezfhi.jpeg</picture>
+        <name>Шифоньер Нотариус</name>
+        <model>Шифоньер Нотариус</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">55</param>
+        <param name="Высота" unit="см">162</param>
+        <param name="Глубина" unit="см">43</param>
+        <param name="Материал">Массив сосны</param>
+        <param name="Коллекция">Коллекция: Прованс</param>
+        <oldprice>39130</oldprice>
+      </offer>
+      <offer id="6938" available="true" group_id="6938">
+        <url>https://i-sosna.ru/catalog/kukhnya_provans/provans_shkaf_nastennyy_12/</url>
+        <price>30310</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>623</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/6d5/6d5c98c853cca9e78f7e9d4eef2c848c.jpeg</picture>
+        <name>"Прованс" Шкаф настенный № 12</name>
+        <model>"Прованс" Шкаф настенный № 12</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">60</param>
+        <param name="Высота" unit="см">93</param>
+        <param name="Глубина" unit="см">32</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>37880</oldprice>
+      </offer>
+      <offer id="6853" available="true" group_id="6853">
+        <url>https://i-sosna.ru/catalog/shkafy_dlya_knig/biblioteka_uzkaya_s_dveryu_bib_etr/</url>
+        <price>31700</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>466</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/e82/e6c6okyays833lympcrzsxbcme11tix8.jpeg</picture>
+        <name>Библиотека узкая с дверью (BIB ETR)</name>
+        <model>Библиотека узкая с дверью (BIB ETR)</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">69</param>
+        <param name="Высота" unit="см">194</param>
+        <param name="Глубина" unit="см">39</param>
+        <param name="Материал">Массив сосны</param>
+        <param name="Коллекция">Коллекция: Прованс</param>
+        <oldprice>35220</oldprice>
+      </offer>
+      <offer id="6856" available="true" group_id="6856">
+        <url>https://i-sosna.ru/catalog/tumby_pod_tv/tumba_grainetier_150_so_steklom/</url>
+        <price>60680</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>403</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/436/4369b185b7f31deefdc0a9bd1d74aa21.jpeg</picture>
+        <name>Тумба GRAINETIER 150 (со стеклом)</name>
+        <model>Тумба GRAINETIER 150 (со стеклом)</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">150</param>
+        <param name="Высота" unit="см">96</param>
+        <param name="Глубина" unit="см">48</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>67420</oldprice>
+        <collectionId>54</collectionId>
+      </offer>
+      <offer id="6858" available="true" group_id="6858">
+        <url>https://i-sosna.ru/catalog/tumby_pod_tv/tumba_enfilade_180/</url>
+        <price>64160</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>403</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/d7c/o03um7wmw8m1soonxv72qi23zkknik1x.jpeg</picture>
+        <name>Тумба ENFILADE 180</name>
+        <model>Тумба ENFILADE 180</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">180</param>
+        <param name="Высота" unit="см">96</param>
+        <param name="Глубина" unit="см">48</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>71280</oldprice>
+        <collectionId>54</collectionId>
+      </offer>
+      <offer id="6861" available="true" group_id="6861">
+        <url>https://i-sosna.ru/catalog/tumby_prikrovatnye/tumba_roberto/</url>
+        <price>26500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>404</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/710/9z3w2tgdm69u4e0ksdz23p6l39dnzmy3.jpeg</picture>
+        <name>Тумба РОБЕРТО</name>
+        <model>Тумба РОБЕРТО</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">72</param>
+        <param name="Высота" unit="см">96</param>
+        <param name="Глубина" unit="см">48</param>
+        <param name="Материал">Массив сосны</param>
+        <param name="Коллекция">Коллекция: Прованс</param>
+        <oldprice>29440</oldprice>
+      </offer>
+      <offer id="6862" available="true" group_id="6862">
+        <url>https://i-sosna.ru/catalog/shkafy_dlya_knig/biblioteka_94_otkrytaya_bib_0_94/</url>
+        <price>30720</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>466</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/fd6/fd65f48fc5828325dd29b69ca705729e.jpeg</picture>
+        <name>Библиотека 94 открытая (BIB 0 94)</name>
+        <model>Библиотека 94 открытая (BIB 0 94)</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">86</param>
+        <param name="Высота" unit="см">194</param>
+        <param name="Глубина" unit="см">39</param>
+        <param name="Материал">Массив сосны</param>
+        <param name="Коллекция">Коллекция: Прованс</param>
+        <oldprice>34130</oldprice>
+      </offer>
+      <offer id="6863" available="true" group_id="6863">
+        <url>https://i-sosna.ru/catalog/komody/komod_montanyard_6t/</url>
+        <price>45460</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>401</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/808/8082c0bc96949ca1398180de25e07374.jpeg</picture>
+        <name>Комод Монтаньярд 6Т</name>
+        <model>Комод Монтаньярд 6Т</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">130</param>
+        <param name="Высота" unit="см">86</param>
+        <param name="Глубина" unit="см">48</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>50510</oldprice>
+        <collectionId>54</collectionId>
+      </offer>
+      <offer id="6864" available="true" group_id="6864">
+        <url>https://i-sosna.ru/catalog/komody/komod_tirol/</url>
+        <price>46930</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>401</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/e33/6cye5f3fauslhe6qeghir2st5qjxqahy.jpeg</picture>
+        <name>Комод Тироль</name>
+        <model>Комод Тироль</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">100</param>
+        <param name="Высота" unit="см">100</param>
+        <param name="Глубина" unit="см">48</param>
+        <param name="Материал">Массив сосны</param>
+        <param name="Коллекция">Коллекция: Прованс</param>
+        <oldprice>52140</oldprice>
+      </offer>
+      <offer id="6927" available="true" group_id="6927">
+        <url>https://i-sosna.ru/catalog/komody/komod_arizona/</url>
+        <price>41660</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>401</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/fd4/3hvvxfa1fqmrff27r72gqa61cfimmxyk.jpeg</picture>
+        <name>Комод Аризона</name>
+        <model>Комод Аризона</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">100</param>
+        <param name="Высота" unit="см">100</param>
+        <param name="Глубина" unit="см">48</param>
+        <param name="Материал">Массив сосны</param>
+        <param name="Коллекция">Коллекция: Прованс</param>
+        <oldprice>46280</oldprice>
+      </offer>
+      <offer id="6928" available="true" group_id="6928">
+        <url>https://i-sosna.ru/catalog/komody/komod_18_klute/</url>
+        <price>63300</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>401</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/058/xapqpf3fn11hoefsitp2gjw9tf8c8omw.jpeg</picture>
+        <name>Комод 18 КЛУТЬЕ</name>
+        <model>Комод 18 КЛУТЬЕ</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">112</param>
+        <param name="Высота" unit="см">100</param>
+        <param name="Глубина" unit="см">38</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>70330</oldprice>
+        <collectionId>54</collectionId>
+      </offer>
+      <offer id="6929" available="true" group_id="6929">
+        <url>https://i-sosna.ru/catalog/komody/shifoner_4_2/</url>
+        <price>28830</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>401</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/2ea/6e64ukoagwqxceq6xfklde3dym1yh005.jpeg</picture>
+        <name>Шифоньер 4+2</name>
+        <model>Шифоньер 4+2</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">50</param>
+        <param name="Высота" unit="см">99</param>
+        <param name="Глубина" unit="см">38</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>32030</oldprice>
+        <collectionId>54</collectionId>
+      </offer>
+      <offer id="6957" available="true" group_id="6957">
+        <url>https://i-sosna.ru/catalog/komody/bar_tekila/</url>
+        <price>35570</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>401</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/f27/f276fda67b3a82e980b9c0392f621989.jpeg</picture>
+        <name>Бар "Текила"</name>
+        <model>Бар "Текила"</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">135</param>
+        <param name="Высота" unit="см">100</param>
+        <param name="Глубина" unit="см">48</param>
+        <param name="Материал">Массив сосны</param>
+        <param name="Коллекция">Коллекция: Прованс</param>
+        <oldprice>39520</oldprice>
+      </offer>
+      <offer id="6958" available="true" group_id="6958">
+        <url>https://i-sosna.ru/catalog/komody/bar_otkryvayushchiysya_barou/</url>
+        <price>47880</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>401</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/73b/73b126d7faa79b3000afc83b5b49a1cb.jpeg</picture>
+        <name>Бар открывающийся "БАРОУ"</name>
+        <model>Бар открывающийся "БАРОУ"</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">84</param>
+        <param name="Высота" unit="см">114</param>
+        <param name="Глубина" unit="см">54</param>
+        <param name="Материал">Массив сосны</param>
+        <param name="Коллекция">Коллекция: Прованс</param>
+        <oldprice>53190</oldprice>
+      </offer>
+      <offer id="6943" available="true" group_id="6943">
+        <url>https://i-sosna.ru/catalog/skami_i_lavki/skamya_sunduk_100_banc_coffre/</url>
+        <price>29110</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>450</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/037/037efc47edd6c298ce4e968b53be6414.jpeg</picture>
+        <name>Скамья сундук 100 BANC COFFRE</name>
+        <model>Скамья сундук 100 BANC COFFRE</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">100</param>
+        <param name="Высота" unit="см">94</param>
+        <param name="Глубина" unit="см">51</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>32340</oldprice>
+        <collectionId>54</collectionId>
+      </offer>
+      <offer id="6949" available="true" group_id="6949">
+        <url>https://i-sosna.ru/catalog/vzroslye_krovati/krovat_lcoeur/</url>
+        <price>24290</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>780</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/b76/b764504be6eb35b64bd89e7e0f1767d1.jpeg</picture>
+        <name>Кровать LCOEUR</name>
+        <model>Кровать LCOEUR</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">90</param>
+        <param name="Высота" unit="см">97</param>
+        <param name="Глубина" unit="см">215</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>26980</oldprice>
+        <collectionId>54</collectionId>
+      </offer>
+      <offer id="6950" available="true" group_id="6950">
+        <url>https://i-sosna.ru/catalog/vzroslye_krovati/krovat_lcoeur_pb_s_nizkim_iznozhem/</url>
+        <price>23280</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>780</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/473/473c9506ca740cc9e9c5b3cc2b160376.jpeg</picture>
+        <name>Кровать LCOEUR PB с низким изножьем</name>
+        <model>Кровать LCOEUR PB с низким изножьем</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">100</param>
+        <param name="Высота" unit="см">97</param>
+        <param name="Глубина" unit="см">215</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>25860</oldprice>
+        <collectionId>54</collectionId>
+      </offer>
+      <offer id="6892" available="true" group_id="6892">
+        <url>https://i-sosna.ru/catalog/tumby_dlya_obuvi/tumba_dlya_obuvi_oniks/</url>
+        <price>12150</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>438</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/ad3/ad34fc346df10a2cfe93149ba28860b5.jpeg</picture>
+        <name>Тумба для обуви "Оникс"</name>
+        <model>Тумба для обуви "Оникс"</model>
+        <vendor>Добрый мастер</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">82</param>
+        <param name="Высота" unit="см">44</param>
+        <param name="Глубина" unit="см">42</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>13490</oldprice>
+        <collectionId>30</collectionId>
+      </offer>
+      <offer id="6884" available="true" group_id="6884">
+        <url>https://i-sosna.ru/catalog/shkafy_uglovye/shkaf_dlya_belya_romeo_120_uglovoy/</url>
+        <price>27270</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>468</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/7cb/7cb5822990204841c988cdf0f25de692.jpeg</picture>
+        <name>Шкаф для белья "РОМЕО-120" (угловой)</name>
+        <model>Шкаф для белья "РОМЕО-120" (угловой)</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">81</param>
+        <param name="Высота" unit="см">120</param>
+        <param name="Глубина" unit="см">57</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>30290</oldprice>
+        <collectionId>54</collectionId>
+      </offer>
+      <offer id="6844" available="true" group_id="6844">
+        <url>https://i-sosna.ru/catalog/tumby/tumba_bahut_97/</url>
+        <price>41490</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>402</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/9dc/9dcc3d3414b3b47f45b7c7464ff68572.jpeg</picture>
+        <name>Тумба BAHUT 97</name>
+        <model>Тумба BAHUT 97</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">97</param>
+        <param name="Высота" unit="см">96</param>
+        <param name="Глубина" unit="см">48</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>46100</oldprice>
+        <collectionId>54</collectionId>
+      </offer>
+      <offer id="6845" available="true" group_id="6845">
+        <url>https://i-sosna.ru/catalog/bufety/bufet_ensemble_125_tumba_125_ba_verkh_bufeta125_re/</url>
+        <price>67230</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>388</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/32e/32eb0aa5ed4a40849ea6456bbdf489f0.jpeg</picture>
+        <name>Буфет ENSEMBLE 125 (тумба 125 BA+верх буфета125 RE)</name>
+        <model>Буфет ENSEMBLE 125 (тумба 125 BA+верх буфета125 RE)</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">127</param>
+        <param name="Высота" unit="см">196</param>
+        <param name="Глубина" unit="см">48</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>74700</oldprice>
+        <collectionId>54</collectionId>
+      </offer>
+      <offer id="6846" available="true" group_id="6846">
+        <url>https://i-sosna.ru/catalog/shkafy_dlya_knig/biblioteka_s_dvertsami_bib_p_94/</url>
+        <price>36640</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>466</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/a1f/w4dihrigwz3iuep6n9w0j71w0n9wlw0z.jpeg</picture>
+        <name>Библиотека с дверцами (BIB P 94)</name>
+        <model>Библиотека с дверцами (BIB P 94)</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">86</param>
+        <param name="Высота" unit="см">194</param>
+        <param name="Глубина" unit="см">35</param>
+        <param name="Материал">Массив сосны</param>
+        <param name="Коллекция">Коллекция: Прованс</param>
+        <oldprice>40710</oldprice>
+      </offer>
+      <offer id="6847" available="true" group_id="6847">
+        <url>https://i-sosna.ru/catalog/tumby/tumba_bahut_125/</url>
+        <price>40410</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>402</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/4f3/4f3393199eebb921e9a03ae38da70169.jpeg</picture>
+        <name>Тумба BAHUT 125</name>
+        <model>Тумба BAHUT 125</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">125</param>
+        <param name="Высота" unit="см">96</param>
+        <param name="Глубина" unit="см">48</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>44890</oldprice>
+        <collectionId>54</collectionId>
+      </offer>
+      <offer id="6849" available="true" group_id="6849">
+        <url>https://i-sosna.ru/catalog/tumby_pod_tv/tumba_grainetier_125_gr_so_steklom/</url>
+        <price>56480</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>403</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/c93/c936b3bcab96082c7d8f7c42523cc87d.jpeg</picture>
+        <name>Тумба GRAINETIER 125 Гр(со стеклом)</name>
+        <model>Тумба GRAINETIER 125 Гр(со стеклом)</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">125</param>
+        <param name="Высота" unit="см">96</param>
+        <param name="Глубина" unit="см">48</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>62750</oldprice>
+        <collectionId>54</collectionId>
+      </offer>
+      <offer id="6850" available="true" group_id="6850">
+        <url>https://i-sosna.ru/catalog/kukhnya_provans/provans_shkaf_nastennyy_25k_600/</url>
+        <price>25060</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>623</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/c6a/c6a62c1e524d12d7f44adcfa94dba390.jpeg</picture>
+        <name>"Прованс" Шкаф настенный № 25К</name>
+        <model>"Прованс" Шкаф настенный № 25К</model>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">60</param>
+        <param name="Высота" unit="см">93</param>
+        <param name="Глубина" unit="см">32</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>31320</oldprice>
+      </offer>
+      <offer id="6837" available="true" group_id="6837">
+        <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_dlya_obuvi_armchaus_2/</url>
+        <price>45230</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>467</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/77a/77a63c442ec55fa9a9ce5115151fa494.jpeg</picture>
+        <name>Шкаф для обуви ARMCHAUS-2</name>
+        <model>Шкаф для обуви ARMCHAUS-2</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">105</param>
+        <param name="Высота" unit="см">120</param>
+        <param name="Глубина" unit="см">42</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>50250</oldprice>
+        <collectionId>54</collectionId>
+      </offer>
+      <offer id="6918" available="true" group_id="6918">
+        <url>https://i-sosna.ru/catalog/kukhnya_provans/provans_shkaf_pod_moyku_02_800/</url>
+        <price>20380</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>623</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/4b6/4b6b09e6c8c39b5f4f8d5ccf15e96297.jpeg</picture>
+        <name>"Прованс" Шкаф под мойку № 02</name>
+        <model>"Прованс" Шкаф под мойку № 02</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">80</param>
+        <param name="Высота" unit="см">82</param>
+        <param name="Глубина" unit="см">54</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>25470</oldprice>
+      </offer>
+      <offer id="6919" available="true" group_id="6919">
+        <url>https://i-sosna.ru/catalog/kukhnya_provans/provans_shkaf_nastennyy_radiusnyy_23r/</url>
+        <price>11150</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>623</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/f6f/f6f06f5d67ae832235e996957335598b.jpeg</picture>
+        <name>"Прованс" Шкаф настенный радиусный № 23R</name>
+        <model>"Прованс" Шкаф настенный радиусный № 23R</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">30</param>
+        <param name="Высота" unit="см">93</param>
+        <param name="Глубина" unit="см">32</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>13930</oldprice>
+      </offer>
+      <offer id="6920" available="true" group_id="6920">
+        <url>https://i-sosna.ru/catalog/kukhnya_provans/provans_shkaf_nastennyy_15_uglovoy/</url>
+        <price>28490</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>623</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/7a3/7a30e266bd67dc33e0d3592546b79adf.jpeg</picture>
+        <name>"Прованс" Шкаф настенный №15 угловой</name>
+        <model>"Прованс" Шкаф настенный №15 угловой</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">60</param>
+        <param name="Высота" unit="см">93</param>
+        <param name="Глубина" unit="см">32</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>35610</oldprice>
+      </offer>
+      <offer id="6921" available="true" group_id="6921">
+        <url>https://i-sosna.ru/catalog/kukhnya_provans/provans_shkaf_stol_pod_plitu_11_600/</url>
+        <price>9360</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>623</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/2f6/2f623fb1317150c353e51d7a1636639f.jpeg</picture>
+        <name>"Прованс" Шкаф стол под плиту №11</name>
+        <model>"Прованс" Шкаф стол под плиту №11</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">60</param>
+        <param name="Высота" unit="см">82</param>
+        <param name="Глубина" unit="см">54</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>11700</oldprice>
+      </offer>
+      <offer id="6923" available="true" group_id="6923">
+        <url>https://i-sosna.ru/catalog/kukhnya_provans/provans_shkaf_stol_uglovoy_pod_plitu_39/</url>
+        <price>17780</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>623</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/dea/deabb06111d23208a8b3fb2016d6e59c.jpeg</picture>
+        <name>"Прованс" Шкаф-стол угловой под плиту № 39</name>
+        <model>"Прованс" Шкаф-стол угловой под плиту № 39</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">105</param>
+        <param name="Высота" unit="см">82</param>
+        <param name="Глубина" unit="см">105</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>22220</oldprice>
+      </offer>
+      <offer id="6904" available="true" group_id="6904">
+        <url>https://i-sosna.ru/catalog/tumby/tumba_razdelochnaya_billot_97/</url>
+        <price>40010</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>402</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/354/35447b420195f9adef480ccc09032964.jpeg</picture>
+        <name>Тумба разделочная "BILLOT 97"</name>
+        <model>Тумба разделочная "BILLOT 97"</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">97</param>
+        <param name="Высота" unit="см">96</param>
+        <param name="Глубина" unit="см">48</param>
+        <param name="Материал">Массив сосны</param>
+        <param name="Коллекция">Коллекция: Прованс</param>
+        <oldprice>44450</oldprice>
+      </offer>
+      <offer id="6905" available="true" group_id="6905">
+        <url>https://i-sosna.ru/catalog/polki/shkaf_navesnoy_2_yashchika_s_nishey_2_eta_2_tir/</url>
+        <price>14900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>447</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/0e7/0e72a56dca509c71702ad14d07aa8907.jpeg</picture>
+        <name>Шкаф навесной 2 ящика с нишей 2 ETA 2 TIR</name>
+        <model>Шкаф навесной 2 ящика с нишей 2 ETA 2 TIR</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">62</param>
+        <param name="Высота" unit="см">98</param>
+        <param name="Глубина" unit="см">24</param>
+        <param name="Материал">Массив сосны</param>
+        <param name="Коллекция">Коллекция: Прованс</param>
+        <oldprice>16550</oldprice>
+      </offer>
+      <offer id="6909" available="true" group_id="6909">
+        <url>https://i-sosna.ru/catalog/kukhnya_provans/provans_shkaf_nastennyy_13/</url>
+        <price>21500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>623</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/b46/b469b843387b0c3cdea3ffa49296e9a6.jpeg</picture>
+        <name>"Прованс" Шкаф настенный № 13</name>
+        <model>"Прованс" Шкаф настенный № 13</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">60</param>
+        <param name="Высота" unit="см">93</param>
+        <param name="Глубина" unit="см">32</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>26870</oldprice>
+      </offer>
+      <offer id="6910" available="true" group_id="6910">
+        <url>https://i-sosna.ru/catalog/polki/polka_s_yashchikom_etatir/</url>
+        <price>12510</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>447</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/70e/70e44260b460c417d0c5483ca4df2d03.jpeg</picture>
+        <name>Полка с ящиком (ETATIR)</name>
+        <model>Полка с ящиком (ETATIR)</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">52</param>
+        <param name="Высота" unit="см">106</param>
+        <param name="Глубина" unit="см">25</param>
+        <param name="Материал">Массив сосны</param>
+        <param name="Коллекция">Коллекция: Прованс</param>
+        <oldprice>13890</oldprice>
+      </offer>
+      <offer id="6924" available="true" group_id="6924">
+        <url>https://i-sosna.ru/catalog/kukhnya_provans/provans_shkaf_stol_radialnyy_21u_300_pravyy/</url>
+        <price>10600</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>623</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/1eb/1eb3377b8247db013d4ba55864801fcb.jpeg</picture>
+        <name>"Прованс" Шкаф-стол радиальный №21</name>
+        <model>"Прованс" Шкаф-стол радиальный №21</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">30</param>
+        <param name="Высота" unit="см">82</param>
+        <param name="Глубина" unit="см">56</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>13250</oldprice>
+      </offer>
+      <offer id="6925" available="true" group_id="6925">
+        <url>https://i-sosna.ru/catalog/kukhnya_provans/provans_shkaf_stol_07/</url>
+        <price>27680</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>623</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/95f/95fd994ef86539c413b4dc0b2bf87cf9.jpeg</picture>
+        <name>"Прованс" Шкаф-стол № 07</name>
+        <model>"Прованс" Шкаф-стол № 07</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">40</param>
+        <param name="Высота" unit="см">82</param>
+        <param name="Глубина" unit="см">54</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>34590</oldprice>
+      </offer>
+      <offer id="6926" available="true" group_id="6926">
+        <url>https://i-sosna.ru/catalog/kukhnya_provans/provans_shkaf_stol_uglovoy_10_pravyy/</url>
+        <price>19220</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>623</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/32f/32f5ed8a078c619e2f8d78f8b4a40d9e.jpeg</picture>
+        <name>"Прованс" Шкаф-стол угловой № 10</name>
+        <model>"Прованс" Шкаф-стол угловой № 10</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">100</param>
+        <param name="Высота" unit="см">82</param>
+        <param name="Глубина" unit="см">54</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>24020</oldprice>
+      </offer>
+      <offer id="6962" available="true" group_id="6962">
+        <url>https://i-sosna.ru/catalog/divany_krovati/divan_krovat_2_kh_mestnyy_skandinaviya/</url>
+        <price>58430</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>391</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/710/7103d2b2e751dfba80f699d5041ea6b1.jpeg</picture>
+        <name>Диван-кровать 2-х местный "Скандинавия"</name>
+        <model>Диван-кровать 2-х местный "Скандинавия"</model>
+        <vendor>Добрый мастер</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">146</param>
+        <param name="Высота" unit="см">85</param>
+        <param name="Глубина" unit="см">90</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>64920</oldprice>
+        <collectionId>64</collectionId>
+      </offer>
+      <offer id="6960" available="true" group_id="6960">
+        <url>https://i-sosna.ru/catalog/divany/divan_3_kh_mestnyy_skandinaviya/</url>
+        <price>61090</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>392</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/0b1/0b17cc8bdfc3aa4afcf1d7ada7967dd3.jpeg</picture>
+        <name>Диван 3-х местный "Скандинавия"</name>
+        <model>Диван 3-х местный "Скандинавия"</model>
+        <vendor>Добрый мастер</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">199</param>
+        <param name="Высота" unit="см">85</param>
+        <param name="Глубина" unit="см">90</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>67870</oldprice>
+        <collectionId>64</collectionId>
+      </offer>
+      <offer id="6961" available="true" group_id="6961">
+        <url>https://i-sosna.ru/catalog/divany_krovati/divan_krovat_3_kh_mestnyy_skandinaviya/</url>
+        <price>64650</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>391</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/ed8/ed8586a83c542b53ee99b6fb08abb93b.png</picture>
+        <name>Диван-кровать 3-х местный "Скандинавия"</name>
+        <model>Диван-кровать 3-х местный "Скандинавия"</model>
+        <vendor>Добрый мастер</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">209</param>
+        <param name="Высота" unit="см">85</param>
+        <param name="Глубина" unit="см">90</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>71830</oldprice>
+        <collectionId>64</collectionId>
+      </offer>
+      <offer id="6866" available="true" group_id="6866">
+        <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_dlya_obuvi_armchaus_1/</url>
+        <price>31500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>467</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/aa0/aa0ade59e0700320044c237bc2d60f0c.jpeg</picture>
+        <name>Шкаф для обуви ARMCHAUS-1</name>
+        <model>Шкаф для обуви ARMCHAUS-1</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">62</param>
+        <param name="Высота" unit="см">120</param>
+        <param name="Глубина" unit="см">42</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>35000</oldprice>
+        <collectionId>54</collectionId>
+      </offer>
+      <offer id="6503" available="true" group_id="6503">
+        <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_pismennyy_viking/</url>
+        <price>42780</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>458</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/7cc/l4wl2yjl0aa6bgsw1ray38yjiaeyjah5.jpeg</picture>
+        <name>Стол письменный Викинг</name>
+        <model>Стол письменный Викинг</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">154</param>
+        <param name="Высота" unit="см">79</param>
+        <param name="Глубина" unit="см">79</param>
+        <param name="Материал">Массив сосны</param>
+        <collectionId>23</collectionId>
+      </offer>
+      <offer id="6508" available="true" group_id="6508">
+        <url>https://i-sosna.ru/catalog/kukhnya_provans/provans_shkaf_stol_butylochnitsa_21_150/</url>
+        <price>12660</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>623</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/2a4/2a49fc6b175c61a0ce3f7b025dae85f5.jpeg</picture>
+        <name>"Прованс" Шкаф-стол бутылочница № 21</name>
+        <model>"Прованс" Шкаф-стол бутылочница № 21</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">25</param>
+        <param name="Высота" unit="см">82</param>
+        <param name="Глубина" unit="см">54</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>15820</oldprice>
+      </offer>
+      <offer id="6509" available="true" group_id="6509">
+        <url>https://i-sosna.ru/catalog/kukhnya_provans/provans_polka_nastennaya_36_1000/</url>
+        <price>16600</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>623</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/759/7591e4e52e7acff11e018bf50b42d1c1.jpeg</picture>
+        <name>"Прованс" Полка настенная № 36</name>
+        <model>"Прованс" Полка настенная № 36</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">120</param>
+        <param name="Высота" unit="см">93</param>
+        <param name="Глубина" unit="см">32</param>
+        <param name="Материал">Массив сосны</param>
+        <oldprice>20740</oldprice>
+      </offer>
+      <offer id="6496" available="true" group_id="6496">
+        <url>https://i-sosna.ru/catalog/vzroslye_krovati/krovat_viking_01_s_nizkim_iznozhem_i_nastilom/</url>
+        <price>30800</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>780</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/d67/c06me9wr81rir47qagafmiq1fhfizina.jpeg</picture>
+        <name>Кровать Викинг 01 с низким изножьем и настилом</name>
+        <model>Кровать Викинг 01 с низким изножьем и настилом</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">190</param>
+        <param name="Высота" unit="см">94</param>
+        <param name="Глубина" unit="см">210</param>
+        <param name="Материал">Массив сосны</param>
+        <collectionId>23</collectionId>
+      </offer>
+      <offer id="6500" available="true" group_id="6500">
+        <url>https://i-sosna.ru/catalog/komody/komod_viking_03/</url>
+        <price>35300</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>401</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/526/ris51h3eoam49sg3v8r9xsf2q4lvvy3k.jpeg</picture>
+        <name>Комод Викинг 03</name>
+        <model>Комод Викинг 03</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">110</param>
+        <param name="Высота" unit="см">98</param>
+        <param name="Глубина" unit="см">46</param>
+        <param name="Материал">Массив сосны</param>
+        <collectionId>23</collectionId>
+      </offer>
+      <offer id="6742" available="true" group_id="6742">
+        <url>https://i-sosna.ru/catalog/tumby_prikrovatnye/selena_tumba_prikrovatnaya/</url>
+        <price>46360</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>404</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/a28/a28556d4aeaaa42121a661cc1432b093.jpeg</picture>
+        <name>"Селена" Тумба прикроватная</name>
+        <model>"Селена" Тумба прикроватная</model>
+        <vendor>Ласорт</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">53</param>
+        <param name="Высота" unit="см">60</param>
+        <param name="Глубина" unit="см">45</param>
+        <param name="Материал">Массив бука и дуба</param>
+        <param name="Коллекция">Селена</param>
+      </offer>
+    </offers>
+    <collections>
+      <collection id="1">
+        <url>https://i-sosna.ru/catalog/series/2_2/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/c0f/768_480_2/35xh4jm4oh1wp1pikrhh1lyg1anvqc39.jpeg</picture>
+        <name>2+2</name>
+        <description>2+2 от производителя 38 Попугаев в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="2">
+        <url>https://i-sosna.ru/catalog/series/nicole/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/0f1/768_480_2/l7dolc7jxkb85y43ew1plr5pr2vvqdj4.webp</picture>
+        <name>Nicole</name>
+        <description>Nicole от производителя Этажерка в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="3">
+        <url>https://i-sosna.ru/catalog/series/avinon/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/c18/768_480_2/c186c7562972cbd0b49354b505d39020.jpg</picture>
+        <name>Авиньон</name>
+        <description>Авиньон от производителя Муромские мастера в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="4">
+        <url>https://i-sosna.ru/catalog/series/ayno/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/171/768_480_2/171bae7c6813ea9daf1447997f822536.jpg</picture>
+        <name>Айно</name>
+        <description>Айно от производителя Тимберика в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="5">
+        <url>https://i-sosna.ru/catalog/series/aledzhi/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/9f1/768_480_2/baefp8p4yuup27vv9uh2lc0iwid4qi75.jpg</picture>
+        <name>Аледжи</name>
+        <description>Аледжи от производителя Волшебная сосна в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="6">
+        <url>https://i-sosna.ru/catalog/series/amadey/</url>
+        <picture>https://i-sosna.ru/upload/iblock/944/5svyw3d4uiegbg0q86zev54pkcmhna4c.jpeg</picture>
+        <name>Амадей</name>
+        <description>Амадей от производителя Пинскдрев в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="7">
+        <url>https://i-sosna.ru/catalog/series/ari_provans/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/e0d/768_480_2/e0dd1bae875be91ffd2409a3fe9782b7.jpg</picture>
+        <name>Ари-Прованс</name>
+        <description>Ари-Прованс от производителя Тимберика в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="8">
+        <url>https://i-sosna.ru/catalog/series/armavir/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/a59/768_480_2/a598b7e03ca48f986897d237e5f7ed0e.jpg</picture>
+        <name>Армавир</name>
+        <description>Армавир от производителя Армавирская МФ в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="9">
+        <url>https://i-sosna.ru/catalog/series/armo/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/037/768_480_2/7gka4wrtr6prr01eqywd1rvzkfufc3gz.jpg</picture>
+        <name>Армо</name>
+        <description>Армо от производителя Скандия в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="10">
+        <url>https://i-sosna.ru/catalog/series/arredo/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/89d/768_480_2/89d6864dc8dfea38acbc52ababde6962.jpeg</picture>
+        <name>Арредо</name>
+        <description>Арредо от производителя Муромские мастера в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="11">
+        <url>https://i-sosna.ru/catalog/series/afina/</url>
+        <picture>https://i-sosna.ru/upload/iblock/42f/r9i4rclo53lqn3po82fp2pyi864ofq1i.jpeg</picture>
+        <name>Афина</name>
+        <description>Афина в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="12">
+        <url>https://i-sosna.ru/catalog/series/beyli/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/ff4/768_480_2/ff481481652efad91b7c7c0f82e4b2af.jpg</picture>
+        <name>Бейли</name>
+        <description>Бейли от производителя ММЦ - SanRemi в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="13">
+        <url>https://i-sosna.ru/catalog/series/betti/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/398/768_480_2/rsj63isvbheyefvrtqxwb5zzdaevvhex.jpeg</picture>
+        <name>Бетти</name>
+        <description>Бетти от производителя Тимберика в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="14">
+        <url>https://i-sosna.ru/catalog/series/bon_voyazh/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/036/768_480_2/kxbql2993g3h67nueoyvpjelnkk4ds6i.jpg</picture>
+        <name>Бон Вояж</name>
+        <description>Бон Вояж от производителя ММЦ в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="15">
+        <url>https://i-sosna.ru/catalog/series/boston/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/c8b/768_480_2/c8b7e220fcd1e961f30e7e7e7992ad67.jpg</picture>
+        <name>Бостон</name>
+        <description>Бостон от производителя ММЦ - Москва в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="16">
+        <url>https://i-sosna.ru/catalog/series/bramming/</url>
+        <picture>https://i-sosna.ru/upload/iblock/672/6725d33888611d410fe0ba8394087876.jpg</picture>
+        <name>Брамминг</name>
+        <description>Брамминг от производителя Тимберика в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="17">
+        <url>https://i-sosna.ru/catalog/series/bridzh/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/9fa/768_480_2/r3g6gwty7jwlqhpjjo4nmnjnhmcbaz3r.webp</picture>
+        <name>Бридж</name>
+        <description>Бридж в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="18">
+        <url>https://i-sosna.ru/catalog/series/brusno/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/9f1/768_480_2/3rlk5yokv8jp26vxyjhavxkiy66bk21f.jpg</picture>
+        <name>Брусно</name>
+        <description>Брусно от производителя Скандия в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="19">
+        <url>https://i-sosna.ru/catalog/series/bert/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/e0b/768_480_2/e0b4696948b26c6c06aa1e28929e91dc.jpg</picture>
+        <name>Бьерт</name>
+        <description>Бьерт от производителя Тимберика в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="20">
+        <url>https://i-sosna.ru/catalog/series/valensiya/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/510/768_480_2/510a8883986aa1eb1d33d192c4396d10.jpg</picture>
+        <name>Валенсия</name>
+        <description>Валенсия от производителя Тимберика в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="21">
+        <url>https://i-sosna.ru/catalog/series/venetsiya/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/f18/768_480_2/f181af88c5730b1171711f10b4bb912a.jpg</picture>
+        <name>Венеция</name>
+        <description>Венеция от производителя Муромские мастера в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="22">
+        <url>https://i-sosna.ru/catalog/series/verona/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/9f1/768_480_2/9f15c69871bfa04a1ddc485fa8a9d227.jpg</picture>
+        <name>Верона</name>
+        <description>Верона от производителя Муромские мастера в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="23">
+        <url>https://i-sosna.ru/catalog/series/viking/</url>
+        <picture>https://i-sosna.ru/upload/iblock/601/60187f844599af8be5ebf5b1ebeb76aa.jpg</picture>
+        <name>Викинг</name>
+        <description>Викинг от производителя Лидская МФ в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="24">
+        <url>https://i-sosna.ru/catalog/series/vintazh/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/add/768_480_2/fk8vo4c2148uk3cjpllmxiba4ayfekl6.jpg</picture>
+        <name>Винтаж</name>
+        <description>Винтаж в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="25">
+        <url>https://i-sosna.ru/catalog/series/voyazh/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/66b/768_480_2/skew152gxdjyqx53qtrv8w99l0hkiug8.jpg</picture>
+        <name>Вояж</name>
+        <description>Вояж от производителя ММЦ в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="26">
+        <url>https://i-sosna.ru/catalog/series/granada/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/bb6/768_480_2/9yekvhpneb18110oap3x11aoiqn72iro.jpg</picture>
+        <name>Гранада</name>
+        <description>Гранада в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="27">
+        <url>https://i-sosna.ru/catalog/series/greta/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/c86/768_480_2/2tjzehxa74f1j6zn0i07mrzk1s1y2tq8.JPG</picture>
+        <name>Грета</name>
+        <description>Грета от производителя Тимберика в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="28">
+        <url>https://i-sosna.ru/catalog/series/daniya/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/115/768_480_2/115d2dd80c731adcca4b2e3e1bc6c602.jpg</picture>
+        <name>Дания</name>
+        <description>Дания от производителя Тимберика в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="29">
+        <url>https://i-sosna.ru/catalog/series/klassika/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/cd9/768_480_2/cd9ae5fa523e04270e0375769d441476.jpg</picture>
+        <name>Дачная Классика</name>
+        <description>Дачная Классика от производителя Скандия в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="30">
+        <url>https://i-sosna.ru/catalog/series/dobryy-master/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/4fd/768_480_2/4fd31248da82332696f4a41d9d9ea25d.jpg</picture>
+        <name>Добрый мастер</name>
+        <description>Добрый мастер от производителя Добрый мастер в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="31">
+        <url>https://i-sosna.ru/catalog/series/impeks/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/7f1/768_480_2/7f119cebdd56f6ccfc5b2aea937ed0b8.jpg</picture>
+        <name>Импэкс</name>
+        <description>Импэкс от производителя Мебель Импэкс в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="32">
+        <url>https://i-sosna.ru/catalog/series/kalipso/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/a7b/768_480_2/a7bb3db6de905df61db23c194393dc51.jpg</picture>
+        <name>Калипсо</name>
+        <description>Калипсо от производителя Волшебная сосна в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="33">
+        <url>https://i-sosna.ru/catalog/series/karelskaya_sosna/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/4a8/768_480_2/4a806f3eef0b4d9e12965732d77de497.jpg</picture>
+        <name>Карельская сосна</name>
+        <description>Карельская сосна от производителя Тимберика в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="34">
+        <url>https://i-sosna.ru/catalog/series/kvadro/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/1d3/768_480_2/x8x7v8tnoqzzpfh2d4mj8ngfswnd69kd.jpg</picture>
+        <name>Квадро-С</name>
+        <description>Квадро-С от производителя ММЦ в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="35">
+        <url>https://i-sosna.ru/catalog/series/klassik/</url>
+        <picture>https://i-sosna.ru/upload/iblock/968/968975ecc1b73c62b726c22f9ba834a9.png</picture>
+        <name>Классик</name>
+        <description>Классик от производителя Тимберика в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="36">
+        <url>https://i-sosna.ru/catalog/series/klassika_38/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/e68/768_480_2/c7949rfnshadh4bypi1lx3vnq4wgu65u.jpeg</picture>
+        <name>Классика</name>
+        <description>Классика от производителя 38 Попугаев в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="37">
+        <url>https://i-sosna.ru/catalog/series/konsolea_sindi/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/f0e/768_480_2/f0e6cfc672a6055e7072db71a1ae9759.jpg</picture>
+        <name>Консолеа Синди</name>
+        <description>Консолеа Синди от производителя ММЦ - Москва в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="38">
+        <url>https://i-sosna.ru/catalog/series/kosta_blanka/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/8f1/768_480_2/8f10c1ccb5709e23c8cbee2cae899358.jpg</picture>
+        <name>Коста Бланка</name>
+        <description>Коста Бланка от производителя Тимберс в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="39">
+        <url>https://i-sosna.ru/catalog/series/lebo/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/cdf/768_480_2/cdfff4cbbce9fbfc6e40084c5bcec0fc.jpeg</picture>
+        <name>Лебо</name>
+        <description>Лебо от производителя ММЦ - SanRemi в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="40">
+        <url>https://i-sosna.ru/catalog/series/lirona/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/80d/768_480_2/80d146aa9eb6ace77e7a2fd2816de3a4.png</picture>
+        <name>Лирона</name>
+        <description>Лирона от производителя Муромские мастера в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="41">
+        <url>https://i-sosna.ru/catalog/series/lotos/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/2e2/768_480_2/2e2987bfc799fbc0ec2f44591dcb9c06.jpg</picture>
+        <name>Лотос</name>
+        <description>Лотос от производителя Пинскдрев в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="42">
+        <url>https://i-sosna.ru/catalog/series/loft_siti/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/d89/768_480_2/d89ffbcde928bbda1b5af43cbe487410.jpg</picture>
+        <name>Лофт Сити</name>
+        <description>Лофт Сити от производителя Волшебная сосна в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="43">
+        <url>https://i-sosna.ru/catalog/series/malta_khelsinki/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/a82/768_480_2/a829974aa1efd236df1117cf349f1951.jpg</picture>
+        <name>Мальта/Хельсинки</name>
+        <description>Мальта/Хельсинки от производителя ММЦ - Москва в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="44">
+        <url>https://i-sosna.ru/catalog/series/marsel/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/420/768_480_2/0r9a0wxu3cga4c3k2bhlupn2k4870gqp.jpg</picture>
+        <name>Марсель</name>
+        <description>Марсель от производителя Скандия в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="45">
+        <url>https://i-sosna.ru/catalog/series/mebel_pmts/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/5f3/768_480_2/5f3c1d117272fd1877a02bfb378cfb9e.jpg</picture>
+        <name>Мебель ПМЦ</name>
+        <description>Мебель ПМЦ в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="46">
+        <url>https://i-sosna.ru/catalog/series/murom/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/006/768_480_2/zh3kblatbvpet6hf28tu9crm9cnjygxy.jpg</picture>
+        <name>Муром</name>
+        <description>Муром от производителя Муром мебель в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="47">
+        <url>https://i-sosna.ru/catalog/series/menson/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/3ea/768_480_2/wwrql5amgzxlpdw2yk99msuj8etb1lw4.png</picture>
+        <name>Мэнсон</name>
+        <description>Мэнсон от производителя ММЦ в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="48">
+        <url>https://i-sosna.ru/catalog/series/nyuton_grey/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/dfa/768_480_2/eaz6p21vx7vx2aitc2fluumro1k49155.jpeg</picture>
+        <name>НьюТон Грей</name>
+        <description>НьюТон Грей от производителя 38 Попугаев в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="49">
+        <url>https://i-sosna.ru/catalog/series/oliver/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/60e/768_480_2/lji89lwod5g5utnr0ltrin3imsdmujf2.jpg</picture>
+        <name>Оливер</name>
+        <description>Оливер от производителя Муромские мастера в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="50">
+        <url>https://i-sosna.ru/catalog/series/olsa/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/58c/768_480_2/dh799i79huew1w7immgwzjfy2kzm6mxv.jpg</picture>
+        <name>Ольса</name>
+        <description>Ольса от производителя ММЦ - Москва в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="51">
+        <url>https://i-sosna.ru/catalog/series/oniks/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/96f/768_480_2/sl77uul6y8b3isxt8zhyj7ec0nggcasq.png</picture>
+        <name>Оникс</name>
+        <description>Оникс от производителя ММЦ - SanRemi в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="52">
+        <url>https://i-sosna.ru/catalog/series/paola/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/dac/768_480_2/0h55hchnfirwoax4jzfmu4i9m2rmevu9.jpeg</picture>
+        <name>Паола</name>
+        <description>Паола от производителя Пинскдрев в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="53">
+        <url>https://i-sosna.ru/catalog/series/penni/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/ab9/768_480_2/n5vcs51igthidbu7x7aj1twwbzlh54f3.jpeg</picture>
+        <name>Пенни</name>
+        <description>Пенни в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="54">
+        <url>https://i-sosna.ru/catalog/series/provans/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/6bf/768_480_2/6bf72c879f8c1b85d7dcfe770a2c8bd9.jpg</picture>
+        <name>Прованс</name>
+        <description>Прованс от производителя Волшебная сосна в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="55">
+        <url>https://i-sosna.ru/catalog/series/provans_wood/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/1c6/768_480_2/1c6297e2435327c0005fecf71d580474.jpeg</picture>
+        <name>Прованс Wood</name>
+        <description>Прованс Wood от производителя Алетан в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="56">
+        <url>https://i-sosna.ru/catalog/series/randevu/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/595/768_480_2/595e3543221ed5c443d9d459deac5348.jpg</picture>
+        <name>Рандеву</name>
+        <description>Рандеву от производителя ММЦ в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="57">
+        <url>https://i-sosna.ru/catalog/series/rauna/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/4aa/768_480_2/4aa9380e87acacee8ccf54632556257d.jpg</picture>
+        <name>Рауна</name>
+        <description>Рауна от производителя ММЦ - Москва в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="58">
+        <url>https://i-sosna.ru/catalog/series/rimini/</url>
+        <picture>https://i-sosna.ru/upload/iblock/359/35927c2706b32aca19b03eafde02fcd1.png</picture>
+        <name>Римини</name>
+        <description>Римини от производителя Муромские мастера в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="59">
+        <url>https://i-sosna.ru/catalog/series/robin_wood/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/7ee/768_480_2/7eec42dc033d517598109a7e458f4ab5.jpg</picture>
+        <name>Робин Wood</name>
+        <description>Робин Wood от производителя 38 Попугаев в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="60">
+        <url>https://i-sosna.ru/catalog/series/robin_wood_layt/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/80a/768_480_2/80a313fedb08465674e6df05b4e44ff1.jpg</picture>
+        <name>Робин Wood Лайт</name>
+        <description>Робин Wood Лайт в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="61">
+        <url>https://i-sosna.ru/catalog/series/sielo/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/555/768_480_2/555993042e324a085368cd39e7da1bf8.jpg</picture>
+        <name>Сиело</name>
+        <description>Сиело от производителя ММЦ - Москва в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="62">
+        <url>https://i-sosna.ru/catalog/series/skayda/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/de9/768_480_2/de98978a973b8bebd061b1a646cd4a85.jpg</picture>
+        <name>Скайда</name>
+        <description>Скайда от производителя Скайда в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="63">
+        <url>https://i-sosna.ru/catalog/series/skandi/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/115/768_480_2/gxw37dwpme9bmmclknwd2ix2xlj47fgm.jpg</picture>
+        <name>Сканди</name>
+        <description>Сканди от производителя ММЦ в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="64">
+        <url>https://i-sosna.ru/catalog/series/skandinaviya/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/7c8/768_480_2/7c8cf5800552ec2a9e3a69bebbefaca8.jpg</picture>
+        <name>Скандинавия</name>
+        <description>Скандинавия от производителя Добрый мастер в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="65">
+        <url>https://i-sosna.ru/catalog/series/skandiya/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/2c3/768_480_2/2c3f5f827d52abb23654c5d573bed6e1.JPG</picture>
+        <name>Скандия</name>
+        <description>Скандия от производителя Скандия в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="66">
+        <url>https://i-sosna.ru/catalog/series/sosnovyy_bor/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/dba/768_480_2/dbad21e14dd5e9c5f386628c02ef8bb2.jpeg</picture>
+        <name>Сосновый бор</name>
+        <description>Сосновый бор от производителя Могилевдрев в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="67">
+        <url>https://i-sosna.ru/catalog/series/tadorna/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/8d2/768_480_2/5hcnp1a0pcixxzvc63kul2g6uiebo15o.jpg</picture>
+        <name>Тадорна</name>
+        <description>Тадорна от производителя Tadorna в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="68">
+        <url>https://i-sosna.ru/catalog/series/tvist_loft/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/315/768_480_2/2y0ydc5dvtb6y0ynn7rh3q5m4prhlu77.jpeg</picture>
+        <name>Твист Лофт</name>
+        <description>Твист Лофт от производителя 38 Попугаев в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="69">
+        <url>https://i-sosna.ru/catalog/series/timberika_kids/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/7b6/768_480_2/7b6a38838aca3ec4a65ac7a062d63609.jpg</picture>
+        <name>Тимберика Кидс</name>
+        <description>Тимберика Кидс от производителя Тимберика в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="70">
+        <url>https://i-sosna.ru/catalog/series/timbers_kids/</url>
+        <picture>https://i-sosna.ru/upload/iblock/8ba/8ba6558ee0654374b902a9616adec470.png</picture>
+        <name>Тимберс Кидс</name>
+        <description>Тимберс Кидс от производителя Тимберс в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="71">
+        <url>https://i-sosna.ru/catalog/series/tiffani/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/2e0/768_480_2/g5sw4hr5ckk3q4jme13xntgrbp2yuqfa.jpeg</picture>
+        <name>Тиффани</name>
+        <description>Тиффани от производителя Пинскдрев в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="72">
+        <url>https://i-sosna.ru/catalog/series/tel/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/836/768_480_2/lt0idgiaua7mk31ddpl0vjdcom55hr5g.webp</picture>
+        <name>Тэль</name>
+        <description>Тэль в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="73">
+        <url>https://i-sosna.ru/catalog/series/florentina/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/59c/768_480_2/gwlto0bt4o6b16s0kp9g0ni2s0p48dyr.jpeg</picture>
+        <name>Флорентина</name>
+        <description>Флорентина от производителя Пинскдрев в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="74">
+        <url>https://i-sosna.ru/catalog/series/forest/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/27d/768_480_2/27d20e1cc17130e2836baa61079c95e7.jpg</picture>
+        <name>Форест</name>
+        <description>Форест от производителя ММЦ - SanRemi в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="75">
+        <url>https://i-sosna.ru/catalog/series/forest_grafit/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/819/768_480_2/c0fn9xlde2l0bi726sp2og0e3wzwivyh.jpg</picture>
+        <name>Форест Графит</name>
+        <description>Форест Графит в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="76">
+        <url>https://i-sosna.ru/catalog/series/frantsuzkiy_provans/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/c49/768_480_2/c49ee5ca0a3a35f13c6ec029f4c30f7e.jpeg</picture>
+        <name>Французский Прованс</name>
+        <description>Французский Прованс от производителя Алетан в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="77">
+        <url>https://i-sosna.ru/catalog/series/khemnes_hemnes/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/5f1/768_480_2/fasy0vpzrls4thj2w6itnohkp21xr9l7.jpeg</picture>
+        <name>Хемнэс HEMNES</name>
+        <description>Хемнэс HEMNES от производителя Profi&amp;Hobby в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="78">
+        <url>https://i-sosna.ru/catalog/series/tsezar/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/2b4/768_480_2/gk2cxh83oali7wm4kdav7s5scj971bkg.jpeg</picture>
+        <name>Цезарь</name>
+        <description>Цезарь от производителя Лидская МФ в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="79">
+        <url>https://i-sosna.ru/catalog/series/shale/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/f12/768_480_2/wcit0xbppfhwbkdafcjkrkz10fobx4uk.jpeg</picture>
+        <name>Шале</name>
+        <description>Шале в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="80">
+        <url>https://i-sosna.ru/catalog/series/yustina/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/d70/768_480_2/qtzr3jw3tp518p0cgc7h32s61a7u5z18.jpeg</picture>
+        <name>Юстина</name>
+        <description>Юстина от производителя Пинскдрев в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="81">
+        <url>https://i-sosna.ru/catalog/series/yarvi/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/876/768_480_2/kr0v0kab3u7fmoak261fdravkwdha1k3.jpg</picture>
+        <name>Ярви</name>
+        <description>Ярви от производителя Скандия в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="82">
+        <url>https://i-sosna.ru/catalog/series/andersen/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/b6d/768_480_2/rqp24vzni4li88dc3refwf02sclyzkm3.jpg</picture>
+        <name>Andersen</name>
+        <description>Andersen от производителя Этажерка в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="83">
+        <url>https://i-sosna.ru/catalog/series/aquarelle/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/78e/768_480_2/78e77aa38f1917e51ec91ad145c41863.png</picture>
+        <name>Aquarelle</name>
+        <description>Aquarelle от производителя Этажерка в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="84">
+        <url>https://i-sosna.ru/catalog/series/berber/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/b25/768_480_2/0gsp7efb82r54rkxn2lsupxjkw9u6nmr.png</picture>
+        <name>Berber</name>
+        <description>Berber от производителя Этажерка в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="85">
+        <url>https://i-sosna.ru/catalog/series/boho/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/bf8/768_480_2/bf8a06d0099815312dc372ca0aa16b13.PNG</picture>
+        <name>Boho</name>
+        <description>Boho от производителя Этажерка в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="86">
+        <url>https://i-sosna.ru/catalog/series/bruni/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/b2d/768_480_2/b2defb3b75f44bf4ce38ea44d9388f4d.jpg</picture>
+        <name>Bruni</name>
+        <description>Bruni от производителя Этажерка в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="87">
+        <url>https://i-sosna.ru/catalog/series/ellipse/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/757/768_480_2/7arm8g8blrjb2n9jnl4eb0fmktycryd4.png</picture>
+        <name>Ellipse</name>
+        <description>Ellipse от производителя Этажерка в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="88">
+        <url>https://i-sosna.ru/catalog/series/emerson/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/9c2/768_480_2/lrq6dux5dcp3nyxr4o9q8tdgsjseegg1.JPG</picture>
+        <name>Emerson</name>
+        <description>Emerson в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="89">
+        <url>https://i-sosna.ru/catalog/series/ericka/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/9d4/768_480_2/9d425e1302a89c9d5477f71f1de936fb.jpeg</picture>
+        <name>Ericka</name>
+        <description>Ericka от производителя Волшебная сосна в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="90">
+        <url>https://i-sosna.ru/catalog/series/guash/</url>
+        <picture>https://i-sosna.ru/upload/iblock/34e/34e6dd7bd347db872e2d292cd0652910.png</picture>
+        <name>Gouache</name>
+        <description>Gouache от производителя Этажерка в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="91">
+        <url>https://i-sosna.ru/catalog/series/icons/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/486/768_480_2/4863204f861303d89b388f716472d655.jpg</picture>
+        <name>ICONS</name>
+        <description>ICONS от производителя Панормо мебель в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="92">
+        <url>https://i-sosna.ru/catalog/series/jules_verne/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/fee/768_480_2/8f0podn27u0mp7xw1wg51iekmnf2rshn.jpg</picture>
+        <name>Jules Verne</name>
+        <description>Jules Verne от производителя Этажерка в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="93">
+        <url>https://i-sosna.ru/catalog/series/leontina/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/653/768_480_2/653ed18bb31dfa7a02a604fe39d29f34.jpg</picture>
+        <name>Leontina</name>
+        <description>Leontina от производителя Этажерка в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="94">
+        <url>https://i-sosna.ru/catalog/series/mexica/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/a33/768_480_2/a3339d8ae36a02deb3ad7319b274dc05.jpg</picture>
+        <name>Mexica</name>
+        <description>Mexica от производителя Волшебная сосна в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="95">
+        <url>https://i-sosna.ru/catalog/series/odri/</url>
+        <picture>https://i-sosna.ru/upload/iblock/8b4/8b4acc3795f8e1e64b94181ef24c6434.png</picture>
+        <name>Odri</name>
+        <description>Odri от производителя Этажерка в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="96">
+        <url>https://i-sosna.ru/catalog/series/oliviya/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/dfc/768_480_2/dfc6ef458c61e033f919e2721a38f10b.jpg</picture>
+        <name>Olivia</name>
+        <description>Olivia от производителя Этажерка в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="97">
+        <url>https://i-sosna.ru/catalog/series/riva/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/359/768_480_2/35901c1934788ae5596dc671cf0156b8.jpg</picture>
+        <name>Riva</name>
+        <description>Riva от производителя Панормо мебель в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="98">
+        <url>https://i-sosna.ru/catalog/series/roller/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/179/768_480_2/179ffadc7d4fb860f6dfdd6303eb79ce.jpg</picture>
+        <name>Roller</name>
+        <description>Roller от производителя Волшебная сосна в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="99">
+        <url>https://i-sosna.ru/catalog/series/yatelei/</url>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/f7f/768_480_2/f7f958dd0da8739ec97b53028328c84d.jpg</picture>
+        <name>Yatelei</name>
+        <description>Yatelei от производителя Лидская МФ в интернет-магазине Гармония дерева</description>
+      </collection>
+    </collections>
+  </shop>
+</yml_catalog>
