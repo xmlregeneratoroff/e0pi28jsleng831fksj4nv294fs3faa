@@ -166,7 +166,7 @@ def process_offer_price(offer_element):
     return offer_id, price, oldprice
 
 
-def update_prices_in_feed(root, test_mode=False, test_limit=1000):
+def update_prices_in_feed(root, test_mode=False, test_limit=100):
     """
     Обновляем цены во всем фиде
     
@@ -368,7 +368,7 @@ def create_collections_xml(collections_dict):
     return collections_elem
 
 
-def update_offers_with_collections(root, collections_dict, test_mode=False, test_limit=1000):
+def update_offers_with_collections(root, collections_dict, test_mode=False, test_limit=100):
     """
     Обновляем offers, добавляя collectionId и удаляя параметр Коллекция
     
@@ -486,7 +486,7 @@ def save_feed(root):
 def main():
     """Основная функция программы"""
     test_mode = False
-    test_limit = 1000
+    test_limit = 100
     
     if len(sys.argv) > 1 and sys.argv[1] == "--test":
         test_mode = True
