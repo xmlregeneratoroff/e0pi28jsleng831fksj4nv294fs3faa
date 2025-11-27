@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-26T17:22:47+03:00">
+<yml_catalog date="2025-11-27T07:03:47+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -16646,7 +16646,7 @@
       </offer>
       <offer id="136684" available="true" group_id="136684">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_1900_shst_7p/</url>
-        <price>10340</price>
+        <price>11480</price>
         <currencyId>RUR</currencyId>
         <categoryId>452</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/9ec/9ecdb709bf347b372e70e32bc196edb5.jpeg</picture>
@@ -16660,7 +16660,7 @@
         <param name="Глубина" unit="см">30</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Дачная классика</param>
-        <oldprice>11480</oldprice>
+        <oldprice>12750</oldprice>
       </offer>
       <offer id="136685" available="true" group_id="136685">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_1598_shst_6p/</url>
@@ -16682,7 +16682,7 @@
       </offer>
       <offer id="136686" available="true" group_id="136686">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_1296_shst_5p/</url>
-        <price>8020</price>
+        <price>8910</price>
         <currencyId>RUR</currencyId>
         <categoryId>452</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/553/5533f38aa93c6590592cc468bceb75a2.jpeg</picture>
@@ -16696,7 +16696,7 @@
         <param name="Глубина" unit="см">30</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Дачная классика</param>
-        <oldprice>8910</oldprice>
+        <oldprice>9900</oldprice>
       </offer>
       <offer id="136687" available="true" group_id="136687">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_994_shst_4p/</url>
@@ -16718,7 +16718,7 @@
       </offer>
       <offer id="136688" available="true" group_id="136688">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_692_shst_3p/</url>
-        <price>5310</price>
+        <price>5810</price>
         <currencyId>RUR</currencyId>
         <categoryId>452</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/876/876e08eaed0c643a88f93afb8ef81b64.jpeg</picture>
@@ -16732,7 +16732,7 @@
         <param name="Глубина" unit="см">30</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Дачная классика</param>
-        <oldprice>5900</oldprice>
+        <oldprice>6450</oldprice>
       </offer>
       <offer id="136959" available="true" group_id="136959">
         <url>https://i-sosna.ru/catalog/bufety/bufet_kristin_1_2_stvorki/</url>
@@ -21409,7 +21409,7 @@
       </offer>
       <offer id="151499" available="true">
         <url>https://i-sosna.ru/catalog/kukhonnye_garnitury/kukhonnyy_garnitur_viking/</url>
-        <price>50000</price>
+        <price>80000</price>
         <currencyId>RUR</currencyId>
         <categoryId>732</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/290/2903018947dfdc206a1621bf60360cea.jpg</picture>
@@ -46310,7 +46310,7 @@
       </offer>
       <offer id="166596" available="true" group_id="166596">
         <url>https://i-sosna.ru/catalog/kukhnya_profi_hobby/kukhnya_profi_hobby/</url>
-        <price>40000</price>
+        <price>60000</price>
         <currencyId>RUR</currencyId>
         <categoryId>829</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/5bf/5bf829146c9a25992fc508c39f5e6f5a.jpeg</picture>
