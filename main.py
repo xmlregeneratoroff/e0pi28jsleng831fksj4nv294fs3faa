@@ -307,10 +307,10 @@ def parse_collections_from_html(html_content):
                 if description_elem:
                     manufacturer_text = description_elem.get_text(strip=True)
                     if manufacturer_text:
-                        # Очищаем текст от лишних частей
                         manufacturer = manufacturer_text.replace('Производитель - ', '').strip()
                         if manufacturer:
                             description = f"{name} от производителя {manufacturer} в интернет-магазине Гармония дерева"
+                            name = f"Мебель коллекции {name}, {manufacturer}"
                 
                 collections[name] = {
                     'id': idx,
