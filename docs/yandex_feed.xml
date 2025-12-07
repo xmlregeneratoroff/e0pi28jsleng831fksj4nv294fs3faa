@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-07T07:17:33+03:00">
+<yml_catalog date="2025-12-07T16:49:06+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -30999,7 +30999,7 @@
       </offer>
       <offer id="157896" available="true" group_id="157896">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_bert_1_39_obrazets/</url>
-        <price>89350</price>
+        <price>93810</price>
         <currencyId>RUR</currencyId>
         <categoryId>452</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/24d/24de29521f56a1d5c932efc962a2b5a7.JPG</picture>
@@ -31014,7 +31014,7 @@
         <param name="Материал">массив сосны, отделка- шпон дуба</param>
         <param name="Цвет">Дуб крем + патина</param>
         <param name="Коллекция">Бьерт</param>
-        <oldprice>178700</oldprice>
+        <oldprice>187620</oldprice>
       </offer>
       <offer id="157898" available="true" group_id="157898">
         <url>https://i-sosna.ru/catalog/komody/tumba_bert_1_44_obrzets/</url>
