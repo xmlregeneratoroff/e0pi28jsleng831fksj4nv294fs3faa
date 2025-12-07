@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-06T16:47:12+03:00">
+<yml_catalog date="2025-12-07T07:17:33+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -30906,7 +30906,7 @@
       </offer>
       <offer id="157883" available="true" group_id="157883">
         <url>https://i-sosna.ru/catalog/rasprodazha/shkaf_dlya_prikhozhey_daniya_kombi_obrazets/</url>
-        <price>36580</price>
+        <price>38430</price>
         <currencyId>RUR</currencyId>
         <categoryId>737</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/31d/31dc18005b45e0952fa6683f94042d05.JPG</picture>
@@ -30920,7 +30920,7 @@
         <param name="Глубина" unit="см">36</param>
         <param name="Материал">массив сосны, обработка- бейц</param>
         <param name="Цвет">Бейц Браун</param>
-        <oldprice>52250</oldprice>
+        <oldprice>54890</oldprice>
       </offer>
       <offer id="157885" available="true" group_id="157885">
         <url>https://i-sosna.ru/catalog/bufety/servant_bert_1_20_obrazets/</url>
@@ -54891,7 +54891,7 @@
       </offer>
       <offer id="172951" available="true" group_id="172951">
         <url>https://i-sosna.ru/catalog/mebelnaya_komplektatsiya/komplekt_polka_shtanga_dlya_shkafa_olsa/</url>
-        <price>2850</price>
+        <price>2060</price>
         <currencyId>RUR</currencyId>
         <categoryId>840</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/d23/q3p1hyltuzaqdal017cb1uorsj6hee1h.jpeg</picture>
@@ -54905,6 +54905,7 @@
         <param name="Глубина" unit="см">0</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Ольса</param>
+        <oldprice>2850</oldprice>
       </offer>
       <offer id="172952" available="true" group_id="172952">
         <url>https://i-sosna.ru/catalog/mebelnaya_komplektatsiya/komplekt_polok_k_shkafu_olsa_4_sht/</url>
@@ -54925,7 +54926,7 @@
       </offer>
       <offer id="172953" available="true" group_id="172953">
         <url>https://i-sosna.ru/catalog/mebelnaya_komplektatsiya/polka_k_shkafu_olsa_1_sht/</url>
-        <price>2130</price>
+        <price>1540</price>
         <currencyId>RUR</currencyId>
         <categoryId>840</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/64e/9z15j2va5cvwlfok9omipuu6yciv17vc.jpeg</picture>
@@ -54939,6 +54940,7 @@
         <param name="Глубина" unit="см">0</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Ольса</param>
+        <oldprice>2130</oldprice>
       </offer>
       <offer id="172954" available="true" group_id="172954">
         <url>https://i-sosna.ru/catalog/mebelnaya_komplektatsiya/yashchik_vstraivaemyy_olsa_01/</url>
@@ -71154,7 +71156,7 @@
       </offer>
       <offer id="184587" available="true" group_id="184587">
         <url>https://i-sosna.ru/catalog/shkafy-r/shkaf_knizhnyy_ari_provans_4_so_sklada/</url>
-        <price>46210</price>
+        <price>48510</price>
         <currencyId>RUR</currencyId>
         <categoryId>791</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/aa6/h4t42y7en8su8imh2irmwmdcrz5ul35r.jpg</picture>
@@ -71167,7 +71169,7 @@
         <param name="Высота" unit="см">207</param>
         <param name="Глубина" unit="см">36</param>
         <param name="Материал">Массив сосны, цвет белый скандик</param>
-        <oldprice>57760</oldprice>
+        <oldprice>60630</oldprice>
       </offer>
       <offer id="184589" available="true" group_id="184589">
         <url>https://i-sosna.ru/catalog/krovati_iz_dereva/detskaya_takhta_ari_provans_2_so_sklada_80_160/</url>
