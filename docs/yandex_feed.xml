@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-07T16:49:06+03:00">
+<yml_catalog date="2025-12-08T07:16:27+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -44056,7 +44056,7 @@
       </offer>
       <offer id="165945" available="true" group_id="165945">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_tk_12_obrazets/</url>
-        <price>37620</price>
+        <price>39500</price>
         <currencyId>RUR</currencyId>
         <categoryId>452</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/777/7778685fafe284048dbbaf7189e35b82.JPG</picture>
@@ -44069,7 +44069,7 @@
         <param name="Высота" unit="см">178</param>
         <param name="Глубина" unit="см">45</param>
         <param name="Материал">Массив сосны (гладкие эмали)</param>
-        <oldprice>53740</oldprice>
+        <oldprice>56420</oldprice>
       </offer>
       <offer id="165947" available="true" group_id="165947">
         <url>https://i-sosna.ru/catalog/shkafy/shkaf_tk_5_obrazets/</url>
@@ -68376,7 +68376,7 @@
       </offer>
       <offer id="182628" available="true" group_id="182628">
         <url>https://i-sosna.ru/catalog/shkafy/shkaf_knizhnyy_ayno_3_obrazets/</url>
-        <price>69510</price>
+        <price>72990</price>
         <currencyId>RUR</currencyId>
         <categoryId>463</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/7e8/7e01h98unqevizr26gcf5xajiphy7hdc.jpg</picture>
@@ -68389,7 +68389,7 @@
         <param name="Высота" unit="см">200</param>
         <param name="Глубина" unit="см">35</param>
         <param name="Материал">Массив сосны, гладкая эмаль, цвет желтая пастель</param>
-        <oldprice>99290</oldprice>
+        <oldprice>104270</oldprice>
       </offer>
       <offer id="182630" available="true" group_id="182630">
         <url>https://i-sosna.ru/catalog/stulya-r/stul_myagkiy_ayno/</url>
