@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-13T07:19:39+03:00">
+<yml_catalog date="2025-12-13T16:49:05+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -49319,7 +49319,7 @@
       </offer>
       <offer id="167899" available="true" group_id="167899">
         <url>https://i-sosna.ru/catalog/bufety/bufet_olsa_300_324/</url>
-        <price>131640</price>
+        <price>69770</price>
         <currencyId>RUR</currencyId>
         <categoryId>388</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/650/4bxqv3mi4pz53al7n9cbx4f5tnryqznf.jpeg</picture>
@@ -49333,10 +49333,11 @@
         <param name="Глубина" unit="см">47</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Ольса</param>
+        <oldprice>131640</oldprice>
       </offer>
       <offer id="167903" available="true" group_id="167903">
         <url>https://i-sosna.ru/catalog/bufety/bufet_olsa_330_324/</url>
-        <price>155490</price>
+        <price>93300</price>
         <currencyId>RUR</currencyId>
         <categoryId>388</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/c64/1rbbg7iy25abybuuhqa9tj0x41ypi7w2.jpeg</picture>
@@ -49350,10 +49351,11 @@
         <param name="Глубина" unit="см">47</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Ольса</param>
+        <oldprice>155490</oldprice>
       </offer>
       <offer id="167906" available="true" group_id="167906">
         <url>https://i-sosna.ru/catalog/bufety/bufet_olsa_400_428/</url>
-        <price>170490</price>
+        <price>102300</price>
         <currencyId>RUR</currencyId>
         <categoryId>388</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/013/2upf4mll5d4rjwt6a9mh7tvffr6libjn.jpeg</picture>
@@ -49367,10 +49369,11 @@
         <param name="Глубина" unit="см">47</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Ольса</param>
+        <oldprice>170490</oldprice>
       </offer>
       <offer id="167912" available="true" group_id="167912">
         <url>https://i-sosna.ru/catalog/bufety/bufet_olsa_440_428/</url>
-        <price>202290</price>
+        <price>121380</price>
         <currencyId>RUR</currencyId>
         <categoryId>388</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/5d4/fhck2ka6dauy3g8ka9n8iodwnkf4hcx9.jpeg</picture>
@@ -49384,10 +49387,11 @@
         <param name="Глубина" unit="см">47</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Ольса</param>
+        <oldprice>202290</oldprice>
       </offer>
       <offer id="167914" available="true" group_id="167914">
         <url>https://i-sosna.ru/catalog/komody/komod_olsa_204/</url>
-        <price>62340</price>
+        <price>44890</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/17b/to83bp14uiavgithg6hmex04kthwvijy.jpeg</picture>
@@ -49401,10 +49405,11 @@
         <param name="Глубина" unit="см">47</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Ольса</param>
+        <oldprice>62340</oldprice>
       </offer>
       <offer id="167915" available="true" group_id="167915">
         <url>https://i-sosna.ru/catalog/komody/komod_olsa_220/</url>
-        <price>46590</price>
+        <price>33550</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/28d/ku2kp5cakzew5qkknacqsn5p05w0vgpe.jpeg</picture>
@@ -49418,10 +49423,11 @@
         <param name="Глубина" unit="см">47</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Ольса</param>
+        <oldprice>46590</oldprice>
       </offer>
       <offer id="167916" available="true" group_id="167916">
         <url>https://i-sosna.ru/catalog/komody/komod_olsa_221/</url>
-        <price>46140</price>
+        <price>33230</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/c7a/m2p7vna0gafrnm78f5sn7wqhcjozyxes.jpeg</picture>
@@ -49435,10 +49441,11 @@
         <param name="Глубина" unit="см">47</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Ольса</param>
+        <oldprice>46140</oldprice>
       </offer>
       <offer id="167917" available="true" group_id="167917">
         <url>https://i-sosna.ru/catalog/komody/komod_olsa_324/</url>
-        <price>85290</price>
+        <price>61410</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/964/yr6mdczn8be5z32ifohimcro1czo3rj9.jpeg</picture>
@@ -49452,6 +49459,7 @@
         <param name="Глубина" unit="см">47</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Ольса</param>
+        <oldprice>85290</oldprice>
       </offer>
       <offer id="167920" available="true" group_id="167920">
         <url>https://i-sosna.ru/catalog/komody/komod_olsa_333/</url>
