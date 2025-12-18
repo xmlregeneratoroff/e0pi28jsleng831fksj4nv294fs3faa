@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-18T07:10:01+03:00">
+<yml_catalog date="2025-12-18T16:12:24+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -27698,7 +27698,7 @@
       </offer>
       <offer id="154795" available="true" group_id="154795">
         <url>https://i-sosna.ru/catalog/tumby_prikrovatnye/tumba_2_yashchika_timbers_kids/</url>
-        <price>15800</price>
+        <price>17400</price>
         <currencyId>RUR</currencyId>
         <categoryId>404</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/9dc/42ci5p10jzspezp4zyglhx1ug1e6xref.jpeg</picture>
@@ -27749,7 +27749,7 @@
       </offer>
       <offer id="154798" available="true" group_id="154798">
         <url>https://i-sosna.ru/catalog/detskie_krovati/krovat_900_2000_timbers_kids/</url>
-        <price>26300</price>
+        <price>28900</price>
         <currencyId>RUR</currencyId>
         <categoryId>407</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/d9f/x59vyfqz48rk31uq5rduulqel085xdav.png</picture>
@@ -28492,7 +28492,7 @@
       </offer>
       <offer id="155781" available="true" group_id="155781">
         <url>https://i-sosna.ru/catalog/kukhnya_valensiya/kukhnya_valensiya_tumba_s_yashchikami_400_3_yashch/</url>
-        <price>19160</price>
+        <price>22190</price>
         <currencyId>RUR</currencyId>
         <categoryId>748</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/6ec/6ec2ab6d9a05cb84b6f6b8755fb55d33.png</picture>
@@ -48343,7 +48343,7 @@
       </offer>
       <offer id="167078" available="true" group_id="167078">
         <url>https://i-sosna.ru/catalog/komody/komod_dve_steklyannye_dverki_i_tri_yashchika_emerson_em14/</url>
-        <price>52640</price>
+        <price>46060</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/54b/54bfdf00a28195243669f5e8dca34fe4.png</picture>
@@ -58239,7 +58239,7 @@
       </offer>
       <offer id="175137" available="true" group_id="175137">
         <url>https://i-sosna.ru/catalog/zerkala/zerkalo_florentina_2675_bm851/</url>
-        <price>9400</price>
+        <price>10600</price>
         <currencyId>RUR</currencyId>
         <categoryId>399</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/96d/48foxu09ls10406vn1d7yf1zl1oi51o0.jpeg</picture>
@@ -71914,7 +71914,7 @@
       </offer>
       <offer id="185076" available="true" group_id="185076">
         <url>https://i-sosna.ru/catalog/tumby/tumba_iz_duba_kosta_blanka_dlya_stola_s_metallicheskim_osnovaniem/</url>
-        <price>20800</price>
+        <price>22900</price>
         <currencyId>RUR</currencyId>
         <categoryId>402</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/6fd/d9xvq6vvg1gc9f8rcf1oixi4uef9curw.jpeg</picture>
@@ -71930,7 +71930,7 @@
       </offer>
       <offer id="185077" available="true" group_id="185077">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/pismennyy_stol_iz_duba_3yashchika_kosta_blanka/</url>
-        <price>41800</price>
+        <price>46000</price>
         <currencyId>RUR</currencyId>
         <categoryId>458</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/465/2jktj9n2kpppbyvv5gykf84q29utlekg.jpeg</picture>
@@ -78907,96 +78907,90 @@
         <description>Berber от производителя Этажерка в интернет-магазине Гармония дерева</description>
       </collection>
       <collection id="84">
-        <url>https://i-sosna.ru/catalog/series/boho/</url>
-        <picture>https://i-sosna.ru/upload/resize_cache/iblock/bf8/768_480_2/bf8a06d0099815312dc372ca0aa16b13.PNG</picture>
-        <name>Мебель коллекции Boho, Этажерка</name>
-        <description>Boho от производителя Этажерка в интернет-магазине Гармония дерева</description>
-      </collection>
-      <collection id="85">
         <url>https://i-sosna.ru/catalog/series/bruni/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/b2d/768_480_2/b2defb3b75f44bf4ce38ea44d9388f4d.jpg</picture>
         <name>Мебель коллекции Bruni, Этажерка</name>
         <description>Bruni от производителя Этажерка в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="86">
+      <collection id="85">
         <url>https://i-sosna.ru/catalog/series/ellipse/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/757/768_480_2/7arm8g8blrjb2n9jnl4eb0fmktycryd4.png</picture>
         <name>Мебель коллекции Ellipse, Этажерка</name>
         <description>Ellipse от производителя Этажерка в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="87">
+      <collection id="86">
         <url>https://i-sosna.ru/catalog/series/emerson/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/9c2/768_480_2/lrq6dux5dcp3nyxr4o9q8tdgsjseegg1.JPG</picture>
         <name>Мебель коллекции Emerson, 38 Попугаев</name>
         <description>Emerson от производителя 38 Попугаев в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="88">
+      <collection id="87">
         <url>https://i-sosna.ru/catalog/series/ericka/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/9d4/768_480_2/9d425e1302a89c9d5477f71f1de936fb.jpeg</picture>
         <name>Мебель коллекции Ericka, Волшебная сосна</name>
         <description>Ericka от производителя Волшебная сосна в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="89">
+      <collection id="88">
         <url>https://i-sosna.ru/catalog/series/guash/</url>
         <picture>https://i-sosna.ru/upload/iblock/34e/34e6dd7bd347db872e2d292cd0652910.png</picture>
         <name>Мебель коллекции Gouache, Этажерка</name>
         <description>Gouache от производителя Этажерка в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="90">
+      <collection id="89">
         <url>https://i-sosna.ru/catalog/series/icons/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/486/768_480_2/4863204f861303d89b388f716472d655.jpg</picture>
         <name>Мебель коллекции ICONS, Панормо мебель</name>
         <description>ICONS от производителя Панормо мебель в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="91">
+      <collection id="90">
         <url>https://i-sosna.ru/catalog/series/jules_verne/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/fee/768_480_2/8f0podn27u0mp7xw1wg51iekmnf2rshn.jpg</picture>
         <name>Мебель коллекции Jules Verne, Этажерка</name>
         <description>Jules Verne от производителя Этажерка в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="92">
+      <collection id="91">
         <url>https://i-sosna.ru/catalog/series/leontina/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/653/768_480_2/653ed18bb31dfa7a02a604fe39d29f34.jpg</picture>
         <name>Мебель коллекции Leontina, Этажерка</name>
         <description>Leontina от производителя Этажерка в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="93">
+      <collection id="92">
         <url>https://i-sosna.ru/catalog/series/mexica/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/a33/768_480_2/a3339d8ae36a02deb3ad7319b274dc05.jpg</picture>
         <name>Мебель коллекции Mexica, Волшебная сосна</name>
         <description>Mexica от производителя Волшебная сосна в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="94">
+      <collection id="93">
         <url>https://i-sosna.ru/catalog/series/nicole/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/0f1/768_480_2/l7dolc7jxkb85y43ew1plr5pr2vvqdj4.webp</picture>
         <name>Мебель коллекции Nicole, Этажерка</name>
         <description>Nicole от производителя Этажерка в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="95">
+      <collection id="94">
         <url>https://i-sosna.ru/catalog/series/odri/</url>
         <picture>https://i-sosna.ru/upload/iblock/8b4/8b4acc3795f8e1e64b94181ef24c6434.png</picture>
         <name>Мебель коллекции Odri, Этажерка</name>
         <description>Odri от производителя Этажерка в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="96">
+      <collection id="95">
         <url>https://i-sosna.ru/catalog/series/oliviya/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/dfc/768_480_2/dfc6ef458c61e033f919e2721a38f10b.jpg</picture>
         <name>Мебель коллекции Olivia, Этажерка</name>
         <description>Olivia от производителя Этажерка в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="97">
+      <collection id="96">
         <url>https://i-sosna.ru/catalog/series/riva/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/359/768_480_2/35901c1934788ae5596dc671cf0156b8.jpg</picture>
         <name>Мебель коллекции Riva, Панормо мебель</name>
         <description>Riva от производителя Панормо мебель в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="98">
+      <collection id="97">
         <url>https://i-sosna.ru/catalog/series/roller/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/179/768_480_2/179ffadc7d4fb860f6dfdd6303eb79ce.jpg</picture>
         <name>Мебель коллекции Roller, Волшебная сосна</name>
         <description>Roller от производителя Волшебная сосна в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="99">
+      <collection id="98">
         <url>https://i-sosna.ru/catalog/series/yatelei/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/f7f/768_480_2/f7f958dd0da8739ec97b53028328c84d.jpg</picture>
         <name>Мебель коллекции Yatelei, Лидская МФ</name>
