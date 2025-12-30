@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-30T05:13:43+03:00">
+<yml_catalog date="2025-12-30T16:13:13+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -14913,7 +14913,7 @@
       </offer>
       <offer id="135745" available="true" group_id="135745">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_3_kh_dvernyy_sielo/</url>
-        <price>87690</price>
+        <price>63140</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/146/146ffcf272516c5a4b4c802ac0e65f7c.jpeg</picture>
@@ -14927,6 +14927,7 @@
         <param name="Глубина" unit="см">62</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сиело</param>
+        <oldprice>87690</oldprice>
       </offer>
       <offer id="135746" available="true" group_id="135746">
         <url>https://i-sosna.ru/catalog/shkafy_uglovye/shkaf_uglovoy_sielo_/</url>
@@ -15342,7 +15343,7 @@
       </offer>
       <offer id="136211" available="true" group_id="136211">
         <url>https://i-sosna.ru/catalog/polki/polka_nastennaya_rauna_165/</url>
-        <price>11490</price>
+        <price>8280</price>
         <currencyId>RUR</currencyId>
         <categoryId>447</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/eb7/eb79f4a696082ee51c5b74011f6a1d83.jpeg</picture>
@@ -15356,6 +15357,7 @@
         <param name="Глубина" unit="см">27</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Рауна</param>
+        <oldprice>11490</oldprice>
       </offer>
       <offer id="136212" available="true" group_id="136212">
         <url>https://i-sosna.ru/catalog/stoly_servirovochnye/stol_kofeynyy_rauna/</url>
@@ -37218,7 +37220,7 @@
       </offer>
       <offer id="161521" available="true" group_id="161521">
         <url>https://i-sosna.ru/catalog/komody/komod_na_vysokikh_nozhkakh_berber_bb09/</url>
-        <price>26720</price>
+        <price>38160</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/79e/79eddec309d1609f4e302724a5d4cb72.jpeg</picture>
@@ -37231,7 +37233,6 @@
         <param name="Высота" unit="см">120</param>
         <param name="Глубина" unit="см">40</param>
         <param name="Коллекция">Berber</param>
-        <oldprice>38160</oldprice>
       </offer>
       <offer id="161522" available="true" group_id="161522">
         <url>https://i-sosna.ru/catalog/komody/komod_vysokiy_berber_bb10/</url>
@@ -37336,7 +37337,7 @@
       </offer>
       <offer id="161528" available="true" group_id="161528">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_dvukhstvorchatyy_berber_bb16/</url>
-        <price>55930</price>
+        <price>79900</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/7eb/7ebcf236c05a25d7049c90c0bcf4dc07.png</picture>
@@ -37349,7 +37350,6 @@
         <param name="Высота" unit="см">200</param>
         <param name="Глубина" unit="см">50</param>
         <param name="Коллекция">Berber</param>
-        <oldprice>79900</oldprice>
       </offer>
       <offer id="161529" available="true" group_id="161529">
         <url>https://i-sosna.ru/catalog/komody/komod_berber_s_dvumya_dverkami_i_yashchikami_bb17/</url>
@@ -43547,7 +43547,7 @@
       </offer>
       <offer id="165705" available="true" group_id="165705">
         <url>https://i-sosna.ru/catalog/komody/komod_berber_bolshoy_bb29/</url>
-        <price>56690</price>
+        <price>80980</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/1b0/1b070c4535eff3a1e770debc8a1fd655.jpeg</picture>
@@ -43560,7 +43560,6 @@
         <param name="Высота" unit="см">120</param>
         <param name="Глубина" unit="см">45</param>
         <param name="Коллекция">Berber</param>
-        <oldprice>80980</oldprice>
       </offer>
       <offer id="165706" available="true" group_id="165706">
         <url>https://i-sosna.ru/catalog/komody/komod_berber_chetyre_dverki_i_chetyre_yashchika_bb25/</url>
@@ -43665,7 +43664,7 @@
       </offer>
       <offer id="165720" available="true" group_id="165720">
         <url>https://i-sosna.ru/catalog/bufety/bufet_berber_malyy_bb30/</url>
-        <price>51130</price>
+        <price>73040</price>
         <currencyId>RUR</currencyId>
         <categoryId>388</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/1a1/1a1642a6f850295db1b30196b0da8e70.jpeg</picture>
@@ -43678,7 +43677,6 @@
         <param name="Высота" unit="см">190</param>
         <param name="Глубина" unit="см">45</param>
         <param name="Коллекция">Berber</param>
-        <oldprice>73040</oldprice>
       </offer>
       <offer id="165721" available="true" group_id="165721">
         <url>https://i-sosna.ru/catalog/komody/komod_berber_tri_yashchika_i_dverka_bb34/</url>
@@ -43732,7 +43730,7 @@
       </offer>
       <offer id="165724" available="true" group_id="165724">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_s_dverkami_berber_bb26/</url>
-        <price>42400</price>
+        <price>60560</price>
         <currencyId>RUR</currencyId>
         <categoryId>452</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/b04/b0498b346ce4aa383b81ebd40dcea2df.jpeg</picture>
@@ -43745,11 +43743,10 @@
         <param name="Высота" unit="см">190</param>
         <param name="Глубина" unit="см">45</param>
         <param name="Коллекция">Berber</param>
-        <oldprice>60560</oldprice>
       </offer>
       <offer id="165725" available="true" group_id="165725">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_rabochiy_berber_s_odnoy_tumboy_bb31/</url>
-        <price>40480</price>
+        <price>57820</price>
         <currencyId>RUR</currencyId>
         <categoryId>458</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/54f/54f7c27eaa63e2eff06a1c01cb57cf59.jpeg</picture>
@@ -43762,7 +43759,6 @@
         <param name="Высота" unit="см">75</param>
         <param name="Глубина" unit="см">60</param>
         <param name="Коллекция">Berber</param>
-        <oldprice>57820</oldprice>
       </offer>
       <offer id="165726" available="true" group_id="165726">
         <url>https://i-sosna.ru/catalog/tumby_prikrovatnye/tumbochka_berber_s_otkrytoy_polkoy_bb33/</url>
@@ -43783,7 +43779,7 @@
       </offer>
       <offer id="165727" available="true" group_id="165727">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_otkrytyy_berber_bb35/</url>
-        <price>19160</price>
+        <price>27370</price>
         <currencyId>RUR</currencyId>
         <categoryId>452</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/8ca/8ca059c964af10527e65a5cd2ccd7406.jpeg</picture>
@@ -43796,7 +43792,6 @@
         <param name="Высота" unit="см">90</param>
         <param name="Глубина" unit="см">45</param>
         <param name="Коллекция">Berber</param>
-        <oldprice>27370</oldprice>
       </offer>
       <offer id="165728" available="true" group_id="165728">
         <url>https://i-sosna.ru/catalog/komody/komod_berber_pyat_yashchikov_bb36/</url>
@@ -44803,7 +44798,7 @@
       </offer>
       <offer id="166128" available="true" group_id="166128">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_olsa_202_014/</url>
-        <price>103290</price>
+        <price>70240</price>
         <currencyId>RUR</currencyId>
         <categoryId>452</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/eee/8bfpjyr7hp4dhrp4en25ekdss2zmcnaw.jpeg</picture>
@@ -44817,6 +44812,7 @@
         <param name="Глубина" unit="см">38</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Ольса</param>
+        <oldprice>103290</oldprice>
       </offer>
       <offer id="166129" available="true" group_id="166129">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_olsa_300_000/</url>
@@ -46208,7 +46204,7 @@
       </offer>
       <offer id="166717" available="true" group_id="166717">
         <url>https://i-sosna.ru/catalog/komody/komod_berber_tri_yashchika_bb40/</url>
-        <price>27370</price>
+        <price>39090</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/fd6/fd67a50813d29e8dae8f37376d089be4.jpeg</picture>
@@ -46221,7 +46217,6 @@
         <param name="Высота" unit="см">90</param>
         <param name="Глубина" unit="см">45</param>
         <param name="Коллекция">Berber</param>
-        <oldprice>39090</oldprice>
       </offer>
       <offer id="166718" available="true" group_id="166718">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_na_komode_berber_bb44/</url>
@@ -48199,7 +48194,7 @@
       </offer>
       <offer id="167089" available="true" group_id="167089">
         <url>https://i-sosna.ru/catalog/komody/komod_s_dvumya_dverkami_emerson_em02/</url>
-        <price>28270</price>
+        <price>40380</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/877/f6su8l9z9kyzqomeo8sc9c4mgi4467dd.png</picture>
@@ -48213,7 +48208,6 @@
         <param name="Глубина" unit="см">45</param>
         <param name="Материал">Шпон ясеня</param>
         <param name="Коллекция">Emerson</param>
-        <oldprice>40380</oldprice>
       </offer>
       <offer id="167090" available="true" group_id="167090">
         <url>https://i-sosna.ru/catalog/komody/komod_s_chetyremya_dverkami_emerson_em01/</url>
@@ -48921,7 +48915,7 @@
       </offer>
       <offer id="167896" available="true" group_id="167896">
         <url>https://i-sosna.ru/catalog/bufety/bufet_olsa_220_204/</url>
-        <price>107790</price>
+        <price>73300</price>
         <currencyId>RUR</currencyId>
         <categoryId>388</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/7aa/6qh8hs8pzkte0hqvq0jbe6gjecihhga5.jpeg</picture>
@@ -48935,6 +48929,7 @@
         <param name="Глубина" unit="см">47</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Ольса</param>
+        <oldprice>107790</oldprice>
       </offer>
       <offer id="167897" available="true" group_id="167897">
         <url>https://i-sosna.ru/catalog/bufety/bufet_olsa_220_220/</url>
