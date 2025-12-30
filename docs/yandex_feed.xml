@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-29T16:11:43+03:00">
+<yml_catalog date="2025-12-30T05:13:43+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -46276,7 +46276,7 @@
       </offer>
       <offer id="166721" available="true" group_id="166721">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_s_yashchikami_berber_bb45/</url>
-        <price>30900</price>
+        <price>44140</price>
         <currencyId>RUR</currencyId>
         <categoryId>452</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/226/226f61cb7c3ff8a4f42c58a7fc97d768.jpeg</picture>
@@ -46289,7 +46289,6 @@
         <param name="Высота" unit="см">190</param>
         <param name="Глубина" unit="см">45</param>
         <param name="Коллекция">Berber</param>
-        <oldprice>44140</oldprice>
       </offer>
       <offer id="166722" available="true" group_id="166722">
         <url>https://i-sosna.ru/catalog/komody_i_tumby/komod_berber_dva_yashchika_i_dverki_bb46/</url>
@@ -49027,7 +49026,7 @@
       </offer>
       <offer id="167912" available="true" group_id="167912">
         <url>https://i-sosna.ru/catalog/bufety/bufet_olsa_440_428/</url>
-        <price>202290</price>
+        <price>137560</price>
         <currencyId>RUR</currencyId>
         <categoryId>388</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/5d4/fhck2ka6dauy3g8ka9n8iodwnkf4hcx9.jpeg</picture>
@@ -49041,6 +49040,7 @@
         <param name="Глубина" unit="см">47</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Ольса</param>
+        <oldprice>202290</oldprice>
       </offer>
       <offer id="167914" available="true" group_id="167914">
         <url>https://i-sosna.ru/catalog/komody/komod_olsa_204/</url>
@@ -62137,7 +62137,7 @@
       </offer>
       <offer id="176858" available="true" group_id="176858">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_olsa_101_002/</url>
-        <price>59040</price>
+        <price>40150</price>
         <currencyId>RUR</currencyId>
         <categoryId>452</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/d20/gjplz51bs4wp8z7a8m4erxwzx3i3zzod.jpeg</picture>
@@ -62151,6 +62151,7 @@
         <param name="Глубина" unit="см">38</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Ольса</param>
+        <oldprice>59040</oldprice>
       </offer>
       <offer id="176859" available="true" group_id="176859">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_olsa_101_110/</url>
