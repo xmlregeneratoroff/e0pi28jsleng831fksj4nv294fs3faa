@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-01T05:21:35+03:00">
+<yml_catalog date="2026-01-01T16:11:45+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -61097,7 +61097,7 @@
       </offer>
       <offer id="175704" available="true" group_id="175704">
         <url>https://i-sosna.ru/catalog/detskie_krovati/krovat_cherdak_tvist_loft_so_sploshnym_ograzhdeniem/</url>
-        <price>71800</price>
+        <price>64620</price>
         <currencyId>RUR</currencyId>
         <categoryId>407</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/295/mdnmpouk7wj1dxuwm5cizh5fz7lu3oxu.jpeg</picture>
@@ -61111,6 +61111,7 @@
         <param name="Глубина" unit="см">87</param>
         <param name="Материал">ЛДСП/МДФ</param>
         <param name="Коллекция">Твист Лофт</param>
+        <oldprice>71800</oldprice>
       </offer>
       <offer id="175705" available="true" group_id="175705">
         <url>https://i-sosna.ru/catalog/detskie_krovati/krovat_cherdak_tvist_loft_malaya/</url>
@@ -72458,7 +72459,7 @@
       </offer>
       <offer id="186158" available="true" group_id="186158">
         <url>https://i-sosna.ru/catalog/komody/komod_nicole_s_3_dverkami/</url>
-        <price>30890</price>
+        <price>44120</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/f78/zovgn3a1r8vmw09jtl006mx3ibgi8lkb.jpeg</picture>
@@ -72471,7 +72472,6 @@
         <param name="Глубина" unit="см">45</param>
         <param name="Материал">МДФ;Массив березы</param>
         <param name="Коллекция">Nicole</param>
-        <oldprice>44120</oldprice>
       </offer>
       <offer id="186159" available="true" group_id="186159">
         <url>https://i-sosna.ru/catalog/komody/komod_nicole_s_8_yashchikami/</url>
@@ -72509,7 +72509,7 @@
       </offer>
       <offer id="186161" available="true" group_id="186161">
         <url>https://i-sosna.ru/catalog/komody/komod_nicole_s_4_yashchikami/</url>
-        <price>26220</price>
+        <price>37450</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/b0b/166i5oxcghv23ntlf0b9vwiluclyxn89.jpeg</picture>
@@ -72522,7 +72522,6 @@
         <param name="Глубина" unit="см">45</param>
         <param name="Материал">МДФ;Массив березы</param>
         <param name="Коллекция">Nicole</param>
-        <oldprice>37450</oldprice>
       </offer>
       <offer id="186162" available="true" group_id="186162">
         <url>https://i-sosna.ru/catalog/tumby_pod_tv/komod_pod_tv_nicole_s_4_yashchikami/</url>
@@ -72678,7 +72677,7 @@
       </offer>
       <offer id="186171" available="true" group_id="186171">
         <url>https://i-sosna.ru/catalog/tumby_pod_tv/komod_pod_tv_nicole_s_nishey/</url>
-        <price>28040</price>
+        <price>40050</price>
         <currencyId>RUR</currencyId>
         <categoryId>403</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/bf8/wxevb9yj4ym998lbc0njhlvub93v7a14.jpeg</picture>
@@ -72691,7 +72690,6 @@
         <param name="Глубина" unit="см">45</param>
         <param name="Материал">МДФ;Массив березы</param>
         <param name="Коллекция">Nicole</param>
-        <oldprice>40050</oldprice>
       </offer>
       <offer id="186172" available="true" group_id="186172">
         <url>https://i-sosna.ru/catalog/tumby_prikrovatnye/tumbochka_nicole_s_dverkoy/</url>
