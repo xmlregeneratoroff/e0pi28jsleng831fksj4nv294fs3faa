@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-31T16:12:50+03:00">
+<yml_catalog date="2026-01-01T05:21:35+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -48315,7 +48315,7 @@
       </offer>
       <offer id="167702" available="true" group_id="167702">
         <url>https://i-sosna.ru/catalog/stulya/stul_detskiy_reguliruemyy_po_vysote_robin_wood/</url>
-        <price>4720</price>
+        <price>5240</price>
         <currencyId>RUR</currencyId>
         <categoryId>460</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/732/lo29gronc6hz50hy4xov01nbm7stx74p.jpeg</picture>
@@ -48330,7 +48330,6 @@
         <param name="Материал">Массива березы / ЛДСП</param>
         <param name="Коллекция">Робин Wood</param>
         <weight>8</weight>
-        <oldprice>5240</oldprice>
       </offer>
       <offer id="167706" available="true" group_id="167706">
         <url>https://i-sosna.ru/catalog/dvukhyarusnye_krovati/yashchik_vykatnoy_robin_wood/</url>
@@ -48800,7 +48799,7 @@
       </offer>
       <offer id="167830" available="true" group_id="167830">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_2_stv_robin_layt/</url>
-        <price>38740</price>
+        <price>34870</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/fe7/fe7cf9a25769f3656650541e6be14919.jpeg</picture>
@@ -48815,6 +48814,7 @@
         <param name="Материал">Массив березы / ЛДСП</param>
         <param name="Коллекция">Робин Wood Лайт</param>
         <weight>103</weight>
+        <oldprice>38740</oldprice>
       </offer>
       <offer id="167831" available="true" group_id="167831">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_malyy_robin_layt/</url>
