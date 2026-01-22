@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-21T16:16:35+03:00">
+<yml_catalog date="2026-01-22T05:18:02+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -2526,7 +2526,7 @@
       </offer>
       <offer id="7128" available="true" group_id="7128">
         <url>https://i-sosna.ru/catalog/veshalki/veshalka_dlya_odezhdy_konstantin_s_polkoy/</url>
-        <price>12600</price>
+        <price>12880</price>
         <currencyId>RUR</currencyId>
         <categoryId>436</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/217/217aebeef12f3c2ebf329d76f7d6a499.jpeg</picture>
@@ -4403,7 +4403,7 @@
       </offer>
       <offer id="10384" available="true" group_id="10384">
         <url>https://i-sosna.ru/catalog/divany_krovati/divan_krovat_3_kh_mestnyy_delfin_bayu_bay_dk_3b/</url>
-        <price>104100</price>
+        <price>106410</price>
         <currencyId>RUR</currencyId>
         <categoryId>391</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/2b7/2b7cb466fd291c7e77aba4bcff283479.png</picture>
@@ -6718,7 +6718,7 @@
       </offer>
       <offer id="13488" available="true" group_id="13488">
         <url>https://i-sosna.ru/catalog/komody/komod_trio/</url>
-        <price>23980</price>
+        <price>24510</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/6bd/6bd3035242b7bff00a7e4ffc7c4c37ef.png</picture>
@@ -6772,7 +6772,7 @@
       </offer>
       <offer id="13492" available="true" group_id="13492">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_dvukhdvernyy_s_2_yashchikami_skandinaviya/</url>
-        <price>53630</price>
+        <price>54820</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/6b0/6b0def2d2075fd7f399a7810bf275200.jpeg</picture>
@@ -6808,7 +6808,7 @@
       </offer>
       <offer id="13478" available="true" group_id="13478">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_chetyrekhdvernyy_german_4ya_s_yashchikami/</url>
-        <price>61510</price>
+        <price>62880</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/954/9548da1eb0358c41a329c88ba14c7c60.png</picture>
@@ -17846,7 +17846,7 @@
       </offer>
       <offer id="137248" available="true" group_id="137248">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_pismennyy_1200/</url>
-        <price>17360</price>
+        <price>17740</price>
         <currencyId>RUR</currencyId>
         <categoryId>458</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/113/1130f423475f3e7b5c5375edeed22c51.jpeg</picture>
@@ -27916,7 +27916,7 @@
       </offer>
       <offer id="155651" available="true" group_id="155651">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_kompyuternyy_kosta_blanka_ugl_levyy/</url>
-        <price>30550</price>
+        <price>33600</price>
         <currencyId>RUR</currencyId>
         <categoryId>458</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/916/916142b0a1b9b069f8cd424ff5607cab.png</picture>
@@ -27929,7 +27929,6 @@
         <param name="Высота" unit="см">75</param>
         <param name="Глубина" unit="см">110</param>
         <param name="Коллекция">Коста Бланка</param>
-        <oldprice>33600</oldprice>
       </offer>
       <offer id="155652" available="true" group_id="155652">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_kompyuternyy_kosta_blanka_ugl_pravyy/</url>
@@ -34505,7 +34504,7 @@
       </offer>
       <offer id="160213" available="true" group_id="160213">
         <url>https://i-sosna.ru/catalog/vzroslye_krovati/krovat_kosta_blanka_v_kr_334f_1800_2000/</url>
-        <price>40910</price>
+        <price>45000</price>
         <currencyId>RUR</currencyId>
         <categoryId>780</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/416/416fd2267b97740f67edb4aa2b522a70.jpeg</picture>
@@ -34519,7 +34518,6 @@
         <param name="Глубина" unit="см">210</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Коста Бланка</param>
-        <oldprice>45000</oldprice>
       </offer>
       <offer id="160257" available="true" group_id="160257">
         <url>https://i-sosna.ru/catalog/stulya/stul_skandiya/</url>
@@ -38127,7 +38125,7 @@
       </offer>
       <offer id="162473" available="true" group_id="162473">
         <url>https://i-sosna.ru/catalog/uglovye_zaversheniya/stellazh_lev_prav_kosta_blanka/</url>
-        <price>24090</price>
+        <price>26500</price>
         <currencyId>RUR</currencyId>
         <categoryId>465</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/267/267595bbd6a4dfea30f86f723f2d9241.jpeg</picture>
@@ -38140,7 +38138,6 @@
         <param name="Высота" unit="см">220</param>
         <param name="Глубина" unit="см">61</param>
         <param name="Коллекция">Коста Бланка</param>
-        <oldprice>26500</oldprice>
       </offer>
       <offer id="162511" available="true" group_id="162511">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_knig/shkaf_knizhnyy_ari_provans_3/</url>
