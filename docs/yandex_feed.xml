@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-24T05:11:06+03:00">
+<yml_catalog date="2026-01-24T16:06:59+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -6754,7 +6754,7 @@
       </offer>
       <offer id="13491" available="true" group_id="13491">
         <url>https://i-sosna.ru/catalog/vzroslye_krovati/krovat_uslada/</url>
-        <price>17250</price>
+        <price>17630</price>
         <currencyId>RUR</currencyId>
         <categoryId>780</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/b19/b192308527b00703734b74fcd69c015f.png</picture>
@@ -27413,7 +27413,7 @@
       </offer>
       <offer id="154792" available="true" group_id="154792">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_platyanoy_timbers_kids/</url>
-        <price>18550</price>
+        <price>20400</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/fb7/2p11vm0nlke3jkfpghkpi3763hs36znq.png</picture>
@@ -27427,7 +27427,6 @@
         <param name="Глубина" unit="см">55</param>
         <param name="Цвет">Белый</param>
         <param name="Коллекция">Тимберс Кидс</param>
-        <oldprice>20400</oldprice>
       </offer>
       <offer id="154793" available="true" group_id="154793">
         <url>https://i-sosna.ru/catalog/stellazhi/tumba_stellazh_timbers_kids/</url>
