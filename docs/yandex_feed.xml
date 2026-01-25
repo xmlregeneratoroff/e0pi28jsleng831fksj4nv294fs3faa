@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-25T05:24:49+03:00">
+<yml_catalog date="2026-01-25T16:08:37+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -1908,7 +1908,7 @@
       </offer>
       <offer id="6964" available="true" group_id="6964">
         <url>https://i-sosna.ru/catalog/kresla_i_kresla_krovati_1/kreslo_skandinaviya/</url>
-        <price>27790</price>
+        <price>28410</price>
         <currencyId>RUR</currencyId>
         <categoryId>834</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/8e1/8e18e192e3a339a148a72c1915377d5b.jpeg</picture>
@@ -4998,7 +4998,7 @@
       </offer>
       <offer id="13143" available="true" group_id="13143">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_prikhozhey/shkaf_dvukhdvernyy_konstantin_s_polkami/</url>
-        <price>33390</price>
+        <price>34140</price>
         <currencyId>RUR</currencyId>
         <categoryId>439</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/c1e/c1e6d7661fd483e9e81be053f1d60d82.jpeg</picture>
@@ -5034,7 +5034,7 @@
       </offer>
       <offer id="13107" available="true" group_id="13107">
         <url>https://i-sosna.ru/catalog/skami_i_lavki/skamya_so_spinkoy_skandinaviya_1800/</url>
-        <price>18000</price>
+        <price>18400</price>
         <currencyId>RUR</currencyId>
         <categoryId>450</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/115/115af14274b9fe537d3cd2dd596eaf6e.jpeg</picture>
@@ -5714,7 +5714,7 @@
       </offer>
       <offer id="13401" available="true" group_id="13401">
         <url>https://i-sosna.ru/catalog/sunduki/sunduk_s_ploskoy_kryshkoy_skandinaviya/</url>
-        <price>18670</price>
+        <price>19090</price>
         <currencyId>RUR</currencyId>
         <categoryId>461</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/e31/e31c9188105e6a5cb68dea2a7502e57d.jpeg</picture>
@@ -8430,7 +8430,7 @@
       </offer>
       <offer id="13702" available="true" group_id="13702">
         <url>https://i-sosna.ru/catalog/stoly_obedennye/stol_omega/</url>
-        <price>15790</price>
+        <price>16140</price>
         <currencyId>RUR</currencyId>
         <categoryId>457</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/f80/f80aa261b329e51eba1721144f91c0a2.jpeg</picture>
@@ -8769,7 +8769,7 @@
       </offer>
       <offer id="15707" available="true" group_id="15707">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_kompyuternyy_uglovoy_980_kn_01/</url>
-        <price>30510</price>
+        <price>31190</price>
         <currencyId>RUR</currencyId>
         <categoryId>458</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/d1e/d1ed904849bbf13b8907ee6538fd5dfd.jpeg</picture>
@@ -9075,7 +9075,7 @@
       </offer>
       <offer id="15720" available="true" group_id="15720">
         <url>https://i-sosna.ru/catalog/vzroslye_krovati/krovat_gusar/</url>
-        <price>14220</price>
+        <price>14530</price>
         <currencyId>RUR</currencyId>
         <categoryId>780</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/349/3493a512d22c73161e038b5003a374c8.png</picture>
@@ -27622,7 +27622,7 @@
       </offer>
       <offer id="154801" available="true" group_id="154801">
         <url>https://i-sosna.ru/catalog/detskie_krovati/yashchik_krovati_kr_040_timbers_kids/</url>
-        <price>8190</price>
+        <price>9000</price>
         <currencyId>RUR</currencyId>
         <categoryId>407</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/bb8/fmafy7rpu2hkwyopgjsbo6unnx0e4ceo.png</picture>
@@ -27636,7 +27636,6 @@
         <param name="Глубина" unit="см">80</param>
         <param name="Цвет">Белый</param>
         <param name="Коллекция">Тимберс Кидс</param>
-        <oldprice>9000</oldprice>
       </offer>
       <offer id="154802" available="true" group_id="154802">
         <url>https://i-sosna.ru/catalog/polki/polka_trio_timbers_kids/</url>
