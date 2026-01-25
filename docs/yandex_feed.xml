@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-24T16:06:59+03:00">
+<yml_catalog date="2026-01-25T05:24:49+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -1997,7 +1997,7 @@
       </offer>
       <offer id="7065" available="true" group_id="7065">
         <url>https://i-sosna.ru/catalog/kresla_i_kresla_krovati_1/kreslo_tandem_skandinaviya/</url>
-        <price>62360</price>
+        <price>63740</price>
         <currencyId>RUR</currencyId>
         <categoryId>834</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/a0a/a0a309afb31694aaf5c3a8c7b4a252b4.jpeg</picture>
@@ -4421,7 +4421,7 @@
       </offer>
       <offer id="10398" available="true" group_id="10398">
         <url>https://i-sosna.ru/catalog/tumby_dlya_obuvi/tumba_dlya_obuvi_skandinaviya/</url>
-        <price>12150</price>
+        <price>12420</price>
         <currencyId>RUR</currencyId>
         <categoryId>438</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/9a1/9a18e5076781451ef3744bd44b194572.jpeg</picture>
@@ -7913,7 +7913,7 @@
       </offer>
       <offer id="13644" available="true" group_id="13644">
         <url>https://i-sosna.ru/catalog/shkafy_uglovye/shkaf_uglovoy_oskar_880/</url>
-        <price>44990</price>
+        <price>45990</price>
         <currencyId>RUR</currencyId>
         <categoryId>468</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/26d/26dac364483c6d0c348bbc607e1aa584.jpeg</picture>
@@ -7949,7 +7949,7 @@
       </offer>
       <offer id="13645" available="true" group_id="13645">
         <url>https://i-sosna.ru/catalog/shkafy_uglovye/shkaf_uglovoy_konstantin_825kh825/</url>
-        <price>45220</price>
+        <price>46230</price>
         <currencyId>RUR</currencyId>
         <categoryId>468</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/f74/f742a6ccab015fb869db7cde2d02b0b0.jpeg</picture>
@@ -27838,7 +27838,7 @@
       </offer>
       <offer id="155647" available="true" group_id="155647">
         <url>https://i-sosna.ru/catalog/tumby/tumba_stola_kosta_blanka/</url>
-        <price>17730</price>
+        <price>19500</price>
         <currencyId>RUR</currencyId>
         <categoryId>402</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/c95/c956d7a44657f0b09e8a8b3e1ada83cb.png</picture>
@@ -27851,7 +27851,6 @@
         <param name="Высота" unit="см">55</param>
         <param name="Глубина" unit="см">44</param>
         <param name="Коллекция">Коста Бланка</param>
-        <oldprice>19500</oldprice>
       </offer>
       <offer id="155648" available="true" group_id="155648">
         <url>https://i-sosna.ru/catalog/tumby_prikrovatnye/tumba_prikrovatnaya_2_yashchika_kosta_blanka/</url>
@@ -29025,7 +29024,7 @@
       </offer>
       <offer id="155806" available="true" group_id="155806">
         <url>https://i-sosna.ru/catalog/kukhnya_valensiya/kukhnya_valensiya_polka_pod_shkaf_300/</url>
-        <price>1990</price>
+        <price>2180</price>
         <currencyId>RUR</currencyId>
         <categoryId>748</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/203/2030f57cbe3d8d9263bc53794613df45.png</picture>
@@ -29037,7 +29036,6 @@
         <param name="Ширина" unit="см">30</param>
         <param name="Высота" unit="см">19</param>
         <param name="Глубина" unit="см">30</param>
-        <oldprice>2180</oldprice>
       </offer>
       <offer id="155807" available="true" group_id="155807">
         <url>https://i-sosna.ru/catalog/kukhnya_valensiya/kukhnya_valensiya_polka_pod_shkaf_400/</url>
