@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-31T16:15:22+03:00">
+<yml_catalog date="2026-02-01T05:56:13+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -5211,7 +5211,7 @@
       </offer>
       <offer id="13153" available="true" group_id="13153">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_khelsinki_s_1_yashchikom/</url>
-        <price>24910</price>
+        <price>26680</price>
         <currencyId>RUR</currencyId>
         <categoryId>452</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/c55/c554653abb26580538f90556c0850f9b.jpeg</picture>
@@ -5225,7 +5225,7 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Мальта/Хельсинки</param>
-        <oldprice>34590</oldprice>
+        <oldprice>41040</oldprice>
       </offer>
       <offer id="13148" available="true" group_id="13148">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_khelsinki_5_gt_m/</url>
@@ -5246,7 +5246,7 @@
       </offer>
       <offer id="13149" available="true" group_id="13149">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_khelsinki_21/</url>
-        <price>51990</price>
+        <price>36330</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/387/387751ebf5bd3a91387894a34a57b208.jpeg</picture>
@@ -5260,6 +5260,7 @@
         <param name="Глубина" unit="см">47</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Мальта/Хельсинки</param>
+        <oldprice>55890</oldprice>
       </offer>
       <offer id="13163" available="true" group_id="13163">
         <url>https://i-sosna.ru/catalog/zerkala/polka_zerkalo_sindi/</url>
@@ -5298,7 +5299,7 @@
       </offer>
       <offer id="13305" available="true" group_id="13305">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_khelsinki_3_gt_m/</url>
-        <price>136590</price>
+        <price>88790</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/2ec/2ec03ed780531f645f0b815dda0c5e34.jpeg</picture>
@@ -5312,6 +5313,7 @@
         <param name="Глубина" unit="см">62</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Мальта/Хельсинки</param>
+        <oldprice>136590</oldprice>
       </offer>
       <offer id="13306" available="true" group_id="13306">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_khelsinki_5_sp_gt_m/</url>
@@ -7265,7 +7267,7 @@
       </offer>
       <offer id="13537" available="true" group_id="13537">
         <url>https://i-sosna.ru/catalog/tumby_prikrovatnye/tumba_prikrovatnaya_khelsinki_11/</url>
-        <price>9360</price>
+        <price>9810</price>
         <currencyId>RUR</currencyId>
         <categoryId>404</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/7e0/7e0819572bde8927d753c77fe947ba0d.jpeg</picture>
@@ -7279,7 +7281,7 @@
         <param name="Глубина" unit="см">40</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Мальта/Хельсинки</param>
-        <oldprice>12990</oldprice>
+        <oldprice>15090</oldprice>
       </offer>
       <offer id="13538" available="true" group_id="13538">
         <url>https://i-sosna.ru/catalog/stoly_obedennye/stol_obedennyy_skandinaviya_1400/</url>
@@ -14141,7 +14143,7 @@
       </offer>
       <offer id="135888" available="true" group_id="135888">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/nadstroyka_pismennogo_stola_sielo/</url>
-        <price>12690</price>
+        <price>10200</price>
         <currencyId>RUR</currencyId>
         <categoryId>458</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/37f/37f74e92746c9cc425e90bf224c47a36.jpeg</picture>
@@ -14155,6 +14157,7 @@
         <param name="Глубина" unit="см">24</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сиело</param>
+        <oldprice>15690</oldprice>
       </offer>
       <offer id="135889" available="true" group_id="135889">
         <url>https://i-sosna.ru/catalog/mebelnaya_komplektatsiya/vstraivaemye_polki_sielo_/</url>
@@ -14625,7 +14628,7 @@
       </offer>
       <offer id="135684" available="true" group_id="135684">
         <url>https://i-sosna.ru/catalog/polki/polka_nastennaya_sielo_stellazh/</url>
-        <price>5040</price>
+        <price>4840</price>
         <currencyId>RUR</currencyId>
         <categoryId>447</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/55e/55ed0c2bd3a2776938547c58d05b522f.jpeg</picture>
@@ -14639,7 +14642,7 @@
         <param name="Глубина" unit="см">23</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сиело</param>
-        <oldprice>6990</oldprice>
+        <oldprice>7440</oldprice>
       </offer>
       <offer id="135685" available="true" group_id="135685">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_sielo_uzkiy/</url>
@@ -14875,7 +14878,7 @@
       </offer>
       <offer id="135744" available="true" group_id="135744">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_2_kh_dvernyy_sielo/</url>
-        <price>43270</price>
+        <price>41890</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/d50/d50a6c5eb1a3a07c7db8f0398cd354b7.jpeg</picture>
@@ -14889,7 +14892,7 @@
         <param name="Глубина" unit="см">62</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сиело</param>
-        <oldprice>60090</oldprice>
+        <oldprice>64440</oldprice>
       </offer>
       <offer id="135745" available="true" group_id="135745">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_3_kh_dvernyy_sielo/</url>
@@ -14929,7 +14932,7 @@
       </offer>
       <offer id="135747" available="true" group_id="135747">
         <url>https://i-sosna.ru/catalog/tumby_prikrovatnye/tumba_sielo_podkatnaya/</url>
-        <price>11790</price>
+        <price>9420</price>
         <currencyId>RUR</currencyId>
         <categoryId>404</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/41a/41a492f12d0ee2541b8c3b376377e9f9.jpeg</picture>
@@ -14943,6 +14946,7 @@
         <param name="Глубина" unit="см">42</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сиело</param>
+        <oldprice>14490</oldprice>
       </offer>
       <offer id="135749" available="true" group_id="135749">
         <url>https://i-sosna.ru/catalog/komody/komod_sielo_shirokiy_77333/</url>
@@ -15105,7 +15109,7 @@
       </offer>
       <offer id="136063" available="true" group_id="136063">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_pismennyy_khelsinki_07_2_kh_tumbovyy/</url>
-        <price>53040</price>
+        <price>41010</price>
         <currencyId>RUR</currencyId>
         <categoryId>458</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/3e7/3e7a7868c6edb4bdd8b6ea777458d3da.jpeg</picture>
@@ -15119,6 +15123,7 @@
         <param name="Глубина" unit="см">76</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Мальта/Хельсинки</param>
+        <oldprice>63090</oldprice>
       </offer>
       <offer id="136064" available="true" group_id="136064">
         <url>https://i-sosna.ru/catalog/tumby_prikrovatnye/tumba_khelsinki_03/</url>
@@ -15296,7 +15301,7 @@
       </offer>
       <offer id="136210" available="true" group_id="136210">
         <url>https://i-sosna.ru/catalog/polki/polka_nastennaya_rauna_110/</url>
-        <price>7200</price>
+        <price>6890</price>
         <currencyId>RUR</currencyId>
         <categoryId>447</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/01a/01ab835b211f212cfca9998365affda5.jpeg</picture>
@@ -15310,7 +15315,7 @@
         <param name="Глубина" unit="см">27</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Рауна</param>
-        <oldprice>9990</oldprice>
+        <oldprice>10590</oldprice>
       </offer>
       <offer id="136211" available="true" group_id="136211">
         <url>https://i-sosna.ru/catalog/polki/polka_nastennaya_rauna_165/</url>
@@ -15457,7 +15462,7 @@
       </offer>
       <offer id="136220" available="true" group_id="136220">
         <url>https://i-sosna.ru/catalog/vitriny/shkaf_dlya_posudy_rauna_20/</url>
-        <price>42240</price>
+        <price>33120</price>
         <currencyId>RUR</currencyId>
         <categoryId>389</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/f9c/f9cc32a00e4fdfcf1a4a3289571945ab.png</picture>
@@ -15471,6 +15476,7 @@
         <param name="Глубина" unit="см">37</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Рауна</param>
+        <oldprice>50940</oldprice>
       </offer>
       <offer id="136259" available="true" group_id="136259">
         <url>https://i-sosna.ru/catalog/mebelnaya_komplektatsiya/polka_shkafa_khelsinki_2_2gt_2gt_m_2m/</url>
@@ -15491,7 +15497,7 @@
       </offer>
       <offer id="136260" available="true" group_id="136260">
         <url>https://i-sosna.ru/catalog/mebelnaya_komplektatsiya/stenka_vstraivaemaya_shkafa_khelsinki_2gt_m_2m_stenka_3_polki_shtanga/</url>
-        <price>13290</price>
+        <price>9030</price>
         <currencyId>RUR</currencyId>
         <categoryId>840</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/f8f/f8f0ab3b44eb76a6e5cacf8c637c202f.jpeg</picture>
@@ -15505,6 +15511,7 @@
         <param name="Глубина" unit="см">0</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Мальта/Хельсинки</param>
+        <oldprice>13890</oldprice>
       </offer>
       <offer id="136262" available="true" group_id="136262">
         <url>https://i-sosna.ru/catalog/mebelnaya_komplektatsiya/polka_shkafa_khelsinki_3_63/</url>
@@ -34157,7 +34164,7 @@
       </offer>
       <offer id="160067" available="true" group_id="160067">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_pismennyy_rauna_14/</url>
-        <price>56490</price>
+        <price>36720</price>
         <currencyId>RUR</currencyId>
         <categoryId>458</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/96b/96b26d71f315c7d11a99cd3d25a5f451.jpeg</picture>
@@ -34171,10 +34178,11 @@
         <param name="Глубина" unit="см">60</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Рауна</param>
+        <oldprice>56490</oldprice>
       </offer>
       <offer id="160068" available="true" group_id="160068">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_pismennyy_rauna_20/</url>
-        <price>34200</price>
+        <price>33800</price>
         <currencyId>RUR</currencyId>
         <categoryId>458</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/8fc/8fc874e64d8b80cfbfdf9366b8e39b77.jpeg</picture>
@@ -34188,7 +34196,7 @@
         <param name="Глубина" unit="см">60</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Рауна</param>
-        <oldprice>47490</oldprice>
+        <oldprice>51990</oldprice>
       </offer>
       <offer id="160069" available="true" group_id="160069">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_rauna_20/</url>
@@ -34210,7 +34218,7 @@
       </offer>
       <offer id="160070" available="true" group_id="160070">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_rauna_30/</url>
-        <price>53040</price>
+        <price>34480</price>
         <currencyId>RUR</currencyId>
         <categoryId>452</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/09e/09e1a6478d87d04434fc138b844e1d0e.jpeg</picture>
@@ -34224,6 +34232,7 @@
         <param name="Глубина" unit="см">32</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Рауна</param>
+        <oldprice>53040</oldprice>
       </offer>
       <offer id="160144" available="true" group_id="160144">
         <url>https://i-sosna.ru/catalog/stoly_obedennye/stol_120_kruglyy_nerazdvizhnoy_tab_r_120_st/</url>
@@ -34245,7 +34254,7 @@
       </offer>
       <offer id="160152" available="true" group_id="160152">
         <url>https://i-sosna.ru/catalog/vzroslye_krovati/krovat_rauna_m_140_bi/</url>
-        <price>54090</price>
+        <price>35160</price>
         <currencyId>RUR</currencyId>
         <categoryId>780</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/2b3/2b3085b9b2e9dca55fa12c0e9143b863.jpeg</picture>
@@ -34259,6 +34268,7 @@
         <param name="Глубина" unit="см">215</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Рауна</param>
+        <oldprice>54090</oldprice>
       </offer>
       <offer id="160153" available="true" group_id="160153">
         <url>https://i-sosna.ru/catalog/vzroslye_krovati/krovat_rauna_m_160_bi/</url>
@@ -44620,7 +44630,7 @@
       </offer>
       <offer id="166127" available="true" group_id="166127">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_olsa_202_200/</url>
-        <price>53920</price>
+        <price>47580</price>
         <currencyId>RUR</currencyId>
         <categoryId>452</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/39f/5ocjzwpcy26iivw2i5se2nb6z6e0web0.jpeg</picture>
@@ -44691,7 +44701,7 @@
       </offer>
       <offer id="166145" available="true" group_id="166145">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_pismennyy_olsa_003/</url>
-        <price>25160</price>
+        <price>22200</price>
         <currencyId>RUR</currencyId>
         <categoryId>458</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/53f/44ynd7qfct6rr7qdbmqv5ru1q665fsvv.jpeg</picture>
@@ -48866,7 +48876,7 @@
       </offer>
       <offer id="167916" available="true" group_id="167916">
         <url>https://i-sosna.ru/catalog/komody/komod_olsa_221/</url>
-        <price>46140</price>
+        <price>27690</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/c7a/m2p7vna0gafrnm78f5sn7wqhcjozyxes.jpeg</picture>
@@ -48880,6 +48890,7 @@
         <param name="Глубина" unit="см">47</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Ольса</param>
+        <oldprice>46140</oldprice>
       </offer>
       <offer id="167917" available="true" group_id="167917">
         <url>https://i-sosna.ru/catalog/komody/komod_olsa_324/</url>
@@ -54412,7 +54423,7 @@
       </offer>
       <offer id="172677" available="true" group_id="172677">
         <url>https://i-sosna.ru/catalog/tumby_pod_tv/tumba_tv_randevu_22_massiv_sosny/</url>
-        <price>49290</price>
+        <price>36140</price>
         <currencyId>RUR</currencyId>
         <categoryId>403</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/09f/mxtqfwfs11uochx1d7gb51ki0kexorrq.jpeg</picture>
@@ -54426,6 +54437,7 @@
         <param name="Глубина" unit="см">41</param>
         <param name="Материал">Массив сосны;МДФ</param>
         <param name="Коллекция">Рандеву</param>
+        <oldprice>50190</oldprice>
       </offer>
       <offer id="172696" available="true" group_id="172696">
         <url>https://i-sosna.ru/catalog/komody_i_tumby/komod_nord_120_/</url>
@@ -58744,7 +58756,7 @@
       </offer>
       <offer id="175210" available="true" group_id="175210">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/pismennyy_stol_20_lenskiy/</url>
-        <price>51200</price>
+        <price>47710</price>
         <currencyId>RUR</currencyId>
         <categoryId>458</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/a0e/xkcgx7syx2td2e3pj6hx6e5te2n99zxp.jpeg</picture>
@@ -58758,6 +58770,7 @@
         <param name="Глубина" unit="см">66</param>
         <param name="Материал">Массив березы</param>
         <param name="Коллекция">Тадорна</param>
+        <oldprice>59630</oldprice>
       </offer>
       <offer id="175213" available="true" group_id="175213">
         <url>https://i-sosna.ru/catalog/komody/komod_4205_a_grandison/</url>
@@ -59004,7 +59017,7 @@
       </offer>
       <offer id="175227" available="true" group_id="175227">
         <url>https://i-sosna.ru/catalog/komody/komod_65_dadon_5/</url>
-        <price>41440</price>
+        <price>43910</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/478/z5ajeje8onao1r291fmzbl94g2bb33b0.jpeg</picture>
@@ -59018,6 +59031,7 @@
         <param name="Глубина" unit="см">32</param>
         <param name="Материал">Массив березы</param>
         <param name="Коллекция">Тадорна</param>
+        <oldprice>54880</oldprice>
       </offer>
       <offer id="175228" available="true" group_id="175228">
         <url>https://i-sosna.ru/catalog/komody/komod_63_dadon_3/</url>
@@ -59740,7 +59754,7 @@
       </offer>
       <offer id="175626" available="true" group_id="175626">
         <url>https://i-sosna.ru/catalog/detskie_krovati/krovat_2_2_temno_seryy_loft/</url>
-        <price>22670</price>
+        <price>18140</price>
         <currencyId>RUR</currencyId>
         <categoryId>407</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/240/nfef69qxzfhsubl36oidhz6v6d4e767b.jpeg</picture>
@@ -59754,6 +59768,7 @@
         <param name="Глубина" unit="см">94</param>
         <param name="Материал">ЛДСП/Дуб</param>
         <param name="Коллекция">2+2</param>
+        <oldprice>22670</oldprice>
       </offer>
       <offer id="175627" available="true" group_id="175627">
         <url>https://i-sosna.ru/catalog/polki/polka_2_2_belaya/</url>
@@ -59809,7 +59824,7 @@
       </offer>
       <offer id="175631" available="true" group_id="175631">
         <url>https://i-sosna.ru/catalog/polki/polka_2_2_temno_seryy_loft/</url>
-        <price>8580</price>
+        <price>6870</price>
         <currencyId>RUR</currencyId>
         <categoryId>447</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/a6f/p41ga6bx2zpiq1tgk0jtgoz6uej0e0vy.jpeg</picture>
@@ -59823,10 +59838,11 @@
         <param name="Глубина" unit="см">28</param>
         <param name="Материал">ЛДСП/Дуб</param>
         <param name="Коллекция">2+2</param>
+        <oldprice>8580</oldprice>
       </offer>
       <offer id="175632" available="true" group_id="175632">
         <url>https://i-sosna.ru/catalog/stellazhi/uzkiy_stellazh_2_2_belyy/</url>
-        <price>19260</price>
+        <price>15410</price>
         <currencyId>RUR</currencyId>
         <categoryId>452</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/d25/rkwroukca48erhx7m7nfkl43tt990zq8.jpeg</picture>
@@ -59840,6 +59856,7 @@
         <param name="Глубина" unit="см">40</param>
         <param name="Материал">ЛДСП/Дуб</param>
         <param name="Коллекция">2+2</param>
+        <oldprice>19260</oldprice>
       </offer>
       <offer id="175634" available="true" group_id="175634">
         <url>https://i-sosna.ru/catalog/stellazhi/uzkiy_stellazh_2_2_oliva/</url>
@@ -59912,7 +59929,7 @@
       </offer>
       <offer id="175639" available="true" group_id="175639">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_s_tumboy_2_2_oliva/</url>
-        <price>22570</price>
+        <price>18060</price>
         <currencyId>RUR</currencyId>
         <categoryId>458</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/27b/i1lkaeru8juwshr7hyiau26smw0zwy10.jpeg</picture>
@@ -59926,6 +59943,7 @@
         <param name="Глубина" unit="см">60</param>
         <param name="Материал">ЛДСП/Дуб</param>
         <param name="Коллекция">2+2</param>
+        <oldprice>22570</oldprice>
       </offer>
       <offer id="175640" available="true" group_id="175640">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_s_tumboy_2_2_san_leon/</url>
@@ -60138,7 +60156,7 @@
       </offer>
       <offer id="175655" available="true" group_id="175655">
         <url>https://i-sosna.ru/catalog/komody/komod_2_2_oliva/</url>
-        <price>23190</price>
+        <price>18560</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/a78/mbjhw2sfwyneuvrbx6ofa4jieevohzmh.jpeg</picture>
@@ -60152,6 +60170,7 @@
         <param name="Глубина" unit="см">40</param>
         <param name="Материал">ЛДСП/Дуб</param>
         <param name="Коллекция">2+2</param>
+        <oldprice>23190</oldprice>
       </offer>
       <offer id="175656" available="true" group_id="175656">
         <url>https://i-sosna.ru/catalog/komody/komod_2_2_san_leon/</url>
@@ -60189,7 +60208,7 @@
       </offer>
       <offer id="175658" available="true" group_id="175658">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_knig/penal_2_2_belyy/</url>
-        <price>19810</price>
+        <price>15850</price>
         <currencyId>RUR</currencyId>
         <categoryId>466</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/f68/vb5unnozfx11ehh2299e2ghtccen2u19.jpeg</picture>
@@ -60203,6 +60222,7 @@
         <param name="Глубина" unit="см">40</param>
         <param name="Материал">ЛДСП/Дуб</param>
         <param name="Коллекция">2+2</param>
+        <oldprice>19810</oldprice>
       </offer>
       <offer id="175660" available="true" group_id="175660">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_knig/penal_2_2_oliva/</url>
@@ -60293,7 +60313,7 @@
       </offer>
       <offer id="175666" available="true" group_id="175666">
         <url>https://i-sosna.ru/catalog/polki/dlinnaya_polka_2_2_san_leon/</url>
-        <price>15040</price>
+        <price>12040</price>
         <currencyId>RUR</currencyId>
         <categoryId>447</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/6c1/mm9mbeiszdv3qrgg3lxtacw4806ezikp.jpeg</picture>
@@ -60307,6 +60327,7 @@
         <param name="Глубина" unit="см">28</param>
         <param name="Материал">ЛДСП/Дуб</param>
         <param name="Коллекция">2+2</param>
+        <oldprice>15040</oldprice>
       </offer>
       <offer id="175667" available="true" group_id="175667">
         <url>https://i-sosna.ru/catalog/polki/dlinnaya_polka_2_2_temno_seryy_loft/</url>
@@ -60344,7 +60365,7 @@
       </offer>
       <offer id="175672" available="true" group_id="175672">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_peregorodka_2_2/</url>
-        <price>17870</price>
+        <price>14300</price>
         <currencyId>RUR</currencyId>
         <categoryId>452</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/074/1x2lw0w30evrnf4m1klj8e3ud9a37ryi.jpeg</picture>
@@ -60358,6 +60379,7 @@
         <param name="Глубина" unit="см">28</param>
         <param name="Материал">ЛДСП/Дуб</param>
         <param name="Коллекция">2+2</param>
+        <oldprice>17870</oldprice>
       </offer>
       <offer id="175673" available="true" group_id="175673">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_s_tumboy_na_2_rabochikh_mesta_2_2_belyy/</url>
@@ -61999,7 +62021,7 @@
       </offer>
       <offer id="177074" available="true" group_id="177074">
         <url>https://i-sosna.ru/catalog/bufety/bufet_olsa_440_424/</url>
-        <price>128690</price>
+        <price>113550</price>
         <currencyId>RUR</currencyId>
         <categoryId>388</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/e4d/3erhtshyknv0kme26wf1bdnvlxivvrgt.jpeg</picture>
@@ -67611,7 +67633,7 @@
       </offer>
       <offer id="180501" available="true" group_id="180501">
         <url>https://i-sosna.ru/catalog/vzroslye_krovati/krovat_olsa_90/</url>
-        <price>28010</price>
+        <price>24720</price>
         <currencyId>RUR</currencyId>
         <categoryId>780</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/c11/liuhp2jqzuvqqobwu053omxu6pgo5ui9.jpeg</picture>
@@ -72965,7 +72987,7 @@
       </offer>
       <offer id="186417" available="true" group_id="186417">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_posudy/shkaf_dlya_posudy_bon_voyazh_203/</url>
-        <price>84840</price>
+        <price>55150</price>
         <currencyId>RUR</currencyId>
         <categoryId>786</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/3f5/aznex26c4fhg4wfjtwbl2rmic8lhwd9m.jpeg</picture>
@@ -72979,6 +73001,7 @@
         <param name="Глубина" unit="см">40</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бон Вояж</param>
+        <oldprice>84840</oldprice>
       </offer>
       <offer id="186418" available="true" group_id="186418">
         <url>https://i-sosna.ru/catalog/komody/tumba_menson_42/</url>
@@ -74797,7 +74820,7 @@
       </offer>
       <offer id="187507" available="true" group_id="187507">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_pismennyy_bon_voyazh_003/</url>
-        <price>38640</price>
+        <price>25120</price>
         <currencyId>RUR</currencyId>
         <categoryId>458</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/778/ky5hpcce5wx3xmqx6t8088zsvfjb5cs0.jpeg</picture>
@@ -74811,6 +74834,7 @@
         <param name="Глубина" unit="см">60</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бон Вояж</param>
+        <oldprice>38640</oldprice>
       </offer>
       <offer id="187506" available="true" group_id="187506">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_pismennyy_bon_voyazh_021/</url>
@@ -76777,7 +76801,7 @@
       </offer>
       <offer id="193796" available="true" group_id="193796">
         <url>https://i-sosna.ru/catalog/komody/komod_bon_voyazh_04/</url>
-        <price>58440</price>
+        <price>37990</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/7d4/8mtdmf2lxkdie0jqlptvo8iyknffyyu0.jpeg</picture>
@@ -76791,6 +76815,7 @@
         <param name="Глубина" unit="см">45</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бон Вояж</param>
+        <oldprice>58440</oldprice>
       </offer>
       <offer id="193797" available="true" group_id="193797">
         <url>https://i-sosna.ru/catalog/komody/komod_bon_voyazh_07/</url>
@@ -77021,7 +77046,7 @@
       </offer>
       <offer id="193810" available="true" group_id="193810">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_pismennyy_kvadro_s_03/</url>
-        <price>30240</price>
+        <price>21710</price>
         <currencyId>RUR</currencyId>
         <categoryId>458</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/8c2/zlo4sevsy1z5qfmzglgobn7o2majwyll.jpeg</picture>
@@ -77035,6 +77060,7 @@
         <param name="Глубина" unit="см">66</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Квадро</param>
+        <oldprice>33390</oldprice>
       </offer>
       <offer id="193828" available="true" group_id="193828">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_posudy/shkaf_dlya_posudy_kvadro_s_22gt_185/</url>
@@ -77809,318 +77835,312 @@
         <description>Карельская сосна от производителя Тимберика в интернет-магазине Гармония дерева</description>
       </collection>
       <collection id="33">
-        <url>https://i-sosna.ru/catalog/series/kvadro_s/</url>
-        <picture>https://i-sosna.ru/images/no_photo.png</picture>
-        <name>Квадро-С</name>
-        <description>Квадро-С в интернет-магазине Гармония дерева</description>
-      </collection>
-      <collection id="34">
         <url>https://i-sosna.ru/catalog/series/kvadro/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/1d3/768_480_2/x8x7v8tnoqzzpfh2d4mj8ngfswnd69kd.jpg</picture>
         <name>Мебель коллекции Квадро-С, ММЦ</name>
         <description>Квадро-С от производителя ММЦ в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="35">
+      <collection id="34">
         <url>https://i-sosna.ru/catalog/series/klassik/</url>
         <picture>https://i-sosna.ru/upload/iblock/968/968975ecc1b73c62b726c22f9ba834a9.png</picture>
         <name>Мебель коллекции Классик, Тимберика</name>
         <description>Классик от производителя Тимберика в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="36">
+      <collection id="35">
         <url>https://i-sosna.ru/catalog/series/klassika_38/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/e68/768_480_2/c7949rfnshadh4bypi1lx3vnq4wgu65u.jpeg</picture>
         <name>Мебель коллекции Классика, 38 Попугаев</name>
         <description>Классика от производителя 38 Попугаев в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="37">
+      <collection id="36">
         <url>https://i-sosna.ru/catalog/series/konsolea_sindi/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/f0e/768_480_2/f0e6cfc672a6055e7072db71a1ae9759.jpg</picture>
         <name>Мебель коллекции Консолеа Синди, ММЦ - Москва</name>
         <description>Консолеа Синди от производителя ММЦ - Москва в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="38">
+      <collection id="37">
         <url>https://i-sosna.ru/catalog/series/kosta_blanka/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/8f1/768_480_2/8f10c1ccb5709e23c8cbee2cae899358.jpg</picture>
         <name>Мебель коллекции Коста Бланка, Тимберс</name>
         <description>Коста Бланка от производителя Тимберс в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="39">
+      <collection id="38">
         <url>https://i-sosna.ru/catalog/series/lebo/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/cdf/768_480_2/cdfff4cbbce9fbfc6e40084c5bcec0fc.jpeg</picture>
         <name>Мебель коллекции Лебо, ММЦ - SanRemi</name>
         <description>Лебо от производителя ММЦ - SanRemi в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="40">
+      <collection id="39">
         <url>https://i-sosna.ru/catalog/series/lirona/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/80d/768_480_2/80d146aa9eb6ace77e7a2fd2816de3a4.png</picture>
         <name>Мебель коллекции Лирона, Муромские мастера</name>
         <description>Лирона от производителя Муромские мастера в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="41">
+      <collection id="40">
         <url>https://i-sosna.ru/catalog/series/lotos/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/2e2/768_480_2/2e2987bfc799fbc0ec2f44591dcb9c06.jpg</picture>
         <name>Мебель коллекции Лотос, Пинскдрев</name>
         <description>Лотос от производителя Пинскдрев в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="42">
+      <collection id="41">
         <url>https://i-sosna.ru/catalog/series/loft_siti/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/d89/768_480_2/d89ffbcde928bbda1b5af43cbe487410.jpg</picture>
         <name>Мебель коллекции Лофт Сити, Волшебная сосна</name>
         <description>Лофт Сити от производителя Волшебная сосна в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="43">
+      <collection id="42">
         <url>https://i-sosna.ru/catalog/series/malta_khelsinki/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/a82/768_480_2/a829974aa1efd236df1117cf349f1951.jpg</picture>
         <name>Мебель коллекции Мальта/Хельсинки, ММЦ - Москва</name>
         <description>Мальта/Хельсинки от производителя ММЦ - Москва в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="44">
+      <collection id="43">
         <url>https://i-sosna.ru/catalog/series/marsel/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/420/768_480_2/0r9a0wxu3cga4c3k2bhlupn2k4870gqp.jpg</picture>
         <name>Мебель коллекции Марсель, Скандия</name>
         <description>Марсель от производителя Скандия в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="45">
+      <collection id="44">
         <url>https://i-sosna.ru/catalog/series/mebel_pmts/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/5f3/768_480_2/5f3c1d117272fd1877a02bfb378cfb9e.jpg</picture>
         <name>Мебель коллекции Мебель ПМЦ, ПМЦ</name>
         <description>Мебель ПМЦ от производителя ПМЦ в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="46">
+      <collection id="45">
         <url>https://i-sosna.ru/catalog/series/murom/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/006/768_480_2/zh3kblatbvpet6hf28tu9crm9cnjygxy.jpg</picture>
         <name>Мебель коллекции Муром, Муром мебель</name>
         <description>Муром от производителя Муром мебель в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="47">
+      <collection id="46">
         <url>https://i-sosna.ru/catalog/series/menson/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/3ea/768_480_2/wwrql5amgzxlpdw2yk99msuj8etb1lw4.png</picture>
         <name>Мебель коллекции Мэнсон, ММЦ</name>
         <description>Мэнсон от производителя ММЦ в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="48">
+      <collection id="47">
         <url>https://i-sosna.ru/catalog/series/nyuton_grey/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/dfa/768_480_2/eaz6p21vx7vx2aitc2fluumro1k49155.jpeg</picture>
         <name>Мебель коллекции НьюТон Грей, 38 Попугаев</name>
         <description>НьюТон Грей от производителя 38 Попугаев в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="49">
+      <collection id="48">
         <url>https://i-sosna.ru/catalog/series/oliver/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/60e/768_480_2/lji89lwod5g5utnr0ltrin3imsdmujf2.jpg</picture>
         <name>Мебель коллекции Оливер, Муромские мастера</name>
         <description>Оливер от производителя Муромские мастера в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="50">
+      <collection id="49">
         <url>https://i-sosna.ru/catalog/series/olsa/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/58c/768_480_2/dh799i79huew1w7immgwzjfy2kzm6mxv.jpg</picture>
         <name>Мебель коллекции Ольса, ММЦ - Москва</name>
         <description>Ольса от производителя ММЦ - Москва в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="51">
+      <collection id="50">
         <url>https://i-sosna.ru/catalog/series/oniks/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/96f/768_480_2/sl77uul6y8b3isxt8zhyj7ec0nggcasq.png</picture>
         <name>Мебель коллекции Оникс, ММЦ - SanRemi</name>
         <description>Оникс от производителя ММЦ - SanRemi в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="52">
+      <collection id="51">
         <url>https://i-sosna.ru/catalog/series/paola/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/dac/768_480_2/0h55hchnfirwoax4jzfmu4i9m2rmevu9.jpeg</picture>
         <name>Мебель коллекции Паола, Пинскдрев</name>
         <description>Паола от производителя Пинскдрев в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="53">
+      <collection id="52">
         <url>https://i-sosna.ru/catalog/series/penni/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/ab9/768_480_2/n5vcs51igthidbu7x7aj1twwbzlh54f3.jpeg</picture>
         <name>Мебель коллекции Пенни, ММЦ</name>
         <description>Пенни от производителя ММЦ в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="54">
+      <collection id="53">
         <url>https://i-sosna.ru/catalog/series/provans/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/6bf/768_480_2/6bf72c879f8c1b85d7dcfe770a2c8bd9.jpg</picture>
         <name>Мебель коллекции Прованс, Волшебная сосна</name>
         <description>Прованс от производителя Волшебная сосна в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="55">
+      <collection id="54">
         <url>https://i-sosna.ru/catalog/series/provans_wood/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/1c6/768_480_2/1c6297e2435327c0005fecf71d580474.jpeg</picture>
         <name>Мебель коллекции Прованс Wood, Алетан</name>
         <description>Прованс Wood от производителя Алетан в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="56">
+      <collection id="55">
         <url>https://i-sosna.ru/catalog/series/randevu/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/595/768_480_2/595e3543221ed5c443d9d459deac5348.jpg</picture>
         <name>Мебель коллекции Рандеву, ММЦ</name>
         <description>Рандеву от производителя ММЦ в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="57">
+      <collection id="56">
         <url>https://i-sosna.ru/catalog/series/rauna/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/4aa/768_480_2/4aa9380e87acacee8ccf54632556257d.jpg</picture>
         <name>Мебель коллекции Рауна, ММЦ - Москва</name>
         <description>Рауна от производителя ММЦ - Москва в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="58">
+      <collection id="57">
         <url>https://i-sosna.ru/catalog/series/rimini/</url>
         <picture>https://i-sosna.ru/upload/iblock/359/35927c2706b32aca19b03eafde02fcd1.png</picture>
         <name>Мебель коллекции Римини, Муромские мастера</name>
         <description>Римини от производителя Муромские мастера в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="59">
+      <collection id="58">
         <url>https://i-sosna.ru/catalog/series/robin_wood_layt/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/80a/768_480_2/80a313fedb08465674e6df05b4e44ff1.jpg</picture>
         <name>Мебель коллекции Робин Wood Лайт, 38 Попугаев</name>
         <description>Робин Wood Лайт от производителя 38 Попугаев в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="60">
+      <collection id="59">
         <url>https://i-sosna.ru/catalog/series/sielo/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/555/768_480_2/555993042e324a085368cd39e7da1bf8.jpg</picture>
         <name>Мебель коллекции Сиело, ММЦ - Москва</name>
         <description>Сиело от производителя ММЦ - Москва в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="61">
+      <collection id="60">
         <url>https://i-sosna.ru/catalog/series/skayda/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/de9/768_480_2/de98978a973b8bebd061b1a646cd4a85.jpg</picture>
         <name>Мебель коллекции Скайда, Скайда</name>
         <description>Скайда от производителя Скайда в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="62">
+      <collection id="61">
         <url>https://i-sosna.ru/catalog/series/skandi/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/115/768_480_2/gxw37dwpme9bmmclknwd2ix2xlj47fgm.jpg</picture>
         <name>Мебель коллекции Сканди, ММЦ</name>
         <description>Сканди от производителя ММЦ в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="63">
+      <collection id="62">
         <url>https://i-sosna.ru/catalog/series/skandinaviya/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/7c8/768_480_2/7c8cf5800552ec2a9e3a69bebbefaca8.jpg</picture>
         <name>Мебель коллекции Скандинавия, Добрый мастер</name>
         <description>Скандинавия от производителя Добрый мастер в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="64">
+      <collection id="63">
         <url>https://i-sosna.ru/catalog/series/skandiya/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/2c3/768_480_2/2c3f5f827d52abb23654c5d573bed6e1.JPG</picture>
         <name>Мебель коллекции Скандия, Скандия</name>
         <description>Скандия от производителя Скандия в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="65">
+      <collection id="64">
         <url>https://i-sosna.ru/catalog/series/sosnovyy_bor/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/dba/768_480_2/dbad21e14dd5e9c5f386628c02ef8bb2.jpeg</picture>
         <name>Мебель коллекции Сосновый бор, Могилевдрев</name>
         <description>Сосновый бор от производителя Могилевдрев в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="66">
+      <collection id="65">
         <url>https://i-sosna.ru/catalog/series/tadorna/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/8d2/768_480_2/5hcnp1a0pcixxzvc63kul2g6uiebo15o.jpg</picture>
         <name>Мебель коллекции Тадорна, Tadorna</name>
         <description>Тадорна от производителя Tadorna в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="67">
+      <collection id="66">
         <url>https://i-sosna.ru/catalog/series/tvist_loft/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/315/768_480_2/2y0ydc5dvtb6y0ynn7rh3q5m4prhlu77.jpeg</picture>
         <name>Мебель коллекции Твист Лофт, 38 Попугаев</name>
         <description>Твист Лофт от производителя 38 Попугаев в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="68">
+      <collection id="67">
         <url>https://i-sosna.ru/catalog/series/timberika_kids/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/7b6/768_480_2/7b6a38838aca3ec4a65ac7a062d63609.jpg</picture>
         <name>Мебель коллекции Тимберика Кидс, Тимберика</name>
         <description>Тимберика Кидс от производителя Тимберика в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="69">
+      <collection id="68">
         <url>https://i-sosna.ru/catalog/series/timbers_kids/</url>
         <picture>https://i-sosna.ru/upload/iblock/8ba/8ba6558ee0654374b902a9616adec470.png</picture>
         <name>Мебель коллекции Тимберс Кидс, Тимберс</name>
         <description>Тимберс Кидс от производителя Тимберс в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="70">
+      <collection id="69">
         <url>https://i-sosna.ru/catalog/series/tiffani/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/2e0/768_480_2/g5sw4hr5ckk3q4jme13xntgrbp2yuqfa.jpeg</picture>
         <name>Мебель коллекции Тиффани, Пинскдрев</name>
         <description>Тиффани от производителя Пинскдрев в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="71">
+      <collection id="70">
         <url>https://i-sosna.ru/catalog/series/tel/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/836/768_480_2/lt0idgiaua7mk31ddpl0vjdcom55hr5g.webp</picture>
         <name>Мебель коллекции Тэль, 38 Попугаев</name>
         <description>Тэль от производителя 38 Попугаев в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="72">
+      <collection id="71">
         <url>https://i-sosna.ru/catalog/series/florentina/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/59c/768_480_2/gwlto0bt4o6b16s0kp9g0ni2s0p48dyr.jpeg</picture>
         <name>Мебель коллекции Флорентина, Пинскдрев</name>
         <description>Флорентина от производителя Пинскдрев в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="73">
+      <collection id="72">
         <url>https://i-sosna.ru/catalog/series/forest/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/27d/768_480_2/27d20e1cc17130e2836baa61079c95e7.jpg</picture>
         <name>Мебель коллекции Форест, ММЦ - SanRemi</name>
         <description>Форест от производителя ММЦ - SanRemi в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="74">
+      <collection id="73">
         <url>https://i-sosna.ru/catalog/series/forest_grafit/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/819/768_480_2/c0fn9xlde2l0bi726sp2og0e3wzwivyh.jpg</picture>
         <name>Мебель коллекции Форест Графит, ММЦ - SanRemi</name>
         <description>Форест Графит от производителя ММЦ - SanRemi в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="75">
+      <collection id="74">
         <url>https://i-sosna.ru/catalog/series/frantsuzkiy_provans/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/c49/768_480_2/c49ee5ca0a3a35f13c6ec029f4c30f7e.jpeg</picture>
         <name>Мебель коллекции Французский Прованс, Алетан</name>
         <description>Французский Прованс от производителя Алетан в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="76">
+      <collection id="75">
         <url>https://i-sosna.ru/catalog/series/khemnes_hemnes/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/5f1/768_480_2/fasy0vpzrls4thj2w6itnohkp21xr9l7.jpeg</picture>
         <name>Мебель коллекции Хемнэс HEMNES, Лузалес</name>
         <description>Хемнэс HEMNES от производителя Лузалес в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="77">
+      <collection id="76">
         <url>https://i-sosna.ru/catalog/series/tsezar/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/2b4/768_480_2/gk2cxh83oali7wm4kdav7s5scj971bkg.jpeg</picture>
         <name>Мебель коллекции Цезарь, Лидская МФ</name>
         <description>Цезарь от производителя Лидская МФ в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="78">
+      <collection id="77">
         <url>https://i-sosna.ru/catalog/series/shale/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/452/768_480_2/o782u0qelclzdm6scadsl1ox47ymcu46.jpg</picture>
         <name>Мебель коллекции Шале, Лидская МФ</name>
         <description>Шале от производителя Лидская МФ в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="79">
+      <collection id="78">
         <url>https://i-sosna.ru/catalog/series/yustina/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/d70/768_480_2/qtzr3jw3tp518p0cgc7h32s61a7u5z18.jpeg</picture>
         <name>Мебель коллекции Юстина, Пинскдрев</name>
         <description>Юстина от производителя Пинскдрев в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="80">
+      <collection id="79">
         <url>https://i-sosna.ru/catalog/series/yarvi/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/876/768_480_2/kr0v0kab3u7fmoak261fdravkwdha1k3.jpg</picture>
         <name>Мебель коллекции Ярви, Скандия</name>
         <description>Ярви от производителя Скандия в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="81">
+      <collection id="80">
         <url>https://i-sosna.ru/catalog/series/ericka/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/9d4/768_480_2/9d425e1302a89c9d5477f71f1de936fb.jpeg</picture>
         <name>Мебель коллекции Ericka, Волшебная сосна</name>
         <description>Ericka от производителя Волшебная сосна в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="82">
+      <collection id="81">
         <url>https://i-sosna.ru/catalog/series/icons/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/486/768_480_2/4863204f861303d89b388f716472d655.jpg</picture>
         <name>Мебель коллекции ICONS, Панормо мебель</name>
         <description>ICONS от производителя Панормо мебель в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="83">
+      <collection id="82">
         <url>https://i-sosna.ru/catalog/series/mexica/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/a33/768_480_2/a3339d8ae36a02deb3ad7319b274dc05.jpg</picture>
         <name>Мебель коллекции Mexica, Волшебная сосна</name>
         <description>Mexica от производителя Волшебная сосна в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="84">
+      <collection id="83">
         <url>https://i-sosna.ru/catalog/series/riva/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/359/768_480_2/35901c1934788ae5596dc671cf0156b8.jpg</picture>
         <name>Мебель коллекции Riva, Панормо мебель</name>
         <description>Riva от производителя Панормо мебель в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="85">
+      <collection id="84">
         <url>https://i-sosna.ru/catalog/series/roller/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/179/768_480_2/179ffadc7d4fb860f6dfdd6303eb79ce.jpg</picture>
         <name>Мебель коллекции Roller, Волшебная сосна</name>
