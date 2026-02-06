@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-06T05:31:49+03:00">
+<yml_catalog date="2026-02-06T16:31:29+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -5142,7 +5142,7 @@
       </offer>
       <offer id="13144" available="true" group_id="13144">
         <url>https://i-sosna.ru/catalog/zerkala/polka_zerkalo_khelsinki_kassa/</url>
-        <price>12990</price>
+        <price>8450</price>
         <currencyId>RUR</currencyId>
         <categoryId>399</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/63b/nwpxfjykio167g95gp0ezoper54ljk4x.jpeg</picture>
@@ -5156,6 +5156,7 @@
         <param name="Глубина" unit="см">5</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Мальта/Хельсинки</param>
+        <oldprice>12990</oldprice>
       </offer>
       <offer id="13145" available="true" group_id="13145">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_khelsinki_4_gt_m/</url>
@@ -33040,7 +33041,7 @@
       </offer>
       <offer id="158723" available="true" group_id="158723">
         <url>https://i-sosna.ru/catalog/tumby_prikrovatnye/tumba_km_0069_40kh60/</url>
-        <price>10140</price>
+        <price>6600</price>
         <currencyId>RUR</currencyId>
         <categoryId>404</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/098/098f7277c0e03493e6fd2cda74c953f4.jpeg</picture>
@@ -33054,6 +33055,7 @@
         <param name="Глубина" unit="см">40</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Рауна</param>
+        <oldprice>10140</oldprice>
       </offer>
       <offer id="158747" available="true" group_id="158747">
         <url>https://i-sosna.ru/catalog/kresla_i_kresla_krovati_1/kreslo_rim/</url>
@@ -59694,7 +59696,7 @@
       </offer>
       <offer id="175620" available="true" group_id="175620">
         <url>https://i-sosna.ru/catalog/stellazhi/shirokiy_stellazh_2_2_san_leon/</url>
-        <price>31190</price>
+        <price>24960</price>
         <currencyId>RUR</currencyId>
         <categoryId>452</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/9b9/2bzwg5081ntlin5ncdx44ohjlhd0j5d3.jpeg</picture>
@@ -59708,6 +59710,7 @@
         <param name="Глубина" unit="см">40</param>
         <param name="Материал">ЛДСП/Дуб</param>
         <param name="Коллекция">2+2</param>
+        <oldprice>31190</oldprice>
       </offer>
       <offer id="175621" available="true" group_id="175621">
         <url>https://i-sosna.ru/catalog/stellazhi/shirokiy_stellazh_2_2_temno_seryy_loft/</url>
@@ -59799,7 +59802,7 @@
       </offer>
       <offer id="175627" available="true" group_id="175627">
         <url>https://i-sosna.ru/catalog/polki/polka_2_2_belaya/</url>
-        <price>8580</price>
+        <price>6870</price>
         <currencyId>RUR</currencyId>
         <categoryId>447</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/42b/fudbmq855nyqphjg1a5cnd9o7qyavv8q.jpeg</picture>
@@ -59813,6 +59816,7 @@
         <param name="Глубина" unit="см">28</param>
         <param name="Материал">ЛДСП/Дуб</param>
         <param name="Коллекция">2+2</param>
+        <oldprice>8580</oldprice>
       </offer>
       <offer id="175629" available="true" group_id="175629">
         <url>https://i-sosna.ru/catalog/polki/polka_2_2_oliva/</url>
@@ -75742,7 +75746,7 @@
       </offer>
       <offer id="188972" available="true" group_id="188972">
         <url>https://i-sosna.ru/catalog/stoly_zhurnalnye/stol_zhurnalnyy_granada_1200kh600/</url>
-        <price>25050</price>
+        <price>25730</price>
         <currencyId>RUR</currencyId>
         <categoryId>456</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/3c4/z44628pgecifahr9rn375r33by2fw9cd.jpeg</picture>
@@ -76105,7 +76109,7 @@
       </offer>
       <offer id="189366" available="true" group_id="189366">
         <url>https://i-sosna.ru/catalog/tumby/tumba_33_granada/</url>
-        <price>68750</price>
+        <price>70610</price>
         <currencyId>RUR</currencyId>
         <categoryId>402</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/4cb/ynr8hrvb4b1ochjkrht62clzhki2eish.jpeg</picture>
