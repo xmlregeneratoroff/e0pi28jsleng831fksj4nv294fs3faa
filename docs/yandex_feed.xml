@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-09T05:49:28+03:00">
+<yml_catalog date="2026-02-09T16:35:26+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -21523,7 +21523,7 @@
       </offer>
       <offer id="151542" available="true">
         <url>https://i-sosna.ru/catalog/spalnye_garnitury/spalnyy_garnitur_sosnovyy_bor/</url>
-        <price>43320</price>
+        <price>53560</price>
         <currencyId>RUR</currencyId>
         <categoryId>726</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/057/057cad00e993721058649da85c426159.jpg</picture>
@@ -21793,7 +21793,7 @@
       </offer>
       <offer id="151629" available="true">
         <url>https://i-sosna.ru/catalog/gostinye_garnitury/gostinyy_garnitur_skandiya/</url>
-        <price>20759</price>
+        <price>22190</price>
         <currencyId>RUR</currencyId>
         <categoryId>728</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/36a/36af8b82abd5020ffdad6438cdb00608.png</picture>
@@ -21803,7 +21803,6 @@
         <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
         <sales_notes>Доставка по всей России бесплатно</sales_notes>
         <param name="Коллекция">Гарнитуры</param>
-        <oldprice>22190</oldprice>
       </offer>
       <offer id="151630" available="true">
         <url>https://i-sosna.ru/catalog/gostinye_garnitury/gostinyy_garnitur_valensiya/</url>
@@ -60379,7 +60378,7 @@
       </offer>
       <offer id="175667" available="true" group_id="175667">
         <url>https://i-sosna.ru/catalog/polki/dlinnaya_polka_2_2_temno_seryy_loft/</url>
-        <price>15040</price>
+        <price>12040</price>
         <currencyId>RUR</currencyId>
         <categoryId>447</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/ebd/3ifc0q2m80o10445izq05gpjd0keyjkd.jpeg</picture>
@@ -60393,6 +60392,7 @@
         <param name="Глубина" unit="см">28</param>
         <param name="Материал">ЛДСП/Дуб</param>
         <param name="Коллекция">2+2</param>
+        <oldprice>15040</oldprice>
       </offer>
       <offer id="175668" available="true" group_id="175668">
         <url>https://i-sosna.ru/catalog/polki/polka_dlya_knig_2_2/</url>
@@ -73011,7 +73011,7 @@
       </offer>
       <offer id="186415" available="true" group_id="186415">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_dlya_odezhdy_bon_voyazh_20/</url>
-        <price>95940</price>
+        <price>62370</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/78f/qpemo95ticpr9gj6x6tfzkqa03snw3m0.jpeg</picture>
@@ -73025,6 +73025,7 @@
         <param name="Глубина" unit="см">59</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бон Вояж</param>
+        <oldprice>95940</oldprice>
       </offer>
       <offer id="186416" available="true" group_id="186416">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_posudy/shkaf_dlya_posudy_bon_voyazh_22/</url>
@@ -75424,7 +75425,7 @@
       </offer>
       <offer id="188634" available="true" group_id="188634">
         <url>https://i-sosna.ru/catalog/tumby_pod_tv/tumba_tv_1600_penni/</url>
-        <price>41070</price>
+        <price>47920</price>
         <currencyId>RUR</currencyId>
         <categoryId>403</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/f86/emgh00j5oe4qx8g9kw9z88704i88gfxw.jpeg</picture>
@@ -75438,7 +75439,7 @@
         <param name="Глубина" unit="см">40</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Пенни</param>
-        <oldprice>52650</oldprice>
+        <oldprice>61430</oldprice>
       </offer>
       <offer id="188633" available="true" group_id="188633">
         <url>https://i-sosna.ru/catalog/tumby_dlya_obuvi/tumba_sunduk_v2_penni/</url>
@@ -75941,7 +75942,7 @@
       </offer>
       <offer id="189905" available="true">
         <url>https://i-sosna.ru/catalog/detskie_garnitury/detskiy_garnitur_greta/</url>
-        <price>149304</price>
+        <price>159600</price>
         <currencyId>RUR</currencyId>
         <categoryId>727</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/ad8/6a18hd01dc1i1ffynhqhp66cfm1xewgj.jpeg</picture>
@@ -75950,7 +75951,6 @@
         <vendor>Тимберика</vendor>
         <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
         <sales_notes>Доставка по всей России бесплатно</sales_notes>
-        <oldprice>159600</oldprice>
       </offer>
       <offer id="193461" available="true">
         <url>https://i-sosna.ru/catalog/prikhozhie_iz_dereva/prikhozhaya_penni/</url>
@@ -77004,7 +77004,7 @@
       </offer>
       <offer id="193804" available="true" group_id="193804">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_knig/shkaf_dlya_knig_kvadro_s_422s_04/</url>
-        <price>129540</price>
+        <price>92590</price>
         <currencyId>RUR</currencyId>
         <categoryId>466</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/7e7/9cousndoqa7mx2iu4fcvtosrg6h08747.jpeg</picture>
@@ -77018,6 +77018,7 @@
         <param name="Глубина" unit="см">42</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Квадро</param>
+        <oldprice>142440</oldprice>
       </offer>
       <offer id="193808" available="true" group_id="193808">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_posudy/shkaf_dlya_posudy_kvadro_s_20/</url>
