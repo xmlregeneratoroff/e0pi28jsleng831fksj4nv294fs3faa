@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-08T16:17:59+03:00">
+<yml_catalog date="2026-02-09T05:49:28+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -21239,7 +21239,7 @@
       </offer>
       <offer id="151473" available="true">
         <url>https://i-sosna.ru/catalog/spalnye_garnitury/spalnyy_garnitur_dobryy_master/</url>
-        <price>39390</price>
+        <price>57380</price>
         <currencyId>RUR</currencyId>
         <categoryId>726</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/907/907bd7fab9f83d9ac76272771a8a06d0.png</picture>
@@ -38959,7 +38959,7 @@
       </offer>
       <offer id="164212" available="true" group_id="164212">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_knig/shkaf_dlya_posudy_kvadro_s_20_04/</url>
-        <price>67140</price>
+        <price>48030</price>
         <currencyId>RUR</currencyId>
         <categoryId>466</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/951/qnvww0aknou9pwwc4gz0c8thtlv5gtw5.jpeg</picture>
@@ -38973,6 +38973,7 @@
         <param name="Глубина" unit="см">42</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Квадро</param>
+        <oldprice>73890</oldprice>
       </offer>
       <offer id="164214" available="true" group_id="164214">
         <url>https://i-sosna.ru/catalog/krovati_takhta/bortik_5_timberika/</url>
@@ -59712,7 +59713,7 @@
       </offer>
       <offer id="175621" available="true" group_id="175621">
         <url>https://i-sosna.ru/catalog/stellazhi/shirokiy_stellazh_2_2_temno_seryy_loft/</url>
-        <price>31190</price>
+        <price>24960</price>
         <currencyId>RUR</currencyId>
         <categoryId>452</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/40c/f44js6w8rg0qrracnlpqk0clu7rf1wt0.jpeg</picture>
@@ -59726,6 +59727,7 @@
         <param name="Глубина" unit="см">40</param>
         <param name="Материал">ЛДСП/Дуб</param>
         <param name="Коллекция">2+2</param>
+        <oldprice>31190</oldprice>
       </offer>
       <offer id="175622" available="true" group_id="175622">
         <url>https://i-sosna.ru/catalog/detskie_krovati/krovat_2_2_belaya/</url>
@@ -60323,7 +60325,7 @@
       </offer>
       <offer id="175663" available="true" group_id="175663">
         <url>https://i-sosna.ru/catalog/polki/dlinnaya_polka_2_2_belaya/</url>
-        <price>15040</price>
+        <price>12040</price>
         <currencyId>RUR</currencyId>
         <categoryId>447</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/d19/bo3b3cwz8rqmnf5m2wnde9dg9yy3zvs5.png</picture>
@@ -60337,6 +60339,7 @@
         <param name="Глубина" unit="см">28</param>
         <param name="Материал">ЛДСП/Дуб</param>
         <param name="Коллекция">2+2</param>
+        <oldprice>15040</oldprice>
       </offer>
       <offer id="175665" available="true" group_id="175665">
         <url>https://i-sosna.ru/catalog/polki/dlinnaya_polka_2_2_oliva/</url>
@@ -71921,7 +71924,7 @@
       </offer>
       <offer id="185984" available="true" group_id="185984">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_dlya_odezhdy_penni_21/</url>
-        <price>77660</price>
+        <price>90600</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/5df/yp26iygixgfm5r40hvxwv2754jl4pgar.jpeg</picture>
@@ -71935,7 +71938,7 @@
         <param name="Глубина" unit="см">61</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Пенни</param>
-        <oldprice>99560</oldprice>
+        <oldprice>116150</oldprice>
       </offer>
       <offer id="185985" available="true" group_id="185985">
         <url>https://i-sosna.ru/catalog/tumby_prikrovatnye/tumba_prikrovatnaya_penni/</url>
