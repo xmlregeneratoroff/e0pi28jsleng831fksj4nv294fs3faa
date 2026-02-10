@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-09T16:35:26+03:00">
+<yml_catalog date="2026-02-10T05:54:20+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -14062,7 +14062,7 @@
       </offer>
       <offer id="135497" available="true" group_id="135497">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_3_dvernyy_so_steklyannymi_dveryami_beyli/</url>
-        <price>121080</price>
+        <price>84760</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/c76/997ql0sqcwi9we5y5fsfrm7tnw4sibw5.jpeg</picture>
@@ -14076,6 +14076,7 @@
         <param name="Глубина" unit="см">65</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>121080</oldprice>
       </offer>
       <offer id="135292" available="true" group_id="135292">
         <url>https://i-sosna.ru/catalog/bufety/servant_ayno_1_dvernyy_shchit/</url>
@@ -48974,7 +48975,7 @@
       </offer>
       <offer id="167936" available="true" group_id="167936">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_olsa_101_014/</url>
-        <price>66910</price>
+        <price>40150</price>
         <currencyId>RUR</currencyId>
         <categoryId>452</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/56f/f6n117y2gvvrslga6qib7asy21x9332r.jpeg</picture>
@@ -54708,7 +54709,7 @@
       </offer>
       <offer id="172948" available="true" group_id="172948">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_dlya_odezhdy_olsa_02/</url>
-        <price>42720</price>
+        <price>71190</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/c24/xcr64d3xomdcarzf47aquu2vigryy3fy.jpeg</picture>
@@ -54722,7 +54723,6 @@
         <param name="Глубина" unit="см">60</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Ольса</param>
-        <oldprice>71190</oldprice>
       </offer>
       <offer id="172949" available="true" group_id="172949">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_dlya_odezhdy_olsa_03/</url>
@@ -71942,7 +71942,7 @@
       </offer>
       <offer id="185985" available="true" group_id="185985">
         <url>https://i-sosna.ru/catalog/tumby_prikrovatnye/tumba_prikrovatnaya_penni/</url>
-        <price>15070</price>
+        <price>18410</price>
         <currencyId>RUR</currencyId>
         <categoryId>404</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/2cd/spld8my6fou7v20sr275bhfh0hpdml1l.jpeg</picture>
@@ -71956,7 +71956,7 @@
         <param name="Глубина" unit="см">40</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Пенни</param>
-        <oldprice>19310</oldprice>
+        <oldprice>23590</oldprice>
       </offer>
       <offer id="185986" available="true" group_id="185986">
         <url>https://i-sosna.ru/catalog/tualetnye_stoliki/tualetnyy_stol_penni/</url>
@@ -74195,7 +74195,7 @@
       </offer>
       <offer id="186760" available="true" group_id="186760">
         <url>https://i-sosna.ru/catalog/stoly_zhurnalnye/zhurnalnyy_stol_forest_grafit_bolshoy/</url>
-        <price>31250</price>
+        <price>24380</price>
         <currencyId>RUR</currencyId>
         <categoryId>456</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/abc/x5pkyzzbvtpro27qxlew920cb15hxp9s.jpeg</picture>
@@ -74209,6 +74209,7 @@
         <param name="Глубина" unit="см">75</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Форест Графит</param>
+        <oldprice>31250</oldprice>
       </offer>
       <offer id="186761" available="true" group_id="186761">
         <url>https://i-sosna.ru/catalog/polki/nastennaya_polka_forest_grafit/</url>
