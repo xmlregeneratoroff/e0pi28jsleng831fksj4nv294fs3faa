@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-14T05:30:42+03:00">
+<yml_catalog date="2026-02-14T16:16:53+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -16872,7 +16872,7 @@
       </offer>
       <offer id="136972" available="true" group_id="136972">
         <url>https://i-sosna.ru/catalog/komody/komod_landkhaus_3_1/</url>
-        <price>14480</price>
+        <price>16700</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/b62/b62efd15907d4b580f3d3355e22bc6fe.jpeg</picture>
@@ -16886,7 +16886,7 @@
         <param name="Глубина" unit="см">35</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
-        <oldprice>16450</oldprice>
+        <oldprice>20120</oldprice>
       </offer>
       <offer id="136973" available="true" group_id="136973">
         <url>https://i-sosna.ru/catalog/komody/komod_landkhaus_3_2/</url>
@@ -17555,7 +17555,7 @@
       </offer>
       <offer id="137011" available="true" group_id="137011">
         <url>https://i-sosna.ru/catalog/bufety/bufet_baltika_12_1/</url>
-        <price>47360</price>
+        <price>47410</price>
         <currencyId>RUR</currencyId>
         <categoryId>388</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/d1e/d1e8078e05c1ce761413f914f01a2afc.jpeg</picture>
@@ -17569,7 +17569,7 @@
         <param name="Глубина" unit="см">48</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
-        <oldprice>52040</oldprice>
+        <oldprice>57120</oldprice>
       </offer>
       <offer id="137012" available="true" group_id="137012">
         <url>https://i-sosna.ru/catalog/bufety/bufet_baltika_13/</url>
@@ -36410,7 +36410,7 @@
       </offer>
       <offer id="161442" available="true" group_id="161442">
         <url>https://i-sosna.ru/catalog/sunduki/sunduk_3_malyy/</url>
-        <price>5320</price>
+        <price>5510</price>
         <currencyId>RUR</currencyId>
         <categoryId>461</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/bda/bdada7490d6e0eab96c0acb13e49093a.jpeg</picture>
@@ -36423,11 +36423,11 @@
         <param name="Глубина" unit="см">36</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
-        <oldprice>6040</oldprice>
+        <oldprice>6630</oldprice>
       </offer>
       <offer id="161443" available="true" group_id="161443">
         <url>https://i-sosna.ru/catalog/sunduki/sunduk_2_sredniy/</url>
-        <price>8200</price>
+        <price>8220</price>
         <currencyId>RUR</currencyId>
         <categoryId>461</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/1b2/1b2f829e3092f7bd9636acc80c1086e1.jpeg</picture>
@@ -36440,7 +36440,7 @@
         <param name="Глубина" unit="см">36</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
-        <oldprice>9010</oldprice>
+        <oldprice>9900</oldprice>
       </offer>
       <offer id="161449" available="true" group_id="161449">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_4_dvernyy_so_steklyannymi_dveryami_beyli/</url>
