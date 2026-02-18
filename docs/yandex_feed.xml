@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-17T16:34:46+03:00">
+<yml_catalog date="2026-02-18T05:48:01+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -3680,7 +3680,7 @@
       </offer>
       <offer id="10201" available="true" group_id="10201">
         <url>https://i-sosna.ru/catalog/kukhnya_skayda_2_1/skayda_2_shkaf_navesnoy_2_dveri_steklo/</url>
-        <price>9850</price>
+        <price>10590</price>
         <currencyId>RUR</currencyId>
         <categoryId>631</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/d89/d896a85b7f9ab5961b3446f3ebd64c39.png</picture>
@@ -3693,7 +3693,6 @@
         <param name="Высота" unit="см">71</param>
         <param name="Глубина" unit="см">27</param>
         <param name="Материал">Массив сосны</param>
-        <oldprice>10590</oldprice>
       </offer>
       <offer id="10200" available="true" group_id="10200">
         <url>https://i-sosna.ru/catalog/kukhnya_skayda_2_1/skayda_2_shkaf_nad_vytyazhkoy_60_2_dveri/</url>
@@ -6532,7 +6531,7 @@
       </offer>
       <offer id="13472" available="true" group_id="13472">
         <url>https://i-sosna.ru/catalog/tumby_prikrovatnye/tumba_prikrovatnaya_s_2_mya_yashchikami_skandinaviya/</url>
-        <price>11490</price>
+        <price>12480</price>
         <currencyId>RUR</currencyId>
         <categoryId>404</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/b27/b276a6d7caea67091827c34df1c960f3.jpeg</picture>
@@ -6546,7 +6545,6 @@
         <param name="Глубина" unit="см">45</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Скандинавия</param>
-        <oldprice>12480</oldprice>
       </offer>
       <offer id="13474" available="true" group_id="13474">
         <url>https://i-sosna.ru/catalog/komody/komod_velikan/</url>
@@ -14966,7 +14964,7 @@
       </offer>
       <offer id="136027" available="true" group_id="136027">
         <url>https://i-sosna.ru/catalog/antresoli/antresol_uglovaya_k_shkafu_oskar_1020kh1020/</url>
-        <price>23670</price>
+        <price>25720</price>
         <currencyId>RUR</currencyId>
         <categoryId>464</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/112/112ce41fe12df0dd47dd681930490b2e.jpeg</picture>
@@ -14980,7 +14978,6 @@
         <param name="Глубина" unit="см">60</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Добрый мастер</param>
-        <oldprice>25720</oldprice>
       </offer>
       <offer id="136028" available="true" group_id="136028">
         <url>https://i-sosna.ru/catalog/antresoli/antresol_kupe_k_shkafu_oskar_2_dv/</url>
@@ -16897,7 +16894,7 @@
       </offer>
       <offer id="136978" available="true" group_id="136978">
         <url>https://i-sosna.ru/catalog/komody/komod_lili_6_5/</url>
-        <price>16130</price>
+        <price>16700</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/e20/e20b0fe4a2bd8631074da547e13e504b.jpeg</picture>
@@ -16911,7 +16908,7 @@
         <param name="Глубина" unit="см">39</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
-        <oldprice>18320</oldprice>
+        <oldprice>20120</oldprice>
       </offer>
       <offer id="136979" available="true" group_id="136979">
         <url>https://i-sosna.ru/catalog/komody/komod_marika_122/</url>
@@ -17203,7 +17200,7 @@
       </offer>
       <offer id="136995" available="true" group_id="136995">
         <url>https://i-sosna.ru/catalog/vitriny/vitrina_baltika_5/</url>
-        <price>46110</price>
+        <price>47730</price>
         <currencyId>RUR</currencyId>
         <categoryId>389</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/378/9gxzq07o01tvl3p4p1zr54itbynajai3.jpeg</picture>
@@ -17217,7 +17214,7 @@
         <param name="Глубина" unit="см">48</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
-        <oldprice>52390</oldprice>
+        <oldprice>57500</oldprice>
       </offer>
       <offer id="136996" available="true" group_id="136996">
         <url>https://i-sosna.ru/catalog/komody/tumba_baltika_nako/</url>
@@ -27689,7 +27686,7 @@
       </offer>
       <offer id="155644" available="true" group_id="155644">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_knig/shkaf_knizhnyy_1_dvernyy_kosta_blanka/</url>
-        <price>19720</price>
+        <price>28300</price>
         <currencyId>RUR</currencyId>
         <categoryId>466</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/b4f/b4ff657c7d58c8d23d118406acdf6425.jpeg</picture>
