@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-20T05:32:58+03:00">
+<yml_catalog date="2026-02-20T16:25:30+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -644,7 +644,7 @@
       </offer>
       <offer id="6408" available="true" group_id="6408">
         <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_uglovoe_zavershenie_otkrytaya_polka_v_u_300o_900/</url>
-        <price>6800</price>
+        <price>7310</price>
         <currencyId>RUR</currencyId>
         <categoryId>618</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/27b/27b98f5f1722dad0189e0a31f544f3e8.png</picture>
@@ -657,7 +657,6 @@
         <param name="Высота" unit="см">90</param>
         <param name="Глубина" unit="см">33</param>
         <param name="Материал">Массив сосны</param>
-        <oldprice>7310</oldprice>
       </offer>
       <offer id="6409" available="true" group_id="6409">
         <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_shkaf_nastennyy_uglovoy_universalnyy_720/</url>
@@ -678,7 +677,7 @@
       </offer>
       <offer id="6410" available="true" group_id="6410">
         <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_shkaf_nastennyy_uglovoy_universalnyy_900/</url>
-        <price>12310</price>
+        <price>13230</price>
         <currencyId>RUR</currencyId>
         <categoryId>618</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/e3f/e3fd5dd24c8dcd73881435013a3eaeba.png</picture>
@@ -691,7 +690,6 @@
         <param name="Высота" unit="см">90</param>
         <param name="Глубина" unit="см">33</param>
         <param name="Материал">Массив сосны</param>
-        <oldprice>13230</oldprice>
       </offer>
       <offer id="6411" available="true" group_id="6411">
         <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_shkaf_nastennyy_primykanie_k_penalu_900/</url>
@@ -744,7 +742,7 @@
       </offer>
       <offer id="6418" available="true" group_id="6418">
         <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_uglovoe_zavershenie_otkrytaya_polka_v_u_300o_720/</url>
-        <price>6240</price>
+        <price>6700</price>
         <currencyId>RUR</currencyId>
         <categoryId>618</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/608/608144e7f583acfd4c2f5b6258fe7e74.png</picture>
@@ -757,7 +755,6 @@
         <param name="Высота" unit="см">72</param>
         <param name="Глубина" unit="см">33</param>
         <param name="Материал">Массив сосны</param>
-        <oldprice>6700</oldprice>
       </offer>
       <offer id="6458" available="true" group_id="6458">
         <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_shkaf_nastennyy_1_dv_900/</url>
@@ -7019,7 +7016,7 @@
       </offer>
       <offer id="13506" available="true" group_id="13506">
         <url>https://i-sosna.ru/catalog/tumby_pod_tv/tumba_pod_tv_uglovaya_skandinaviya/</url>
-        <price>25300</price>
+        <price>27490</price>
         <currencyId>RUR</currencyId>
         <categoryId>403</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/389/38948184c70a5514630745d77b0e93b6.png</picture>
@@ -7033,7 +7030,6 @@
         <param name="Глубина" unit="см">60</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Скандинавия</param>
-        <oldprice>27490</oldprice>
       </offer>
       <offer id="13527" available="true" group_id="13527">
         <url>https://i-sosna.ru/catalog/stulya/stul_omega/</url>
@@ -7471,7 +7467,7 @@
       </offer>
       <offer id="13647" available="true" group_id="13647">
         <url>https://i-sosna.ru/catalog/uglovye_zaversheniya/sektsiya_uglovaya_german_300/</url>
-        <price>19850</price>
+        <price>21570</price>
         <currencyId>RUR</currencyId>
         <categoryId>465</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/d48/d48a00e39212d9fa4c240d546c8fd80b.jpeg</picture>
@@ -7485,7 +7481,6 @@
         <param name="Глубина" unit="см">58</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Добрый мастер</param>
-        <oldprice>21570</oldprice>
       </offer>
       <offer id="13649" available="true" group_id="13649">
         <url>https://i-sosna.ru/catalog/uglovye_zaversheniya/sektsiya_uglovaya_konstantin_300/</url>
@@ -17279,7 +17274,7 @@
       </offer>
       <offer id="137002" available="true" group_id="137002">
         <url>https://i-sosna.ru/catalog/stoly_zhurnalnye/stol_zhurnalnyy_baltika_110kh70/</url>
-        <price>15530</price>
+        <price>16070</price>
         <currencyId>RUR</currencyId>
         <categoryId>456</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/42e/42edf26d4187ac426efe6520dd837c73.jpeg</picture>
@@ -17293,7 +17288,7 @@
         <param name="Глубина" unit="см">70</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
-        <oldprice>17640</oldprice>
+        <oldprice>19360</oldprice>
       </offer>
       <offer id="137003" available="true" group_id="137003">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_baltika_32_dvukhtumbovyy/</url>
@@ -29626,7 +29621,7 @@
       </offer>
       <offer id="156758" available="true" group_id="156758">
         <url>https://i-sosna.ru/catalog/sunduki/sunduk_1_bolshoy_/</url>
-        <price>13800</price>
+        <price>13820</price>
         <currencyId>RUR</currencyId>
         <categoryId>461</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/a0c/a0c612767e872c74a0697f4212565f2b.jpeg</picture>
@@ -29640,7 +29635,7 @@
         <param name="Глубина" unit="см">44</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
-        <oldprice>15160</oldprice>
+        <oldprice>16640</oldprice>
       </offer>
       <offer id="156759" available="true" group_id="156759">
         <url>https://i-sosna.ru/catalog/tumby_pod_tv/tumba_tv_baltika_1/</url>
