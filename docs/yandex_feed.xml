@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-20T16:25:30+03:00">
+<yml_catalog date="2026-02-21T05:29:16+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -2324,7 +2324,7 @@
       </offer>
       <offer id="7221" available="true" group_id="7221">
         <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_shkaf_penal_kukhonnyy_s_nishey_2220/</url>
-        <price>30080</price>
+        <price>32340</price>
         <currencyId>RUR</currencyId>
         <categoryId>618</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/8d3/8d3e47eee2e3c7a2f33f885d6d3d7d40.png</picture>
@@ -2337,7 +2337,6 @@
         <param name="Высота" unit="см">222</param>
         <param name="Глубина" unit="см">55</param>
         <param name="Материал">Массив сосны</param>
-        <oldprice>32340</oldprice>
       </offer>
       <offer id="7222" available="true" group_id="7222">
         <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_shkaf_stol_v_ugol_1_dv_n_u_1000/</url>
@@ -3725,7 +3724,7 @@
       </offer>
       <offer id="10242" available="true" group_id="10242">
         <url>https://i-sosna.ru/catalog/kukhnya_skayda_1_1/skayda_1_shkaf_navesnoy_2_dveri_steklo_s_nishey/</url>
-        <price>13900</price>
+        <price>14940</price>
         <currencyId>RUR</currencyId>
         <categoryId>628</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/2cd/2cd7c6f365e4bc2c5630ea9ff3effedd.png</picture>
@@ -3738,7 +3737,6 @@
         <param name="Высота" unit="см">95</param>
         <param name="Глубина" unit="см">27</param>
         <param name="Материал">Массив сосны</param>
-        <oldprice>14940</oldprice>
       </offer>
       <offer id="10240" available="true" group_id="10240">
         <url>https://i-sosna.ru/catalog/kukhnya_skayda_1_1/skayda_1_shkaf_uglovoy_navesnoy_60_1_dver_steklo/</url>
@@ -7714,7 +7712,7 @@
       </offer>
       <offer id="13587" available="true" group_id="13587">
         <url>https://i-sosna.ru/catalog/chasy_nastennye/chasy_geometriya/</url>
-        <price>1400</price>
+        <price>1520</price>
         <currencyId>RUR</currencyId>
         <categoryId>462</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/6ba/6ba90d1af59f12be2f3e8c51ae0c7895.jpeg</picture>
@@ -7728,7 +7726,6 @@
         <param name="Глубина" unit="см">2</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Добрый мастер</param>
-        <oldprice>1520</oldprice>
       </offer>
       <offer id="13588" available="true" group_id="13588">
         <url>https://i-sosna.ru/catalog/chasy_nastennye/chasy_rim/</url>
@@ -8208,7 +8205,7 @@
       </offer>
       <offer id="13709" available="true" group_id="13709">
         <url>https://i-sosna.ru/catalog/antresoli/antresol_k_shkafu_b/</url>
-        <price>12730</price>
+        <price>13830</price>
         <currencyId>RUR</currencyId>
         <categoryId>464</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/794/79466d8a2080fdb95e7ea3f561bbf818.png</picture>
@@ -8222,7 +8219,6 @@
         <param name="Глубина" unit="см">40</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Добрый мастер</param>
-        <oldprice>13830</oldprice>
       </offer>
       <offer id="13710" available="true" group_id="13710">
         <url>https://i-sosna.ru/catalog/polki/polka_nastennaya_2_kh_yar_502/</url>
@@ -8522,7 +8518,7 @@
       </offer>
       <offer id="15695" available="true" group_id="15695">
         <url>https://i-sosna.ru/catalog/vzroslye_krovati/krovat_s_yashchikami_nika/</url>
-        <price>31180</price>
+        <price>33890</price>
         <currencyId>RUR</currencyId>
         <categoryId>780</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/dfb/dfba102e4c505620d1aa3bd539334a9d.jpeg</picture>
@@ -8536,7 +8532,6 @@
         <param name="Глубина" unit="см">98</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Добрый мастер</param>
-        <oldprice>33890</oldprice>
       </offer>
       <offer id="15694" available="true" group_id="15694">
         <url>https://i-sosna.ru/catalog/polki/polka_pod_ikonu/</url>
@@ -8629,7 +8624,7 @@
       </offer>
       <offer id="15709" available="true" group_id="15709">
         <url>https://i-sosna.ru/catalog/stoly_obedennye/stol_omega_kvadratnyy_800_kh_800_mm/</url>
-        <price>13620</price>
+        <price>14800</price>
         <currencyId>RUR</currencyId>
         <categoryId>457</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/2fb/2fb2e4c56915eb9137f98d537cff5404.jpeg</picture>
@@ -8643,7 +8638,6 @@
         <param name="Глубина" unit="см">80</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Добрый мастер</param>
-        <oldprice>14800</oldprice>
       </offer>
       <offer id="15707" available="true" group_id="15707">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_kompyuternyy_uglovoy_980_kn_01/</url>
@@ -17753,7 +17747,7 @@
       </offer>
       <offer id="137251" available="true" group_id="137251">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_pismennyy_1800/</url>
-        <price>25510</price>
+        <price>27720</price>
         <currencyId>RUR</currencyId>
         <categoryId>458</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/bd0/bd0cbe2860ea5783ba49cb904819029f.jpeg</picture>
@@ -17767,7 +17761,6 @@
         <param name="Глубина" unit="см">60</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Добрый мастер</param>
-        <oldprice>27720</oldprice>
       </offer>
       <offer id="137348" available="true" group_id="137348">
         <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_shkaf_penal_kukhonnyy_s_nishey_2040/</url>
@@ -17837,7 +17830,7 @@
       </offer>
       <offer id="137352" available="true" group_id="137352">
         <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_shkaf_nastennyy_s_balkonchikom_900/</url>
-        <price>10740</price>
+        <price>11540</price>
         <currencyId>RUR</currencyId>
         <categoryId>618</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/b14/b143619e5c746062ff3dd35b1c00b561.jpeg</picture>
@@ -17850,7 +17843,6 @@
         <param name="Высота" unit="см">90</param>
         <param name="Глубина" unit="см">33</param>
         <param name="Материал">Массив сосны</param>
-        <oldprice>11540</oldprice>
       </offer>
       <offer id="137375" available="true" group_id="137375">
         <url>https://i-sosna.ru/catalog/divany_krovati/divan_krovat_klik_klak_rim/</url>
