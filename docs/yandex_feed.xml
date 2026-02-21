@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-21T05:29:16+03:00">
+<yml_catalog date="2026-02-21T16:12:48+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -544,7 +544,7 @@
       </offer>
       <offer id="6450" available="true" group_id="6450">
         <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_shkaf_nastennyy_2_dv_720/</url>
-        <price>13900</price>
+        <price>14940</price>
         <currencyId>RUR</currencyId>
         <categoryId>618</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/0a3/0a3eea5abc3721b1027b8b886a3c7d07.jpeg</picture>
@@ -557,7 +557,6 @@
         <param name="Высота" unit="см">72</param>
         <param name="Глубина" unit="см">33</param>
         <param name="Материал">Массив сосны</param>
-        <oldprice>14940</oldprice>
       </offer>
       <offer id="6430" available="true" group_id="6430">
         <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_shkaf_stol_uglovoy/</url>
@@ -3115,7 +3114,7 @@
       </offer>
       <offer id="10141" available="true" group_id="10141">
         <url>https://i-sosna.ru/catalog/kukhnya_skayda_1_1/skayda_1_tumba_uglovaya_30_kontsevaya_otkrytaya/</url>
-        <price>8980</price>
+        <price>9650</price>
         <currencyId>RUR</currencyId>
         <categoryId>628</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/9f2/9f2dbdeeeeaaca504654eb0aba3767e7.jpeg</picture>
@@ -3128,7 +3127,6 @@
         <param name="Высота" unit="см">81</param>
         <param name="Глубина" unit="см">55</param>
         <param name="Материал">Массив сосны</param>
-        <oldprice>9650</oldprice>
       </offer>
       <offer id="10161" available="true" group_id="10161">
         <url>https://i-sosna.ru/catalog/sunduki/sunduk_mambo/</url>
@@ -3936,7 +3934,7 @@
       </offer>
       <offer id="10262" available="true" group_id="10262">
         <url>https://i-sosna.ru/catalog/kukhnya_skayda_2_1/skayda_2_tumba_60_pod_dukhovku/</url>
-        <price>10130</price>
+        <price>10890</price>
         <currencyId>RUR</currencyId>
         <categoryId>631</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/964/964b96bc9d4b2ea47a69891b8b65bf26.png</picture>
@@ -3949,7 +3947,6 @@
         <param name="Высота" unit="см">81</param>
         <param name="Глубина" unit="см">55</param>
         <param name="Материал">Массив сосны</param>
-        <oldprice>10890</oldprice>
       </offer>
       <offer id="10261" available="true" group_id="10261">
         <url>https://i-sosna.ru/catalog/kukhnya_skayda_2_1/skayda_2_tumba_pod_ugol_100_1_dver_l_p/</url>
@@ -35543,7 +35540,7 @@
       </offer>
       <offer id="160648" available="true" group_id="160648">
         <url>https://i-sosna.ru/catalog/detskie_krovati/nakidka_tk_2/</url>
-        <price>4200</price>
+        <price>4700</price>
         <currencyId>RUR</currencyId>
         <categoryId>407</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/318/31826b9d80deb3afd238f0538f81e8c5.jpeg</picture>
