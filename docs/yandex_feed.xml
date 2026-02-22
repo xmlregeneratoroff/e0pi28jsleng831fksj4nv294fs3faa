@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-22T05:44:27+03:00">
+<yml_catalog date="2026-02-22T16:20:04+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -7671,7 +7671,7 @@
       </offer>
       <offer id="13585" available="true" group_id="13585">
         <url>https://i-sosna.ru/catalog/chasy_nastennye/chasy_strelki/</url>
-        <price>1420</price>
+        <price>1540</price>
         <currencyId>RUR</currencyId>
         <categoryId>462</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/073/07319a9aa9a0b1a86bc46c54ddcb14b2.jpeg</picture>
@@ -7685,7 +7685,6 @@
         <param name="Глубина" unit="см">2</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Добрый мастер</param>
-        <oldprice>1540</oldprice>
       </offer>
       <offer id="13586" available="true" group_id="13586">
         <url>https://i-sosna.ru/catalog/chasy_nastennye/chasy_arabika/</url>
@@ -19013,7 +19012,7 @@
       </offer>
       <offer id="138812" available="true" group_id="138812">
         <url>https://i-sosna.ru/catalog/kukhnya_skayda_2_1/skayda_2_tumba_1_dver_1_yashchik/</url>
-        <price>12730</price>
+        <price>13680</price>
         <currencyId>RUR</currencyId>
         <categoryId>631</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/f7a/f7a88c058f04e55fb57ede8f2da4ca3c.png</picture>
@@ -19026,7 +19025,6 @@
         <param name="Высота" unit="см">81</param>
         <param name="Глубина" unit="см">55</param>
         <param name="Материал">Массив сосны</param>
-        <oldprice>13680</oldprice>
       </offer>
       <offer id="138816" available="true" group_id="138816">
         <url>https://i-sosna.ru/catalog/kukhnya_viking_starenie/shkaf_nastennyy_150_mm_otkrytyy_s_polkoy_viking_gl_25/</url>
@@ -35518,7 +35516,7 @@
       </offer>
       <offer id="160647" available="true" group_id="160647">
         <url>https://i-sosna.ru/catalog/detskie_krovati/nakidka_tk_10/</url>
-        <price>9450</price>
+        <price>10400</price>
         <currencyId>RUR</currencyId>
         <categoryId>407</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/aab/aab36f407dc19a813e41014c58c0adf2.jpeg</picture>
