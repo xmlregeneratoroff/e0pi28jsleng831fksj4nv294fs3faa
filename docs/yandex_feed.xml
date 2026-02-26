@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-26T05:35:04+03:00">
+<yml_catalog date="2026-02-26T16:33:12+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -2292,7 +2292,7 @@
       </offer>
       <offer id="7219" available="true" group_id="7219">
         <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_shkaf_stol_kukhonnyy_uzkiy_pod_butylochnitsu/</url>
-        <price>6510</price>
+        <price>6990</price>
         <currencyId>RUR</currencyId>
         <categoryId>618</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/215/215067b0f27ea588010cf2ad2eec1596.png</picture>
@@ -2305,7 +2305,6 @@
         <param name="Высота" unit="см">72</param>
         <param name="Глубина" unit="см">55</param>
         <param name="Материал">Массив сосны</param>
-        <oldprice>6990</oldprice>
       </offer>
       <offer id="7221" available="true" group_id="7221">
         <url>https://i-sosna.ru/catalog/kukhnya_anyuta_1/kukhnya_anyuta_shkaf_penal_kukhonnyy_s_nishey_2220/</url>
@@ -21232,7 +21231,7 @@
       </offer>
       <offer id="151506" available="true">
         <url>https://i-sosna.ru/catalog/gostinye_garnitury/gostinyy_garnitur_rauna/</url>
-        <price>46800</price>
+        <price>66100</price>
         <currencyId>RUR</currencyId>
         <categoryId>728</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/bfb/bfbd557f66729c58a2f9190b2b49486e.jpg</picture>
@@ -33857,7 +33856,7 @@
       </offer>
       <offer id="160089" available="true">
         <url>https://i-sosna.ru/catalog/kabinety_iz_dereva/kabinet_rauna/</url>
-        <price>64800</price>
+        <price>67350</price>
         <currencyId>RUR</currencyId>
         <categoryId>729</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/787/78796d58edf2f4f4ead7fc508f6ca5ee.jpg</picture>
@@ -35521,7 +35520,7 @@
       </offer>
       <offer id="160653" available="true" group_id="160653">
         <url>https://i-sosna.ru/catalog/detskie_krovati/nakidka_tk_17/</url>
-        <price>11400</price>
+        <price>12400</price>
         <currencyId>RUR</currencyId>
         <categoryId>407</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/473/473613b11334668e8b5ca7034ae440c4.jpeg</picture>
@@ -62496,7 +62495,7 @@
       </offer>
       <offer id="177326" available="true" group_id="177326">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_pismennyy_khelsinki_07_2_kh_tumbovyy_obrazets/</url>
-        <price>37130</price>
+        <price>44170</price>
         <currencyId>RUR</currencyId>
         <categoryId>458</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/273/6sni6208v4nhmwkbcbzwiin2pxcl4ycf.jpg</picture>
@@ -62509,11 +62508,11 @@
         <param name="Высота" unit="см">75</param>
         <param name="Глубина" unit="см">76</param>
         <param name="Коллекция">Мальта/Хельсинки</param>
-        <oldprice>53040</oldprice>
+        <oldprice>63090</oldprice>
       </offer>
       <offer id="177332" available="true" group_id="177332">
         <url>https://i-sosna.ru/catalog/bufety/bufet_olsa_220_220_obrazets/</url>
-        <price>57500</price>
+        <price>82140</price>
         <currencyId>RUR</currencyId>
         <categoryId>388</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/b00/p57qsaj2zk1frznb1p5shulgp6mqdnkk.jpg</picture>
@@ -62524,7 +62523,6 @@
         <param name="Ширина" unit="см">102</param>
         <param name="Высота" unit="см">219</param>
         <param name="Глубина" unit="см">46</param>
-        <oldprice>82140</oldprice>
       </offer>
       <offer id="177334" available="true" group_id="177334">
         <url>https://i-sosna.ru/catalog/komody_i_tumby/sekreter_baltika_6_obrazets/</url>
@@ -75713,7 +75711,7 @@
       </offer>
       <offer id="193461" available="true">
         <url>https://i-sosna.ru/catalog/prikhozhie_iz_dereva/prikhozhaya_penni/</url>
-        <price>85730</price>
+        <price>100100</price>
         <currencyId>RUR</currencyId>
         <categoryId>733</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/e9a/p5owfc3707fulpz0r7z47af3pofba8rc.jpeg</picture>
