@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-01T16:22:36+03:00">
+<yml_catalog date="2026-03-02T05:33:28+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -21592,7 +21592,7 @@
       </offer>
       <offer id="151631" available="true">
         <url>https://i-sosna.ru/catalog/gostinye_garnitury/gostinyy_garnitur_bert/</url>
-        <price>55450</price>
+        <price>114240</price>
         <currencyId>RUR</currencyId>
         <categoryId>728</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/d95/d954d0d24a77fdfda0d8919a767f8412.jpg</picture>
@@ -61097,7 +61097,7 @@
       </offer>
       <offer id="175735" available="true" group_id="175735">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_klassika_trekhstvorchatyy/</url>
-        <price>42880</price>
+        <price>53600</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/fc9/gdso1nf4byddspluj8njvlgw2uqw8p77.jpeg</picture>
@@ -61111,7 +61111,6 @@
         <param name="Глубина" unit="см">59</param>
         <param name="Материал">ЛДСП/МДФ</param>
         <param name="Коллекция">Классика</param>
-        <oldprice>53600</oldprice>
       </offer>
       <offer id="175736" available="true" group_id="175736">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_klassika_trekhstvorchatyy_s_zerkalom/</url>
@@ -67875,7 +67874,7 @@
       </offer>
       <offer id="182626" available="true" group_id="182626">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_pismennyy_ayno_6_obrazets1/</url>
-        <price>52040</price>
+        <price>59280</price>
         <currencyId>RUR</currencyId>
         <categoryId>458</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/28b/jf904ups2oe6dt9pr7mr3ya86qykny77.jpg</picture>
@@ -67888,7 +67887,7 @@
         <param name="Высота" unit="см">130</param>
         <param name="Глубина" unit="см">63</param>
         <param name="Материал">Массив сосны, гладкая эмаль, цвет желтая пастель</param>
-        <oldprice>74340</oldprice>
+        <oldprice>84680</oldprice>
       </offer>
       <offer id="182628" available="true" group_id="182628">
         <url>https://i-sosna.ru/catalog/shkafy/shkaf_knizhnyy_ayno_3_obrazets/</url>
@@ -71788,7 +71787,7 @@
       </offer>
       <offer id="185990" available="true" group_id="185990">
         <url>https://i-sosna.ru/catalog/komody/komod_penni_022/</url>
-        <price>37730</price>
+        <price>34350</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/075/6oza4dubua5gprl44i8a9of7c6f09tnx.jpeg</picture>
