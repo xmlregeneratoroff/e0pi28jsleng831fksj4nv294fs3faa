@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-05T05:35:40+03:00">
+<yml_catalog date="2026-03-05T16:31:18+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -13430,7 +13430,7 @@
       </offer>
       <offer id="135406" available="true" group_id="135406">
         <url>https://i-sosna.ru/catalog/vzroslye_krovati/krovat_divan_lebo/</url>
-        <price>89300</price>
+        <price>66980</price>
         <currencyId>RUR</currencyId>
         <categoryId>780</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/e4e/vz2i945yyhayj2i23ollm09v0yvn0zdy.jpeg</picture>
@@ -13444,6 +13444,7 @@
         <param name="Глубина" unit="см">97</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Лебо</param>
+        <oldprice>89300</oldprice>
       </offer>
       <offer id="135413" available="true" group_id="135413">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_2kh_dvernyy_lebo/</url>
@@ -14015,7 +14016,7 @@
       </offer>
       <offer id="135498" available="true" group_id="135498">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_s_2_mya_steklyannymi_dveryami_i_polkami_beyli/</url>
-        <price>118000</price>
+        <price>82600</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/5ae/4ijfp27kae08lpi6li24nv2zov1yk07o.jpeg</picture>
@@ -14029,6 +14030,7 @@
         <param name="Глубина" unit="см">65</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>118000</oldprice>
       </offer>
       <offer id="135541" available="true" group_id="135541">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_3kh_dvernyy_s_zerkalnymi_dveryami_beyli/</url>
@@ -33816,7 +33818,7 @@
       </offer>
       <offer id="159550" available="true" group_id="159550">
         <url>https://i-sosna.ru/catalog/tumby_dlya_obuvi/tumba_dlya_obuvi_forest/</url>
-        <price>41900</price>
+        <price>32690</price>
         <currencyId>RUR</currencyId>
         <categoryId>438</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/b17/b170931ad9d3dc3a59721a950c32c94a.png</picture>
@@ -33830,6 +33832,7 @@
         <param name="Глубина" unit="см">34</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Форест</param>
+        <oldprice>41900</oldprice>
       </offer>
       <offer id="160057" available="true">
         <url>https://i-sosna.ru/catalog/prikhozhie_iz_dereva/prikhozhaya_forest/</url>
@@ -43719,7 +43722,7 @@
       </offer>
       <offer id="165942" available="true" group_id="165942">
         <url>https://i-sosna.ru/catalog/komody-r/krysha_tk_45kh82_obrazets/</url>
-        <price>73140</price>
+        <price>65010</price>
         <currencyId>RUR</currencyId>
         <categoryId>792</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/0e7/285mln2a1qbl5vqm1lw91kd55d01gufk.jpg</picture>
@@ -57477,7 +57480,7 @@
       </offer>
       <offer id="175143" available="true" group_id="175143">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_dlya_odezhdy_3_dvernyy_florentina_s_zerkalom_bm2_851_1_03_01/</url>
-        <price>146400</price>
+        <price>167200</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/483/j25s7rnx1su3xaosyvia2i270gimumje.jpeg</picture>
@@ -57647,7 +57650,7 @@
       </offer>
       <offer id="175154" available="true" group_id="175154">
         <url>https://i-sosna.ru/catalog/zerkala/zerkalo_tiffani_2555_bm681/</url>
-        <price>19400</price>
+        <price>22100</price>
         <currencyId>RUR</currencyId>
         <categoryId>399</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/d5b/x3ogyo4k68webnjyhmgz656gp7w6pnz7.jpeg</picture>
@@ -57783,7 +57786,7 @@
       </offer>
       <offer id="175163" available="true" group_id="175163">
         <url>https://i-sosna.ru/catalog/komody/komod_paola_2161_bm671/</url>
-        <price>87200</price>
+        <price>82670</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/906/tsh2cgkvkal5lb85hvh1sejeoocwamed.jpeg</picture>
@@ -57797,6 +57800,7 @@
         <param name="Глубина" unit="см">46</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>99600</oldprice>
       </offer>
       <offer id="175164" available="true" group_id="175164">
         <url>https://i-sosna.ru/catalog/zerkala/zerkalo_paola_2163_bm671/</url>
@@ -62083,7 +62087,7 @@
       </offer>
       <offer id="177132" available="true" group_id="177132">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_knig/shkaf_amadey_p6_635_0_03_/</url>
-        <price>165300</price>
+        <price>180200</price>
         <currencyId>RUR</currencyId>
         <categoryId>466</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/ee5/u7k29dhdhotwqdny1lgpgwuv44cvhakm.jpeg</picture>
@@ -62304,7 +62308,7 @@
       </offer>
       <offer id="177148" available="true" group_id="177148">
         <url>https://i-sosna.ru/catalog/tumby/tumba_prikrovatnaya_amadey_p6_635_1_04/</url>
-        <price>46000</price>
+        <price>50100</price>
         <currencyId>RUR</currencyId>
         <categoryId>402</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/0ba/m3t2bb4qbk3mnyuflzhr02spkoz925be.jpeg</picture>
@@ -62338,7 +62342,7 @@
       </offer>
       <offer id="177150" available="true" group_id="177150">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_dlya_odezhdy_2_dvernyy_amadey_p6_635_1_08/</url>
-        <price>191900</price>
+        <price>209300</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/cc4/dkoc2ljn7xc5cdowc15c7m06xriyktrw.jpeg</picture>
@@ -74244,7 +74248,7 @@
       </offer>
       <offer id="187380" available="true" group_id="187380">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_tel_dvukhstvorchatyy/</url>
-        <price>34780</price>
+        <price>43470</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/fcb/ca45mupfbp11w77clrh170mgj619wdnv.jpeg</picture>
@@ -74258,7 +74262,6 @@
         <param name="Глубина" unit="см">60</param>
         <param name="Материал">Массив дуба/ЛДСП</param>
         <param name="Коллекция">Тэль</param>
-        <oldprice>43470</oldprice>
       </offer>
       <offer id="187369" available="true" group_id="187369">
         <url>https://i-sosna.ru/catalog/tumby_prikrovatnye/tumba_prikrovatnaya_tel/</url>
@@ -75096,7 +75099,7 @@
       </offer>
       <offer id="188529" available="true" group_id="188529">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_forest_grafit_skvoznoy/</url>
-        <price>47400</price>
+        <price>36980</price>
         <currencyId>RUR</currencyId>
         <categoryId>452</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/9a9/r310sygdo3hc0kq2qlmcsuecy5flsoik.jpeg</picture>
@@ -75110,6 +75113,7 @@
         <param name="Глубина" unit="см">46</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Форест Графит</param>
+        <oldprice>47400</oldprice>
       </offer>
       <offer id="188592" available="true" group_id="188592">
         <url>https://i-sosna.ru/catalog/tumby/tumba_bern_nisha_2_dveri/</url>
@@ -75511,7 +75515,7 @@
       </offer>
       <offer id="188973" available="true" group_id="188973">
         <url>https://i-sosna.ru/catalog/stoly_obedennye/stol_obedennyy_pryamougolnyy_granada/</url>
-        <price>38570</price>
+        <price>36040</price>
         <currencyId>RUR</currencyId>
         <categoryId>457</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/790/l3nwpux00baidsmurtxvt86tddl0xc3c.jpeg</picture>
