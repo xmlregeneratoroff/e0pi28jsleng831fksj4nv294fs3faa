@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-05T16:31:18+03:00">
+<yml_catalog date="2026-03-06T05:32:47+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -19439,7 +19439,7 @@
       </offer>
       <offer id="140874" available="true" group_id="140874">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_2_dvernyy_lotos_bm2_701_1_43_2190_s_yashchikami/</url>
-        <price>101000</price>
+        <price>115400</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/10f/10ff2487f88e7784270c91a1026932f3.jpeg</picture>
@@ -48379,7 +48379,7 @@
       </offer>
       <offer id="167830" available="true" group_id="167830">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_2_stv_robin_layt/</url>
-        <price>31000</price>
+        <price>38740</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/fe7/fe7cf9a25769f3656650541e6be14919.jpeg</picture>
@@ -48394,7 +48394,6 @@
         <param name="Материал">Массив березы / ЛДСП</param>
         <param name="Коллекция">Робин Wood Лайт</param>
         <weight>103</weight>
-        <oldprice>38740</oldprice>
       </offer>
       <offer id="167831" available="true" group_id="167831">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_malyy_robin_layt/</url>
@@ -57463,7 +57462,7 @@
       </offer>
       <offer id="175140" available="true" group_id="175140">
         <url>https://i-sosna.ru/catalog/komody/komod_florentina_2673_bm851/</url>
-        <price>55200</price>
+        <price>63000</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/850/m4lmug1ygal60wokkq9ntxcx3jg4j3ke.jpeg</picture>
@@ -57804,7 +57803,7 @@
       </offer>
       <offer id="175164" available="true" group_id="175164">
         <url>https://i-sosna.ru/catalog/zerkala/zerkalo_paola_2163_bm671/</url>
-        <price>29000</price>
+        <price>27480</price>
         <currencyId>RUR</currencyId>
         <categoryId>399</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/78d/g9ja03wq82prznqmragyuzrati409v60.jpeg</picture>
@@ -57818,6 +57817,7 @@
         <param name="Глубина" unit="см">8</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>33100</oldprice>
       </offer>
       <offer id="175165" available="true" group_id="175165">
         <url>https://i-sosna.ru/catalog/tualetnye_stoliki/stol_tualetnyy_paola_2205_bm671/</url>
@@ -58113,7 +58113,7 @@
       </offer>
       <offer id="175182" available="true" group_id="175182">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_pismennyy_paola_2170_bm672/</url>
-        <price>121000</price>
+        <price>129240</price>
         <currencyId>RUR</currencyId>
         <categoryId>458</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/e6a/l3oazi3fli5jytc50md1b0ezoh66yxbc.jpeg</picture>
@@ -58127,6 +58127,7 @@
         <param name="Глубина" unit="см">72</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>155700</oldprice>
       </offer>
       <offer id="175183" available="true" group_id="175183">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_pismennyy_2_tumby_paola_2171_bm672/</url>
@@ -58199,7 +58200,7 @@
       </offer>
       <offer id="175187" available="true" group_id="175187">
         <url>https://i-sosna.ru/catalog/tumby/tumba_paola_2174_bm673/</url>
-        <price>58700</price>
+        <price>52100</price>
         <currencyId>RUR</currencyId>
         <categoryId>402</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/ee2/2g26h0w8hda5639z7o19bfa801qpv72j.jpeg</picture>
@@ -58352,7 +58353,7 @@
       </offer>
       <offer id="175198" available="true" group_id="175198">
         <url>https://i-sosna.ru/catalog/komody/komod_yustina_bm2_691_1_31/</url>
-        <price>92900</price>
+        <price>106100</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/ea5/56pjoco9zaesb5ruh8magvdnkmo3htbx.jpeg</picture>
@@ -58403,7 +58404,7 @@
       </offer>
       <offer id="175201" available="true" group_id="175201">
         <url>https://i-sosna.ru/catalog/zerkala/zerkalo_nadstavka_yustina_bm2_691_1_631/</url>
-        <price>50800</price>
+        <price>58000</price>
         <currencyId>RUR</currencyId>
         <categoryId>399</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/71b/o4m50jskvjd5fky06djijq8sx4nirxjg.jpeg</picture>
@@ -60374,7 +60375,7 @@
       </offer>
       <offer id="175686" available="true" group_id="175686">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_tvist_loft/</url>
-        <price>24690</price>
+        <price>30860</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/c49/vxj29ionwnygdt0zjul42s55wz4p9wy3.jpeg</picture>
@@ -60388,7 +60389,6 @@
         <param name="Глубина" unit="см">57</param>
         <param name="Материал">ЛДСП/МДФ</param>
         <param name="Коллекция">Твист Лофт</param>
-        <oldprice>30860</oldprice>
       </offer>
       <offer id="175687" available="true" group_id="175687">
         <url>https://i-sosna.ru/catalog/krovati_iz_dereva/stupeni_tvist_loft/</url>
@@ -61073,7 +61073,7 @@
       </offer>
       <offer id="175734" available="true" group_id="175734">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_klassika_dvukhstvorchatyy/</url>
-        <price>32560</price>
+        <price>40690</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/47a/nf4y3yt9v2esteuhdarvgkukfcu8vpdy.jpeg</picture>
@@ -61087,7 +61087,6 @@
         <param name="Глубина" unit="см">59</param>
         <param name="Материал">ЛДСП/МДФ</param>
         <param name="Коллекция">Классика</param>
-        <oldprice>40690</oldprice>
       </offer>
       <offer id="175735" available="true" group_id="175735">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_klassika_trekhstvorchatyy/</url>
