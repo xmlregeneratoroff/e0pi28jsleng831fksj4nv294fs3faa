@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-06T05:32:47+03:00">
+<yml_catalog date="2026-03-06T16:27:02+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -19558,7 +19558,7 @@
       </offer>
       <offer id="141678" available="true" group_id="141678">
         <url>https://i-sosna.ru/catalog/tumby_pod_tv/tumba_2_dvernaya_lotos_bm2_701_4_35_1074/</url>
-        <price>35300</price>
+        <price>40300</price>
         <currencyId>RUR</currencyId>
         <categoryId>403</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/7ba/7baac8721a914c6c5bc5bcfa13e4e178.jpeg</picture>
@@ -57821,7 +57821,7 @@
       </offer>
       <offer id="175165" available="true" group_id="175165">
         <url>https://i-sosna.ru/catalog/tualetnye_stoliki/stol_tualetnyy_paola_2205_bm671/</url>
-        <price>63100</price>
+        <price>59850</price>
         <currencyId>RUR</currencyId>
         <categoryId>455</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/c4e/0doa4jcs3jml2n7p7g1yxpiexv4d5u4b.jpeg</picture>
@@ -57835,6 +57835,7 @@
         <param name="Глубина" unit="см">46</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>72100</oldprice>
       </offer>
       <offer id="175166" available="true" group_id="175166">
         <url>https://i-sosna.ru/catalog/zerkala/zerkalo_nadstavka_paola_2330_bm671/</url>
@@ -57855,7 +57856,7 @@
       </offer>
       <offer id="175167" available="true" group_id="175167">
         <url>https://i-sosna.ru/catalog/banketki_/banketka_paola_2206_2gr_tk_bm675/</url>
-        <price>22500</price>
+        <price>23490</price>
         <currencyId>RUR</currencyId>
         <categoryId>832</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/9db/qik62zblokiqb1ceh3hq9ppv4hs0a0t9.jpeg</picture>
@@ -57869,6 +57870,7 @@
         <param name="Глубина" unit="см">42</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>28300</oldprice>
       </offer>
       <offer id="175168" available="true" group_id="175168">
         <url>https://i-sosna.ru/catalog/banketki_/banketka_paola_2206_3gr_tk_bm675/</url>
@@ -62137,7 +62139,7 @@
       </offer>
       <offer id="177135" available="true" group_id="177135">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_pismennyy_2t_amadey_p635_2_17_/</url>
-        <price>147700</price>
+        <price>161100</price>
         <currencyId>RUR</currencyId>
         <categoryId>458</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/df8/5oapaoxtyftcl4ku00vhd68lf14jgvnr.jpeg</picture>
@@ -76247,7 +76249,7 @@
       </offer>
       <offer id="189490" available="true" group_id="189490">
         <url>https://i-sosna.ru/catalog/komody/komod_penni_2_dveri_2_yashchika/</url>
-        <price>44150</price>
+        <price>40190</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/d28/fa8su8jmt0hisqimkcdlprm2zvmwq4ck.jpeg</picture>
