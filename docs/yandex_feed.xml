@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-06T16:27:02+03:00">
+<yml_catalog date="2026-03-07T05:28:16+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -13785,7 +13785,7 @@
       </offer>
       <offer id="135493" available="true" group_id="135493">
         <url>https://i-sosna.ru/catalog/krovati_takhta/krovat_divan_beyli_s_yashchikami/</url>
-        <price>79980</price>
+        <price>55990</price>
         <currencyId>RUR</currencyId>
         <categoryId>758</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/33e/h3xpfslgvel256biq667efimnu6zef0z.jpeg</picture>
@@ -13799,6 +13799,7 @@
         <param name="Глубина" unit="см">100</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>79980</oldprice>
       </offer>
       <offer id="135494" available="true" group_id="135494">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_3kh_dvernyy_beyli_s_zerkalom/</url>
@@ -14357,7 +14358,7 @@
       </offer>
       <offer id="135657" available="true" group_id="135657">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_posudy/shkaf_dlya_posudy_forest_uzkiy_1_dver_2_yashchika/</url>
-        <price>54860</price>
+        <price>42800</price>
         <currencyId>RUR</currencyId>
         <categoryId>786</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/f92/qbwt2naiks0ue5ofv73kp2r1273hsgwc.jpeg</picture>
@@ -14371,6 +14372,7 @@
         <param name="Глубина" unit="см">42</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Форест</param>
+        <oldprice>54860</oldprice>
       </offer>
       <offer id="135659" available="true" group_id="135659">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_posudy/shkaf_dlya_posudy_forest_nizkiy_2_dveri_1_yashchik/</url>
@@ -14626,7 +14628,7 @@
       </offer>
       <offer id="135715" available="true" group_id="135715">
         <url>https://i-sosna.ru/catalog/tumby_pod_tv/tumba_tv_forest_2_dveri_1_yashchik/</url>
-        <price>51100</price>
+        <price>39860</price>
         <currencyId>RUR</currencyId>
         <categoryId>403</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/a86/rofpecq29wu5hkyf62rf7cqntcoqlg9c.jpeg</picture>
@@ -14640,6 +14642,7 @@
         <param name="Глубина" unit="см">42</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Форест</param>
+        <oldprice>51100</oldprice>
       </offer>
       <offer id="135716" available="true" group_id="135716">
         <url>https://i-sosna.ru/catalog/polki/polka_nastennaya_forest/</url>
@@ -57428,7 +57431,7 @@
       </offer>
       <offer id="175136" available="true" group_id="175136">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_dlya_odezhdy_3_dvernyy_florentina_bm2_851_1_03/</url>
-        <price>154100</price>
+        <price>176000</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/d4e/rxms4ia3rymgp9zvaccf9ixdc1jwnvhy.jpeg</picture>
@@ -58321,7 +58324,7 @@
       </offer>
       <offer id="175196" available="true" group_id="175196">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_dlya_odezhdy_3_dvernyy_yustina_bm2_691_1_03_01_2358_01/</url>
-        <price>202600</price>
+        <price>231400</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/195/g343o32l7itaks1gsme42e41pfulb9yn.jpeg</picture>
@@ -58961,7 +58964,7 @@
       </offer>
       <offer id="175436" available="true" group_id="175436">
         <url>https://i-sosna.ru/catalog/vzroslye_krovati/dvuspalnaya_krovat_paola/</url>
-        <price>130000</price>
+        <price>141440</price>
         <currencyId>RUR</currencyId>
         <categoryId>780</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/63a/prxroo3um7sc8x7y12wmwe199syllqsx.jpeg</picture>
@@ -58975,6 +58978,7 @@
         <param name="Глубина" unit="см">211</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>170400</oldprice>
       </offer>
       <offer id="175446" available="true" group_id="175446">
         <url>https://i-sosna.ru/catalog/tualetnye_stoliki/stol_tualetnyy_tiffani_2424_bm681/</url>
@@ -62190,7 +62194,7 @@
       </offer>
       <offer id="177139" available="true" group_id="177139">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_posudy/shkaf_amadey_p6_635_0_09/</url>
-        <price>172900</price>
+        <price>188500</price>
         <currencyId>RUR</currencyId>
         <categoryId>786</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/03a/98c7ie1hnguvlf8pjbwu2nubywyzaemh.jpeg</picture>
@@ -62275,7 +62279,7 @@
       </offer>
       <offer id="177146" available="true" group_id="177146">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_dlya_odezhdy_4_dvernyy_amadey_p6_635_1_01/</url>
-        <price>261900</price>
+        <price>285500</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/547/6nt4ic8ga2k38zll2mqjuok6eqchso0s.jpeg</picture>
@@ -70729,7 +70733,7 @@
       </offer>
       <offer id="184608" available="true" group_id="184608">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_voyazh_02_120_rya/</url>
-        <price>18850</price>
+        <price>32490</price>
         <currencyId>RUR</currencyId>
         <categoryId>452</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/823/yquyyiiqiywwx8y2x622slkyjkxrrb9y.jpeg</picture>
@@ -70742,7 +70746,6 @@
         <param name="Глубина" unit="см">11</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Вояж</param>
-        <oldprice>32490</oldprice>
       </offer>
       <offer id="184611" available="true" group_id="184611">
         <url>https://i-sosna.ru/catalog/tumby/tumba_voyazh_20/</url>
