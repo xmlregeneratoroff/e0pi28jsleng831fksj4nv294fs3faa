@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-11T05:56:38+03:00">
+<yml_catalog date="2026-03-11T17:16:42+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -4539,7 +4539,7 @@
       </offer>
       <offer id="11255" available="true" group_id="11255">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_falko_2_bez_zerkala/</url>
-        <price>65280</price>
+        <price>48960</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/368/368e5d0d18206c2321886383e3e8a4fd.jpeg</picture>
@@ -4553,6 +4553,7 @@
         <param name="Глубина" unit="см">57</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>65280</oldprice>
       </offer>
       <offer id="11508" available="true" group_id="11508">
         <url>https://i-sosna.ru/catalog/matrasy_sleep_infiniti/matras_sontery_by_askona_sleep_tonic_guru/</url>
@@ -5873,7 +5874,7 @@
       </offer>
       <offer id="13399" available="true" group_id="13399">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_falko_1_s_zerkalom/</url>
-        <price>52480</price>
+        <price>39360</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/91d/91d11456b54a1847fbbe588bd425807a.jpeg</picture>
@@ -5887,6 +5888,7 @@
         <param name="Глубина" unit="см">57</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>52480</oldprice>
       </offer>
       <offer id="13183" available="true" group_id="13183">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_khelsinki_4_sp_gt_m/</url>
@@ -7030,7 +7032,7 @@
       </offer>
       <offer id="13511" available="true" group_id="13511">
         <url>https://i-sosna.ru/catalog/antresoli/antresol_falko_1_2_kh_dvernaya/</url>
-        <price>13570</price>
+        <price>10180</price>
         <currencyId>RUR</currencyId>
         <categoryId>464</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/601/601aa281e61e694c79cad662444637c4.jpeg</picture>
@@ -7044,10 +7046,11 @@
         <param name="Глубина" unit="см">57</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>13570</oldprice>
       </offer>
       <offer id="13512" available="true" group_id="13512">
         <url>https://i-sosna.ru/catalog/antresoli/antresol_falko_2_3_kh_dvernaya/</url>
-        <price>18080</price>
+        <price>13560</price>
         <currencyId>RUR</currencyId>
         <categoryId>464</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/f3b/f3bd7367d953292ed79c884a67a9b50d.jpeg</picture>
@@ -7061,6 +7064,7 @@
         <param name="Глубина" unit="см">57</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>18080</oldprice>
       </offer>
       <offer id="13547" available="true" group_id="13547">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_stellazh_genrikh_md_194/</url>
@@ -7659,7 +7663,7 @@
       </offer>
       <offer id="13668" available="true" group_id="13668">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_falko_2_s_zerkalom/</url>
-        <price>65280</price>
+        <price>48960</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/9f3/9f317df126269d1f5d592034e4a2878f.jpeg</picture>
@@ -7673,6 +7677,7 @@
         <param name="Глубина" unit="см">57</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>65280</oldprice>
       </offer>
       <offer id="13657" available="true" group_id="13657">
         <url>https://i-sosna.ru/catalog/tumby_prikrovatnye/komod_vokko_44_04/</url>
@@ -13028,7 +13033,7 @@
       </offer>
       <offer id="135389" available="true" group_id="135389">
         <url>https://i-sosna.ru/catalog/zerkala/zerkalo_lebo/</url>
-        <price>15440</price>
+        <price>11580</price>
         <currencyId>RUR</currencyId>
         <categoryId>399</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/b77/b77e6bd1bf0693b549fcf61819b05f64.jpeg</picture>
@@ -13043,10 +13048,11 @@
         <param name="Материал">Массив сосны</param>
         <param name="Цвет">Бежевый воск</param>
         <param name="Коллекция">Лебо</param>
+        <oldprice>15440</oldprice>
       </offer>
       <offer id="135392" available="true" group_id="135392">
         <url>https://i-sosna.ru/catalog/vzroslye_krovati/krovat_lebo_bez_iznozhya/</url>
-        <price>36970</price>
+        <price>39990</price>
         <currencyId>RUR</currencyId>
         <categoryId>780</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/acd/nw3f3kq80z00887nqgt7bkoi2megwyr7.jpeg</picture>
@@ -13060,10 +13066,11 @@
         <param name="Глубина" unit="см">218</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Лебо</param>
+        <oldprice>53320</oldprice>
       </offer>
       <offer id="135399" available="true" group_id="135399">
         <url>https://i-sosna.ru/catalog/tualetnye_stoliki/stol_tualetnyy_lebo/</url>
-        <price>23980</price>
+        <price>17990</price>
         <currencyId>RUR</currencyId>
         <categoryId>455</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/c5d/a0ud522e632tn4okqvo4cvzmr5li4r09.jpeg</picture>
@@ -13077,10 +13084,11 @@
         <param name="Глубина" unit="см">36</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Лебо</param>
+        <oldprice>23980</oldprice>
       </offer>
       <offer id="135406" available="true" group_id="135406">
         <url>https://i-sosna.ru/catalog/vzroslye_krovati/krovat_divan_lebo/</url>
-        <price>89300</price>
+        <price>66980</price>
         <currencyId>RUR</currencyId>
         <categoryId>780</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/e4e/vz2i945yyhayj2i23ollm09v0yvn0zdy.jpeg</picture>
@@ -13094,10 +13102,11 @@
         <param name="Глубина" unit="см">97</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Лебо</param>
+        <oldprice>89300</oldprice>
       </offer>
       <offer id="135413" available="true" group_id="135413">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_2kh_dvernyy_lebo/</url>
-        <price>84640</price>
+        <price>63480</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/b36/4p0amkl57go4dnt9b5d9k88ekh5v1uj3.jpeg</picture>
@@ -13111,10 +13120,11 @@
         <param name="Глубина" unit="см">67</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Лебо</param>
+        <oldprice>84640</oldprice>
       </offer>
       <offer id="135414" available="true" group_id="135414">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_2kh_dv_so_steklyannymi_dveryami_lebo/</url>
-        <price>84640</price>
+        <price>63480</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/f8c/36w9lxxwesqnyfu1uvjoimctg9prsq7f.jpeg</picture>
@@ -13128,10 +13138,11 @@
         <param name="Глубина" unit="см">67</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Лебо</param>
+        <oldprice>84640</oldprice>
       </offer>
       <offer id="135415" available="true" group_id="135415">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_3kh_dv_lebo_s_2_mya_steklyannymi_dveryami_i_zerkalom_/</url>
-        <price>129160</price>
+        <price>96870</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/fea/y9o6vzj9ccrxgxx9fk9vq40a4xb3qqgk.jpeg</picture>
@@ -13145,10 +13156,11 @@
         <param name="Глубина" unit="см">67</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Лебо</param>
+        <oldprice>129160</oldprice>
       </offer>
       <offer id="135416" available="true" group_id="135416">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_3kh_dvernyy_s_zerkalom_lebo/</url>
-        <price>129160</price>
+        <price>96870</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/72f/0jlczkbj5tho69v3cccktplhx2jv4iph.jpeg</picture>
@@ -13162,10 +13174,11 @@
         <param name="Глубина" unit="см">67</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Лебо</param>
+        <oldprice>129160</oldprice>
       </offer>
       <offer id="135417" available="true" group_id="135417">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_3kh_dv_lebo_s_glukhimi_dveryami_/</url>
-        <price>129160</price>
+        <price>96870</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/6f6/0h84e1z73pj6aaj520ua3bi131fcg8ym.jpeg</picture>
@@ -13179,10 +13192,11 @@
         <param name="Глубина" unit="см">67</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Лебо</param>
+        <oldprice>129160</oldprice>
       </offer>
       <offer id="135433" available="true" group_id="135433">
         <url>https://i-sosna.ru/catalog/mebelnaya_komplektatsiya/polki_dlya_2kh_i_3kh_dvernogo_shkafov_lebo/</url>
-        <price>13840</price>
+        <price>10380</price>
         <currencyId>RUR</currencyId>
         <categoryId>840</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/644/6441cb61e5721d76907bfa80fd57a808.jpeg</picture>
@@ -13196,10 +13210,11 @@
         <param name="Глубина" unit="см">6</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Лебо</param>
+        <oldprice>13840</oldprice>
       </offer>
       <offer id="135435" available="true" group_id="135435">
         <url>https://i-sosna.ru/catalog/vitriny/vitrina_2kh_dvernaya_lebo_/</url>
-        <price>77960</price>
+        <price>58470</price>
         <currencyId>RUR</currencyId>
         <categoryId>389</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/807/i6ys0fa3mtwl9g0r0dai6hw3noc81r4p.jpeg</picture>
@@ -13213,10 +13228,11 @@
         <param name="Глубина" unit="см">47</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Лебо</param>
+        <oldprice>77960</oldprice>
       </offer>
       <offer id="135436" available="true" group_id="135436">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_shirokiy_lebo/</url>
-        <price>65320</price>
+        <price>48990</price>
         <currencyId>RUR</currencyId>
         <categoryId>452</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/d3b/s5llo23n2p76lk88t6328xjeuq934n8h.jpeg</picture>
@@ -13230,10 +13246,11 @@
         <param name="Глубина" unit="см">47</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Лебо</param>
+        <oldprice>65320</oldprice>
       </offer>
       <offer id="135437" available="true" group_id="135437">
         <url>https://i-sosna.ru/catalog/vitriny/vitrina_1_dvernaya_lebo/</url>
-        <price>61160</price>
+        <price>45870</price>
         <currencyId>RUR</currencyId>
         <categoryId>389</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/7b1/4zjpyzfo4zn889dg58ccbq2q7eq7xjay.jpeg</picture>
@@ -13247,10 +13264,11 @@
         <param name="Глубина" unit="см">47</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Лебо</param>
+        <oldprice>61160</oldprice>
       </offer>
       <offer id="135438" available="true" group_id="135438">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_uzkiy_lebo/</url>
-        <price>57160</price>
+        <price>42870</price>
         <currencyId>RUR</currencyId>
         <categoryId>452</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/e48/e487f669f159da9a3a4fb7dd20965229.jpeg</picture>
@@ -13264,10 +13282,11 @@
         <param name="Глубина" unit="см">47</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Лебо</param>
+        <oldprice>57160</oldprice>
       </offer>
       <offer id="135439" available="true" group_id="135439">
         <url>https://i-sosna.ru/catalog/komody/komod_lebo_s_3_yashchikami/</url>
-        <price>46360</price>
+        <price>34770</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/1cd/c5u6rlk37khh2sdqw7scq694poh19oet.jpeg</picture>
@@ -13281,10 +13300,11 @@
         <param name="Глубина" unit="см">45</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Лебо</param>
+        <oldprice>46360</oldprice>
       </offer>
       <offer id="135440" available="true" group_id="135440">
         <url>https://i-sosna.ru/catalog/komody/komod_prilavok_lebo_/</url>
-        <price>60970</price>
+        <price>70360</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/a79/ddjsyd40jbuma0my0md2v85yh5mjt1nz.jpeg</picture>
@@ -13301,7 +13321,7 @@
       </offer>
       <offer id="135444" available="true" group_id="135444">
         <url>https://i-sosna.ru/catalog/tumby_prikrovatnye/tumba_prikrovatnaya_lebo/</url>
-        <price>23320</price>
+        <price>17490</price>
         <currencyId>RUR</currencyId>
         <categoryId>404</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/df2/w13u9jevo62ux8712f53y6oyejt8gh3h.jpeg</picture>
@@ -13315,10 +13335,11 @@
         <param name="Глубина" unit="см">42</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Лебо</param>
+        <oldprice>23320</oldprice>
       </offer>
       <offer id="135445" available="true" group_id="135445">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_pismennyy_lebo/</url>
-        <price>49320</price>
+        <price>36990</price>
         <currencyId>RUR</currencyId>
         <categoryId>458</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/4d8/estbib5rzttq67oltoujj2jjxn93tb3f.jpeg</picture>
@@ -13332,10 +13353,11 @@
         <param name="Глубина" unit="см">68</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Лебо</param>
+        <oldprice>49320</oldprice>
       </offer>
       <offer id="135446" available="true" group_id="135446">
         <url>https://i-sosna.ru/catalog/tumby_pod_tv/tumba_tv_lebo/</url>
-        <price>50520</price>
+        <price>37890</price>
         <currencyId>RUR</currencyId>
         <categoryId>403</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/82d/dqa79j53i02k7c4hoqnjmtxjfoanmqil.jpeg</picture>
@@ -13349,6 +13371,7 @@
         <param name="Глубина" unit="см">47</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Лебо</param>
+        <oldprice>50520</oldprice>
       </offer>
       <offer id="135451" available="true" group_id="135451">
         <url>https://i-sosna.ru/catalog/stulya/stul_forest_lebo_/</url>
@@ -13369,7 +13392,7 @@
       </offer>
       <offer id="135488" available="true" group_id="135488">
         <url>https://i-sosna.ru/catalog/tualetnye_stoliki/stol_tualetnyy_konsolea/</url>
-        <price>17160</price>
+        <price>12020</price>
         <currencyId>RUR</currencyId>
         <categoryId>455</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/012/9k211jifdw2bbjocbqbmleceshhklvk8.jpeg</picture>
@@ -13383,10 +13406,11 @@
         <param name="Глубина" unit="см">32</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>17160</oldprice>
       </offer>
       <offer id="135490" available="true" group_id="135490">
         <url>https://i-sosna.ru/catalog/zerkala/zerkalo_sindi/</url>
-        <price>17160</price>
+        <price>12020</price>
         <currencyId>RUR</currencyId>
         <categoryId>399</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/62d/62da47ef7ad39052fd4062a7629e68fa.jpeg</picture>
@@ -13399,10 +13423,11 @@
         <param name="Высота" unit="см">101</param>
         <param name="Глубина" unit="см">19</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>17160</oldprice>
       </offer>
       <offer id="135491" available="true" group_id="135491">
         <url>https://i-sosna.ru/catalog/vzroslye_krovati/krovat_beyli_bez_iznozhya/</url>
-        <price>47000</price>
+        <price>32900</price>
         <currencyId>RUR</currencyId>
         <categoryId>780</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/06d/nonzxgj7thhn3qnx3nnfdszm9mg2ybyy.jpeg</picture>
@@ -13416,10 +13441,11 @@
         <param name="Глубина" unit="см">200</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>47000</oldprice>
       </offer>
       <offer id="135493" available="true" group_id="135493">
         <url>https://i-sosna.ru/catalog/krovati_takhta/krovat_divan_beyli_s_yashchikami/</url>
-        <price>79980</price>
+        <price>55990</price>
         <currencyId>RUR</currencyId>
         <categoryId>758</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/33e/h3xpfslgvel256biq667efimnu6zef0z.jpeg</picture>
@@ -13433,10 +13459,11 @@
         <param name="Глубина" unit="см">100</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>79980</oldprice>
       </offer>
       <offer id="135494" available="true" group_id="135494">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_3kh_dvernyy_beyli_s_zerkalom/</url>
-        <price>121080</price>
+        <price>84760</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/41c/251hl1dndvmjlxxuludfqcg63k10hygi.jpeg</picture>
@@ -13450,10 +13477,11 @@
         <param name="Глубина" unit="см">65</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>121080</oldprice>
       </offer>
       <offer id="135495" available="true" group_id="135495">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_2kh_dvernyy_beyli_s_polkami/</url>
-        <price>118000</price>
+        <price>82600</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/4c5/cj0tus0xffee5nx4a7dikyakm0wuol00.jpeg</picture>
@@ -13467,10 +13495,11 @@
         <param name="Глубина" unit="см">65</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>118000</oldprice>
       </offer>
       <offer id="135496" available="true" group_id="135496">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_3kh_dvernyy_beyli_s_glukhimi_dveryami/</url>
-        <price>121080</price>
+        <price>84760</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/968/7sbwv2w6r1hsymwel1ufx5p2fs565vv1.jpeg</picture>
@@ -13484,10 +13513,11 @@
         <param name="Глубина" unit="см">65</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>121080</oldprice>
       </offer>
       <offer id="135497" available="true" group_id="135497">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_3_dvernyy_so_steklyannymi_dveryami_beyli/</url>
-        <price>121080</price>
+        <price>84760</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/c76/997ql0sqcwi9we5y5fsfrm7tnw4sibw5.jpeg</picture>
@@ -13501,6 +13531,7 @@
         <param name="Глубина" unit="см">65</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>121080</oldprice>
       </offer>
       <offer id="135292" available="true" group_id="135292">
         <url>https://i-sosna.ru/catalog/bufety/servant_ayno_1_dvernyy_shchit/</url>
@@ -13606,7 +13637,7 @@
       </offer>
       <offer id="135544" available="true" group_id="135544">
         <url>https://i-sosna.ru/catalog/antresoli/antresol_3dv_shkafa_beyli/</url>
-        <price>32760</price>
+        <price>22940</price>
         <currencyId>RUR</currencyId>
         <categoryId>464</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/37f/ln8pavqexcfif0vnjhp7yje1wdba6fi5.jpeg</picture>
@@ -13620,10 +13651,11 @@
         <param name="Глубина" unit="см">65</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>32760</oldprice>
       </offer>
       <offer id="135548" available="true" group_id="135548">
         <url>https://i-sosna.ru/catalog/antresoli/antresol_2kh_dvernogo_shkafa_beyli/</url>
-        <price>23600</price>
+        <price>16520</price>
         <currencyId>RUR</currencyId>
         <categoryId>464</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/636/6361de041697fac13239b82f52e9dff1.jpeg</picture>
@@ -13637,10 +13669,11 @@
         <param name="Глубина" unit="см">65</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>23600</oldprice>
       </offer>
       <offer id="135498" available="true" group_id="135498">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_s_2_mya_steklyannymi_dveryami_i_polkami_beyli/</url>
-        <price>118000</price>
+        <price>82600</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/5ae/4ijfp27kae08lpi6li24nv2zov1yk07o.jpeg</picture>
@@ -13654,10 +13687,11 @@
         <param name="Глубина" unit="см">65</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>118000</oldprice>
       </offer>
       <offer id="135541" available="true" group_id="135541">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_3kh_dvernyy_s_zerkalnymi_dveryami_beyli/</url>
-        <price>121080</price>
+        <price>84760</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/87a/h11g2d155wxu65zkxjenyrz3wsgp938g.jpeg</picture>
@@ -13671,10 +13705,11 @@
         <param name="Глубина" unit="см">65</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>121080</oldprice>
       </offer>
       <offer id="135542" available="true" group_id="135542">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_s_2_mya_zerkalnymi_dveryami_i_polkami_beyli/</url>
-        <price>118000</price>
+        <price>82600</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/16e/d25zohftqqup7d7fy82j13g4qt2ccuop.jpeg</picture>
@@ -13688,10 +13723,11 @@
         <param name="Глубина" unit="см">65</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>118000</oldprice>
       </offer>
       <offer id="135543" available="true" group_id="135543">
         <url>https://i-sosna.ru/catalog/mebelnaya_komplektatsiya/yashchik_dlya_shkafa_stellazha_beyli/</url>
-        <price>5600</price>
+        <price>3920</price>
         <currencyId>RUR</currencyId>
         <categoryId>840</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/424/424db4c426af4844665dd325633e72ef.jpeg</picture>
@@ -13705,10 +13741,11 @@
         <param name="Глубина" unit="см">36</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>5600</oldprice>
       </offer>
       <offer id="135545" available="true" group_id="135545">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_2kh_dvernyy_s_zerkalnymi_dveryami_beyli/</url>
-        <price>81600</price>
+        <price>57120</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/a40/ovl5cwb9n5z3z6abp3908zto8w5d7wbo.jpeg</picture>
@@ -13722,10 +13759,11 @@
         <param name="Глубина" unit="см">65</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>81600</oldprice>
       </offer>
       <offer id="135546" available="true" group_id="135546">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_2_dvernyy_so_steklyannymi_dveryami_beyli/</url>
-        <price>81600</price>
+        <price>57120</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/758/i7170stik62oskwad5b30a8dunqlal2z.jpeg</picture>
@@ -13739,10 +13777,11 @@
         <param name="Глубина" unit="см">65</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>81600</oldprice>
       </offer>
       <offer id="135547" available="true" group_id="135547">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_2kh_dvernyy_beyli/</url>
-        <price>81600</price>
+        <price>57120</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/807/j82q8hzlmulk99c05dgyaf71ew1iyhmc.jpeg</picture>
@@ -13756,10 +13795,11 @@
         <param name="Глубина" unit="см">65</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>81600</oldprice>
       </offer>
       <offer id="135549" available="true" group_id="135549">
         <url>https://i-sosna.ru/catalog/mebelnaya_komplektatsiya/polki_vstraivaemye_dlya_shkafa_beyli_2kh_dvernogo/</url>
-        <price>15360</price>
+        <price>10760</price>
         <currencyId>RUR</currencyId>
         <categoryId>840</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/f67/f6764ee9ded536a39d82981f86fb311e.jpeg</picture>
@@ -13773,10 +13813,11 @@
         <param name="Глубина" unit="см">0</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>15360</oldprice>
       </offer>
       <offer id="135550" available="true" group_id="135550">
         <url>https://i-sosna.ru/catalog/vitriny/vitrina_beyli/</url>
-        <price>49880</price>
+        <price>34920</price>
         <currencyId>RUR</currencyId>
         <categoryId>389</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/5f9/hkys2nb1z9h23kf65do2qle4tsm27u33.jpeg</picture>
@@ -13790,10 +13831,11 @@
         <param name="Глубина" unit="см">49</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>49880</oldprice>
       </offer>
       <offer id="135551" available="true" group_id="135551">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_1_dvernyy_s_zerkalom_beyli/</url>
-        <price>49880</price>
+        <price>34920</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/6cd/zp586d8dms3c3wl7jbk1vmtlbdsn4e9k.jpeg</picture>
@@ -13807,10 +13849,11 @@
         <param name="Глубина" unit="см">49</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>49880</oldprice>
       </offer>
       <offer id="135552" available="true" group_id="135552">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_1_dvernyy_beyli/</url>
-        <price>49880</price>
+        <price>34920</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/f6e/blxg3i92vd7vdd255qrmjfvuk1sbvdx5.jpeg</picture>
@@ -13824,10 +13867,11 @@
         <param name="Глубина" unit="см">49</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>49880</oldprice>
       </offer>
       <offer id="135587" available="true" group_id="135587">
         <url>https://i-sosna.ru/catalog/komody/komod_beyli_s_4_yashchikami/</url>
-        <price>41080</price>
+        <price>28760</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/b09/q46gzbnms5cuibbcoorr0bnk551l7nuw.jpeg</picture>
@@ -13841,10 +13885,11 @@
         <param name="Глубина" unit="см">50</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>41080</oldprice>
       </offer>
       <offer id="135589" available="true" group_id="135589">
         <url>https://i-sosna.ru/catalog/stoly_zhurnalnye/stol_zhurnalnyy_beyli/</url>
-        <price>33120</price>
+        <price>23190</price>
         <currencyId>RUR</currencyId>
         <categoryId>456</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/0a4/9yobqxfc8kbn0983n2ue59fuh6uu8s51.jpeg</picture>
@@ -13858,10 +13903,11 @@
         <param name="Глубина" unit="см">70</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>33120</oldprice>
       </offer>
       <offer id="135591" available="true" group_id="135591">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_pismennyy_4_yashchika_beyli/</url>
-        <price>42520</price>
+        <price>29770</price>
         <currencyId>RUR</currencyId>
         <categoryId>458</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/167/tlnzy8grv5gz2ys7pwbjrepeiymn7is4.jpeg</picture>
@@ -13875,10 +13921,11 @@
         <param name="Глубина" unit="см">60</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>42520</oldprice>
       </offer>
       <offer id="135592" available="true" group_id="135592">
         <url>https://i-sosna.ru/catalog/tumby_prikrovatnye/tumba_prikrovatnaya_beyli/</url>
-        <price>17980</price>
+        <price>12590</price>
         <currencyId>RUR</currencyId>
         <categoryId>404</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/7c8/7c8acbcdf4fc026092ce663191c91076.jpeg</picture>
@@ -13891,10 +13938,11 @@
         <param name="Высота" unit="см">40</param>
         <param name="Глубина" unit="см">52</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>17980</oldprice>
       </offer>
       <offer id="135593" available="true" group_id="135593">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_beyli/</url>
-        <price>46800</price>
+        <price>32760</price>
         <currencyId>RUR</currencyId>
         <categoryId>452</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/2df/ihzr5w2xdoh06idcy93ci7ii8kscaxhd.jpeg</picture>
@@ -13908,10 +13956,11 @@
         <param name="Глубина" unit="см">40</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>46800</oldprice>
       </offer>
       <offer id="135594" available="true" group_id="135594">
         <url>https://i-sosna.ru/catalog/polki/polka_nastennaya_beyli/</url>
-        <price>7200</price>
+        <price>5040</price>
         <currencyId>RUR</currencyId>
         <categoryId>447</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/e75/e75912b9c7584770ccd802e025fbee3a.jpeg</picture>
@@ -13925,6 +13974,7 @@
         <param name="Глубина" unit="см">20</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>7200</oldprice>
       </offer>
       <offer id="135597" available="true" group_id="135597">
         <url>https://i-sosna.ru/catalog/predmety_interera/shtora_dlya_steklyannoy_dveri_beyli_lebo/</url>
@@ -16052,7 +16102,7 @@
       </offer>
       <offer id="136959" available="true" group_id="136959">
         <url>https://i-sosna.ru/catalog/bufety/bufet_kristin_1_2_stvorki/</url>
-        <price>43680</price>
+        <price>37130</price>
         <currencyId>RUR</currencyId>
         <categoryId>388</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/306/306f6ef86806a5cb230be16bcfb6e2ee.jpeg</picture>
@@ -16066,10 +16116,11 @@
         <param name="Глубина" unit="см">38</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>43680</oldprice>
       </offer>
       <offer id="136965" available="true" group_id="136965">
         <url>https://i-sosna.ru/catalog/bufety/bufet_kristin_2_3_stvorki/</url>
-        <price>62290</price>
+        <price>52950</price>
         <currencyId>RUR</currencyId>
         <categoryId>388</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/166/166fb2c783bf74223adadb866f5d06fa.jpeg</picture>
@@ -16083,10 +16134,11 @@
         <param name="Глубина" unit="см">38</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>62290</oldprice>
       </offer>
       <offer id="136966" available="true" group_id="136966">
         <url>https://i-sosna.ru/catalog/bufety/bufet_kristin_3_4_stvorki/</url>
-        <price>87280</price>
+        <price>74190</price>
         <currencyId>RUR</currencyId>
         <categoryId>388</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/a5f/a5f8a0ef586cdf6dcf1d1591d8538746.jpeg</picture>
@@ -16100,10 +16152,11 @@
         <param name="Глубина" unit="см">38</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>87280</oldprice>
       </offer>
       <offer id="136967" available="true" group_id="136967">
         <url>https://i-sosna.ru/catalog/bufety/bufet_kristin_4_uglovoy/</url>
-        <price>40470</price>
+        <price>34400</price>
         <currencyId>RUR</currencyId>
         <categoryId>388</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/53b/53b1d3b653603800edcdccd93199b389.jpeg</picture>
@@ -16117,10 +16170,11 @@
         <param name="Глубина" unit="см">57</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>40470</oldprice>
       </offer>
       <offer id="136968" available="true" group_id="136968">
         <url>https://i-sosna.ru/catalog/vitriny/vitrina_linda_g/</url>
-        <price>66170</price>
+        <price>56250</price>
         <currencyId>RUR</currencyId>
         <categoryId>389</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/260/260fbec9f57a02e775893439f406d242.jpeg</picture>
@@ -16134,10 +16188,11 @@
         <param name="Глубина" unit="см">41</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>66170</oldprice>
       </offer>
       <offer id="136969" available="true" group_id="136969">
         <url>https://i-sosna.ru/catalog/vitriny/vitrina_linda_l/</url>
-        <price>47670</price>
+        <price>40520</price>
         <currencyId>RUR</currencyId>
         <categoryId>389</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/664/6645fd6735511cc6d1aeda58604f1542.jpeg</picture>
@@ -16151,10 +16206,11 @@
         <param name="Глубина" unit="см">42</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>47670</oldprice>
       </offer>
       <offer id="136970" available="true" group_id="136970">
         <url>https://i-sosna.ru/catalog/vitriny/vitrina_linda_m/</url>
-        <price>36200</price>
+        <price>30770</price>
         <currencyId>RUR</currencyId>
         <categoryId>389</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/50a/50ab0e9517ec401e09e429e6a9400946.jpeg</picture>
@@ -16168,10 +16224,11 @@
         <param name="Глубина" unit="см">36</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>36200</oldprice>
       </offer>
       <offer id="136971" available="true" group_id="136971">
         <url>https://i-sosna.ru/catalog/vitriny/vitrina_mako/</url>
-        <price>35690</price>
+        <price>30340</price>
         <currencyId>RUR</currencyId>
         <categoryId>389</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/757/757e862f6ca1d4eeadc94705afc5b317.jpeg</picture>
@@ -16185,10 +16242,11 @@
         <param name="Глубина" unit="см">35</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>35690</oldprice>
       </offer>
       <offer id="136972" available="true" group_id="136972">
         <url>https://i-sosna.ru/catalog/komody/komod_landkhaus_3_1/</url>
-        <price>20120</price>
+        <price>17110</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/b62/b62efd15907d4b580f3d3355e22bc6fe.jpeg</picture>
@@ -16202,10 +16260,11 @@
         <param name="Глубина" unit="см">35</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>20120</oldprice>
       </offer>
       <offer id="136973" available="true" group_id="136973">
         <url>https://i-sosna.ru/catalog/komody/komod_landkhaus_3_2/</url>
-        <price>25450</price>
+        <price>21640</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/f94/f947b7b5d3e81882669aecf59c2f0211.jpeg</picture>
@@ -16219,10 +16278,11 @@
         <param name="Глубина" unit="см">35</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>25450</oldprice>
       </offer>
       <offer id="136974" available="true" group_id="136974">
         <url>https://i-sosna.ru/catalog/tumby_prikrovatnye/komod_martin_3_1/</url>
-        <price>9490</price>
+        <price>8070</price>
         <currencyId>RUR</currencyId>
         <categoryId>404</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/1c1/1c142c618e61d98157d8157d110cb555.jpeg</picture>
@@ -16236,10 +16296,11 @@
         <param name="Глубина" unit="см">38</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>9490</oldprice>
       </offer>
       <offer id="136975" available="true" group_id="136975">
         <url>https://i-sosna.ru/catalog/komody/komod_6064_der_yashch/</url>
-        <price>53620</price>
+        <price>45580</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/16b/16bb4f2f2a37f84b762a2977200cfd31.jpeg</picture>
@@ -16253,10 +16314,11 @@
         <param name="Глубина" unit="см">54</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>53620</oldprice>
       </offer>
       <offer id="136976" available="true" group_id="136976">
         <url>https://i-sosna.ru/catalog/komody/komod_6064_stekl_yashch/</url>
-        <price>53620</price>
+        <price>45580</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/a36/a36e32275c6e76dba81549c9d8ae609b.jpeg</picture>
@@ -16270,10 +16332,11 @@
         <param name="Глубина" unit="см">54</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>53620</oldprice>
       </offer>
       <offer id="136977" available="true" group_id="136977">
         <url>https://i-sosna.ru/catalog/komody/komod_anna_6_3/</url>
-        <price>16240</price>
+        <price>13810</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/41a/41afde0271df8da255805b28cfa7b0a4.jpeg</picture>
@@ -16287,10 +16350,11 @@
         <param name="Глубина" unit="см">38</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>16240</oldprice>
       </offer>
       <offer id="136978" available="true" group_id="136978">
         <url>https://i-sosna.ru/catalog/komody/komod_lili_6_5/</url>
-        <price>20120</price>
+        <price>17110</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/e20/e20b0fe4a2bd8631074da547e13e504b.jpeg</picture>
@@ -16304,10 +16368,11 @@
         <param name="Глубина" unit="см">39</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>20120</oldprice>
       </offer>
       <offer id="136979" available="true" group_id="136979">
         <url>https://i-sosna.ru/catalog/komody/komod_marika_122/</url>
-        <price>27140</price>
+        <price>23070</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/7bb/7bb9527bc0d2f70a4303ba3df292949d.jpeg</picture>
@@ -16321,10 +16386,11 @@
         <param name="Глубина" unit="см">37</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>27140</oldprice>
       </offer>
       <offer id="136980" available="true" group_id="136980">
         <url>https://i-sosna.ru/catalog/komody/komod_marika_160/</url>
-        <price>33280</price>
+        <price>28290</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/c3e/c3e46e18e313439eaa0c5a719ef1fe2b.jpeg</picture>
@@ -16338,10 +16404,11 @@
         <param name="Глубина" unit="см">37</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>33280</oldprice>
       </offer>
       <offer id="136981" available="true" group_id="136981">
         <url>https://i-sosna.ru/catalog/komody/komod_marika_vertiko/</url>
-        <price>43800</price>
+        <price>37230</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/660/66073994e99f56ae1f9feeaf8ad8d815.jpeg</picture>
@@ -16355,10 +16422,11 @@
         <param name="Глубина" unit="см">37</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>43800</oldprice>
       </offer>
       <offer id="136982" available="true" group_id="136982">
         <url>https://i-sosna.ru/catalog/komody/komod_monika/</url>
-        <price>55570</price>
+        <price>47240</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/9d5/9d5e767f2e7ee65997073a4f42c3193c.jpeg</picture>
@@ -16372,10 +16440,11 @@
         <param name="Глубина" unit="см">39</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>55570</oldprice>
       </offer>
       <offer id="136983" available="true" group_id="136983">
         <url>https://i-sosna.ru/catalog/tumby_dlya_obuvi/obuvnitsa_florents_s2/</url>
-        <price>16710</price>
+        <price>14210</price>
         <currencyId>RUR</currencyId>
         <categoryId>438</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/d29/d29d3df0b1267dd911362c63e917db12.png</picture>
@@ -16389,10 +16458,11 @@
         <param name="Глубина" unit="см">24</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>16710</oldprice>
       </offer>
       <offer id="136984" available="true" group_id="136984">
         <url>https://i-sosna.ru/catalog/stellazhi/stenka_gorka_ribe/</url>
-        <price>95960</price>
+        <price>81570</price>
         <currencyId>RUR</currencyId>
         <categoryId>452</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/710/7108e6d1ce905f3cde21d9b60f310398.jpeg</picture>
@@ -16406,10 +16476,11 @@
         <param name="Глубина" unit="см">45</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>95960</oldprice>
       </offer>
       <offer id="136985" available="true" group_id="136985">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_pismennyy_imst_odnotumbovyy/</url>
-        <price>21240</price>
+        <price>18060</price>
         <currencyId>RUR</currencyId>
         <categoryId>458</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/0a1/0a19c45eb730d302abf0e1c75b38845b.jpeg</picture>
@@ -16423,10 +16494,11 @@
         <param name="Глубина" unit="см">57</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>21240</oldprice>
       </offer>
       <offer id="136986" available="true" group_id="136986">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_pismennyy_shvartsenbakh/</url>
-        <price>13920</price>
+        <price>11840</price>
         <currencyId>RUR</currencyId>
         <categoryId>458</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/21d/21d5dfc3742d9c31284917ba8005272e.jpeg</picture>
@@ -16440,10 +16512,11 @@
         <param name="Глубина" unit="см">50</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>13920</oldprice>
       </offer>
       <offer id="136987" available="true" group_id="136987">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_falko_1_bez_zerkala/</url>
-        <price>52480</price>
+        <price>39360</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/6aa/6aac8bf1d1c0ef5e0e4859d02d4dd730.jpeg</picture>
@@ -16457,10 +16530,11 @@
         <param name="Глубина" unit="см">55</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>52480</oldprice>
       </offer>
       <offer id="136988" available="true" group_id="136988">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_pismennyy_2kh_tumb_zaltsburg/</url>
-        <price>31990</price>
+        <price>27200</price>
         <currencyId>RUR</currencyId>
         <categoryId>458</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/fa5/fa54f336384443edd1e16ad7eb729657.jpeg</picture>
@@ -16474,10 +16548,11 @@
         <param name="Глубина" unit="см">57</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>31990</oldprice>
       </offer>
       <offer id="136989" available="true" group_id="136989">
         <url>https://i-sosna.ru/catalog/veshalki/veshalka_florents_4/</url>
-        <price>13890</price>
+        <price>11810</price>
         <currencyId>RUR</currencyId>
         <categoryId>436</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/23d/23dff0c766275b5c8c23b328d089157f.jpeg</picture>
@@ -16491,10 +16566,11 @@
         <param name="Глубина" unit="см">0</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>13890</oldprice>
       </offer>
       <offer id="136990" available="true" group_id="136990">
         <url>https://i-sosna.ru/catalog/zerkala/zerkalo_florents_3/</url>
-        <price>9490</price>
+        <price>8070</price>
         <currencyId>RUR</currencyId>
         <categoryId>399</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/b85/b855da66a1ade3baefa3e0638c2cde73.jpeg</picture>
@@ -16508,10 +16584,11 @@
         <param name="Глубина" unit="см">13</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>9490</oldprice>
       </offer>
       <offer id="136991" available="true" group_id="136991">
         <url>https://i-sosna.ru/catalog/komody/komod_florents_2/</url>
-        <price>26740</price>
+        <price>22730</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/fd9/fd9755da538ebb1e6893239c1b4f9547.jpeg</picture>
@@ -16525,10 +16602,11 @@
         <param name="Глубина" unit="см">48</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>26740</oldprice>
       </offer>
       <offer id="136992" available="true" group_id="136992">
         <url>https://i-sosna.ru/catalog/komody/komod_florents_5/</url>
-        <price>38820</price>
+        <price>33000</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/217/2176750796f5eacf05b91c76dd4505ee.jpeg</picture>
@@ -16542,10 +16620,11 @@
         <param name="Глубина" unit="см">48</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>38820</oldprice>
       </offer>
       <offer id="136993" available="true" group_id="136993">
         <url>https://i-sosna.ru/catalog/tumby/komod_baltika_2_1_s_antresolyu/</url>
-        <price>49880</price>
+        <price>42400</price>
         <currencyId>RUR</currencyId>
         <categoryId>402</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/683/683aa9b8cca4a5109d178b57a43afa85.jpeg</picture>
@@ -16559,10 +16638,11 @@
         <param name="Глубина" unit="см">48</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>49880</oldprice>
       </offer>
       <offer id="136994" available="true" group_id="136994">
         <url>https://i-sosna.ru/catalog/komody/komod_baltika_14_1_s_antresolyu/</url>
-        <price>48240</price>
+        <price>41010</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/a2c/a2c6f908ff4261b7c5feec578f8dc8b4.jpeg</picture>
@@ -16576,10 +16656,11 @@
         <param name="Глубина" unit="см">48</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>48240</oldprice>
       </offer>
       <offer id="136995" available="true" group_id="136995">
         <url>https://i-sosna.ru/catalog/vitriny/vitrina_baltika_5/</url>
-        <price>57500</price>
+        <price>48880</price>
         <currencyId>RUR</currencyId>
         <categoryId>389</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/378/9gxzq07o01tvl3p4p1zr54itbynajai3.jpeg</picture>
@@ -16593,10 +16674,11 @@
         <param name="Глубина" unit="см">48</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>57500</oldprice>
       </offer>
       <offer id="136996" available="true" group_id="136996">
         <url>https://i-sosna.ru/catalog/komody/tumba_baltika_nako/</url>
-        <price>15340</price>
+        <price>13040</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/3f1/3f1242c690fda89b5938edd87d97feb4.jpeg</picture>
@@ -16610,10 +16692,11 @@
         <param name="Глубина" unit="см">48</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>15340</oldprice>
       </offer>
       <offer id="136997" available="true" group_id="136997">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_baltika_1dver_/</url>
-        <price>51460</price>
+        <price>43750</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/68e/68e165257118fc874f969f2e252d65f7.jpeg</picture>
@@ -16627,6 +16710,7 @@
         <param name="Глубина" unit="см">45</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>51460</oldprice>
       </offer>
       <offer id="136998" available="true" group_id="136998">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_baltika_3kh_dvernyy/</url>
@@ -16647,7 +16731,7 @@
       </offer>
       <offer id="136999" available="true" group_id="136999">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_knig/shkaf_knizhnyy_baltika_19_1/</url>
-        <price>26560</price>
+        <price>22580</price>
         <currencyId>RUR</currencyId>
         <categoryId>466</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/4f8/cx2ov64t8fiw141bq6mqzjhy50sic0ne.jpeg</picture>
@@ -16661,10 +16745,11 @@
         <param name="Глубина" unit="см">30</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>26560</oldprice>
       </offer>
       <offer id="137000" available="true" group_id="137000">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_baltika_pyatidvernyy/</url>
-        <price>126810</price>
+        <price>107790</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/3c9/wmbtjrv6597amzlg2i0upj7p9jlctv4r.jpeg</picture>
@@ -16678,10 +16763,11 @@
         <param name="Глубина" unit="см">56</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>126810</oldprice>
       </offer>
       <offer id="137001" available="true" group_id="137001">
         <url>https://i-sosna.ru/catalog/stoly_zhurnalnye/stol_zhurnalnyy_baltika_70kh70/</url>
-        <price>14530</price>
+        <price>12360</price>
         <currencyId>RUR</currencyId>
         <categoryId>456</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/548/5488247be859e9ee77315ff3b98e45df.jpeg</picture>
@@ -16695,10 +16781,11 @@
         <param name="Глубина" unit="см">70</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>14530</oldprice>
       </offer>
       <offer id="137002" available="true" group_id="137002">
         <url>https://i-sosna.ru/catalog/stoly_zhurnalnye/stol_zhurnalnyy_baltika_110kh70/</url>
-        <price>19360</price>
+        <price>16460</price>
         <currencyId>RUR</currencyId>
         <categoryId>456</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/42e/42edf26d4187ac426efe6520dd837c73.jpeg</picture>
@@ -16712,10 +16799,11 @@
         <param name="Глубина" unit="см">70</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>19360</oldprice>
       </offer>
       <offer id="137003" available="true" group_id="137003">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_baltika_32_dvukhtumbovyy/</url>
-        <price>40040</price>
+        <price>34040</price>
         <currencyId>RUR</currencyId>
         <categoryId>458</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/598/598e173f6365774b576a65bd22652b72.jpeg</picture>
@@ -16729,10 +16817,11 @@
         <param name="Глубина" unit="см">57</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>40040</oldprice>
       </offer>
       <offer id="137004" available="true" group_id="137004">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_pismennyy_dornbirn/</url>
-        <price>33480</price>
+        <price>28460</price>
         <currencyId>RUR</currencyId>
         <categoryId>458</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/925/925c955eb7f9a7db52ec9b294496ffd8.jpeg</picture>
@@ -16746,10 +16835,11 @@
         <param name="Глубина" unit="см">70</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>33480</oldprice>
       </offer>
       <offer id="137006" available="true" group_id="137006">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_baltika_33_uglovoy/</url>
-        <price>38640</price>
+        <price>32850</price>
         <currencyId>RUR</currencyId>
         <categoryId>458</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/484/484229aca199c4426e6723ec84d8c67a.jpeg</picture>
@@ -16763,10 +16853,11 @@
         <param name="Глубина" unit="см">95</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>38640</oldprice>
       </offer>
       <offer id="137007" available="true" group_id="137007">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_baltika_31_odnotumbovyy/</url>
-        <price>28000</price>
+        <price>23800</price>
         <currencyId>RUR</currencyId>
         <categoryId>458</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/f0b/f0b096b8e0b005b6614f6ac9bfeb53b7.jpeg</picture>
@@ -16780,10 +16871,11 @@
         <param name="Глубина" unit="см">57</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>28000</oldprice>
       </offer>
       <offer id="137008" available="true" group_id="137008">
         <url>https://i-sosna.ru/catalog/tumby_dlya_obuvi/obuvnitsa_florents_s3/</url>
-        <price>20910</price>
+        <price>17780</price>
         <currencyId>RUR</currencyId>
         <categoryId>438</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/089/089923441babfe9d36e2af7b2425c61f.jpeg</picture>
@@ -16797,10 +16889,11 @@
         <param name="Глубина" unit="см">24</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>20910</oldprice>
       </offer>
       <offer id="137009" available="true" group_id="137009">
         <url>https://i-sosna.ru/catalog/tumby_dlya_obuvi/obuvnitsa_florents_s4/</url>
-        <price>25490</price>
+        <price>21670</price>
         <currencyId>RUR</currencyId>
         <categoryId>438</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/51a/51abcc1a571326d6ded8b253d0ee07b9.jpeg</picture>
@@ -16814,10 +16907,11 @@
         <param name="Глубина" unit="см">24</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>25490</oldprice>
       </offer>
       <offer id="137010" available="true" group_id="137010">
         <url>https://i-sosna.ru/catalog/vitriny/vitrina_baltika_10_1_l_levaya/</url>
-        <price>40630</price>
+        <price>34540</price>
         <currencyId>RUR</currencyId>
         <categoryId>389</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/da5/5nsi9m43qppggcnk6ag1w6mezsj0dwrd.jpeg</picture>
@@ -16831,10 +16925,11 @@
         <param name="Глубина" unit="см">51</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>40630</oldprice>
       </offer>
       <offer id="137011" available="true" group_id="137011">
         <url>https://i-sosna.ru/catalog/bufety/bufet_baltika_12_1/</url>
-        <price>57120</price>
+        <price>48560</price>
         <currencyId>RUR</currencyId>
         <categoryId>388</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/d1e/d1e8078e05c1ce761413f914f01a2afc.jpeg</picture>
@@ -16848,10 +16943,11 @@
         <param name="Глубина" unit="см">48</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>57120</oldprice>
       </offer>
       <offer id="137012" available="true" group_id="137012">
         <url>https://i-sosna.ru/catalog/bufety/bufet_baltika_13/</url>
-        <price>79200</price>
+        <price>67320</price>
         <currencyId>RUR</currencyId>
         <categoryId>388</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/023/023941419b80be6e2fbba05d2908fba9.jpeg</picture>
@@ -16865,10 +16961,11 @@
         <param name="Глубина" unit="см">48</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>79200</oldprice>
       </offer>
       <offer id="137013" available="true" group_id="137013">
         <url>https://i-sosna.ru/catalog/tumby_pod_tv/tumba_tv_baltika_8/</url>
-        <price>29810</price>
+        <price>25340</price>
         <currencyId>RUR</currencyId>
         <categoryId>403</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/f93/f9379de7eb094ab7fbd4e3f5bf40ade1.jpeg</picture>
@@ -16882,10 +16979,11 @@
         <param name="Глубина" unit="см">48</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>29810</oldprice>
       </offer>
       <offer id="137014" available="true" group_id="137014">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_knig/shkaf_knizhnyy_baltika_19_2/</url>
-        <price>35800</price>
+        <price>30430</price>
         <currencyId>RUR</currencyId>
         <categoryId>466</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/51a/q3wgqzcya3zlpnw7e0ihgf6bxq2q3ar9.jpeg</picture>
@@ -16899,6 +16997,7 @@
         <param name="Глубина" unit="см">30</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>35800</oldprice>
       </offer>
       <offer id="137160" available="true" group_id="137160">
         <url>https://i-sosna.ru/catalog/antresoli/antresol_k_shkafu_oskar_1_dv_n_510/</url>
@@ -16919,7 +17018,7 @@
       </offer>
       <offer id="137015" available="true" group_id="137015">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_baltika_17/</url>
-        <price>24960</price>
+        <price>21220</price>
         <currencyId>RUR</currencyId>
         <categoryId>452</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/7f1/xqvnj1xkq5pqixdso54oi3ca08tcbfoh.jpeg</picture>
@@ -16933,10 +17032,11 @@
         <param name="Глубина" unit="см">30</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>24960</oldprice>
       </offer>
       <offer id="137016" available="true" group_id="137016">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_baltika_18/</url>
-        <price>32600</price>
+        <price>27710</price>
         <currencyId>RUR</currencyId>
         <categoryId>452</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/5ab/edg22cafstiyrd9351xjck7q164a8chf.jpeg</picture>
@@ -16950,10 +17050,11 @@
         <param name="Глубина" unit="см">30</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>32600</oldprice>
       </offer>
       <offer id="137018" available="true" group_id="137018">
         <url>https://i-sosna.ru/catalog/polki/polka_baltika_9/</url>
-        <price>3590</price>
+        <price>3060</price>
         <currencyId>RUR</currencyId>
         <categoryId>447</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/034/0349813f3a7c2332c0699772a129fcbf.jpeg</picture>
@@ -16967,10 +17068,11 @@
         <param name="Глубина" unit="см">14</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>3590</oldprice>
       </offer>
       <offer id="137019" available="true" group_id="137019">
         <url>https://i-sosna.ru/catalog/zerkala/zerkalo_baltika_15/</url>
-        <price>10120</price>
+        <price>8610</price>
         <currencyId>RUR</currencyId>
         <categoryId>399</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/f7b/f7bab2f7c73fdb9e2fd93c1cb54854dc.jpeg</picture>
@@ -16984,10 +17086,11 @@
         <param name="Глубина" unit="см">10</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>10120</oldprice>
       </offer>
       <offer id="137021" available="true" group_id="137021">
         <url>https://i-sosna.ru/catalog/vzroslye_krovati/krovat_baltika_160kh200/</url>
-        <price>41680</price>
+        <price>35430</price>
         <currencyId>RUR</currencyId>
         <categoryId>780</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/cee/lmztf197mxselqmgcejk5i3sdglllxkv.jpeg</picture>
@@ -17001,10 +17104,11 @@
         <param name="Глубина" unit="см">200</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>41680</oldprice>
       </offer>
       <offer id="137022" available="true" group_id="137022">
         <url>https://i-sosna.ru/catalog/komody/sekreter_baltika_6/</url>
-        <price>39260</price>
+        <price>33380</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/f9e/f9e343170aeda6c5f1207ccf7ec1bedb.jpeg</picture>
@@ -17018,6 +17122,7 @@
         <param name="Глубина" unit="см">48</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>39260</oldprice>
       </offer>
       <offer id="137161" available="true" group_id="137161">
         <url>https://i-sosna.ru/catalog/antresoli/antresol_k_shkafu_oskar_2_dv_n_510/</url>
@@ -28825,7 +28930,7 @@
       </offer>
       <offer id="156758" available="true" group_id="156758">
         <url>https://i-sosna.ru/catalog/sunduki/sunduk_1_bolshoy_/</url>
-        <price>16640</price>
+        <price>14150</price>
         <currencyId>RUR</currencyId>
         <categoryId>461</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/a0c/a0c612767e872c74a0697f4212565f2b.jpeg</picture>
@@ -28839,10 +28944,11 @@
         <param name="Глубина" unit="см">44</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>16640</oldprice>
       </offer>
       <offer id="156759" available="true" group_id="156759">
         <url>https://i-sosna.ru/catalog/tumby_pod_tv/tumba_tv_baltika_1/</url>
-        <price>27750</price>
+        <price>23590</price>
         <currencyId>RUR</currencyId>
         <categoryId>403</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/bae/bae39ac9537f431c3917e5213bbac3f1.jpeg</picture>
@@ -28856,6 +28962,7 @@
         <param name="Глубина" unit="см">48</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>27750</oldprice>
       </offer>
       <offer id="156771" available="true" group_id="156771">
         <url>https://i-sosna.ru/catalog/matrasy_ormatek/matras_ormatek_active_duo_m_f/</url>
@@ -29086,7 +29193,7 @@
       </offer>
       <offer id="157447" available="true" group_id="157447">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_2kh_dv_s_zerkalnymi_dveryami_lebo/</url>
-        <price>84640</price>
+        <price>63480</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/8b6/8b61e298ba040a2d82e5b74357e04dbb.jpeg</picture>
@@ -29100,10 +29207,11 @@
         <param name="Глубина" unit="см">67</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Лебо</param>
+        <oldprice>84640</oldprice>
       </offer>
       <offer id="157448" available="true" group_id="157448">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_nastennyy_lebo/</url>
-        <price>17300</price>
+        <price>12980</price>
         <currencyId>RUR</currencyId>
         <categoryId>452</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/392/39280eec205bb31fc5d73f48170bb29d.jpeg</picture>
@@ -29117,10 +29225,11 @@
         <param name="Глубина" unit="см">25</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Лебо</param>
+        <oldprice>17300</oldprice>
       </offer>
       <offer id="157449" available="true" group_id="157449">
         <url>https://i-sosna.ru/catalog/komody/komod_baltika_3_2_n_900/</url>
-        <price>36010</price>
+        <price>30610</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/027/027f1f4c8a1fdbca0d1ca418482d3845.jpeg</picture>
@@ -29134,6 +29243,7 @@
         <param name="Глубина" unit="см">48</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>36010</oldprice>
       </offer>
       <offer id="157439" available="true" group_id="157439">
         <url>https://i-sosna.ru/catalog/skami_i_lavki/lavka_monastyrskaya_so_spinkoy/</url>
@@ -29644,7 +29754,7 @@
       </offer>
       <offer id="157729" available="true" group_id="157729">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/nadstroyka_stola_beyli/</url>
-        <price>29320</price>
+        <price>20530</price>
         <currencyId>RUR</currencyId>
         <categoryId>458</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/255/255bdc8e964682af983f9b686f3dd70b.jpeg</picture>
@@ -29658,6 +29768,7 @@
         <param name="Глубина" unit="см">26</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>29320</oldprice>
       </offer>
       <offer id="157737" available="true" group_id="157737">
         <url>https://i-sosna.ru/catalog/matrasy_kids/matras_moms_love_teenager/</url>
@@ -30090,7 +30201,7 @@
       </offer>
       <offer id="157914" available="true" group_id="157914">
         <url>https://i-sosna.ru/catalog/kukhni-r/kukhnya_bramming_obrazets/</url>
-        <price>300000</price>
+        <price>180000</price>
         <currencyId>RUR</currencyId>
         <categoryId>823</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/abd/abd1a53456e864397843f8d92cc96e93.JPG</picture>
@@ -30102,6 +30213,7 @@
         <param name="Ширина" unit="см">200</param>
         <param name="Материал">массив сосны, отделка- шпон дуба</param>
         <param name="Цвет">Снежный дуб + патина</param>
+        <oldprice>300000</oldprice>
       </offer>
       <offer id="157916" available="true" group_id="157916">
         <url>https://i-sosna.ru/catalog/rasprodazha/graversa_valensiya_2_46_obrazets/</url>
@@ -30171,7 +30283,7 @@
       </offer>
       <offer id="157958" available="true" group_id="157958">
         <url>https://i-sosna.ru/catalog/kukhni-r/kukhnya_adel_obrazets/</url>
-        <price>520000</price>
+        <price>270000</price>
         <currencyId>RUR</currencyId>
         <categoryId>823</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/7d7/7d75f5198f5d1679f23ce25afd275d17.JPG</picture>
@@ -30181,6 +30293,7 @@
         <sales_notes>Доставка по всей России бесплатно</sales_notes>
         <param name="Ширина" unit="см">240</param>
         <param name="Материал">массив сосны, отделка- шпон дуба</param>
+        <oldprice>450000</oldprice>
       </offer>
       <offer id="157961" available="true" group_id="157961">
         <url>https://i-sosna.ru/catalog/tumby_prikrovatnye/tumba_tk_1/</url>
@@ -32298,7 +32411,7 @@
       </offer>
       <offer id="158841" available="true" group_id="158841">
         <url>https://i-sosna.ru/catalog/komody/komod_beyli_s_2_dvermi_i_6_yashchikami/</url>
-        <price>58400</price>
+        <price>40880</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/ba2/wq3p2lf5no1qtfpvlu6gv7nv69j9txm1.jpeg</picture>
@@ -32312,6 +32425,7 @@
         <param name="Глубина" unit="см">45</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>58400</oldprice>
       </offer>
       <offer id="158861" available="true" group_id="158861">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_daniya_3_stv_3/</url>
@@ -33064,7 +33178,7 @@
       </offer>
       <offer id="160062" available="true" group_id="160062">
         <url>https://i-sosna.ru/catalog/komody/komod_kristin_1_2/</url>
-        <price>25390</price>
+        <price>21590</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/e15/e152c504a6d8d8173e45615c7f3974f2.jpeg</picture>
@@ -33078,6 +33192,7 @@
         <param name="Глубина" unit="см">37</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>25390</oldprice>
       </offer>
       <offer id="160065" available="true" group_id="160065">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_pismennyy_rauna_04/</url>
@@ -34513,7 +34628,7 @@
       </offer>
       <offer id="160557" available="true" group_id="160557">
         <url>https://i-sosna.ru/catalog/vitriny/vitrina_baltika_10_1_r_pravaya/</url>
-        <price>40630</price>
+        <price>34540</price>
         <currencyId>RUR</currencyId>
         <categoryId>389</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/798/pdhe3of9y9xitvd57t17igi3tndlea2d.jpeg</picture>
@@ -34527,6 +34642,7 @@
         <param name="Глубина" unit="см">51</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>40630</oldprice>
       </offer>
       <offer id="160635" available="true" group_id="160635">
         <url>https://i-sosna.ru/catalog/stoly_obedennye/stol_obedennyy_forest_120/</url>
@@ -34740,7 +34856,7 @@
       </offer>
       <offer id="160769" available="true" group_id="160769">
         <url>https://i-sosna.ru/catalog/tumby/komod_baltika_2_bez_antresoli/</url>
-        <price>41050</price>
+        <price>34900</price>
         <currencyId>RUR</currencyId>
         <categoryId>402</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/afb/afb11e0a14d790a7fd82a804aa8462ac.jpeg</picture>
@@ -34754,6 +34870,7 @@
         <param name="Глубина" unit="см">48</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>41050</oldprice>
       </offer>
       <offer id="160799" available="true" group_id="160799">
         <url>https://i-sosna.ru/catalog/komody/komod_v_gostinuyu_rimini_4_yashchika/</url>
@@ -34995,7 +35112,7 @@
       </offer>
       <offer id="160869" available="true" group_id="160869">
         <url>https://i-sosna.ru/catalog/komody/komod_martin_3_5/</url>
-        <price>23960</price>
+        <price>20370</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/07c/07cda61c5a67ba627503564c167fd75e.jpeg</picture>
@@ -35007,6 +35124,7 @@
         <param name="Высота" unit="см">83</param>
         <param name="Глубина" unit="см">38</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>23960</oldprice>
       </offer>
       <offer id="160879" available="true" group_id="160879">
         <url>https://i-sosna.ru/catalog/tumby_pod_tv/konsol_pod_tv_oliviya_gc3006/</url>
@@ -35167,7 +35285,7 @@
       </offer>
       <offer id="161271" available="true" group_id="161271">
         <url>https://i-sosna.ru/catalog/kukhni-r/kukhnya_italiya_obrazets/</url>
-        <price>330000</price>
+        <price>204000</price>
         <currencyId>RUR</currencyId>
         <categoryId>823</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/e28/82mxgxzqlc2of36or8di41sc1dki2qsc.jpg</picture>
@@ -35179,6 +35297,7 @@
         <param name="Ширина" unit="см">220</param>
         <param name="Глубина" unit="см">60</param>
         <param name="Материал">массив сосны/шпон дуба</param>
+        <oldprice>340000</oldprice>
       </offer>
       <offer id="161310" available="true" group_id="161310">
         <url>https://i-sosna.ru/catalog/tumby/tumba_222_penni/</url>
@@ -35325,7 +35444,7 @@
       </offer>
       <offer id="161442" available="true" group_id="161442">
         <url>https://i-sosna.ru/catalog/sunduki/sunduk_3_malyy/</url>
-        <price>6630</price>
+        <price>5640</price>
         <currencyId>RUR</currencyId>
         <categoryId>461</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/bda/bdada7490d6e0eab96c0acb13e49093a.jpeg</picture>
@@ -35338,10 +35457,11 @@
         <param name="Глубина" unit="см">36</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>6630</oldprice>
       </offer>
       <offer id="161443" available="true" group_id="161443">
         <url>https://i-sosna.ru/catalog/sunduki/sunduk_2_sredniy/</url>
-        <price>9900</price>
+        <price>8420</price>
         <currencyId>RUR</currencyId>
         <categoryId>461</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/1b2/1b2f829e3092f7bd9636acc80c1086e1.jpeg</picture>
@@ -35354,10 +35474,11 @@
         <param name="Глубина" unit="см">36</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>9900</oldprice>
       </offer>
       <offer id="161449" available="true" group_id="161449">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_4_dvernyy_so_steklyannymi_dveryami_beyli/</url>
-        <price>149760</price>
+        <price>104840</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/af1/af11ab277aeffb24e6f4ce96c5960df2.jpeg</picture>
@@ -35371,6 +35492,7 @@
         <param name="Глубина" unit="см">65</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>149760</oldprice>
       </offer>
       <offer id="161453" available="true" group_id="161453">
         <url>https://i-sosna.ru/catalog/matrasy_ormatek/matras_ormatek_medvezhonok_/</url>
@@ -43449,7 +43571,7 @@
       </offer>
       <offer id="166110" available="true" group_id="166110">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_4_dvernyy_s_2ya_glukhimi_i_2ya_zerkalnymi_dveryami_beyli/</url>
-        <price>149760</price>
+        <price>104840</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/fdd/fdda2c1a03b3838a6d848889debe2c5c.jpeg</picture>
@@ -43463,6 +43585,7 @@
         <param name="Глубина" unit="см">65</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>149760</oldprice>
       </offer>
       <offer id="166118" available="true" group_id="166118">
         <url>https://i-sosna.ru/catalog/vitriny/vitrina_vita/</url>
@@ -43636,7 +43759,7 @@
       </offer>
       <offer id="166205" available="true" group_id="166205">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_3kh_dv_lebo_s_zerkalnymi_dveryami_/</url>
-        <price>129160</price>
+        <price>96870</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/9e5/9e5d16adf5f8dcf120cabf87f1b6ece6.jpeg</picture>
@@ -43651,10 +43774,11 @@
         <param name="Материал">Массив сосны</param>
         <param name="Цвет">Бежевый воск</param>
         <param name="Коллекция">Лебо</param>
+        <oldprice>129160</oldprice>
       </offer>
       <offer id="166220" available="true" group_id="166220">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_4kh_dvernyy_beyli_s_glukhimi_dveryami/</url>
-        <price>149760</price>
+        <price>104840</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/5ee/5ee69718763fd2999dfa79e171fac53a.jpeg</picture>
@@ -43668,10 +43792,11 @@
         <param name="Глубина" unit="см">65</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>149760</oldprice>
       </offer>
       <offer id="166221" available="true" group_id="166221">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_5_dvernyy_s_4_steklyannymi_dveryami_i_polkami_beyli/</url>
-        <price>161200</price>
+        <price>112840</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/758/75877cecb61c10fafe5df576fb42e71a.jpeg</picture>
@@ -43685,10 +43810,11 @@
         <param name="Глубина" unit="см">65</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>161200</oldprice>
       </offer>
       <offer id="166222" available="true" group_id="166222">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_5_dvernyy_s_2_glukhimi_dveryami_i_3_zerkalnymi_dveryu_beyli/</url>
-        <price>164280</price>
+        <price>115000</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/547/547f665208462183305bd0cfc58ea890.jpeg</picture>
@@ -43702,10 +43828,11 @@
         <param name="Глубина" unit="см">65</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>164280</oldprice>
       </offer>
       <offer id="166223" available="true" group_id="166223">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_5_dvernyy_s_4_glukhimi_dveryami_i_1_zerkalnoy_dveryu_beyli/</url>
-        <price>164280</price>
+        <price>115000</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/bb4/bb414a5c0c7d517b9dc38a07081868eb.jpeg</picture>
@@ -43719,10 +43846,11 @@
         <param name="Глубина" unit="см">65</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>164280</oldprice>
       </offer>
       <offer id="166224" available="true" group_id="166224">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_5_dvernyy_s_5_glukhimi_dveryami_beyli/</url>
-        <price>164280</price>
+        <price>115000</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/c2a/c2a07b826c1c537244efb70486f1e933.jpeg</picture>
@@ -43736,10 +43864,11 @@
         <param name="Глубина" unit="см">65</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>164280</oldprice>
       </offer>
       <offer id="166225" available="true" group_id="166225">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_5_dvernyy_s_4_glukhimi_dveryami_i_polkami_beyli/</url>
-        <price>161200</price>
+        <price>112840</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/f27/f27204f9909bfec1748d54cf2141872a.jpeg</picture>
@@ -43753,6 +43882,7 @@
         <param name="Глубина" unit="см">65</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
+        <oldprice>161200</oldprice>
       </offer>
       <offer id="166262" available="true" group_id="166262">
         <url>https://i-sosna.ru/catalog/kukhnya_shampan/shkaf_stol_shampan_ch_btang_120/</url>
@@ -44874,7 +45004,7 @@
       </offer>
       <offer id="166675" available="true" group_id="166675">
         <url>https://i-sosna.ru/catalog/komody/komod_kristin_2_2/</url>
-        <price>36320</price>
+        <price>30880</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/49d/49dc3b6f39f1e1976cb835bdb6cf3df4.png</picture>
@@ -44888,10 +45018,11 @@
         <param name="Глубина" unit="см">38</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>36320</oldprice>
       </offer>
       <offer id="166676" available="true" group_id="166676">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_angelina_2stv/</url>
-        <price>64000</price>
+        <price>54400</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/6ad/6ad82837b9a9358ae0fb0c77e406301d.jpeg</picture>
@@ -44904,6 +45035,7 @@
         <param name="Глубина" unit="см">60</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>64000</oldprice>
       </offer>
       <offer id="166713" available="true" group_id="166713">
         <url>https://i-sosna.ru/catalog/bufety/bufet_berber_uzkiy_bb39/</url>
@@ -56566,7 +56698,7 @@
       </offer>
       <offer id="175155" available="true" group_id="175155">
         <url>https://i-sosna.ru/catalog/tumby_prikrovatnye/tumba_prikrovatnaya_paola_2162_01_bm671/</url>
-        <price>48500</price>
+        <price>40260</price>
         <currencyId>RUR</currencyId>
         <categoryId>404</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/3b1/pwm2v7mb2arbyhtns8ei46zchpoxqlc5.jpeg</picture>
@@ -56580,10 +56712,11 @@
         <param name="Глубина" unit="см">46</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>48500</oldprice>
       </offer>
       <offer id="175157" available="true" group_id="175157">
         <url>https://i-sosna.ru/catalog/tumby_prikrovatnye/tumba_prikrovatnaya_paola_2162_bm671/</url>
-        <price>48500</price>
+        <price>40260</price>
         <currencyId>RUR</currencyId>
         <categoryId>404</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/5e4/zud2jnuoesarenizumkemqhiefobprkv.jpeg</picture>
@@ -56597,10 +56730,11 @@
         <param name="Глубина" unit="см">46</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>48500</oldprice>
       </offer>
       <offer id="175158" available="true" group_id="175158">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_dlya_odezhdy_4_dvernyy_paola_2164_01_bm671/</url>
-        <price>344700</price>
+        <price>286110</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/86c/fi077664fyexidw875081rd4j53q8he0.jpeg</picture>
@@ -56614,10 +56748,11 @@
         <param name="Глубина" unit="см">68</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>344700</oldprice>
       </offer>
       <offer id="175159" available="true" group_id="175159">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_dlya_odezhdy_4_dvernyy_paola_2164_bm671/</url>
-        <price>353900</price>
+        <price>293740</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/caf/0ca7489x5qdkfmbs6ta5vja4eocisrxf.jpeg</picture>
@@ -56631,10 +56766,11 @@
         <param name="Глубина" unit="см">68</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>353900</oldprice>
       </offer>
       <offer id="175160" available="true" group_id="175160">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_dlya_odezhdy_4_dvernyy_paola_2581_01_bm671/</url>
-        <price>361800</price>
+        <price>300300</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/7c3/051juicv2xao4feyh82lnijdi1lpg3h8.jpeg</picture>
@@ -56648,10 +56784,11 @@
         <param name="Глубина" unit="см">68</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>361800</oldprice>
       </offer>
       <offer id="175161" available="true" group_id="175161">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_dlya_odezhdy_3_dvernyy_paola_2165_01_bm671/</url>
-        <price>242400</price>
+        <price>201200</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/fa5/h9zmuv15x7zsvgv0uo3kxk3gq3mvklx8.jpeg</picture>
@@ -56665,10 +56802,11 @@
         <param name="Глубина" unit="см">68</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>242400</oldprice>
       </offer>
       <offer id="175162" available="true" group_id="175162">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_dlya_odezhdy_3_dvernyy_paola_2165_bm671/</url>
-        <price>290000</price>
+        <price>240700</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/bd8/wz7c61289luwlkl2shde4y5x148oxgou.jpeg</picture>
@@ -56682,10 +56820,11 @@
         <param name="Глубина" unit="см">68</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>290000</oldprice>
       </offer>
       <offer id="175163" available="true" group_id="175163">
         <url>https://i-sosna.ru/catalog/komody/komod_paola_2161_bm671/</url>
-        <price>99600</price>
+        <price>82670</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/906/tsh2cgkvkal5lb85hvh1sejeoocwamed.jpeg</picture>
@@ -56699,10 +56838,11 @@
         <param name="Глубина" unit="см">46</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>99600</oldprice>
       </offer>
       <offer id="175164" available="true" group_id="175164">
         <url>https://i-sosna.ru/catalog/zerkala/zerkalo_paola_2163_bm671/</url>
-        <price>33100</price>
+        <price>27480</price>
         <currencyId>RUR</currencyId>
         <categoryId>399</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/78d/g9ja03wq82prznqmragyuzrati409v60.jpeg</picture>
@@ -56716,10 +56856,11 @@
         <param name="Глубина" unit="см">8</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>33100</oldprice>
       </offer>
       <offer id="175165" available="true" group_id="175165">
         <url>https://i-sosna.ru/catalog/tualetnye_stoliki/stol_tualetnyy_paola_2205_bm671/</url>
-        <price>72100</price>
+        <price>59850</price>
         <currencyId>RUR</currencyId>
         <categoryId>455</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/c4e/0doa4jcs3jml2n7p7g1yxpiexv4d5u4b.jpeg</picture>
@@ -56733,10 +56874,11 @@
         <param name="Глубина" unit="см">46</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>72100</oldprice>
       </offer>
       <offer id="175166" available="true" group_id="175166">
         <url>https://i-sosna.ru/catalog/zerkala/zerkalo_nadstavka_paola_2330_bm671/</url>
-        <price>52100</price>
+        <price>43250</price>
         <currencyId>RUR</currencyId>
         <categoryId>399</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/96f/s3ajpqa190mt8o8lhu26mmn8mqs2sq9f.jpeg</picture>
@@ -56750,10 +56892,11 @@
         <param name="Глубина" unit="см">23</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>52100</oldprice>
       </offer>
       <offer id="175167" available="true" group_id="175167">
         <url>https://i-sosna.ru/catalog/banketki_/banketka_paola_2206_2gr_tk_bm675/</url>
-        <price>28300</price>
+        <price>23490</price>
         <currencyId>RUR</currencyId>
         <categoryId>832</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/9db/qik62zblokiqb1ceh3hq9ppv4hs0a0t9.jpeg</picture>
@@ -56767,10 +56910,11 @@
         <param name="Глубина" unit="см">42</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>28300</oldprice>
       </offer>
       <offer id="175168" available="true" group_id="175168">
         <url>https://i-sosna.ru/catalog/banketki_/banketka_paola_2206_3gr_tk_bm675/</url>
-        <price>28300</price>
+        <price>23490</price>
         <currencyId>RUR</currencyId>
         <categoryId>832</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/d0e/07881ii4ggxj1o3h1mep77ym8jiujlpq.jpeg</picture>
@@ -56784,10 +56928,11 @@
         <param name="Глубина" unit="см">42</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>28300</oldprice>
       </offer>
       <offer id="175169" available="true" group_id="175169">
         <url>https://i-sosna.ru/catalog/vitriny/shkaf_vitrina_2_dveri_paola_2114_bm670/</url>
-        <price>238000</price>
+        <price>197540</price>
         <currencyId>RUR</currencyId>
         <categoryId>389</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/ec6/17p5zhizxjeoooo718u4w2msn9bviiuz.jpeg</picture>
@@ -56801,10 +56946,11 @@
         <param name="Глубина" unit="см">50</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>238000</oldprice>
       </offer>
       <offer id="175170" available="true" group_id="175170">
         <url>https://i-sosna.ru/catalog/vitriny/shkaf_vitrina_uglovaya_paola_2115_bm670/</url>
-        <price>217400</price>
+        <price>180450</price>
         <currencyId>RUR</currencyId>
         <categoryId>389</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/69d/cbrtqnugj1nznqyropfc9dihua35octq.jpeg</picture>
@@ -56818,10 +56964,11 @@
         <param name="Глубина" unit="см">69</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>217400</oldprice>
       </offer>
       <offer id="175171" available="true" group_id="175171">
         <url>https://i-sosna.ru/catalog/vitriny/shkaf_vitrina_paola_2102_01_bm670/</url>
-        <price>128800</price>
+        <price>106910</price>
         <currencyId>RUR</currencyId>
         <categoryId>389</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/349/psqptkaiqjumjxwywc44srqxq0tvs1r3.jpeg</picture>
@@ -56835,10 +56982,11 @@
         <param name="Глубина" unit="см">50</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>128800</oldprice>
       </offer>
       <offer id="175172" available="true" group_id="175172">
         <url>https://i-sosna.ru/catalog/vitriny/shkaf_vitrina_paola_2102_bm670/</url>
-        <price>112800</price>
+        <price>93630</price>
         <currencyId>RUR</currencyId>
         <categoryId>389</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/b31/8p005or59amb1xwfjna6z4w39nezu4oj.jpeg</picture>
@@ -56852,10 +57000,11 @@
         <param name="Глубина" unit="см">50</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>112800</oldprice>
       </offer>
       <offer id="175173" available="true" group_id="175173">
         <url>https://i-sosna.ru/catalog/tumby_pod_tv/tumba_pod_tv_paola_2103_bm670/</url>
-        <price>107700</price>
+        <price>89400</price>
         <currencyId>RUR</currencyId>
         <categoryId>403</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/10b/uf1qs5tjfo75nqbcqgi6t2cvyz86h4sa.jpeg</picture>
@@ -56869,10 +57018,11 @@
         <param name="Глубина" unit="см">46</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>107700</oldprice>
       </offer>
       <offer id="175174" available="true" group_id="175174">
         <url>https://i-sosna.ru/catalog/tumby/tumba_paola_2113_bm670/</url>
-        <price>198300</price>
+        <price>164590</price>
         <currencyId>RUR</currencyId>
         <categoryId>402</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/866/m5k49n3obkqd0816uzirclfr4ti55lke.jpeg</picture>
@@ -56886,10 +57036,11 @@
         <param name="Глубина" unit="см">46</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>198300</oldprice>
       </offer>
       <offer id="175175" available="true" group_id="175175">
         <url>https://i-sosna.ru/catalog/zerkala/zerkalo_paola_2111_bm670/</url>
-        <price>47800</price>
+        <price>39680</price>
         <currencyId>RUR</currencyId>
         <categoryId>399</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/a7a/f7mpsgr2h9v3uv7f4xvmpgcdnp9lmdmt.jpeg</picture>
@@ -56903,10 +57054,11 @@
         <param name="Глубина" unit="см">10</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>47800</oldprice>
       </offer>
       <offer id="175176" available="true" group_id="175176">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_knig/shkaf_knizhnyy_2_dveri_paola_2151_bm672/</url>
-        <price>253800</price>
+        <price>210660</price>
         <currencyId>RUR</currencyId>
         <categoryId>466</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/0b9/y4bl50qdxdauo06bcqu9lwg03yft0a07.jpeg</picture>
@@ -56920,10 +57072,11 @@
         <param name="Глубина" unit="см">50</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>253800</oldprice>
       </offer>
       <offer id="175177" available="true" group_id="175177">
         <url>https://i-sosna.ru/catalog/komody_i_tumby/tumba_bar_paola_2104_bm670/</url>
-        <price>215600</price>
+        <price>178950</price>
         <currencyId>RUR</currencyId>
         <categoryId>400</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/5cb/tuncs79l802qmdleohlaor5kaa8b2nrx.jpeg</picture>
@@ -56937,10 +57090,11 @@
         <param name="Глубина" unit="см">46</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>215600</oldprice>
       </offer>
       <offer id="175178" available="true" group_id="175178">
         <url>https://i-sosna.ru/catalog/stoly_zhurnalnye/stol_zhurnalnyy_paola_2155_bm670/</url>
-        <price>53500</price>
+        <price>44410</price>
         <currencyId>RUR</currencyId>
         <categoryId>456</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/b95/n5unnvrwyqxkoutwxrv6hh1avzq13i1y.jpeg</picture>
@@ -56954,10 +57108,11 @@
         <param name="Глубина" unit="см">65</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>53500</oldprice>
       </offer>
       <offer id="175179" available="true" group_id="175179">
         <url>https://i-sosna.ru/catalog/stoly_zhurnalnye/stol_zhurnalnyy_paola_2156_bm670/</url>
-        <price>59700</price>
+        <price>49560</price>
         <currencyId>RUR</currencyId>
         <categoryId>456</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/ff4/u9s6a00jw2dplbn8az394fskjp9w8938.jpeg</picture>
@@ -56971,10 +57126,11 @@
         <param name="Глубина" unit="см">59</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>59700</oldprice>
       </offer>
       <offer id="175180" available="true" group_id="175180">
         <url>https://i-sosna.ru/catalog/stoly_obedennye/stol_obedennyy_paola_2158_bm674/</url>
-        <price>111000</price>
+        <price>92130</price>
         <currencyId>RUR</currencyId>
         <categoryId>457</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/5d9/81geaszwwxrg42815jk7a8d7z1j95r5j.jpeg</picture>
@@ -56988,10 +57144,11 @@
         <param name="Глубина" unit="см">87</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>111000</oldprice>
       </offer>
       <offer id="175181" available="true" group_id="175181">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_pismennyy_paola_2170_01_bm672/</url>
-        <price>155700</price>
+        <price>129240</price>
         <currencyId>RUR</currencyId>
         <categoryId>458</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/dd5/qj17jrxgt2un36ni0lz12na7rdvbck5t.jpeg</picture>
@@ -57005,10 +57162,11 @@
         <param name="Глубина" unit="см">72</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>155700</oldprice>
       </offer>
       <offer id="175182" available="true" group_id="175182">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_pismennyy_paola_2170_bm672/</url>
-        <price>155700</price>
+        <price>129240</price>
         <currencyId>RUR</currencyId>
         <categoryId>458</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/e6a/l3oazi3fli5jytc50md1b0ezoh66yxbc.jpeg</picture>
@@ -57022,10 +57180,11 @@
         <param name="Глубина" unit="см">72</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>155700</oldprice>
       </offer>
       <offer id="175183" available="true" group_id="175183">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_pismennyy_2_tumby_paola_2171_bm672/</url>
-        <price>198000</price>
+        <price>164340</price>
         <currencyId>RUR</currencyId>
         <categoryId>458</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/2d5/cylvro08kt3rnkdwcntt1hvddxc1mgd1.jpeg</picture>
@@ -57039,10 +57198,11 @@
         <param name="Глубина" unit="см">72</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>198000</oldprice>
       </offer>
       <offer id="175184" available="true" group_id="175184">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_dlya_odezhdy_2_dvernyy_paola_2169_bm673/</url>
-        <price>230800</price>
+        <price>191570</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/1db/4dhtygp3r775zx6uejh1p9pex30v8dj7.jpeg</picture>
@@ -57056,10 +57216,11 @@
         <param name="Глубина" unit="см">50</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>230800</oldprice>
       </offer>
       <offer id="175185" available="true" group_id="175185">
         <url>https://i-sosna.ru/catalog/veshalki/veshalka_paola_2175_bm673/</url>
-        <price>48000</price>
+        <price>39840</price>
         <currencyId>RUR</currencyId>
         <categoryId>436</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/a07/8elue59te47xe1dhtjho0d9s4mp5673p.jpeg</picture>
@@ -57073,10 +57234,11 @@
         <param name="Глубина" unit="см">10</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>48000</oldprice>
       </offer>
       <offer id="175186" available="true" group_id="175186">
         <url>https://i-sosna.ru/catalog/tumby/tumba_paola_2173_bm673/</url>
-        <price>113200</price>
+        <price>93960</price>
         <currencyId>RUR</currencyId>
         <categoryId>402</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/b38/jopwz09kl7b9xq8x9jnqfi0bj3xr2gbl.jpeg</picture>
@@ -57090,10 +57252,11 @@
         <param name="Глубина" unit="см">46</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>113200</oldprice>
       </offer>
       <offer id="175187" available="true" group_id="175187">
         <url>https://i-sosna.ru/catalog/tumby/tumba_paola_2174_bm673/</url>
-        <price>67000</price>
+        <price>55610</price>
         <currencyId>RUR</currencyId>
         <categoryId>402</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/ee2/2g26h0w8hda5639z7o19bfa801qpv72j.jpeg</picture>
@@ -57107,6 +57270,7 @@
         <param name="Глубина" unit="см">46</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>67000</oldprice>
       </offer>
       <offer id="175188" available="true" group_id="175188">
         <url>https://i-sosna.ru/catalog/stoly_zhurnalnye/stol_zhurnalnyy_yustina_bm2_691_0_41_2340/</url>
@@ -57824,7 +57988,7 @@
       </offer>
       <offer id="175436" available="true" group_id="175436">
         <url>https://i-sosna.ru/catalog/vzroslye_krovati/dvuspalnaya_krovat_paola/</url>
-        <price>170400</price>
+        <price>141440</price>
         <currencyId>RUR</currencyId>
         <categoryId>780</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/63a/prxroo3um7sc8x7y12wmwe199syllqsx.jpeg</picture>
@@ -57838,6 +58002,7 @@
         <param name="Глубина" unit="см">211</param>
         <param name="Материал">Массив дуба;Шпон дуба;МДФ</param>
         <param name="Коллекция">Паола</param>
+        <oldprice>170400</oldprice>
       </offer>
       <offer id="175446" available="true" group_id="175446">
         <url>https://i-sosna.ru/catalog/tualetnye_stoliki/stol_tualetnyy_tiffani_2424_bm681/</url>
@@ -58044,7 +58209,7 @@
       </offer>
       <offer id="175551" available="true" group_id="175551">
         <url>https://i-sosna.ru/catalog/tumby/tumba_skandi_so_steklyannymi_dveryami_232stch/</url>
-        <price>53260</price>
+        <price>37290</price>
         <currencyId>RUR</currencyId>
         <categoryId>402</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/5d4/g3sp48euylh7lyemcejy8lua6aqbm0k3.jpeg</picture>
@@ -58058,10 +58223,11 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сканди</param>
+        <oldprice>53260</oldprice>
       </offer>
       <offer id="175553" available="true" group_id="175553">
         <url>https://i-sosna.ru/catalog/tumby/tumba_skandi_s_glukhimi_dveryami_232/</url>
-        <price>52660</price>
+        <price>36870</price>
         <currencyId>RUR</currencyId>
         <categoryId>402</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/c38/b6ujni4lr3fxio4xnn8wew0sro4gupfa.jpeg</picture>
@@ -58075,10 +58241,11 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сканди</param>
+        <oldprice>52660</oldprice>
       </offer>
       <offer id="175554" available="true" group_id="175554">
         <url>https://i-sosna.ru/catalog/tumby/tumba_skandi_so_steklyannymi_dveryami_33stch/</url>
-        <price>53260</price>
+        <price>37290</price>
         <currencyId>RUR</currencyId>
         <categoryId>402</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/d78/82bpi01u1aassrfhdeb0et7fh6rb708i.jpeg</picture>
@@ -58092,10 +58259,11 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сканди</param>
+        <oldprice>53260</oldprice>
       </offer>
       <offer id="175555" available="true" group_id="175555">
         <url>https://i-sosna.ru/catalog/tumby/tumba_skandi_s_glukhimi_dveryami_33/</url>
-        <price>52660</price>
+        <price>36870</price>
         <currencyId>RUR</currencyId>
         <categoryId>402</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/a46/gur759il46vltxgnx4ti57r6revzad8k.jpeg</picture>
@@ -58109,10 +58277,11 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сканди</param>
+        <oldprice>52660</oldprice>
       </offer>
       <offer id="175556" available="true" group_id="175556">
         <url>https://i-sosna.ru/catalog/tumby/tumba_skandi_so_steklyannymi_i_glukhimi_dveryami_222stch/</url>
-        <price>60440</price>
+        <price>42310</price>
         <currencyId>RUR</currencyId>
         <categoryId>402</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/833/qedxcqvgngkqrlpdxbggly60kd3d07rb.jpeg</picture>
@@ -58126,10 +58295,11 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сканди</param>
+        <oldprice>60440</oldprice>
       </offer>
       <offer id="175557" available="true" group_id="175557">
         <url>https://i-sosna.ru/catalog/tumby/tumba_skandi_s_glukhimi_dveryami_222/</url>
-        <price>59860</price>
+        <price>41910</price>
         <currencyId>RUR</currencyId>
         <categoryId>402</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/2cd/hcp2brz9ofq158ve2fv2nxg5o9170674.jpeg</picture>
@@ -58143,10 +58313,11 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сканди</param>
+        <oldprice>59860</oldprice>
       </offer>
       <offer id="175558" available="true" group_id="175558">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_posudy/shkaf_dlya_posudy_skandi_steklyannaya_i_glukhaya_dveri_1113stch/</url>
-        <price>64760</price>
+        <price>45340</price>
         <currencyId>RUR</currencyId>
         <categoryId>786</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/9ea/mmu0lxmxdj9jksg4zkyp4ujs3zlxlets.jpeg</picture>
@@ -58160,10 +58331,11 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сканди</param>
+        <oldprice>64760</oldprice>
       </offer>
       <offer id="175559" available="true" group_id="175559">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_posudy/shkaf_dlya_posudy_skandi_s_glukhimi_dveryami_1113/</url>
-        <price>64180</price>
+        <price>44930</price>
         <currencyId>RUR</currencyId>
         <categoryId>786</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/53f/ngzvqcuoack16feybwzoev0lufuzqldd.jpeg</picture>
@@ -58177,10 +58349,11 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сканди</param>
+        <oldprice>64180</oldprice>
       </offer>
       <offer id="175560" available="true" group_id="175560">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_posudy/shkaf_dlya_posudy_skandi_so_steklyannymi_i_glukhimi_dveryami_222stch/</url>
-        <price>71960</price>
+        <price>50380</price>
         <currencyId>RUR</currencyId>
         <categoryId>786</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/c0b/8tc0xnvkdygse5mwo0fcvt4oxvcibr8d.jpeg</picture>
@@ -58194,10 +58367,11 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сканди</param>
+        <oldprice>71960</oldprice>
       </offer>
       <offer id="175561" available="true" group_id="175561">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_posudy/shkaf_dlya_posudy_skandi_s_glukhimi_dveryami_222/</url>
-        <price>71380</price>
+        <price>49970</price>
         <currencyId>RUR</currencyId>
         <categoryId>786</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/22e/rdm8tra8dv7yo4w4aek41jose4v91va8.jpeg</picture>
@@ -58211,10 +58385,11 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сканди</param>
+        <oldprice>71380</oldprice>
       </offer>
       <offer id="175562" available="true" group_id="175562">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_posudy/shkaf_dlya_posudy_skandi_so_steklyannymi_i_glukhimi_dveryami_111stch/</url>
-        <price>41720</price>
+        <price>29210</price>
         <currencyId>RUR</currencyId>
         <categoryId>786</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/859/9g0spjr1mtjhojt7z8brkaqvb2rbfpz8.jpeg</picture>
@@ -58228,10 +58403,11 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сканди</param>
+        <oldprice>41720</oldprice>
       </offer>
       <offer id="175563" available="true" group_id="175563">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_posudy/shkaf_dlya_posudy_skandi_s_glukhimi_dveryami_111/</url>
-        <price>41140</price>
+        <price>28800</price>
         <currencyId>RUR</currencyId>
         <categoryId>786</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/49f/bclcgf9g0y0c2mgfpn6e1oilg1gn911r.jpeg</picture>
@@ -58245,10 +58421,11 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сканди</param>
+        <oldprice>41140</oldprice>
       </offer>
       <offer id="175564" available="true" group_id="175564">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_skandi_s_yashchikom/</url>
-        <price>33080</price>
+        <price>23160</price>
         <currencyId>RUR</currencyId>
         <categoryId>452</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/638/8a3cenq516eti3inhr5ep7o7dl6vtjr0.jpeg</picture>
@@ -58262,6 +58439,7 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сканди</param>
+        <oldprice>33080</oldprice>
       </offer>
       <offer id="175616" available="true" group_id="175616">
         <url>https://i-sosna.ru/catalog/stellazhi/shirokiy_stellazh_2_2_belyy/</url>
@@ -60837,7 +61015,7 @@
       </offer>
       <offer id="177129" available="true" group_id="177129">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_posudy/shkaf_amadey_p6_635_0_01_/</url>
-        <price>125300</price>
+        <price>104000</price>
         <currencyId>RUR</currencyId>
         <categoryId>786</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/16d/80c8xtwpzjhmnz1zm11zgjz142esydxb.jpeg</picture>
@@ -60851,10 +61029,11 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив дуба/Шпон дуба</param>
         <param name="Коллекция">Амадей</param>
+        <oldprice>125300</oldprice>
       </offer>
       <offer id="177131" available="true" group_id="177131">
         <url>https://i-sosna.ru/catalog/tumby_pod_tv/tumba_amadey_p6_635_0_02_/</url>
-        <price>102800</price>
+        <price>85330</price>
         <currencyId>RUR</currencyId>
         <categoryId>403</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/c23/r2v1qreozbo0ssz7sgrgtw0vc7s0fpkv.jpeg</picture>
@@ -60868,10 +61047,11 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив дуба/Шпон дуба</param>
         <param name="Коллекция">Амадей</param>
+        <oldprice>102800</oldprice>
       </offer>
       <offer id="177132" available="true" group_id="177132">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_knig/shkaf_amadey_p6_635_0_03_/</url>
-        <price>180200</price>
+        <price>149570</price>
         <currencyId>RUR</currencyId>
         <categoryId>466</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/ee5/u7k29dhdhotwqdny1lgpgwuv44cvhakm.jpeg</picture>
@@ -60885,10 +61065,11 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив дуба/Шпон дуба</param>
         <param name="Коллекция">Амадей</param>
+        <oldprice>180200</oldprice>
       </offer>
       <offer id="177133" available="true" group_id="177133">
         <url>https://i-sosna.ru/catalog/komody/komod_amadey_p6_635_1_17_/</url>
-        <price>119800</price>
+        <price>99440</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/fef/hhruq1uhhg3bui9xeo2opac119q25z4w.jpeg</picture>
@@ -60902,10 +61083,11 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив дуба/Шпон дуба</param>
         <param name="Коллекция">Амадей</param>
+        <oldprice>119800</oldprice>
       </offer>
       <offer id="177134" available="true" group_id="177134">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_knig/shkaf_amadey_p6_635_2_16_/</url>
-        <price>125600</price>
+        <price>104250</price>
         <currencyId>RUR</currencyId>
         <categoryId>466</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/40f/wfpf06lb3k7q5n8s2k28bo92td2wedzv.jpeg</picture>
@@ -60919,10 +61101,11 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив дуба/Шпон дуба</param>
         <param name="Коллекция">Амадей</param>
+        <oldprice>125600</oldprice>
       </offer>
       <offer id="177135" available="true" group_id="177135">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_pismennyy_2t_amadey_p635_2_17_/</url>
-        <price>161100</price>
+        <price>133720</price>
         <currencyId>RUR</currencyId>
         <categoryId>458</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/df8/5oapaoxtyftcl4ku00vhd68lf14jgvnr.jpeg</picture>
@@ -60936,10 +61119,11 @@
         <param name="Глубина" unit="см">64</param>
         <param name="Материал">Массив дуба/Шпон дуба</param>
         <param name="Коллекция">Амадей</param>
+        <oldprice>161100</oldprice>
       </offer>
       <offer id="177136" available="true" group_id="177136">
         <url>https://i-sosna.ru/catalog/polki/polka_konsolnaya_p635_20_amadey/</url>
-        <price>23200</price>
+        <price>19260</price>
         <currencyId>RUR</currencyId>
         <categoryId>447</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/9cd/iqh40o988x6xnf09z8dihqgiu9vfs1eg.jpeg</picture>
@@ -60953,10 +61137,11 @@
         <param name="Глубина" unit="см">22</param>
         <param name="Материал">Массив дуба/Шпон дуба</param>
         <param name="Коллекция">Амадей</param>
+        <oldprice>23200</oldprice>
       </offer>
       <offer id="177138" available="true" group_id="177138">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_posudy/shkaf_amadey_p6_635_0_08/</url>
-        <price>193200</price>
+        <price>160360</price>
         <currencyId>RUR</currencyId>
         <categoryId>786</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/d48/qc733rrpgcrszhz1thmby41jvgv3nkvi.jpeg</picture>
@@ -60970,10 +61155,11 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив дуба/Шпон дуба</param>
         <param name="Коллекция">Амадей</param>
+        <oldprice>193200</oldprice>
       </offer>
       <offer id="177139" available="true" group_id="177139">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_posudy/shkaf_amadey_p6_635_0_09/</url>
-        <price>188500</price>
+        <price>156460</price>
         <currencyId>RUR</currencyId>
         <categoryId>786</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/03a/98c7ie1hnguvlf8pjbwu2nubywyzaemh.jpeg</picture>
@@ -60987,10 +61173,11 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив дуба/Шпон дуба</param>
         <param name="Коллекция">Амадей</param>
+        <oldprice>188500</oldprice>
       </offer>
       <offer id="177140" available="true" group_id="177140">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_pismennyy_amadey_p6_635_0_18/</url>
-        <price>98700</price>
+        <price>81930</price>
         <currencyId>RUR</currencyId>
         <categoryId>458</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/822/tnrfd3113trs2rurbbqv82k7cza6k0tp.jpeg</picture>
@@ -61004,10 +61191,11 @@
         <param name="Глубина" unit="см">64</param>
         <param name="Материал">Массив дуба/Шпон дуба</param>
         <param name="Коллекция">Амадей</param>
+        <oldprice>98700</oldprice>
       </offer>
       <offer id="177143" available="true" group_id="177143">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_posudy/shkaf_amadey_p6_635_0_23/</url>
-        <price>151000</price>
+        <price>125330</price>
         <currencyId>RUR</currencyId>
         <categoryId>786</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/228/4hilcwp7lqr9u5b43b4u9kqg07a60ufs.jpeg</picture>
@@ -61021,10 +61209,11 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив дуба/Шпон дуба</param>
         <param name="Коллекция">Амадей</param>
+        <oldprice>151000</oldprice>
       </offer>
       <offer id="177144" available="true" group_id="177144">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_posudy/shkaf_amadey_p6_635_0_22/</url>
-        <price>158500</price>
+        <price>131560</price>
         <currencyId>RUR</currencyId>
         <categoryId>786</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/763/zpcracl1diw23zh8e2sssqr74rj1xrcf.jpeg</picture>
@@ -61038,10 +61227,11 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив дуба/Шпон дуба</param>
         <param name="Коллекция">Амадей</param>
+        <oldprice>158500</oldprice>
       </offer>
       <offer id="177145" available="true" group_id="177145">
         <url>https://i-sosna.ru/catalog/tumby_pod_tv/tumba_amadey_p6_635_0_29/</url>
-        <price>115700</price>
+        <price>96040</price>
         <currencyId>RUR</currencyId>
         <categoryId>403</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/8f5/7dscxmjk2mxnzsdbsbimd1yezki5eq7x.jpeg</picture>
@@ -61055,10 +61245,11 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив дуба/Шпон дуба</param>
         <param name="Коллекция">Амадей</param>
+        <oldprice>115700</oldprice>
       </offer>
       <offer id="177146" available="true" group_id="177146">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_dlya_odezhdy_4_dvernyy_amadey_p6_635_1_01/</url>
-        <price>285500</price>
+        <price>236970</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/547/6nt4ic8ga2k38zll2mqjuok6eqchso0s.jpeg</picture>
@@ -61072,10 +61263,11 @@
         <param name="Глубина" unit="см">61</param>
         <param name="Материал">Массив дуба/Шпон дуба</param>
         <param name="Коллекция">Амадей</param>
+        <oldprice>285500</oldprice>
       </offer>
       <offer id="177147" available="true" group_id="177147">
         <url>https://i-sosna.ru/catalog/zerkala/zerkalo_amadey_p6_635_1_03/</url>
-        <price>25800</price>
+        <price>21420</price>
         <currencyId>RUR</currencyId>
         <categoryId>399</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/eb8/twwbjy87q2331n3pykbgflmsf1vu12vy.jpeg</picture>
@@ -61089,10 +61281,11 @@
         <param name="Глубина" unit="см">2</param>
         <param name="Материал">Массив дуба/Шпон дуба</param>
         <param name="Коллекция">Амадей</param>
+        <oldprice>25800</oldprice>
       </offer>
       <offer id="177148" available="true" group_id="177148">
         <url>https://i-sosna.ru/catalog/tumby/tumba_prikrovatnaya_amadey_p6_635_1_04/</url>
-        <price>50100</price>
+        <price>41590</price>
         <currencyId>RUR</currencyId>
         <categoryId>402</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/0ba/m3t2bb4qbk3mnyuflzhr02spkoz925be.jpeg</picture>
@@ -61106,10 +61299,11 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив дуба/Шпон дуба</param>
         <param name="Коллекция">Амадей</param>
+        <oldprice>50100</oldprice>
       </offer>
       <offer id="177149" available="true" group_id="177149">
         <url>https://i-sosna.ru/catalog/vzroslye_krovati/krovat_2_16_amadey_p6_635_1_05/</url>
-        <price>100300</price>
+        <price>83250</price>
         <currencyId>RUR</currencyId>
         <categoryId>780</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/346/rk3bcl80nkdy2hpmooeral0484qbtlkm.jpeg</picture>
@@ -61123,10 +61317,11 @@
         <param name="Глубина" unit="см">208</param>
         <param name="Материал">Массив дуба/Шпон дуба</param>
         <param name="Коллекция">Амадей</param>
+        <oldprice>100300</oldprice>
       </offer>
       <offer id="177150" available="true" group_id="177150">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_dlya_odezhdy_2_dvernyy_amadey_p6_635_1_08/</url>
-        <price>209300</price>
+        <price>173720</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/cc4/dkoc2ljn7xc5cdowc15c7m06xriyktrw.jpeg</picture>
@@ -61140,10 +61335,11 @@
         <param name="Глубина" unit="см">61</param>
         <param name="Материал">Массив дуба/Шпон дуба</param>
         <param name="Коллекция">Амадей</param>
+        <oldprice>209300</oldprice>
       </offer>
       <offer id="177152" available="true" group_id="177152">
         <url>https://i-sosna.ru/catalog/vzroslye_krovati/krovat_1_09_amadey_p6_635_1_10/</url>
-        <price>87200</price>
+        <price>72380</price>
         <currencyId>RUR</currencyId>
         <categoryId>780</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/556/f54fpdyo200lurh0k6u8jczgqcwm1esk.jpeg</picture>
@@ -61157,10 +61353,11 @@
         <param name="Глубина" unit="см">208</param>
         <param name="Материал">Массив дуба/Шпон дуба</param>
         <param name="Коллекция">Амадей</param>
+        <oldprice>87200</oldprice>
       </offer>
       <offer id="177159" available="true" group_id="177159">
         <url>https://i-sosna.ru/catalog/komody/komod_amadey_p6_635_1_16/</url>
-        <price>71500</price>
+        <price>59350</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/2a4/1mjsrw32rk7d4yjs5mqjltg5zmpiipj2.jpeg</picture>
@@ -61174,10 +61371,11 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив дуба/Шпон дуба</param>
         <param name="Коллекция">Амадей</param>
+        <oldprice>71500</oldprice>
       </offer>
       <offer id="177310" available="true" group_id="177310">
         <url>https://i-sosna.ru/catalog/bufety/bufet_skandi_so_steklyannymi_i_glukhimi_dvertsami/</url>
-        <price>91940</price>
+        <price>64360</price>
         <currencyId>RUR</currencyId>
         <categoryId>388</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/31f/me8wcyc8u198ig2fosg8gi230ze6k9li.jpeg</picture>
@@ -61191,10 +61389,11 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сканди</param>
+        <oldprice>91940</oldprice>
       </offer>
       <offer id="177311" available="true" group_id="177311">
         <url>https://i-sosna.ru/catalog/bufety/nadstroyka_bufeta_skandi_so_steklyannymi_dvertsami/</url>
-        <price>39280</price>
+        <price>27500</price>
         <currencyId>RUR</currencyId>
         <categoryId>388</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/f73/b0evpecvspji3h2w7ysgfc7s7vs02h5o.jpeg</picture>
@@ -61208,10 +61407,11 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сканди</param>
+        <oldprice>39280</oldprice>
       </offer>
       <offer id="177312" available="true" group_id="177312">
         <url>https://i-sosna.ru/catalog/stoly_obedennye/stol_obedennyy_skandi_120kh70/</url>
-        <price>30250</price>
+        <price>21180</price>
         <currencyId>RUR</currencyId>
         <categoryId>457</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/39e/ful3wcpt47svrlq18p66wg96sehyt8xj.jpeg</picture>
@@ -61225,10 +61425,11 @@
         <param name="Глубина" unit="см">70</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сканди</param>
+        <oldprice>30250</oldprice>
       </offer>
       <offer id="177313" available="true" group_id="177313">
         <url>https://i-sosna.ru/catalog/stoly_obedennye/stol_obedennyy_skandi_140kh77_razdvizhnoy/</url>
-        <price>51250</price>
+        <price>35880</price>
         <currencyId>RUR</currencyId>
         <categoryId>457</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/698/wbhh0h9jvtt5h00p5piwp07n3jeql2xw.jpeg</picture>
@@ -61242,6 +61443,7 @@
         <param name="Глубина" unit="см">77</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сканди</param>
+        <oldprice>51250</oldprice>
       </offer>
       <offer id="177324" available="true" group_id="177324">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_tk_5_obrazets/</url>
@@ -69954,7 +70156,7 @@
       </offer>
       <offer id="185707" available="true" group_id="185707">
         <url>https://i-sosna.ru/catalog/stoly_obedennye/stol_obedennyy_raskladnoy_kruglyy_forest_skandi_110/</url>
-        <price>47400</price>
+        <price>33180</price>
         <currencyId>RUR</currencyId>
         <categoryId>457</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/52c/cq19ve3dp2wo697fumcl9llex53xvs9f.jpeg</picture>
@@ -69968,6 +70170,7 @@
         <param name="Глубина" unit="см">110</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сканди</param>
+        <oldprice>47400</oldprice>
       </offer>
       <offer id="185812" available="true" group_id="185812">
         <url>https://i-sosna.ru/catalog/komody/komod_s_2_dvermi_i_3_yashchikami_khemnes_hemnes/</url>
@@ -71617,7 +71820,7 @@
       </offer>
       <offer id="186551" available="true" group_id="186551">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_baltika_4kh_dvernyy/</url>
-        <price>95470</price>
+        <price>81150</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/a4b/m02sw82vj4mpytbczrho04uludnnl0cv.jpeg</picture>
@@ -71631,10 +71834,11 @@
         <param name="Глубина" unit="см">59</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>95470</oldprice>
       </offer>
       <offer id="186552" available="true" group_id="186552">
         <url>https://i-sosna.ru/catalog/komody/komod_baltika_3/</url>
-        <price>42470</price>
+        <price>36100</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/6cb/6azjtg7xcchfg5vgyom1ja92sjlxsg83.jpeg</picture>
@@ -71648,6 +71852,7 @@
         <param name="Глубина" unit="см">48</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
+        <oldprice>42470</oldprice>
       </offer>
       <offer id="186684" available="true" group_id="186684">
         <url>https://i-sosna.ru/catalog/vitriny/shkaf_dlya_posudy_randevu_12_massiv_sosny/</url>
@@ -72748,7 +72953,7 @@
         <param name="Высота" unit="см">0</param>
         <param name="Глубина" unit="см">0</param>
         <param name="Материал">Массив сосны</param>
-        <param name="Коллекция">Винтаж</param>
+        <collectionId>25</collectionId>
       </offer>
       <offer id="187354" available="true" group_id="187354">
         <url>https://i-sosna.ru/catalog/tumby/tumba_vintazh_s_1_dveryu_i_4_yashchikami/</url>
@@ -72765,7 +72970,7 @@
         <param name="Высота" unit="см">96</param>
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив сосны</param>
-        <param name="Коллекция">Винтаж</param>
+        <collectionId>25</collectionId>
       </offer>
       <offer id="187355" available="true" group_id="187355">
         <url>https://i-sosna.ru/catalog/komody/tumba_vintazh_s_2_dvermi_i_4_yashchikami/</url>
@@ -72782,7 +72987,7 @@
         <param name="Высота" unit="см">96</param>
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив сосны</param>
-        <param name="Коллекция">Винтаж</param>
+        <collectionId>25</collectionId>
       </offer>
       <offer id="187353" available="true" group_id="187353">
         <url>https://i-sosna.ru/catalog/tumby_prikrovatnye/prikrovatnaya_tumba_vintazh/</url>
@@ -72799,7 +73004,7 @@
         <param name="Высота" unit="см">58</param>
         <param name="Глубина" unit="см">38</param>
         <param name="Материал">Массив сосны</param>
-        <param name="Коллекция">Винтаж</param>
+        <collectionId>25</collectionId>
       </offer>
       <offer id="187357" available="true" group_id="187357">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_vintazh_2_dveri_i_2_yashchika/</url>
@@ -72816,7 +73021,7 @@
         <param name="Высота" unit="см">210</param>
         <param name="Глубина" unit="см">65</param>
         <param name="Материал">Массив сосны</param>
-        <param name="Коллекция">Винтаж</param>
+        <collectionId>25</collectionId>
       </offer>
       <offer id="187356" available="true" group_id="187356">
         <url>https://i-sosna.ru/catalog/tumby/tumba_vintazh_s_4_yashchikami/</url>
@@ -72833,7 +73038,7 @@
         <param name="Высота" unit="см">96</param>
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив сосны</param>
-        <param name="Коллекция">Винтаж</param>
+        <collectionId>25</collectionId>
       </offer>
       <offer id="187378" available="true" group_id="187378">
         <url>https://i-sosna.ru/catalog/zerkala/zerkalo_tel_solntse/</url>
@@ -76167,22 +76372,22 @@
         <description>Валенсия от производителя Тимберика в интернет-магазине Гармония дерева</description>
       </collection>
       <collection id="23">
-        <url>https://i-sosna.ru/catalog/series/venetsiya/</url>
-        <picture>https://i-sosna.ru/upload/resize_cache/iblock/f18/768_480_2/f181af88c5730b1171711f10b4bb912a.jpg</picture>
-        <name>Мебель коллекции Венеция, Муромские мастера</name>
-        <description>Венеция от производителя Муромские мастера в интернет-магазине Гармония дерева</description>
-      </collection>
-      <collection id="24">
         <url>https://i-sosna.ru/catalog/series/verona/</url>
         <picture>https://i-sosna.ru/upload/resize_cache/iblock/9f1/768_480_2/9f15c69871bfa04a1ddc485fa8a9d227.jpg</picture>
         <name>Мебель коллекции Верона, Муромские мастера</name>
         <description>Верона от производителя Муромские мастера в интернет-магазине Гармония дерева</description>
       </collection>
-      <collection id="25">
+      <collection id="24">
         <url>https://i-sosna.ru/catalog/series/viking/</url>
         <picture>https://i-sosna.ru/upload/iblock/601/60187f844599af8be5ebf5b1ebeb76aa.jpg</picture>
         <name>Мебель коллекции Викинг, Лидская МФ</name>
         <description>Викинг от производителя Лидская МФ в интернет-магазине Гармония дерева</description>
+      </collection>
+      <collection id="25">
+        <url>https://i-sosna.ru/catalog/series/vintazh/</url>
+        <picture>https://i-sosna.ru/images/no_photo.png</picture>
+        <name>Винтаж</name>
+        <description>Винтаж в интернет-магазине Гармония дерева</description>
       </collection>
       <collection id="26">
         <url>https://i-sosna.ru/catalog/series/voyazh/</url>
