@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-19T17:06:52+03:00">
+<yml_catalog date="2026-03-20T05:57:09+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -1750,7 +1750,7 @@
       </offer>
       <offer id="6500" available="true" group_id="6500">
         <url>https://i-sosna.ru/catalog/komody/komod_viking_03/</url>
-        <price>35300</price>
+        <price>43570</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/526/ris51h3eoam49sg3v8r9xsf2q4lvvy3k.jpeg</picture>
@@ -2327,7 +2327,7 @@
       </offer>
       <offer id="7094" available="true" group_id="7094">
         <url>https://i-sosna.ru/catalog/stulya/stul_viking_gl_05/</url>
-        <price>10910</price>
+        <price>11190</price>
         <currencyId>RUR</currencyId>
         <categoryId>460</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/a91/sgqvg38bqfyo42ibxlfohmuf3iqyxi87.jpeg</picture>
@@ -2758,7 +2758,7 @@
       </offer>
       <offer id="7324" available="true" group_id="7324">
         <url>https://i-sosna.ru/catalog/bufety/bufet_viking_01/</url>
-        <price>55190</price>
+        <price>64970</price>
         <currencyId>RUR</currencyId>
         <categoryId>388</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/611/m8i4ra705ncjitljys46937efevlshuv.jpeg</picture>
@@ -2775,7 +2775,7 @@
       </offer>
       <offer id="7325" available="true" group_id="7325">
         <url>https://i-sosna.ru/catalog/bufety/bufet_viking_02_uglovoy/</url>
-        <price>54750</price>
+        <price>71600</price>
         <currencyId>RUR</currencyId>
         <categoryId>388</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/038/8s094t4eg5uo0tyi19akv3bnqco38agu.jpeg</picture>
@@ -2859,7 +2859,7 @@
       </offer>
       <offer id="7279" available="true" group_id="7279">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_knig/shkaf_viking_03_knizhnyy/</url>
-        <price>37840</price>
+        <price>43770</price>
         <currencyId>RUR</currencyId>
         <categoryId>466</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/8e2/mtcoiovfsnnzhxisztuf1aasjqu0pjgi.jpeg</picture>
@@ -8170,7 +8170,7 @@
       </offer>
       <offer id="13701" available="true" group_id="13701">
         <url>https://i-sosna.ru/catalog/stoly_obedennye/stol_obedennyy_viking_gl_05/</url>
-        <price>23220</price>
+        <price>23040</price>
         <currencyId>RUR</currencyId>
         <categoryId>457</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/48e/dmckeyzemfoj6kv0jp6zw9n2wx36xtdk.jpeg</picture>
@@ -18199,7 +18199,7 @@
       </offer>
       <offer id="138501" available="true" group_id="138501">
         <url>https://i-sosna.ru/catalog/bufety/bufet_viking_04/</url>
-        <price>43440</price>
+        <price>46660</price>
         <currencyId>RUR</currencyId>
         <categoryId>388</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/613/38a0limvsv7x6mgbsqy7ktecqwervzm9.jpeg</picture>
@@ -77470,7 +77470,7 @@
       </collection>
       <collection id="28">
         <url>https://i-sosna.ru/catalog/series/donata/</url>
-        <picture>https://i-sosna.ru/images/no_photo.png</picture>
+        <picture>https://i-sosna.ru/upload/resize_cache/iblock/7e6/768_480_2/jmdjeo3smjbz3vj9l4aafhewn2mhsduj.jpg</picture>
         <name>Доната</name>
         <description>Доната в интернет-магазине Гармония дерева</description>
       </collection>
