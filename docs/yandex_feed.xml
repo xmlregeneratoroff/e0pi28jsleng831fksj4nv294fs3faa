@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-09T05:58:01+03:00">
+<yml_catalog date="2026-04-09T17:08:17+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -30604,7 +30604,7 @@
       </offer>
       <offer id="157810" available="true" group_id="157810">
         <url>https://i-sosna.ru/catalog/tumby/tumba_ayno/</url>
-        <price>25510</price>
+        <price>27260</price>
         <currencyId>RUR</currencyId>
         <categoryId>402</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/fa7/fa7fe2e14140207b3a811124cdc83b63.JPG</picture>
@@ -30618,6 +30618,7 @@
         <param name="Глубина" unit="см">35</param>
         <param name="Материал">массив сосны, обработка- эмаль с патиной</param>
         <param name="Цвет">Крем + патина</param>
+        <oldprice>29130</oldprice>
       </offer>
       <offer id="157861" available="true" group_id="157861">
         <url>https://i-sosna.ru/catalog/komody_i_tumby/shkaf_ayno_2st/</url>
@@ -30744,7 +30745,7 @@
       </offer>
       <offer id="157896" available="true" group_id="157896">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_bert_1_39_obrazets/</url>
-        <price>178700</price>
+        <price>203580</price>
         <currencyId>RUR</currencyId>
         <categoryId>452</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/24d/24de29521f56a1d5c932efc962a2b5a7.JPG</picture>
@@ -30780,7 +30781,7 @@
       </offer>
       <offer id="157900" available="true" group_id="157900">
         <url>https://i-sosna.ru/catalog/rasprodazha/servant_bert_1_60_obrazets/</url>
-        <price>111340</price>
+        <price>126840</price>
         <currencyId>RUR</currencyId>
         <categoryId>737</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/215/020lya0hio6jktil0ca46ch3k0b49ffh.jpg</picture>
@@ -30798,7 +30799,7 @@
       </offer>
       <offer id="157904" available="true" group_id="157904">
         <url>https://i-sosna.ru/catalog/shkafy/shkaf_bert_1_34_obrazets/</url>
-        <price>88970</price>
+        <price>101410</price>
         <currencyId>RUR</currencyId>
         <categoryId>463</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/e65/ldfozjl5itilw3yxh4jblu9kn6y6hjz0.jpg</picture>
@@ -36040,7 +36041,7 @@
       </offer>
       <offer id="161227" available="true" group_id="161227">
         <url>https://i-sosna.ru/catalog/stoly_i_stulya/stol_valensiya_2_37/</url>
-        <price>64060</price>
+        <price>73010</price>
         <currencyId>RUR</currencyId>
         <categoryId>454</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/9fe/9fe196bf003a7a428bbc2cd87c871cac.jpg</picture>
@@ -43853,7 +43854,7 @@
       </offer>
       <offer id="165950" available="true" group_id="165950">
         <url>https://i-sosna.ru/catalog/krovati_iz_dereva/krovat_tk_28_obrazets_180kh80/</url>
-        <price>27500</price>
+        <price>35780</price>
         <currencyId>RUR</currencyId>
         <categoryId>406</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/b2c/b2c480fab1f5c1a870275341555849dc.JPG</picture>
