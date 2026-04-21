@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-21T06:13:31+03:00">
+<yml_catalog date="2026-04-21T17:07:44+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -13844,7 +13844,7 @@
       </offer>
       <offer id="135495" available="true" group_id="135495">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_2kh_dvernyy_beyli_s_polkami/</url>
-        <price>82600</price>
+        <price>110360</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/4c5/cj0tus0xffee5nx4a7dikyakm0wuol00.jpeg</picture>
@@ -13858,7 +13858,6 @@
         <param name="Глубина" unit="см">65</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
-        <oldprice>118000</oldprice>
       </offer>
       <offer id="135496" available="true" group_id="135496">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_3kh_dvernyy_beyli_s_glukhimi_dveryami/</url>
@@ -13880,7 +13879,7 @@
       </offer>
       <offer id="135497" available="true" group_id="135497">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_3_dvernyy_so_steklyannymi_dveryami_beyli/</url>
-        <price>84760</price>
+        <price>113030</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/c76/997ql0sqcwi9we5y5fsfrm7tnw4sibw5.jpeg</picture>
@@ -13894,7 +13893,6 @@
         <param name="Глубина" unit="см">65</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
-        <oldprice>121080</oldprice>
       </offer>
       <offer id="135292" available="true" group_id="135292">
         <url>https://i-sosna.ru/catalog/bufety/servant_ayno_1_dvernyy_shchit/</url>
@@ -38814,7 +38812,7 @@
       </offer>
       <offer id="164215" available="true" group_id="164215">
         <url>https://i-sosna.ru/catalog/krovati_takhta/bortik_6_timberika/</url>
-        <price>2970</price>
+        <price>3240</price>
         <currencyId>RUR</currencyId>
         <categoryId>758</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/f8f/f8fd1a014c3f370fcb3114566178cd44.jpeg</picture>
@@ -44675,7 +44673,7 @@
       </offer>
       <offer id="166224" available="true" group_id="166224">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_5_dvernyy_s_5_glukhimi_dveryami_beyli/</url>
-        <price>115000</price>
+        <price>153290</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/c2a/c2a07b826c1c537244efb70486f1e933.jpeg</picture>
@@ -44689,7 +44687,6 @@
         <param name="Глубина" unit="см">65</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бейли</param>
-        <oldprice>164280</oldprice>
       </offer>
       <offer id="166225" available="true" group_id="166225">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_5_dvernyy_s_4_glukhimi_dveryami_i_polkami_beyli/</url>
@@ -51351,7 +51348,7 @@
       </offer>
       <offer id="169841" available="true" group_id="169841">
         <url>https://i-sosna.ru/catalog/stulya/stul_garvard_komfort_plyus/</url>
-        <price>68350</price>
+        <price>72960</price>
         <currencyId>RUR</currencyId>
         <categoryId>460</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/0dc/0dc4fb8de24d2b41b6d2329bfd195d83.jpeg</picture>
@@ -54478,7 +54475,7 @@
       </offer>
       <offer id="172946" available="true" group_id="172946">
         <url>https://i-sosna.ru/catalog/komody/komod_olsa_042/</url>
-        <price>47390</price>
+        <price>69690</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/5b0/5mz6p3il1pwsx3rjj2l4gf0vnggcxoub.jpeg</picture>
@@ -54492,7 +54489,6 @@
         <param name="Глубина" unit="см">47</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Ольса</param>
-        <oldprice>69690</oldprice>
       </offer>
       <offer id="172947" available="true" group_id="172947">
         <url>https://i-sosna.ru/catalog/komody/komod_olsa_224/</url>
