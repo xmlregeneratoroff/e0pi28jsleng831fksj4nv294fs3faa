@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-26T06:12:15+03:00">
+<yml_catalog date="2026-04-26T16:33:55+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -48776,7 +48776,7 @@
       </offer>
       <offer id="167936" available="true" group_id="167936">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_olsa_101_014/</url>
-        <price>50560</price>
+        <price>74340</price>
         <currencyId>RUR</currencyId>
         <categoryId>452</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/56f/f6n117y2gvvrslga6qib7asy21x9332r.jpeg</picture>
@@ -48790,7 +48790,6 @@
         <param name="Глубина" unit="см">38</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Ольса</param>
-        <oldprice>74340</oldprice>
       </offer>
       <offer id="167937" available="true" group_id="167937">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_olsa_101_100_p/</url>
@@ -54410,7 +54409,7 @@
       </offer>
       <offer id="172943" available="true" group_id="172943">
         <url>https://i-sosna.ru/catalog/vzroslye_krovati/krovat_olsa_160/</url>
-        <price>39640</price>
+        <price>58290</price>
         <currencyId>RUR</currencyId>
         <categoryId>780</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/dd7/r9pv3z79e10eut4wxok6t0hrgyd2izz8.jpeg</picture>
@@ -54424,7 +54423,6 @@
         <param name="Глубина" unit="см">211</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Ольса</param>
-        <oldprice>58290</oldprice>
       </offer>
       <offer id="172944" available="true" group_id="172944">
         <url>https://i-sosna.ru/catalog/tumby/tumba_prikrovatnaya_olsa_01/</url>
@@ -54445,7 +54443,7 @@
       </offer>
       <offer id="172945" available="true" group_id="172945">
         <url>https://i-sosna.ru/catalog/tumby/tumba_prikrovatnaya_olsa_03/</url>
-        <price>17810</price>
+        <price>26190</price>
         <currencyId>RUR</currencyId>
         <categoryId>402</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/36f/qeepnolgzr7iabeo2hizmmd2dek6vyvv.jpeg</picture>
@@ -54459,7 +54457,6 @@
         <param name="Глубина" unit="см">40</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Ольса</param>
-        <oldprice>26190</oldprice>
       </offer>
       <offer id="172946" available="true" group_id="172946">
         <url>https://i-sosna.ru/catalog/komody/komod_olsa_042/</url>
