@@ -421,7 +421,7 @@ def remove_offers(root, offer_ids):
         root: Корневой XML-элемент
         offer_ids: Список ID для удаления
     """
-    offers_element = root.find('offers')
+    offers_element = root.find('.//offers')
     if offers_element is None:
         logger.warning("Элемент <offers> не найден в XML")
         return
