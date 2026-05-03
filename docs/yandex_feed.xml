@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-03T06:43:56+03:00">
+<yml_catalog date="2026-05-03T16:36:13+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -24908,7 +24908,7 @@
       </offer>
       <offer id="157898" available="true" group_id="157898">
         <url>https://i-sosna.ru/catalog/komody/tumba_bert_1_44_obrzets/</url>
-        <price>46690</price>
+        <price>37360</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/2b1/2b11992f7afe22b23b6d253b59a157f2.JPG</picture>
@@ -24923,6 +24923,7 @@
         <param name="Материал">массив сосны, отделка- шпон дуба</param>
         <param name="Цвет">Дуб бордо</param>
         <param name="Коллекция">Бьерт</param>
+        <oldprice>46690</oldprice>
       </offer>
       <offer id="157900" available="true" group_id="157900">
         <url>https://i-sosna.ru/catalog/rasprodazha/servant_bert_1_60_obrazets/</url>
@@ -24963,7 +24964,7 @@
       </offer>
       <offer id="157910" available="true" group_id="157910">
         <url>https://i-sosna.ru/catalog/rasprodazha/banketka_valensiya_2_41_obrazets/</url>
-        <price>23700</price>
+        <price>18960</price>
         <currencyId>RUR</currencyId>
         <categoryId>737</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/7dc/7dcabf4793e1286318b935667246eaef.JPG</picture>
@@ -24977,6 +24978,7 @@
         <param name="Глубина" unit="см">41</param>
         <param name="Материал">металл</param>
         <param name="Коллекция">Валенсия</param>
+        <oldprice>23700</oldprice>
       </offer>
       <offer id="157912" available="true" group_id="157912">
         <url>https://i-sosna.ru/catalog/rasprodazha/stul_valensiya_2_35_obrazets/</url>
@@ -36791,7 +36793,7 @@
       </offer>
       <offer id="167702" available="true" group_id="167702">
         <url>https://i-sosna.ru/catalog/stulya/stul_detskiy_reguliruemyy_po_vysote_robin_wood/</url>
-        <price>5240</price>
+        <price>4460</price>
         <currencyId>RUR</currencyId>
         <categoryId>460</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/732/lo29gronc6hz50hy4xov01nbm7stx74p.jpeg</picture>
@@ -36806,10 +36808,11 @@
         <param name="Материал">Массива березы / ЛДСП</param>
         <param name="Коллекция">Робин Wood</param>
         <weight>8</weight>
+        <oldprice>5240</oldprice>
       </offer>
       <offer id="167708" available="true" group_id="167708">
         <url>https://i-sosna.ru/catalog/dvukhyarusnye_krovati/ograzhdenie_dlya_stupeney_derevyannoe_robin_wood_/</url>
-        <price>5480</price>
+        <price>4390</price>
         <currencyId>RUR</currencyId>
         <categoryId>408</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/516/ael2x2fmssmntnpxtd9dcs8muqro6wbp.jpeg</picture>
@@ -36823,6 +36826,7 @@
         <param name="Глубина" unit="см">112</param>
         <param name="Материал">Массив березы</param>
         <weight>8</weight>
+        <oldprice>5480</oldprice>
         <collectionId>56</collectionId>
       </offer>
       <offer id="167710" available="true" group_id="167710">
@@ -47719,7 +47723,7 @@
       </offer>
       <offer id="175690" available="true" group_id="175690">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_peregorodka_tvist_loft/</url>
-        <price>24100</price>
+        <price>19280</price>
         <currencyId>RUR</currencyId>
         <categoryId>452</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/258/h4x3cfqcf3vdkgc0ex0b1u1ht9b5gkci.jpeg</picture>
@@ -47733,6 +47737,7 @@
         <param name="Глубина" unit="см">33</param>
         <param name="Материал">ЛДСП/МДФ</param>
         <param name="Коллекция">Твист Лофт</param>
+        <oldprice>24100</oldprice>
       </offer>
       <offer id="175691" available="true" group_id="175691">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_tvist_loft/</url>
@@ -47996,7 +48001,7 @@
       </offer>
       <offer id="175705" available="true" group_id="175705">
         <url>https://i-sosna.ru/catalog/detskie_krovati/krovat_cherdak_tvist_loft_malaya/</url>
-        <price>65400</price>
+        <price>52320</price>
         <currencyId>RUR</currencyId>
         <categoryId>407</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/829/434pck8ax3ady3p1rofhnmrw0c020x3x.jpeg</picture>
@@ -48010,6 +48015,7 @@
         <param name="Глубина" unit="см">87</param>
         <param name="Материал">ЛДСП/МДФ</param>
         <param name="Коллекция">Твист Лофт</param>
+        <oldprice>65400</oldprice>
       </offer>
       <offer id="175706" available="true" group_id="175706">
         <url>https://i-sosna.ru/catalog/detskie_krovati/krovat_cherdak_tvist_loft/</url>
@@ -48329,7 +48335,7 @@
       </offer>
       <offer id="175730" available="true" group_id="175730">
         <url>https://i-sosna.ru/catalog/tualetnye_stoliki/tualetnyy_stolik_klassika_bez_nadstroyki/</url>
-        <price>11300</price>
+        <price>9040</price>
         <currencyId>RUR</currencyId>
         <categoryId>455</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/551/g9ozhei05zy4zhwb3z53y39m9nc2l2uh.jpeg</picture>
@@ -48343,6 +48349,7 @@
         <param name="Глубина" unit="см">40</param>
         <param name="Материал">ЛДСП/МДФ</param>
         <param name="Коллекция">Классика</param>
+        <oldprice>11300</oldprice>
       </offer>
       <offer id="175732" available="true" group_id="175732">
         <url>https://i-sosna.ru/catalog/tumby_pod_tv/tumba_pod_tv_klassika/</url>
@@ -56583,7 +56590,7 @@
       </offer>
       <offer id="187383" available="true" group_id="187383">
         <url>https://i-sosna.ru/catalog/polki/polka_zakrytaya_tel_vertikalnaya/</url>
-        <price>7540</price>
+        <price>6410</price>
         <currencyId>RUR</currencyId>
         <categoryId>447</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/aa5/g6wibabhh3c8loy6dohvrngnjummn31k.jpeg</picture>
@@ -56596,6 +56603,7 @@
         <param name="Высота" unit="см">69</param>
         <param name="Глубина" unit="см">28</param>
         <param name="Материал">Массив дуба/ЛДСП</param>
+        <oldprice>7540</oldprice>
         <collectionId>67</collectionId>
       </offer>
       <offer id="187373" available="true" group_id="187373">
