@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-04T06:18:56+03:00">
+<yml_catalog date="2026-05-04T17:25:46+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -47093,7 +47093,7 @@
       </offer>
       <offer id="175639" available="true" group_id="175639">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_s_tumboy_2_2_oliva/</url>
-        <price>22570</price>
+        <price>18060</price>
         <currencyId>RUR</currencyId>
         <categoryId>458</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/27b/i1lkaeru8juwshr7hyiau26smw0zwy10.jpeg</picture>
@@ -47107,6 +47107,7 @@
         <param name="Глубина" unit="см">60</param>
         <param name="Материал">ЛДСП/Дуб</param>
         <param name="Коллекция">2+2</param>
+        <oldprice>22570</oldprice>
       </offer>
       <offer id="175640" available="true" group_id="175640">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_s_tumboy_2_2_san_leon/</url>
@@ -47673,7 +47674,7 @@
       </offer>
       <offer id="175686" available="true" group_id="175686">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_tvist_loft/</url>
-        <price>30860</price>
+        <price>24690</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/c49/vxj29ionwnygdt0zjul42s55wz4p9wy3.jpeg</picture>
@@ -47687,6 +47688,7 @@
         <param name="Глубина" unit="см">57</param>
         <param name="Материал">ЛДСП/МДФ</param>
         <param name="Коллекция">Твист Лофт</param>
+        <oldprice>30860</oldprice>
       </offer>
       <offer id="175687" available="true" group_id="175687">
         <url>https://i-sosna.ru/catalog/krovati_iz_dereva/stupeni_tvist_loft/</url>
@@ -48411,7 +48413,7 @@
       </offer>
       <offer id="175735" available="true" group_id="175735">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_klassika_trekhstvorchatyy/</url>
-        <price>53600</price>
+        <price>42880</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/fc9/gdso1nf4byddspluj8njvlgw2uqw8p77.jpeg</picture>
@@ -48425,6 +48427,7 @@
         <param name="Глубина" unit="см">59</param>
         <param name="Материал">ЛДСП/МДФ</param>
         <param name="Коллекция">Классика</param>
+        <oldprice>53600</oldprice>
       </offer>
       <offer id="175736" available="true" group_id="175736">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_klassika_trekhstvorchatyy_s_zerkalom/</url>
@@ -56582,7 +56585,7 @@
       </offer>
       <offer id="187384" available="true" group_id="187384">
         <url>https://i-sosna.ru/catalog/polki/polka_zakrytaya_tel_gorizontalnaya/</url>
-        <price>8260</price>
+        <price>7030</price>
         <currencyId>RUR</currencyId>
         <categoryId>447</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/7ea/ioeektwktlowa61d59ci33zijna5s21x.jpeg</picture>
@@ -56595,6 +56598,7 @@
         <param name="Высота" unit="см">35</param>
         <param name="Глубина" unit="см">28</param>
         <param name="Материал">Массив дуба/ЛДСП</param>
+        <oldprice>8260</oldprice>
         <collectionId>67</collectionId>
       </offer>
       <offer id="187383" available="true" group_id="187383">
