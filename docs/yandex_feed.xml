@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-06T17:42:48+03:00">
+<yml_catalog date="2026-05-07T06:22:51+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -30012,6 +30012,20 @@
         <oldprice>84000</oldprice>
         <collectionId>49</collectionId>
       </offer>
+      <offer id="161277" available="true" group_id="161277">
+        <url>https://i-sosna.ru/catalog/rasprodazha/stenka_italiya_s_divanom_obrazets/</url>
+        <price>150000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>737</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/24a/24a118600e482910c62227809b52bb3a.jpg</picture>
+        <name>Стенка Италия без дивана(образец)</name>
+        <model>Стенка Италия без дивана(образец)</model>
+        <vendor>Тимберика</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Материал">шпон дуба - коньяк с патиной</param>
+        <oldprice>250000</oldprice>
+      </offer>
       <offer id="161410" available="true" group_id="161410">
         <url>https://i-sosna.ru/catalog/komody/komod_emerald_3_yashchika_dsc347etg/</url>
         <price>109220</price>
@@ -41424,7 +41438,7 @@
       </offer>
       <offer id="170547" available="true" group_id="170547">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_rastushchiy_robin_wood_kids/</url>
-        <price>9840</price>
+        <price>8370</price>
         <currencyId>RUR</currencyId>
         <categoryId>458</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/512/512dbbd88198ba9287c0fce903065d29.png</picture>
@@ -41437,6 +41451,7 @@
         <param name="Высота" unit="см">64</param>
         <param name="Глубина" unit="см">50</param>
         <param name="Материал">Массив березы / ЛДСП</param>
+        <oldprice>9840</oldprice>
         <collectionId>56</collectionId>
       </offer>
       <offer id="170772" available="true" group_id="170772">
