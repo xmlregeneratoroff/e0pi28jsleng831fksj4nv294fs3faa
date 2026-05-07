@@ -302,15 +302,23 @@ def parse_collections_from_html(html_content):
                             logger.warning(f"Неизвестный формат пути изображения: {image_path}")
                 
                 # Производитель (описание)
-                description = f"{name} в интернет-магазине Гармония дерева"
+                description = f"{name} в интернет-магазине i sosna"
                 description_elem = item.select_one('.series-brand__title')
                 if description_elem:
                     manufacturer_text = description_elem.get_text(strip=True)
                     if manufacturer_text:
                         manufacturer = manufacturer_text.replace('Производитель - ', '').strip()
                         if manufacturer:
-                            description = f"{name} от производителя {manufacturer} в интернет-магазине Гармония дерева"
-                            name = f"Мебель коллекции {name}, {manufacturer}"
+                            collection_name = name
+                            if 'тадорна' in name.lower():
+                                name = f"Мебель из березы коллекции {collection_name}, {manufacturer}"
+                                description = f"Мебель из березы {collection_name} от {manufacturer} в интернет-магазине i sosna"
+                            elif '38 попугаев' in manufacturer.lower():
+                                name = f"Детская мебель коллекции {collection_name}, {manufacturer}"
+                                description = f"Детская мебель {collection_name} от {manufacturer} в интернет-магазине i sosna"
+                            else:
+                                name = f"Мебель из массива дерева коллекции {collection_name}, {manufacturer}"
+                                description = f"Мебель из массива дерева {collection_name} от {manufacturer} в интернет-магазине i sosna"
                 
                 collections[name] = {
                     'id': idx,
