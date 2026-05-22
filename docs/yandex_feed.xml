@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-21T18:57:43+03:00">
+<yml_catalog date="2026-05-22T07:07:48+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -19562,7 +19562,7 @@
       </offer>
       <offer id="151502" available="true">
         <url>https://i-sosna.ru/catalog/kukhonnye_garnitury/kukhonnyy_garnitur_provans/</url>
-        <price>52632</price>
+        <price>65790</price>
         <currencyId>RUR</currencyId>
         <categoryId>732</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/40c/40c986e888990e5cf14963b6fdb0afef.jpg</picture>
@@ -19571,7 +19571,6 @@
         <vendor>Волшебная сосна</vendor>
         <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
         <sales_notes>Доставка по всей России бесплатно</sales_notes>
-        <oldprice>65790</oldprice>
       </offer>
       <offer id="151503" available="true">
         <url>https://i-sosna.ru/catalog/kukhonnye_garnitury/kukhonnyy_garnitur_skayda_1/</url>
@@ -42967,7 +42966,7 @@
       </offer>
       <offer id="174608" available="true" group_id="174608">
         <url>https://i-sosna.ru/catalog/stoly_zhurnalnye/zhurnalnyy_stolik_ericka_tbc90/</url>
-        <price>24330</price>
+        <price>21900</price>
         <currencyId>RUR</currencyId>
         <categoryId>456</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/841/8411a47ba996f85f38f8d9e3ef4aba24.jpeg</picture>
@@ -42981,6 +42980,7 @@
         <param name="Глубина" unit="см">90</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Ericka</param>
+        <oldprice>24330</oldprice>
       </offer>
       <offer id="174609" available="true" group_id="174609">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/pismennyy_stol_ericka_bur/</url>
