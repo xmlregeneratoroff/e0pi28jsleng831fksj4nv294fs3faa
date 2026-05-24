@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-24T07:06:44+03:00">
+<yml_catalog date="2026-05-24T16:51:08+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -19328,7 +19328,7 @@
       </offer>
       <offer id="151464" available="true">
         <url>https://i-sosna.ru/catalog/detskie_garnitury/detskiy_garnitur_lotos/</url>
-        <price>46970</price>
+        <price>138500</price>
         <currencyId>RUR</currencyId>
         <categoryId>727</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/41b/41bb38a733229ba41b1ed3a4d462b341.jpg</picture>
@@ -19499,7 +19499,7 @@
       </offer>
       <offer id="151486" available="true">
         <url>https://i-sosna.ru/catalog/detskie_garnitury/detskiy_garnitur_lebo/</url>
-        <price>69450</price>
+        <price>90110</price>
         <currencyId>RUR</currencyId>
         <categoryId>727</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/9e4/9e48a15521f00df71844f0619a6080d4.jpg</picture>
@@ -29867,7 +29867,7 @@
       </offer>
       <offer id="161223" available="true" group_id="161223">
         <url>https://i-sosna.ru/catalog/tumby/tumba_tv_bert_1_18obrazets/</url>
-        <price>73020</price>
+        <price>63890</price>
         <currencyId>RUR</currencyId>
         <categoryId>402</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/0a1/0a191ed48e68473f8213a331467f432c.jpg</picture>
@@ -34658,24 +34658,6 @@
         <sales_notes>Доставка по всей России бесплатно</sales_notes>
         <param name="Материал">Массив сосны (гладкие эмали)</param>
         <oldprice>35780</oldprice>
-      </offer>
-      <offer id="165956" available="true" group_id="165956">
-        <url>https://i-sosna.ru/catalog/tumby/tumba_ari_provans_4_obrazets/</url>
-        <price>16970</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>402</categoryId>
-        <picture>https://i-sosna.ru/upload/iblock/c19/c19aa4358ae828dcc36145cd5a845e9d.JPG</picture>
-        <name>Тумба Ари-Прованс №4 (образец)</name>
-        <model>Тумба Ари-Прованс №4 (образец)</model>
-        <vendor>Тимберика</vendor>
-        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
-        <sales_notes>Доставка по всей России бесплатно</sales_notes>
-        <param name="Ширина" unit="см">44</param>
-        <param name="Высота" unit="см">58</param>
-        <param name="Глубина" unit="см">40</param>
-        <param name="Материал">Массив сосны (гладкие эмали)</param>
-        <param name="Коллекция">Ари-Прованс</param>
-        <oldprice>21210</oldprice>
       </offer>
       <offer id="165964" available="true" group_id="165964">
         <url>https://i-sosna.ru/catalog/stulya/stul_armo_s_nizkoy_spinkoy/</url>
@@ -48955,7 +48937,7 @@
       </offer>
       <offer id="176833" available="true">
         <url>https://i-sosna.ru/catalog/detskie_garnitury/detskiy_garnitur_klassika/</url>
-        <price>60152</price>
+        <price>92500</price>
         <currencyId>RUR</currencyId>
         <categoryId>727</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/8c7/dv2381v42aksx814ziv03ujizv1zxzon.jpeg</picture>
@@ -48965,7 +48947,6 @@
         <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
         <sales_notes>Доставка по всей России бесплатно</sales_notes>
         <param name="Коллекция">Гарнитуры</param>
-        <oldprice>75190</oldprice>
       </offer>
       <offer id="175779" available="true" group_id="175779">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_peregorodka_nyuton_grey/</url>
