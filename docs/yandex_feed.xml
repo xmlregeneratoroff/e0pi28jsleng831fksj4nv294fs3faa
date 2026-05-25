@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-24T16:51:08+03:00">
+<yml_catalog date="2026-05-25T07:24:37+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -19302,7 +19302,7 @@
       </offer>
       <offer id="151459" available="true">
         <url>https://i-sosna.ru/catalog/detskie_garnitury/detskiy_garnitur_armavir/</url>
-        <price>68470</price>
+        <price>75040</price>
         <currencyId>RUR</currencyId>
         <categoryId>727</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/7f0/7f08f6412a01a638c981b0a4fa55a6e3.png</picture>
@@ -19892,7 +19892,7 @@
       </offer>
       <offer id="151637" available="true">
         <url>https://i-sosna.ru/catalog/detskie_garnitury/detskiy_garnitur_ayno/</url>
-        <price>74640</price>
+        <price>105220</price>
         <currencyId>RUR</currencyId>
         <categoryId>727</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/7f8/7f864e7fe9fcf53688937820c3087e5d.jpg</picture>
@@ -24936,7 +24936,7 @@
       </offer>
       <offer id="157918" available="true" group_id="157918">
         <url>https://i-sosna.ru/catalog/bufety/bufet_lotos_3dv_obrazets/</url>
-        <price>96300</price>
+        <price>67410</price>
         <currencyId>RUR</currencyId>
         <categoryId>388</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/568/1uzm8rbn2i43gk58i2g43yrgu1id25ax.jpg</picture>
@@ -24950,6 +24950,7 @@
         <param name="Глубина" unit="см">48</param>
         <param name="Материал">массив сосны, бесцветный лак</param>
         <param name="Коллекция">Лотос</param>
+        <oldprice>96300</oldprice>
       </offer>
       <offer id="157926" available="true" group_id="157926">
         <url>https://i-sosna.ru/catalog/shkafy/shkaf_brusno_2_stv_s_yashchikami_obrazets/</url>
@@ -36923,7 +36924,7 @@
       </offer>
       <offer id="168336" available="true">
         <url>https://i-sosna.ru/catalog/detskie_garnitury/detskiy_garnitur_robin_wood_layt/</url>
-        <price>62640</price>
+        <price>88990</price>
         <currencyId>RUR</currencyId>
         <categoryId>727</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/1c7/1c7e171ede0a8c565cdbca709c686693.jpg</picture>
@@ -36935,7 +36936,6 @@
         <param name="Материал">Массив березы / ЛДСП</param>
         <param name="Коллекция">Гарнитуры</param>
         <weight>233</weight>
-        <oldprice>78300</oldprice>
       </offer>
       <offer id="167896" available="true" group_id="167896">
         <url>https://i-sosna.ru/catalog/bufety/bufet_olsa_220_204/</url>
@@ -42415,7 +42415,7 @@
       </offer>
       <offer id="172926" available="true" group_id="172926">
         <url>https://i-sosna.ru/catalog/rasprodazha/detskaya_komnata_rozovyy_vudi_obrazets/</url>
-        <price>87470</price>
+        <price>68030</price>
         <currencyId>RUR</currencyId>
         <categoryId>737</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/750/dlv6u0sfbw2tkztnj153alwydwyymo9u.jpg</picture>
@@ -51473,7 +51473,7 @@
       </offer>
       <offer id="182632" available="true" group_id="182632">
         <url>https://i-sosna.ru/catalog/rasprodazha/banketka_myagkaya_ayno_2_obrazets/</url>
-        <price>16030</price>
+        <price>12830</price>
         <currencyId>RUR</currencyId>
         <categoryId>737</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/6be/kgu8u8lejaz7pwsd977756c52wbq542g.jpg</picture>
@@ -51487,6 +51487,7 @@
         <param name="Глубина" unit="см">21</param>
         <param name="Материал">Массив сосны, гладкая эмаль, цвет желтая пастель</param>
         <param name="Коллекция">Айно</param>
+        <oldprice>16030</oldprice>
       </offer>
       <offer id="182782" available="true" group_id="182782">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_knig/shkaf_knizhnyy_greta_1/</url>
@@ -57545,7 +57546,7 @@
       </offer>
       <offer id="188427" available="true" group_id="188427">
         <url>https://i-sosna.ru/catalog/shkafy-r/shkaf_tel_2stv_obrazets/</url>
-        <price>43470</price>
+        <price>39130</price>
         <currencyId>RUR</currencyId>
         <categoryId>791</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/f06/0f7053yj118lxugj77uherc1udxtzdqq.jpg</picture>
@@ -57557,6 +57558,7 @@
         <param name="Ширина" unit="см">80</param>
         <param name="Высота" unit="см">210</param>
         <param name="Глубина" unit="см">60</param>
+        <oldprice>43470</oldprice>
         <collectionId>68</collectionId>
       </offer>
       <offer id="188493" available="true" group_id="188493">
@@ -57614,7 +57616,7 @@
       </offer>
       <offer id="188608" available="true" group_id="188608">
         <url>https://i-sosna.ru/catalog/krovati-r/krovat_tel_obrazets/</url>
-        <price>45500</price>
+        <price>40950</price>
         <currencyId>RUR</currencyId>
         <categoryId>795</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/adc/oupjzpauwhl0m4gkxwg00dt7dzo2fol9.jpg</picture>
@@ -57626,6 +57628,7 @@
         <param name="Ширина" unit="см">103</param>
         <param name="Высота" unit="см">85</param>
         <param name="Глубина" unit="см">202</param>
+        <oldprice>45500</oldprice>
         <collectionId>68</collectionId>
       </offer>
       <offer id="188634" available="true" group_id="188634">
@@ -59333,7 +59336,7 @@
       </offer>
       <offer id="194268" available="true" group_id="194268">
         <url>https://i-sosna.ru/catalog/krovati-r/krovat_ayno_2_obrazets/</url>
-        <price>64980</price>
+        <price>51990</price>
         <currencyId>RUR</currencyId>
         <categoryId>795</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/27e/p6v9rss1z5xizk6jzwdu4yvc9zm8qamg.jpg</picture>
@@ -59341,6 +59344,7 @@
         <model>Кровать Айно №2 образец</model>
         <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
         <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <oldprice>64980</oldprice>
       </offer>
       <offer id="194286" available="true" group_id="194286">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_pismennyy_1_tumbovyy_brusno_m/</url>
