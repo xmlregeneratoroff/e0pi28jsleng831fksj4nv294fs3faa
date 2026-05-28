@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-28T07:06:28+03:00">
+<yml_catalog date="2026-05-28T19:21:53+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -30234,23 +30234,6 @@
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Ари-Прованс</param>
       </offer>
-      <offer id="161630" available="true" group_id="161630">
-        <url>https://i-sosna.ru/catalog/vzroslye_krovati/krovat_myagkaya_ari_provans_4_1_/</url>
-        <price>26260</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>780</categoryId>
-        <picture>https://i-sosna.ru/upload/iblock/a8a/a8a774725e97863f6070946f3b2d5abb.jpeg</picture>
-        <name>Кровать мягкая Ари-Прованс №4/1</name>
-        <model>Кровать мягкая Ари-Прованс №4/1</model>
-        <vendor>Тимберика</vendor>
-        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
-        <sales_notes>Доставка по всей России бесплатно</sales_notes>
-        <param name="Ширина" unit="см">0</param>
-        <param name="Высота" unit="см">0</param>
-        <param name="Глубина" unit="см">0</param>
-        <param name="Материал">Массив сосны</param>
-        <param name="Коллекция">Ари-Прованс</param>
-      </offer>
       <offer id="161631" available="true" group_id="161631">
         <url>https://i-sosna.ru/catalog/vzroslye_krovati/krovat_myagkaya_ari_provans_4_/</url>
         <price>28880</price>
@@ -30259,23 +30242,6 @@
         <picture>https://i-sosna.ru/upload/iblock/f16/f1688d2cc751a149548376fd8e0510a2.jpeg</picture>
         <name>Кровать мягкая Ари-Прованс №4</name>
         <model>Кровать мягкая Ари-Прованс №4</model>
-        <vendor>Тимберика</vendor>
-        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
-        <sales_notes>Доставка по всей России бесплатно</sales_notes>
-        <param name="Ширина" unit="см">0</param>
-        <param name="Высота" unit="см">0</param>
-        <param name="Глубина" unit="см">0</param>
-        <param name="Материал">Массив сосны</param>
-        <param name="Коллекция">Ари-Прованс</param>
-      </offer>
-      <offer id="161632" available="true" group_id="161632">
-        <url>https://i-sosna.ru/catalog/vzroslye_krovati/krovat_myagkaya_ari_provans_5_1_/</url>
-        <price>26260</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>780</categoryId>
-        <picture>https://i-sosna.ru/upload/iblock/d7f/d7f7d683bcf083647e2db8e428f7525d.jpeg</picture>
-        <name>Кровать мягкая Ари-Прованс №5/1</name>
-        <model>Кровать мягкая Ари-Прованс №5/1</model>
         <vendor>Тимберика</vendor>
         <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
         <sales_notes>Доставка по всей России бесплатно</sales_notes>
