@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-29T07:03:43+03:00">
+<yml_catalog date="2026-05-29T19:04:13+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -17138,6 +17138,24 @@
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Прованс</param>
         <oldprice>121700</oldprice>
+      </offer>
+      <offer id="138384" available="true" group_id="138384">
+        <url>https://i-sosna.ru/catalog/bufety/verkh_bufeta_romeo_i_dzhuletta/</url>
+        <price>22860</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>388</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/ce8/ce8bb21388e4477172d8708d08191824.jpeg</picture>
+        <name>Верх буфета РОМЕО и ДЖУЛЬЕТТА</name>
+        <model>Верх буфета РОМЕО и ДЖУЛЬЕТТА</model>
+        <vendor>Волшебная сосна</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">81</param>
+        <param name="Высота" unit="см">96</param>
+        <param name="Глубина" unit="см">57</param>
+        <param name="Материал">Массив сосны</param>
+        <param name="Коллекция">Прованс</param>
+        <oldprice>25400</oldprice>
       </offer>
       <offer id="138385" available="true" group_id="138385">
         <url>https://i-sosna.ru/catalog/vitriny/vitrina_elba_3p/</url>
@@ -42141,24 +42159,6 @@
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бетти</param>
       </offer>
-      <offer id="172673" available="true" group_id="172673">
-        <url>https://i-sosna.ru/catalog/komody/komod_randevu_06_massiv_sosny/</url>
-        <price>34090</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>401</categoryId>
-        <picture>https://i-sosna.ru/upload/iblock/10d/xup9kkwnys5yelf1jq2tj56nohacjpjb.jpeg</picture>
-        <name>Комод Рандеву 06 (Массив сосны)</name>
-        <model>Комод Рандеву 06 (Массив сосны)</model>
-        <vendor>ММЦ</vendor>
-        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
-        <sales_notes>Доставка по всей России бесплатно</sales_notes>
-        <param name="Ширина" unit="см">52</param>
-        <param name="Высота" unit="см">127</param>
-        <param name="Глубина" unit="см">41</param>
-        <param name="Материал">Массив сосны</param>
-        <param name="Коллекция">Рандеву</param>
-        <oldprice>47340</oldprice>
-      </offer>
       <offer id="172674" available="true" group_id="172674">
         <url>https://i-sosna.ru/catalog/komody/komod_randevu_04_massiv_sosny/</url>
         <price>44350</price>
@@ -55229,6 +55229,24 @@
         <param name="Глубина" unit="см">41</param>
         <param name="Материал">Массив сосны</param>
         <collectionId>45</collectionId>
+      </offer>
+      <offer id="186243" available="true" group_id="186243">
+        <url>https://i-sosna.ru/catalog/stellazhi/stellazh_boston_1000/</url>
+        <price>30190</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>452</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/917/e79xqjoeenf4l3iks0jd5kaezlwxapa3.jpeg</picture>
+        <name>Стеллаж "Бостон" 1000</name>
+        <model>Стеллаж "Бостон" 1000</model>
+        <vendor>ММЦ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">100</param>
+        <param name="Высота" unit="см">210</param>
+        <param name="Глубина" unit="см">31</param>
+        <param name="Материал">Массив сосны</param>
+        <param name="Коллекция">Бостон</param>
+        <oldprice>46440</oldprice>
       </offer>
       <offer id="186352" available="true" group_id="186352">
         <url>https://i-sosna.ru/catalog/komody/tumba_aledzhi_6_yashchikov_1_dverka/</url>
