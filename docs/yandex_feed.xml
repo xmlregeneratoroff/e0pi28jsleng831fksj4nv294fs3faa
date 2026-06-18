@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-18T07:27:26+03:00">
+<yml_catalog date="2026-06-18T18:52:42+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -46162,7 +46162,7 @@
       </offer>
       <offer id="175217" available="true" group_id="175217">
         <url>https://i-sosna.ru/catalog/skami_i_lavki/skamya_28_m_babarikha_malaya/</url>
-        <price>36750</price>
+        <price>29400</price>
         <currencyId>RUR</currencyId>
         <categoryId>450</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/1e9/oizj5v222ugfi1zhbahb9tz3n8fmgz72.jpeg</picture>
@@ -46175,6 +46175,7 @@
         <param name="Высота" unit="см">81</param>
         <param name="Глубина" unit="см">40</param>
         <param name="Материал">Массив березы</param>
+        <oldprice>36750</oldprice>
         <collectionId>62</collectionId>
       </offer>
       <offer id="175218" available="true" group_id="175218">
