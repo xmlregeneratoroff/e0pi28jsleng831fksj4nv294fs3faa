@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-28T07:55:50+03:00">
+<yml_catalog date="2026-06-28T17:51:23+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -14148,7 +14148,7 @@
       </offer>
       <offer id="136046" available="true" group_id="136046">
         <url>https://i-sosna.ru/catalog/stulya/stul_forest/</url>
-        <price>6790</price>
+        <price>7520</price>
         <currencyId>RUR</currencyId>
         <categoryId>460</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/d24/fsgrikt67ox4tzo5ti2i3ehhy7sq7cz7.jpeg</picture>
@@ -14202,7 +14202,7 @@
       </offer>
       <offer id="136073" available="true" group_id="136073">
         <url>https://i-sosna.ru/catalog/komody/komod_boston_nbb/</url>
-        <price>37500</price>
+        <price>57690</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/3db/nm0zj2zvgfyyjphta5pl5i98jc4mtzyt.jpeg</picture>
@@ -14216,7 +14216,6 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бостон</param>
-        <oldprice>57690</oldprice>
       </offer>
       <offer id="136177" available="true" group_id="136177">
         <url>https://i-sosna.ru/catalog/veshalki/veshalka_nastenaya_rauna_135/</url>
@@ -55000,7 +54999,7 @@
       </offer>
       <offer id="186243" available="true" group_id="186243">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_boston_1000/</url>
-        <price>30190</price>
+        <price>46440</price>
         <currencyId>RUR</currencyId>
         <categoryId>452</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/917/e79xqjoeenf4l3iks0jd5kaezlwxapa3.jpeg</picture>
@@ -55014,7 +55013,6 @@
         <param name="Глубина" unit="см">31</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Бостон</param>
-        <oldprice>46440</oldprice>
       </offer>
       <offer id="186352" available="true" group_id="186352">
         <url>https://i-sosna.ru/catalog/komody/tumba_aledzhi_6_yashchikov_1_dverka/</url>
