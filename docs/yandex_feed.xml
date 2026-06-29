@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-28T17:51:23+03:00">
+<yml_catalog date="2026-06-29T07:37:58+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -4359,7 +4359,7 @@
       </offer>
       <offer id="13138" available="true" group_id="13138">
         <url>https://i-sosna.ru/catalog/vzroslye_krovati/krovat_malta_m_bez_yashchikov/</url>
-        <price>45500</price>
+        <price>69990</price>
         <currencyId>RUR</currencyId>
         <categoryId>780</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/3b3/3b3d8e94262f31897ce2d7f50cb1a8e6.jpeg</picture>
@@ -4373,7 +4373,6 @@
         <param name="Глубина" unit="см">222</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Мальта/Хельсинки</param>
-        <oldprice>69990</oldprice>
       </offer>
       <offer id="13118" available="true" group_id="13118">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_chetyrekhdvernyy_kombinirovannyy_german_4/</url>
@@ -4608,7 +4607,7 @@
       </offer>
       <offer id="13148" available="true" group_id="13148">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_khelsinki_5_gt_m/</url>
-        <price>133830</price>
+        <price>205890</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/5b5/5b5b1c4fc1e66eca0ad5ea1fa4b32d65.jpeg</picture>
@@ -4622,7 +4621,6 @@
         <param name="Глубина" unit="см">62</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Мальта/Хельсинки</param>
-        <oldprice>205890</oldprice>
       </offer>
       <offer id="13149" available="true" group_id="13149">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_khelsinki_21/</url>
@@ -14237,7 +14235,7 @@
       </offer>
       <offer id="136179" available="true" group_id="136179">
         <url>https://i-sosna.ru/catalog/veshalki/veshalka_nastenaya_rauna_200/</url>
-        <price>15370</price>
+        <price>24390</price>
         <currencyId>RUR</currencyId>
         <categoryId>436</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/529/529923afa55031cf6101c2c0f8eb83e7.jpeg</picture>
@@ -14251,7 +14249,6 @@
         <param name="Глубина" unit="см">2</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Рауна</param>
-        <oldprice>24390</oldprice>
       </offer>
       <offer id="136180" available="true" group_id="136180">
         <url>https://i-sosna.ru/catalog/zerkala/zerkalo_navesnoe_v_rame_rauna/</url>
@@ -14453,7 +14450,7 @@
       </offer>
       <offer id="136216" available="true" group_id="136216">
         <url>https://i-sosna.ru/catalog/komody/komod_rauna_16/</url>
-        <price>33420</price>
+        <price>53040</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/86d/86d8d647e069070da323aee2842b968f.jpeg</picture>
@@ -14467,11 +14464,10 @@
         <param name="Глубина" unit="см">38</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Рауна</param>
-        <oldprice>53040</oldprice>
       </offer>
       <offer id="136217" available="true" group_id="136217">
         <url>https://i-sosna.ru/catalog/komody/komod_rauna_24/</url>
-        <price>31810</price>
+        <price>50490</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/7f5/7f59e2c8a6dbc87bb3f51399a4619372.jpeg</picture>
@@ -14485,7 +14481,6 @@
         <param name="Глубина" unit="см">37</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Рауна</param>
-        <oldprice>50490</oldprice>
       </offer>
       <offer id="136218" available="true" group_id="136218">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_knig/shkaf_dlya_knig_00_rauna/</url>
@@ -26851,7 +26846,7 @@
       </offer>
       <offer id="158751" available="true" group_id="158751">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_rauna_21_180/</url>
-        <price>35590</price>
+        <price>56490</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/d90/d9090f6a2719a1ace18f7d247695a317.jpeg</picture>
@@ -26865,7 +26860,6 @@
         <param name="Глубина" unit="см">60</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Рауна</param>
-        <oldprice>56490</oldprice>
       </offer>
       <offer id="158814" available="true" group_id="158814">
         <url>https://i-sosna.ru/catalog/komody/tumba_3p_3t_kalipso/</url>
@@ -46585,7 +46579,7 @@
       </offer>
       <offer id="175456" available="true" group_id="175456">
         <url>https://i-sosna.ru/catalog/tumby_dlya_obuvi/tumba_dlya_obuvi_randevu_40_massiv_sosny/</url>
-        <price>30420</price>
+        <price>42240</price>
         <currencyId>RUR</currencyId>
         <categoryId>438</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/0b7/pytt541pdvzimwrnfgl9iq57jssp8bxn.jpeg</picture>
@@ -46599,7 +46593,6 @@
         <param name="Глубина" unit="см">38</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Рандеву</param>
-        <oldprice>42240</oldprice>
       </offer>
       <offer id="175457" available="true" group_id="175457">
         <url>https://i-sosna.ru/catalog/tumby/tumba_randevu_02_massiv_sosny/</url>
