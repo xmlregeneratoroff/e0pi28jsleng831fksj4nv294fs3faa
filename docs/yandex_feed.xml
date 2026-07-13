@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-12T16:47:41+03:00">
+<yml_catalog date="2026-07-13T06:21:06+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -808,7 +808,7 @@
       </offer>
       <offer id="6858" available="true" group_id="6858">
         <url>https://i-sosna.ru/catalog/tumby_pod_tv/tumba_enfilade_180/</url>
-        <price>12750</price>
+        <price>47830</price>
         <currencyId>RUR</currencyId>
         <categoryId>403</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/d7c/o03um7wmw8m1soonxv72qi23zkknik1x.jpeg</picture>
@@ -822,11 +822,11 @@
         <param name="Глубина" unit="см">48</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Прованс</param>
-        <oldprice>15000</oldprice>
+        <oldprice>86960</oldprice>
       </offer>
       <offer id="6861" available="true" group_id="6861">
         <url>https://i-sosna.ru/catalog/tumby_prikrovatnye/tumba_roberto/</url>
-        <price>30530</price>
+        <price>25140</price>
         <currencyId>RUR</currencyId>
         <categoryId>404</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/710/9z3w2tgdm69u4e0ksdz23p6l39dnzmy3.jpeg</picture>
@@ -862,7 +862,7 @@
       </offer>
       <offer id="6863" available="true" group_id="6863">
         <url>https://i-sosna.ru/catalog/komody/komod_montanyard_6t/</url>
-        <price>52370</price>
+        <price>43130</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/808/8082c0bc96949ca1398180de25e07374.jpeg</picture>
@@ -1131,7 +1131,7 @@
       </offer>
       <offer id="6847" available="true" group_id="6847">
         <url>https://i-sosna.ru/catalog/tumby/tumba_bahut_125/</url>
-        <price>46580</price>
+        <price>38360</price>
         <currencyId>RUR</currencyId>
         <categoryId>402</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/4f3/4f3393199eebb921e9a03ae38da70169.jpeg</picture>
@@ -2732,7 +2732,7 @@
       </offer>
       <offer id="10159" available="true" group_id="10159">
         <url>https://i-sosna.ru/catalog/tumby_prikrovatnye/tumba_roberto_33/</url>
-        <price>23750</price>
+        <price>22360</price>
         <currencyId>RUR</currencyId>
         <categoryId>404</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/a24/p9ormeuf6sqxr6wt4fr2szwrrkde8jkc.jpeg</picture>
@@ -4834,7 +4834,7 @@
       </offer>
       <offer id="13392" available="true" group_id="13392">
         <url>https://i-sosna.ru/catalog/bufety/bufet_uglovoy_romeo_i_dzhuletta_verkh_bufeta_tumba_tiromeo/</url>
-        <price>51670</price>
+        <price>43920</price>
         <currencyId>RUR</currencyId>
         <categoryId>388</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/4e7/4e7c3fe0b4f3b3d6beb07a4685342095.jpeg</picture>
@@ -4848,6 +4848,7 @@
         <param name="Глубина" unit="см">57</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Прованс</param>
+        <oldprice>51670</oldprice>
       </offer>
       <offer id="13393" available="true" group_id="13393">
         <url>https://i-sosna.ru/catalog/tumby_pod_tv/tumba_uglovaya_tiromeo_ot_bufeta_romeo_i_dzhuletta/</url>
@@ -4869,7 +4870,7 @@
       </offer>
       <offer id="13418" available="true" group_id="13418">
         <url>https://i-sosna.ru/catalog/tumby_pod_tv/tumba_84_monta_s_dveryami/</url>
-        <price>31060</price>
+        <price>23760</price>
         <currencyId>RUR</currencyId>
         <categoryId>403</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/615/4yriffh2gg8s1k9dptmwh53gjo13wll6.jpeg</picture>
@@ -4887,7 +4888,7 @@
       </offer>
       <offer id="13419" available="true" group_id="13419">
         <url>https://i-sosna.ru/catalog/tumby_pod_tv/tumba_montanyard_115_bez_dverey/</url>
-        <price>27200</price>
+        <price>24000</price>
         <currencyId>RUR</currencyId>
         <categoryId>403</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/9fb/9fb645372bfa2c44270628442244ade3.jpeg</picture>
@@ -5096,7 +5097,7 @@
       </offer>
       <offer id="13408" available="true" group_id="13408">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_dlya_belya_alpazh/</url>
-        <price>54510</price>
+        <price>51300</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/220/220cd7c59f422bd9a7d77748cfaf317d.jpeg</picture>
@@ -5150,7 +5151,7 @@
       </offer>
       <offer id="13383" available="true" group_id="13383">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_posudy/shkaf_dlya_posudy_omd_154_so_steklom/</url>
-        <price>46780</price>
+        <price>41280</price>
         <currencyId>RUR</currencyId>
         <categoryId>786</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/9f8/9f8b5f0548f143b70f2209042c12800b.jpeg</picture>
@@ -5168,7 +5169,7 @@
       </offer>
       <offer id="13384" available="true" group_id="13384">
         <url>https://i-sosna.ru/catalog/bufety/bufet_ensemble_97_tumba_97_ba_verkh_bufeta_97_re/</url>
-        <price>73830</price>
+        <price>56460</price>
         <currencyId>RUR</currencyId>
         <categoryId>388</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/dad/dad22aa9556a9f62c7ca2d42eec541ef.jpeg</picture>
@@ -5240,7 +5241,7 @@
       </offer>
       <offer id="13388" available="true" group_id="13388">
         <url>https://i-sosna.ru/catalog/bufety/bufet_rehausse_125_tumba_125_gr_verkh_bufeta125_re/</url>
-        <price>95980</price>
+        <price>73400</price>
         <currencyId>RUR</currencyId>
         <categoryId>388</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/3bb/3bb172df3de25ec43ffdebda424dd705.jpeg</picture>
@@ -5275,7 +5276,7 @@
       </offer>
       <offer id="13426" available="true" group_id="13426">
         <url>https://i-sosna.ru/catalog/konsoli/konsol_700/</url>
-        <price>26090</price>
+        <price>24560</price>
         <currencyId>RUR</currencyId>
         <categoryId>617</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/bb5/bb53dce6669fd8584af3b91b00d1dd6b.jpeg</picture>
@@ -5311,7 +5312,7 @@
       </offer>
       <offer id="13428" available="true" group_id="13428">
         <url>https://i-sosna.ru/catalog/konsoli/konsol_1050/</url>
-        <price>33700</price>
+        <price>31720</price>
         <currencyId>RUR</currencyId>
         <categoryId>617</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/447/447a5b562295da57f49daec1772d9379.jpeg</picture>
@@ -5419,7 +5420,7 @@
       </offer>
       <offer id="13434" available="true" group_id="13434">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_posudy/shkaf_dlya_posudy_grand_homdeb_pp_180_derevyannye_dveri/</url>
-        <price>54740</price>
+        <price>45080</price>
         <currencyId>RUR</currencyId>
         <categoryId>786</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/cf6/cf68429011c8b68b59ea7c4e1edd1ec1.jpeg</picture>
@@ -5600,7 +5601,7 @@
       </offer>
       <offer id="13446" available="true" group_id="13446">
         <url>https://i-sosna.ru/catalog/stoly_zhurnalnye/stol_zhurnalnyy_kortina/</url>
-        <price>32720</price>
+        <price>25020</price>
         <currencyId>RUR</currencyId>
         <categoryId>456</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/a53/a5309eea9dac111f87f5b3263954d12c.jpeg</picture>
@@ -5690,7 +5691,7 @@
       </offer>
       <offer id="13457" available="true" group_id="13457">
         <url>https://i-sosna.ru/catalog/tumby_prikrovatnye/tumba_prikrovatnaya_mini_arizona/</url>
-        <price>21490</price>
+        <price>15170</price>
         <currencyId>RUR</currencyId>
         <categoryId>404</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/600/vfarcl7szxt2f037er1iuttn4bhuvqaj.jpeg</picture>
@@ -7899,7 +7900,7 @@
       </offer>
       <offer id="15704" available="true" group_id="15704">
         <url>https://i-sosna.ru/catalog/bufety/bufet_ensemble_200_tumba_200_ba_verkh_bufeta_200_re/</url>
-        <price>142290</price>
+        <price>100440</price>
         <currencyId>RUR</currencyId>
         <categoryId>388</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/564/56452d13bf823d0172998ca6ed21c5b0.jpeg</picture>
@@ -17055,7 +17056,7 @@
       </offer>
       <offer id="138385" available="true" group_id="138385">
         <url>https://i-sosna.ru/catalog/vitriny/vitrina_elba_3p/</url>
-        <price>46180</price>
+        <price>40740</price>
         <currencyId>RUR</currencyId>
         <categoryId>389</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/9c9/9c9146e39161139da21e661b2d6ff336.jpeg</picture>
@@ -27325,24 +27326,6 @@
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Прованс</param>
         <oldprice>57810</oldprice>
-      </offer>
-      <offer id="158931" available="true" group_id="158931">
-        <url>https://i-sosna.ru/catalog/bufety/bufet_elbuf_2p_niz_el_95_b/</url>
-        <price>40630</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>388</categoryId>
-        <picture>https://i-sosna.ru/upload/iblock/b1c/b1ce8436a5ae2dc72f872763e003ab09.jpeg</picture>
-        <name>Буфет ELBUF 2P (низ EL 95 B)</name>
-        <model>Буфет ELBUF 2P (низ EL 95 B)</model>
-        <vendor>Волшебная сосна</vendor>
-        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
-        <sales_notes>Доставка по всей России бесплатно</sales_notes>
-        <param name="Ширина" unit="см">95</param>
-        <param name="Высота" unit="см">99</param>
-        <param name="Глубина" unit="см">40</param>
-        <param name="Материал">Массив сосны</param>
-        <param name="Коллекция">Прованс</param>
-        <oldprice>47790</oldprice>
       </offer>
       <offer id="158932" available="true" group_id="158932">
         <url>https://i-sosna.ru/catalog/bufety/bufet_elbuf_2p/</url>
