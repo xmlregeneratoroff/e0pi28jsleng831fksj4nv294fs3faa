@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-21T17:16:13+03:00">
+<yml_catalog date="2026-07-22T06:06:12+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -27561,7 +27561,7 @@
       </offer>
       <offer id="159036" available="true" group_id="159036">
         <url>https://i-sosna.ru/catalog/komody/komod_forest_2_dveri_1_yashchik/</url>
-        <price>39700</price>
+        <price>30970</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/f0a/f0aff30fd2ef537cf046d912a6cd2869.jpeg</picture>
@@ -27575,6 +27575,7 @@
         <param name="Глубина" unit="см">42</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Форест</param>
+        <oldprice>39700</oldprice>
       </offer>
       <offer id="159037" available="true" group_id="159037">
         <url>https://i-sosna.ru/catalog/komody/komod_forest_1_dver_4_yashchika/</url>
@@ -55817,7 +55818,7 @@
       </offer>
       <offer id="186735" available="true" group_id="186735">
         <url>https://i-sosna.ru/catalog/bufety/bufet_forest_grafit_malyy/</url>
-        <price>78520</price>
+        <price>58890</price>
         <currencyId>RUR</currencyId>
         <categoryId>388</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/2c9/ayg16fz5ac71tdvm5wjeu1pfdjy7r1xh.jpeg</picture>
@@ -55830,6 +55831,7 @@
         <param name="Высота" unit="см">214</param>
         <param name="Глубина" unit="см">42</param>
         <param name="Материал">Массив сосны</param>
+        <oldprice>78520</oldprice>
         <collectionId>69</collectionId>
       </offer>
       <offer id="186736" available="true" group_id="186736">
