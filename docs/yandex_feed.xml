@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-22T06:06:12+03:00">
+<yml_catalog date="2026-07-22T17:26:51+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -12717,7 +12717,7 @@
       </offer>
       <offer id="135413" available="true" group_id="135413">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_2kh_dvernyy_lebo/</url>
-        <price>84640</price>
+        <price>59250</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/b36/4p0amkl57go4dnt9b5d9k88ekh5v1uj3.jpeg</picture>
@@ -12731,6 +12731,7 @@
         <param name="Глубина" unit="см">67</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Лебо</param>
+        <oldprice>84640</oldprice>
       </offer>
       <offer id="135414" available="true" group_id="135414">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_2kh_dv_so_steklyannymi_dveryami_lebo/</url>
@@ -42200,24 +42201,6 @@
         <param name="Коллекция">Робин Wood</param>
         <oldprice>97180</oldprice>
       </offer>
-      <offer id="173014" available="true" group_id="173014">
-        <url>https://i-sosna.ru/catalog/komody/komod_bar_rauna/</url>
-        <price>34370</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>401</categoryId>
-        <picture>https://i-sosna.ru/upload/iblock/c75/mc1suvvv6a3natnznejcltm54di0li9r.jpeg</picture>
-        <name>Комод-бар Рауна</name>
-        <model>Комод-бар Рауна</model>
-        <vendor>ММЦ</vendor>
-        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
-        <sales_notes>Доставка по всей России бесплатно</sales_notes>
-        <param name="Ширина" unit="см">97</param>
-        <param name="Высота" unit="см">151</param>
-        <param name="Глубина" unit="см">42</param>
-        <param name="Материал">Массив сосны</param>
-        <param name="Коллекция">Рауна</param>
-        <oldprice>54540</oldprice>
-      </offer>
       <offer id="173028" available="true" group_id="173028">
         <url>https://i-sosna.ru/catalog/stulya/stul_rastushchiy_robin_wood_vudi_kids/</url>
         <price>4830</price>
@@ -55836,7 +55819,7 @@
       </offer>
       <offer id="186736" available="true" group_id="186736">
         <url>https://i-sosna.ru/catalog/bufety/bufet_forest_grafit_bolshoy/</url>
-        <price>109720</price>
+        <price>82290</price>
         <currencyId>RUR</currencyId>
         <categoryId>388</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/49a/xvv72tqq3tq5l6nno6anw15xib5ph4f9.jpeg</picture>
@@ -55849,6 +55832,7 @@
         <param name="Высота" unit="см">214</param>
         <param name="Глубина" unit="см">42</param>
         <param name="Материал">Массив сосны</param>
+        <oldprice>109720</oldprice>
         <collectionId>69</collectionId>
       </offer>
       <offer id="186739" available="true" group_id="186739">
