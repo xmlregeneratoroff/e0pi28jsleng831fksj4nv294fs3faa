@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-26T16:51:13+03:00">
+<yml_catalog date="2026-07-27T06:28:04+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -16140,24 +16140,6 @@
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Армавир</param>
         <oldprice>26740</oldprice>
-      </offer>
-      <offer id="136992" available="true" group_id="136992">
-        <url>https://i-sosna.ru/catalog/komody/komod_florents_5/</url>
-        <price>33000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>401</categoryId>
-        <picture>https://i-sosna.ru/upload/iblock/217/2176750796f5eacf05b91c76dd4505ee.jpeg</picture>
-        <name>Комод Флоренц 5</name>
-        <model>Комод Флоренц 5</model>
-        <vendor>Армавирская МФ</vendor>
-        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
-        <sales_notes>Доставка по всей России бесплатно</sales_notes>
-        <param name="Ширина" unit="см">155</param>
-        <param name="Высота" unit="см">70</param>
-        <param name="Глубина" unit="см">48</param>
-        <param name="Материал">Массив сосны</param>
-        <param name="Коллекция">Армавир</param>
-        <oldprice>38820</oldprice>
       </offer>
       <offer id="136993" available="true" group_id="136993">
         <url>https://i-sosna.ru/catalog/tumby/komod_baltika_2_1_s_antresolyu/</url>
@@ -58897,24 +58879,6 @@
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Квадро</param>
         <oldprice>55440</oldprice>
-      </offer>
-      <offer id="193822" available="true" group_id="193822">
-        <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_pismennyy_kvadro_s_05/</url>
-        <price>30680</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>458</categoryId>
-        <picture>https://i-sosna.ru/upload/iblock/34f/hhlr4p12gpq0ak31cj08h0561ry1h899.jpeg</picture>
-        <name>Стол письменный Квадро-С 05</name>
-        <model>Стол письменный Квадро-С 05</model>
-        <vendor>ММЦ</vendor>
-        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
-        <sales_notes>Доставка по всей России бесплатно</sales_notes>
-        <param name="Ширина" unit="см">139</param>
-        <param name="Высота" unit="см">76</param>
-        <param name="Глубина" unit="см">66</param>
-        <param name="Материал">Массив сосны</param>
-        <param name="Коллекция">Квадро</param>
-        <oldprice>47190</oldprice>
       </offer>
       <offer id="193809" available="true" group_id="193809">
         <url>https://i-sosna.ru/catalog/stulya/stul_polubarnyy_nemo_3/</url>
