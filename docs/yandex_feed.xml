@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-27T18:02:27+03:00">
+<yml_catalog date="2026-07-28T05:58:52+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -13091,23 +13091,6 @@
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Айно</param>
         <oldprice>38070</oldprice>
-      </offer>
-      <offer id="135854" available="true" group_id="135854">
-        <url>https://i-sosna.ru/catalog/osnovaniya_pod_matras/ortopedicheskoe_osnovanie_dlya_serii_beyli_lebo_i_milano/</url>
-        <price>5600</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>410</categoryId>
-        <picture>https://i-sosna.ru/upload/iblock/975/97546b4798feb1a08cc8edece766557a.jpeg</picture>
-        <name>Ортопедическое основание для серии Бейли, Лебо</name>
-        <model>Ортопедическое основание для серии Бейли, Лебо</model>
-        <vendor>ММЦ</vendor>
-        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
-        <sales_notes>Доставка по всей России бесплатно</sales_notes>
-        <param name="Ширина" unit="см">0</param>
-        <param name="Высота" unit="см">0</param>
-        <param name="Глубина" unit="см">0</param>
-        <param name="Материал">Массив сосны</param>
-        <param name="Коллекция">Бейли</param>
       </offer>
       <offer id="135887" available="true" group_id="135887">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_pismennyy_sielo/</url>
@@ -58790,24 +58773,6 @@
         <oldprice>58440</oldprice>
         <collectionId>12</collectionId>
       </offer>
-      <offer id="193798" available="true" group_id="193798">
-        <url>https://i-sosna.ru/catalog/shkafy_dlya_knig/shkaf_dlya_knig_kvadro_s_220/</url>
-        <price>46280</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>466</categoryId>
-        <picture>https://i-sosna.ru/upload/iblock/d5a/9c4tyzs8za9qtjoxdqqol80dsq07facv.jpeg</picture>
-        <name>Шкаф для книг Квадро-С 220</name>
-        <model>Шкаф для книг Квадро-С 220</model>
-        <vendor>ММЦ</vendor>
-        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
-        <sales_notes>Доставка по всей России бесплатно</sales_notes>
-        <param name="Ширина" unit="см">100</param>
-        <param name="Высота" unit="см">205</param>
-        <param name="Глубина" unit="см">42</param>
-        <param name="Материал">Массив сосны</param>
-        <param name="Коллекция">Квадро</param>
-        <oldprice>71190</oldprice>
-      </offer>
       <offer id="193800" available="true" group_id="193800">
         <url>https://i-sosna.ru/catalog/vzroslye_krovati/krovat_kvadro_s_dvuspalnaya/</url>
         <price>37310</price>
@@ -58914,24 +58879,6 @@
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Квадро</param>
         <oldprice>123990</oldprice>
-      </offer>
-      <offer id="193810" available="true" group_id="193810">
-        <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_pismennyy_kvadro_s_03/</url>
-        <price>21710</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>458</categoryId>
-        <picture>https://i-sosna.ru/upload/iblock/8c2/zlo4sevsy1z5qfmzglgobn7o2majwyll.jpeg</picture>
-        <name>Стол письменный Квадро-С 03</name>
-        <model>Стол письменный Квадро-С 03</model>
-        <vendor>ММЦ</vendor>
-        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
-        <sales_notes>Доставка по всей России бесплатно</sales_notes>
-        <param name="Ширина" unit="см">139</param>
-        <param name="Высота" unit="см">76</param>
-        <param name="Глубина" unit="см">66</param>
-        <param name="Материал">Массив сосны</param>
-        <param name="Коллекция">Квадро</param>
-        <oldprice>33390</oldprice>
       </offer>
       <offer id="193828" available="true" group_id="193828">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_posudy/shkaf_dlya_posudy_kvadro_s_22gt_185/</url>
