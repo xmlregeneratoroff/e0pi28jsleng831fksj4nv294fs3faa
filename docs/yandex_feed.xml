@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-28T17:33:33+03:00">
+<yml_catalog date="2026-07-29T06:10:05+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -14019,6 +14019,24 @@
         <param name="Глубина" unit="см">60</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Добрый мастер</param>
+      </offer>
+      <offer id="136046" available="true" group_id="136046">
+        <url>https://i-sosna.ru/catalog/stulya/stul_forest/</url>
+        <price>6790</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>460</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/d24/fsgrikt67ox4tzo5ti2i3ehhy7sq7cz7.jpeg</picture>
+        <name>Стул Форест</name>
+        <model>Стул Форест</model>
+        <vendor>ММЦ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">44</param>
+        <param name="Высота" unit="см">91</param>
+        <param name="Глубина" unit="см">49</param>
+        <param name="Материал">Массив сосны</param>
+        <param name="Коллекция">Форест</param>
+        <oldprice>10440</oldprice>
       </offer>
       <offer id="136063" available="true" group_id="136063">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_pismennyy_khelsinki_07_2_kh_tumbovyy/</url>
@@ -54537,23 +54555,6 @@
         <param name="Коллекция">Сканди</param>
         <oldprice>47400</oldprice>
       </offer>
-      <offer id="185812" available="true" group_id="185812">
-        <url>https://i-sosna.ru/catalog/komody/komod_s_2_dvermi_i_3_yashchikami_khemnes_hemnes/</url>
-        <price>26770</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>401</categoryId>
-        <picture>https://i-sosna.ru/upload/iblock/15e/5tirynch92o8op034c2ovvsbg0ykf3am.jpeg</picture>
-        <name>Комод с 2 дверьми и 3 ящиками Хемнэс HEMNES</name>
-        <model>Комод с 2 дверьми и 3 ящиками Хемнэс HEMNES</model>
-        <vendor>Profi&amp;Hobby</vendor>
-        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
-        <sales_notes>Доставка по всей России бесплатно</sales_notes>
-        <param name="Ширина" unit="см">156</param>
-        <param name="Высота" unit="см">88</param>
-        <param name="Глубина" unit="см">44</param>
-        <param name="Материал">Массив сосны</param>
-        <collectionId>72</collectionId>
-      </offer>
       <offer id="185814" available="true" group_id="185814">
         <url>https://i-sosna.ru/catalog/komody/komod_s_5_yashchikami_khemnes_hemnes/</url>
         <price>15650</price>
@@ -54573,7 +54574,7 @@
       </offer>
       <offer id="185816" available="true" group_id="185816">
         <url>https://i-sosna.ru/catalog/krovati_takhta/krovat_takhta_khemnes_hemnes/</url>
-        <price>44490</price>
+        <price>46990</price>
         <currencyId>RUR</currencyId>
         <categoryId>758</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/dd5/qtil6edad2t3gzg3zyz64e2c9de9cv41.jpeg</picture>
@@ -58719,6 +58720,42 @@
         <oldprice>58440</oldprice>
         <collectionId>12</collectionId>
       </offer>
+      <offer id="193798" available="true" group_id="193798">
+        <url>https://i-sosna.ru/catalog/shkafy_dlya_knig/shkaf_dlya_knig_kvadro_s_220/</url>
+        <price>50180</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>466</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/d5a/9c4tyzs8za9qtjoxdqqol80dsq07facv.jpeg</picture>
+        <name>Шкаф для книг Квадро-С 220</name>
+        <model>Шкаф для книг Квадро-С 220</model>
+        <vendor>ММЦ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">100</param>
+        <param name="Высота" unit="см">205</param>
+        <param name="Глубина" unit="см">42</param>
+        <param name="Материал">Массив сосны</param>
+        <param name="Коллекция">Квадро</param>
+        <oldprice>77190</oldprice>
+      </offer>
+      <offer id="193799" available="true" group_id="193799">
+        <url>https://i-sosna.ru/catalog/shkafy_dlya_knig/shkaf_dlya_knig_kvadro_s_220_04/</url>
+        <price>62850</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>466</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/cf5/x4kgj73aky4tu28tltry07om435vbkrk.jpeg</picture>
+        <name>Шкаф для книг Квадро-С 220/04</name>
+        <model>Шкаф для книг Квадро-С 220/04</model>
+        <vendor>ММЦ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">100</param>
+        <param name="Высота" unit="см">205</param>
+        <param name="Глубина" unit="см">42</param>
+        <param name="Материал">Массив сосны</param>
+        <param name="Коллекция">Квадро</param>
+        <oldprice>96690</oldprice>
+      </offer>
       <offer id="193800" available="true" group_id="193800">
         <url>https://i-sosna.ru/catalog/vzroslye_krovati/krovat_kvadro_s_dvuspalnaya/</url>
         <price>37310</price>
@@ -58736,6 +58773,78 @@
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Квадро</param>
         <oldprice>57390</oldprice>
+      </offer>
+      <offer id="193801" available="true" group_id="193801">
+        <url>https://i-sosna.ru/catalog/tumby/tumba_kvadro_s_21/</url>
+        <price>25610</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>402</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/c81/ytjf58pmkiz97au227mhkqvvah17u6fn.jpg</picture>
+        <name>Тумба Квадро-С 21</name>
+        <model>Тумба Квадро-С 21</model>
+        <vendor>ММЦ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">76</param>
+        <param name="Высота" unit="см">101</param>
+        <param name="Глубина" unit="см">42</param>
+        <param name="Материал">Массив сосны</param>
+        <param name="Коллекция">Квадро</param>
+        <oldprice>39390</oldprice>
+      </offer>
+      <offer id="193802" available="true" group_id="193802">
+        <url>https://i-sosna.ru/catalog/tumby/tumba_kvadro_s_42/</url>
+        <price>43350</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>402</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/dd7/1l7lzil5zzgmri6g8gcahwvmov4l7ixw.jpeg</picture>
+        <name>Тумба Квадро-С 42</name>
+        <model>Тумба Квадро-С 42</model>
+        <vendor>ММЦ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">139</param>
+        <param name="Высота" unit="см">101</param>
+        <param name="Глубина" unit="см">42</param>
+        <param name="Материал">Массив сосны</param>
+        <param name="Коллекция">Квадро</param>
+        <oldprice>66690</oldprice>
+      </offer>
+      <offer id="193803" available="true" group_id="193803">
+        <url>https://i-sosna.ru/catalog/shkafy_dlya_knig/shkaf_dlya_knig_kvadro_s_422s/</url>
+        <price>88400</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>466</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/faa/7xuuyb284d3i2l10zyz6lz5169lghvjh.jpeg</picture>
+        <name>Шкаф для книг Квадро-С 422С</name>
+        <model>Шкаф для книг Квадро-С 422С</model>
+        <vendor>ММЦ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">164</param>
+        <param name="Высота" unit="см">205</param>
+        <param name="Глубина" unit="см">42</param>
+        <param name="Материал">Массив сосны</param>
+        <param name="Коллекция">Квадро</param>
+        <oldprice>135990</oldprice>
+      </offer>
+      <offer id="193804" available="true" group_id="193804">
+        <url>https://i-sosna.ru/catalog/shkafy_dlya_knig/shkaf_dlya_knig_kvadro_s_422s_04/</url>
+        <price>101070</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>466</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/7e7/9cousndoqa7mx2iu4fcvtosrg6h08747.jpeg</picture>
+        <name>Шкаф для книг Квадро-С 422С/04</name>
+        <model>Шкаф для книг Квадро-С 422С/04</model>
+        <vendor>ММЦ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">164</param>
+        <param name="Высота" unit="см">205</param>
+        <param name="Глубина" unit="см">42</param>
+        <param name="Материал">Массив сосны</param>
+        <param name="Коллекция">Квадро</param>
+        <oldprice>155490</oldprice>
       </offer>
       <offer id="193808" available="true" group_id="193808">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_posudy/shkaf_dlya_posudy_kvadro_s_20/</url>
@@ -58792,7 +58901,7 @@
       </offer>
       <offer id="193818" available="true" group_id="193818">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_knig/shkaf_dlya_knig_kvadro_s_422f/</url>
-        <price>80600</price>
+        <price>88400</price>
         <currencyId>RUR</currencyId>
         <categoryId>466</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/2b9/ywfb7khimkw8f4m0z1jsw41yt19ggqw4.jpeg</picture>
@@ -58806,7 +58915,7 @@
         <param name="Глубина" unit="см">42</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Квадро</param>
-        <oldprice>123990</oldprice>
+        <oldprice>135990</oldprice>
       </offer>
       <offer id="193828" available="true" group_id="193828">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_posudy/shkaf_dlya_posudy_kvadro_s_22gt_185/</url>
