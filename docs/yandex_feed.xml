@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-29T06:10:05+03:00">
+<yml_catalog date="2026-07-29T17:43:55+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -16537,24 +16537,6 @@
         <param name="Коллекция">Армавир</param>
         <oldprice>3590</oldprice>
       </offer>
-      <offer id="137019" available="true" group_id="137019">
-        <url>https://i-sosna.ru/catalog/zerkala/zerkalo_baltika_15/</url>
-        <price>8610</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>399</categoryId>
-        <picture>https://i-sosna.ru/upload/iblock/f7b/f7bab2f7c73fdb9e2fd93c1cb54854dc.jpeg</picture>
-        <name>Зеркало Балтика 15</name>
-        <model>Зеркало Балтика 15</model>
-        <vendor>Армавирская МФ</vendor>
-        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
-        <sales_notes>Доставка по всей России бесплатно</sales_notes>
-        <param name="Ширина" unit="см">82</param>
-        <param name="Высота" unit="см">111</param>
-        <param name="Глубина" unit="см">10</param>
-        <param name="Материал">Массив сосны</param>
-        <param name="Коллекция">Армавир</param>
-        <oldprice>10120</oldprice>
-      </offer>
       <offer id="137022" available="true" group_id="137022">
         <url>https://i-sosna.ru/catalog/komody/sekreter_baltika_6/</url>
         <price>33380</price>
@@ -17449,7 +17431,7 @@
       </offer>
       <offer id="138818" available="true" group_id="138818">
         <url>https://i-sosna.ru/catalog/matrasy_prime_balance/matras_sontery_by_askona_prime_hit/</url>
-        <price>11100</price>
+        <price>11800</price>
         <currencyId>RUR</currencyId>
         <categoryId>650</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/a9f/xfcljn2ko7lj6blrokkp8wbq7tyvutc4.jpeg</picture>
@@ -17464,7 +17446,7 @@
       </offer>
       <offer id="138819" available="true" group_id="138819">
         <url>https://i-sosna.ru/catalog/matrasy_prime_balance/matras_balance_status/</url>
-        <price>12310</price>
+        <price>13170</price>
         <currencyId>RUR</currencyId>
         <categoryId>650</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/a07/a07877a1f0458d9d3d7730643e330457.jpeg</picture>
@@ -31556,7 +31538,7 @@
       </offer>
       <offer id="164212" available="true" group_id="164212">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_knig/shkaf_dlya_posudy_kvadro_s_20_04/</url>
-        <price>48030</price>
+        <price>53300</price>
         <currencyId>RUR</currencyId>
         <categoryId>466</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/951/qnvww0aknou9pwwc4gz0c8thtlv5gtw5.jpeg</picture>
@@ -31570,7 +31552,7 @@
         <param name="Глубина" unit="см">42</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Квадро</param>
-        <oldprice>73890</oldprice>
+        <oldprice>81990</oldprice>
       </offer>
       <offer id="164214" available="true" group_id="164214">
         <url>https://i-sosna.ru/catalog/krovati_takhta/bortik_5_timberika/</url>
@@ -58758,7 +58740,7 @@
       </offer>
       <offer id="193800" available="true" group_id="193800">
         <url>https://i-sosna.ru/catalog/vzroslye_krovati/krovat_kvadro_s_dvuspalnaya/</url>
-        <price>37310</price>
+        <price>40430</price>
         <currencyId>RUR</currencyId>
         <categoryId>780</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/0d5/d8rzx1x6x2r7pq23nk0qjbz3g69mwnmj.jpeg</picture>
@@ -58772,7 +58754,7 @@
         <param name="Глубина" unit="см">211</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Квадро</param>
-        <oldprice>57390</oldprice>
+        <oldprice>62190</oldprice>
       </offer>
       <offer id="193801" available="true" group_id="193801">
         <url>https://i-sosna.ru/catalog/tumby/tumba_kvadro_s_21/</url>
@@ -58848,7 +58830,7 @@
       </offer>
       <offer id="193808" available="true" group_id="193808">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_posudy/shkaf_dlya_posudy_kvadro_s_20/</url>
-        <price>36040</price>
+        <price>40820</price>
         <currencyId>RUR</currencyId>
         <categoryId>786</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/954/fhjwj5md494fqrsus65oa4kwmz4uo929.jpeg</picture>
@@ -58862,7 +58844,7 @@
         <param name="Глубина" unit="см">42</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Квадро</param>
-        <oldprice>55440</oldprice>
+        <oldprice>62790</oldprice>
       </offer>
       <offer id="193809" available="true" group_id="193809">
         <url>https://i-sosna.ru/catalog/stulya/stul_polubarnyy_nemo_3/</url>
