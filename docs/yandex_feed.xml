@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-23T16:04:16+03:00">
+<yml_catalog date="2026-08-24T04:43:06+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -3103,6 +3103,22 @@
         <param name="Глубина" unit="см">27</param>
         <param name="Материал">Массив сосны</param>
       </offer>
+      <offer id="10206" available="true" group_id="10206">
+        <url>https://i-sosna.ru/catalog/kukhnya_skayda_2_1/skayda_2_polka_24_otkrytyy/</url>
+        <price>7340</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>631</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/e1e/e1efc4ee6bfb770f65e985eaf1cf3ed8.png</picture>
+        <name>"Скайда-2" Полка 24 (открытый)</name>
+        <model>"Скайда-2" Полка 24 (открытый)</model>
+        <vendor>Скайда</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">24</param>
+        <param name="Высота" unit="см">71</param>
+        <param name="Глубина" unit="см">27</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
       <offer id="10205" available="true" group_id="10205">
         <url>https://i-sosna.ru/catalog/kukhnya_skayda_2_1/skayda_2_polka_uglovaya_navesnaya_30/</url>
         <price>7730</price>
@@ -3327,6 +3343,38 @@
         <param name="Глубина" unit="см">27</param>
         <param name="Материал">Массив сосны</param>
       </offer>
+      <offer id="10214" available="true" group_id="10214">
+        <url>https://i-sosna.ru/catalog/kukhnya_skayda_2_1/skayda_2_shkaf_uglovoy_navesnoy_60_1_dver_steklo_/</url>
+        <price>13890</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>631</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/778/778945107fa21f4a6daf9f113fa73c9a.png</picture>
+        <name>"Скайда-2" Шкаф угловой навесной 60 (1 дверь, стекло )</name>
+        <model>"Скайда-2" Шкаф угловой навесной 60 (1 дверь, стекло )</model>
+        <vendor>Скайда</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">60</param>
+        <param name="Высота" unit="см">71</param>
+        <param name="Глубина" unit="см">27</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="10213" available="true" group_id="10213">
+        <url>https://i-sosna.ru/catalog/kukhnya_skayda_2_1/skayda_2_shkaf_uglovoy_navesnoy_60_1_dver_derevo_/</url>
+        <price>13890</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>631</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/81a/81a4ceecdff8fedf7015cbe54c18cbaf.png</picture>
+        <name>"Скайда-2" Шкаф угловой навесной 60 (1 дверь, дерево )</name>
+        <model>"Скайда-2" Шкаф угловой навесной 60 (1 дверь, дерево )</model>
+        <vendor>Скайда</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">60</param>
+        <param name="Высота" unit="см">71</param>
+        <param name="Глубина" unit="см">27</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
       <offer id="10211" available="true" group_id="10211">
         <url>https://i-sosna.ru/catalog/kukhnya_skayda_2_1/skayda_2_shkaf_navesnoy_1_dver_steklo/</url>
         <price>7150</price>
@@ -3391,6 +3439,22 @@
         <param name="Глубина" unit="см">55</param>
         <param name="Материал">Массив сосны</param>
       </offer>
+      <offer id="10261" available="true" group_id="10261">
+        <url>https://i-sosna.ru/catalog/kukhnya_skayda_2_1/skayda_2_tumba_pod_ugol_100_1_dver_l_p/</url>
+        <price>19900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>631</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/888/88843f8442cbb335c6d946bcfd19480f.png</picture>
+        <name>"Скайда-2" Тумба под угол 100 (1 дверь) л/п</name>
+        <model>"Скайда-2" Тумба под угол 100 (1 дверь) л/п</model>
+        <vendor>Скайда</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">100</param>
+        <param name="Высота" unit="см">81</param>
+        <param name="Глубина" unit="см">55</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
       <offer id="10260" available="true" group_id="10260">
         <url>https://i-sosna.ru/catalog/kukhnya_skayda_2_1/skayda_2_tumba_pod_ugol_100_1_dver_1_yashchik_l_p/</url>
         <price>20800</price>
@@ -3419,6 +3483,38 @@
         <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
         <sales_notes>Доставка по всей России бесплатно</sales_notes>
         <param name="Ширина" unit="см">50</param>
+        <param name="Высота" unit="см">81</param>
+        <param name="Глубина" unit="см">55</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="10258" available="true" group_id="10258">
+        <url>https://i-sosna.ru/catalog/kukhnya_skayda_2_1/skayda_2_tumba_pod_moyku_80_2_dveri_dekor_panel/</url>
+        <price>17130</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>631</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/7e0/7e02ccc58da7689a5fb84c1f4d41b2dc.png</picture>
+        <name>"Скайда-2" Тумба под мойку 80 (2 двери, декор. панель)</name>
+        <model>"Скайда-2" Тумба под мойку 80 (2 двери, декор. панель)</model>
+        <vendor>Скайда</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">80</param>
+        <param name="Высота" unit="см">81</param>
+        <param name="Глубина" unit="см">55</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="10257" available="true" group_id="10257">
+        <url>https://i-sosna.ru/catalog/kukhnya_skayda_2_1/skayda_2_tumba_uglovaya_kontsevaya_30_otkrytaya_l_p/</url>
+        <price>9650</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>631</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/35a/35a14514340164e6ed1d1b8b94081b66.jpeg</picture>
+        <name>"Скайда-2" Тумба угловая концевая 30 открытая л/п</name>
+        <model>"Скайда-2" Тумба угловая концевая 30 открытая л/п</model>
+        <vendor>Скайда</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">27</param>
         <param name="Высота" unit="см">81</param>
         <param name="Глубина" unit="см">55</param>
         <param name="Материал">Массив сосны</param>
