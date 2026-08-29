@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-29T09:23:27+03:00">
+<yml_catalog date="2026-08-29T19:46:11+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -49511,7 +49511,7 @@
       </offer>
       <offer id="177334" available="true" group_id="177334">
         <url>https://i-sosna.ru/catalog/komody_i_tumby/sekreter_baltika_6_obrazets/</url>
-        <price>29450</price>
+        <price>35340</price>
         <currencyId>RUR</currencyId>
         <categoryId>400</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/804/fgmjdrebdvoyki7koncycyd2gj7opjci.jpg</picture>
@@ -57658,6 +57658,19 @@
         <name>Прихожая Рандеву</name>
         <model>Прихожая Рандеву</model>
         <vendor>ММЦ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Коллекция">Гарнитуры</param>
+      </offer>
+      <offer id="193463" available="true">
+        <url>https://i-sosna.ru/catalog/prikhozhie_iz_dereva/prikhozhaya_konstantin/</url>
+        <price>55380</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>733</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/a77/ebwrc8sf704lvtliy99qzq3wrxs4wqaz.jpg</picture>
+        <name>Прихожая Константин</name>
+        <model>Прихожая Константин</model>
+        <vendor>Добрый мастер</vendor>
         <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
         <sales_notes>Доставка по всей России бесплатно</sales_notes>
         <param name="Коллекция">Гарнитуры</param>
