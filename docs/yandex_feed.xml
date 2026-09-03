@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-03T06:41:12+03:00">
+<yml_catalog date="2026-09-03T19:24:20+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -22987,7 +22987,7 @@
       </offer>
       <offer id="156110" available="true" group_id="156110">
         <url>https://i-sosna.ru/catalog/vzroslye_krovati/krovat_florentsiya_avinon/</url>
-        <price>49000</price>
+        <price>50000</price>
         <currencyId>RUR</currencyId>
         <categoryId>780</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/1a6/1a6ab27b0eccae230369164453380341.jpeg</picture>
@@ -23001,7 +23001,6 @@
         <param name="Глубина" unit="см">0</param>
         <param name="Материал">Бук</param>
         <param name="Коллекция">Авиньон</param>
-        <oldprice>50000</oldprice>
       </offer>
       <offer id="156111" available="true" group_id="156111">
         <url>https://i-sosna.ru/catalog/vzroslye_krovati/krovat_arredo_avinon/</url>
@@ -34648,7 +34647,7 @@
       </offer>
       <offer id="166118" available="true" group_id="166118">
         <url>https://i-sosna.ru/catalog/vitriny/vitrina_vita/</url>
-        <price>88690</price>
+        <price>90500</price>
         <currencyId>RUR</currencyId>
         <categoryId>389</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/4f8/4f8fdb732fda4dd8a4a58f9ff12aef88.jpeg</picture>
@@ -34662,7 +34661,6 @@
         <param name="Глубина" unit="см">51</param>
         <param name="Материал">бук+МДФ</param>
         <param name="Коллекция">Верона</param>
-        <oldprice>90500</oldprice>
       </offer>
       <offer id="166119" available="true" group_id="166119">
         <url>https://i-sosna.ru/catalog/tumby_pod_tv/tumba_pod_tv_vita/</url>
@@ -36330,7 +36328,7 @@
       </offer>
       <offer id="167702" available="true" group_id="167702">
         <url>https://i-sosna.ru/catalog/stulya/stul_detskiy_reguliruemyy_po_vysote_robin_wood/</url>
-        <price>5240</price>
+        <price>7830</price>
         <currencyId>RUR</currencyId>
         <categoryId>460</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/732/lo29gronc6hz50hy4xov01nbm7stx74p.jpeg</picture>
@@ -54756,7 +54754,7 @@
       </offer>
       <offer id="185992" available="true" group_id="185992">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_oliver_4_kh_stvorchatyy/</url>
-        <price>74580</price>
+        <price>76100</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/2e6/xe3rpt8kca2sb1ek1dlg6r3knvsa2kln.png</picture>
@@ -54769,7 +54767,6 @@
         <param name="Высота" unit="см">200</param>
         <param name="Глубина" unit="см">60</param>
         <param name="Материал">Массив сосны/ЛДСП</param>
-        <oldprice>76100</oldprice>
         <collectionId>46</collectionId>
       </offer>
       <offer id="185999" available="true" group_id="185999">
