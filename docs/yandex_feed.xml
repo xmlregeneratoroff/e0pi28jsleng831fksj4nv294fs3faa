@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-04T06:37:43+03:00">
+<yml_catalog date="2026-09-04T19:17:32+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -54348,23 +54348,6 @@
         <param name="Ширина" unit="см">89</param>
         <param name="Высота" unit="см">128</param>
         <param name="Глубина" unit="см">31</param>
-        <param name="Материал">Массив сосны</param>
-        <collectionId>72</collectionId>
-      </offer>
-      <offer id="185822" available="true" group_id="185822">
-        <url>https://i-sosna.ru/catalog/stoly_obedennye/stol_kruglyy_khemnes_hemnes/</url>
-        <price>36000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>457</categoryId>
-        <picture>https://i-sosna.ru/upload/iblock/3e5/cl9vui8tng1qlq79h0dxu65znzj3fofj.jpeg</picture>
-        <name>Стол круглый Хемнэс HEMNES</name>
-        <model>Стол круглый Хемнэс HEMNES</model>
-        <vendor>Profi&amp;Hobby</vendor>
-        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
-        <sales_notes>Доставка по всей России бесплатно</sales_notes>
-        <param name="Ширина" unit="см">126</param>
-        <param name="Высота" unit="см">75</param>
-        <param name="Глубина" unit="см">126</param>
         <param name="Материал">Массив сосны</param>
         <collectionId>72</collectionId>
       </offer>
