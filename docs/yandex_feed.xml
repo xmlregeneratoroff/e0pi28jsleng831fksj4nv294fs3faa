@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-09T06:52:29+03:00">
+<yml_catalog date="2026-09-09T19:31:29+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -51067,40 +51067,6 @@
         <param name="Материал">Массив сосны</param>
         <collectionId>74</collectionId>
       </offer>
-      <offer id="180529" available="true" group_id="180529">
-        <url>https://i-sosna.ru/catalog/stulya/stul_shale/</url>
-        <price>6690</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>460</categoryId>
-        <picture>https://i-sosna.ru/upload/iblock/252/exr1ixkwlkgecwubs8r9lqekf8fsds96.jpeg</picture>
-        <name>Стул Шале</name>
-        <model>Стул Шале</model>
-        <vendor>Панормо мебель</vendor>
-        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
-        <sales_notes>Доставка по всей России бесплатно</sales_notes>
-        <param name="Ширина" unit="см">40</param>
-        <param name="Высота" unit="см">100</param>
-        <param name="Глубина" unit="см">45</param>
-        <param name="Материал">Массив сосны</param>
-        <collectionId>74</collectionId>
-      </offer>
-      <offer id="180530" available="true" group_id="180530">
-        <url>https://i-sosna.ru/catalog/stoly/pristavka_krylo_k_stolu_obedennomu_shale/</url>
-        <price>4260</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>773</categoryId>
-        <picture>https://i-sosna.ru/upload/iblock/91e/o8hoq23iq8flcqan5z1znnyybrmm42lg.jpeg</picture>
-        <name>Приставка (крыло) к столу обеденному Шале</name>
-        <model>Приставка (крыло) к столу обеденному Шале</model>
-        <vendor>Панормо мебель</vendor>
-        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
-        <sales_notes>Доставка по всей России бесплатно</sales_notes>
-        <param name="Ширина" unit="см">40</param>
-        <param name="Высота" unit="см">3</param>
-        <param name="Глубина" unit="см">90</param>
-        <param name="Материал">Массив сосны</param>
-        <collectionId>74</collectionId>
-      </offer>
       <offer id="180531" available="true" group_id="180531">
         <url>https://i-sosna.ru/catalog/stoly/stol_obedennyy_shale/</url>
         <price>23700</price>
@@ -58697,22 +58663,6 @@
         <param name="Ширина" unit="см">160</param>
         <param name="Высота" unit="см">75</param>
         <param name="Глубина" unit="см">80</param>
-        <param name="Материал">Массив сосны</param>
-        <collectionId>74</collectionId>
-      </offer>
-      <offer id="194238" available="true" group_id="194238">
-        <url>https://i-sosna.ru/catalog/stulya/stul_shale_2/</url>
-        <price>15500</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>460</categoryId>
-        <picture>https://i-sosna.ru/upload/iblock/86b/mt19gn10z8s8dxiozci5owmpqo9z4l18.jpeg</picture>
-        <name>Стул Шале 2</name>
-        <model>Стул Шале 2</model>
-        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
-        <sales_notes>Доставка по всей России бесплатно</sales_notes>
-        <param name="Ширина" unit="см">46</param>
-        <param name="Высота" unit="см">105</param>
-        <param name="Глубина" unit="см">54</param>
         <param name="Материал">Массив сосны</param>
         <collectionId>74</collectionId>
       </offer>
