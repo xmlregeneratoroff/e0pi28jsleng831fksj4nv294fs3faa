@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-19T06:52:23+03:00">
+<yml_catalog date="2026-09-19T18:55:24+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -2014,24 +2014,6 @@
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Прованс</param>
         <oldprice>53000</oldprice>
-      </offer>
-      <offer id="7098" available="true" group_id="7098">
-        <url>https://i-sosna.ru/catalog/polki/shkaf_nastennyy_etac_12/</url>
-        <price>22300</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>447</categoryId>
-        <picture>https://i-sosna.ru/upload/iblock/6ff/6ffa4dae90e07eac1b9b55d614e643e2.png</picture>
-        <name>Шкаф настенный ETAC 12</name>
-        <model>Шкаф настенный ETAC 12</model>
-        <vendor>Волшебная сосна</vendor>
-        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
-        <sales_notes>Доставка по всей России бесплатно</sales_notes>
-        <param name="Ширина" unit="см">100</param>
-        <param name="Высота" unit="см">80</param>
-        <param name="Глубина" unit="см">25</param>
-        <param name="Материал">Массив сосны</param>
-        <param name="Коллекция">Прованс</param>
-        <oldprice>26230</oldprice>
       </offer>
       <offer id="7100" available="true" group_id="7100">
         <url>https://i-sosna.ru/catalog/komody/bar_122/</url>
