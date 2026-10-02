@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-02T07:46:37+03:00">
+<yml_catalog date="2026-10-02T21:01:52+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -31233,23 +31233,6 @@
         <param name="Коллекция">Квадро</param>
         <oldprice>81990</oldprice>
       </offer>
-      <offer id="164214" available="true" group_id="164214">
-        <url>https://i-sosna.ru/catalog/krovati_takhta/bortik_5_timberika/</url>
-        <price>2450</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>758</categoryId>
-        <picture>https://i-sosna.ru/upload/iblock/aa9/aa9935c0caae55a45625c7a63a013bdd.jpeg</picture>
-        <name>Бортик №5 Тимберика</name>
-        <model>Бортик №5 Тимберика</model>
-        <vendor>Тимберика</vendor>
-        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
-        <sales_notes>Доставка по всей России бесплатно</sales_notes>
-        <param name="Ширина" unit="см">97</param>
-        <param name="Высота" unit="см">28</param>
-        <param name="Глубина" unit="см">4</param>
-        <param name="Материал">Массив сосны</param>
-        <param name="Коллекция">Ари-Прованс</param>
-      </offer>
       <offer id="164215" available="true" group_id="164215">
         <url>https://i-sosna.ru/catalog/krovati_takhta/bortik_6_timberika/</url>
         <price>3240</price>
@@ -31292,23 +31275,6 @@
         <picture>https://i-sosna.ru/upload/iblock/bdc/bdc5ad08eca272212252083ee2b9933a.jpeg</picture>
         <name>Бортик №8 Тимберика</name>
         <model>Бортик №8 Тимберика</model>
-        <vendor>Тимберика</vendor>
-        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
-        <sales_notes>Доставка по всей России бесплатно</sales_notes>
-        <param name="Ширина" unit="см">97</param>
-        <param name="Высота" unit="см">28</param>
-        <param name="Глубина" unit="см">4</param>
-        <param name="Материал">Массив сосны</param>
-        <param name="Коллекция">Ари-Прованс</param>
-      </offer>
-      <offer id="164218" available="true" group_id="164218">
-        <url>https://i-sosna.ru/catalog/krovati_takhta/bortik_9_timberika/</url>
-        <price>4500</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>758</categoryId>
-        <picture>https://i-sosna.ru/upload/iblock/820/8208800cc7b086df1ebb010c21c885e4.jpeg</picture>
-        <name>Бортик №9 Тимберика</name>
-        <model>Бортик №9 Тимберика</model>
         <vendor>Тимберика</vendor>
         <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
         <sales_notes>Доставка по всей России бесплатно</sales_notes>
