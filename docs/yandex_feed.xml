@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-17T18:29:33+03:00">
+<yml_catalog date="2026-10-18T06:48:12+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -48308,23 +48308,6 @@
         <param name="Материал">ЛДСП</param>
         <param name="Коллекция">НьюТон Грей</param>
       </offer>
-      <offer id="175778" available="true" group_id="175778">
-        <url>https://i-sosna.ru/catalog/stellazhi/stellazh_transformer_nyuton_grey/</url>
-        <price>32810</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>452</categoryId>
-        <picture>https://i-sosna.ru/upload/iblock/b55/xrhc14hc1mf4uh62mv02lmrty0m1vvo3.jpeg</picture>
-        <name>Стеллаж-трансформер НьюТон Грей</name>
-        <model>Стеллаж-трансформер НьюТон Грей</model>
-        <vendor>38 Попугаев</vendor>
-        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
-        <sales_notes>Доставка по всей России бесплатно</sales_notes>
-        <param name="Ширина" unit="см">71</param>
-        <param name="Высота" unit="см">210</param>
-        <param name="Глубина" unit="см">30</param>
-        <param name="Материал">ЛДСП</param>
-        <param name="Коллекция">НьюТон Грей</param>
-      </offer>
       <offer id="176830" available="true">
         <url>https://i-sosna.ru/catalog/detskie_garnitury/detskiy_garnitur_nyuton_grey/</url>
         <price>75500</price>
@@ -48380,24 +48363,6 @@
         <param name="Глубина" unit="см">28</param>
         <param name="Материал">ЛДСП</param>
         <param name="Коллекция">НьюТон Грей</param>
-      </offer>
-      <offer id="175780" available="true" group_id="175780">
-        <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_nyuton_grey/</url>
-        <price>10290</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>458</categoryId>
-        <picture>https://i-sosna.ru/upload/iblock/b8c/t3fasq4ogc7amdsm178escsrn1deurxo.jpeg</picture>
-        <name>Стол НьюТон Грей</name>
-        <model>Стол НьюТон Грей</model>
-        <vendor>38 Попугаев</vendor>
-        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
-        <sales_notes>Доставка по всей России бесплатно</sales_notes>
-        <param name="Ширина" unit="см">120</param>
-        <param name="Высота" unit="см">75</param>
-        <param name="Глубина" unit="см">60</param>
-        <param name="Материал">ЛДСП</param>
-        <param name="Коллекция">НьюТон Грей</param>
-        <oldprice>12100</oldprice>
       </offer>
       <offer id="175781" available="true" group_id="175781">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_s_tumboy_nyuton_grey/</url>
