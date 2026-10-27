@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-27T07:21:49+03:00">
+<yml_catalog date="2026-10-27T21:01:17+03:00">
   <shop>
     <name>Гармония дерева</name>
     <company>ООО Гармония дерева</company>
@@ -1799,6 +1799,134 @@
         <param name="Материал">Массив сосны</param>
         <oldprice>21890</oldprice>
       </offer>
+      <offer id="7205" available="true" group_id="7205">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_starenie/shkaf_stol_450_s_3_mya_yashch_viking_gl_02/</url>
+        <price>20270</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>472</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/cc9/cc9962749b20a41ff88f53c948046672.jpeg</picture>
+        <name>Шкаф-стол (450)  с 3-мя ящ. "Викинг GL" №02</name>
+        <model>Шкаф-стол (450)  с 3-мя ящ. "Викинг GL" №02</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">45</param>
+        <param name="Высота" unit="см">81</param>
+        <param name="Глубина" unit="см">52</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="7206" available="true" group_id="7206">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_starenie/shkaf_stol_pod_moyku_600_viking_gl_04/</url>
+        <price>12000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>472</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/c61/c61e4241bb1f636e2efdd4647cc9d166.jpeg</picture>
+        <name>Шкаф-стол под мойку  (600) «Викинг GL» №04</name>
+        <model>Шкаф-стол под мойку  (600) «Викинг GL» №04</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">60</param>
+        <param name="Высота" unit="см">81</param>
+        <param name="Глубина" unit="см">52</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="7207" available="true" group_id="7207">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_starenie/shkaf_stol_600mm_viking_gl_s_polkoy_03/</url>
+        <price>13210</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>472</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/1a0/1a019158de3796afa59c6b7ec9993266.jpeg</picture>
+        <name>Шкаф-стол (600мм) «Викинг GL»  (с полкой) №03</name>
+        <model>Шкаф-стол (600мм) «Викинг GL»  (с полкой) №03</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">60</param>
+        <param name="Высота" unit="см">81</param>
+        <param name="Глубина" unit="см">52</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="7208" available="true" group_id="7208">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_starenie/shkaf_stol_900_s_2yashch_viking_gl_05/</url>
+        <price>27480</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>472</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/983/9830faf33eb76587fdb9d7d6b45e5765.jpeg</picture>
+        <name>Шкаф-стол (900) с 2ящ. "Викинг GL" №05</name>
+        <model>Шкаф-стол (900) с 2ящ. "Викинг GL" №05</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">90</param>
+        <param name="Высота" unit="см">81</param>
+        <param name="Глубина" unit="см">52</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="7146" available="true" group_id="7146">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_starenie/shkaf_stol_v_ugol_990_viking_gl_06/</url>
+        <price>14700</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>472</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/0f6/0f64f28ad04aa935751cacb754d782e4.jpeg</picture>
+        <name>Шкаф-стол в угол (990)  Викинг GL №06</name>
+        <model>Шкаф-стол в угол (990)  Викинг GL №06</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">99</param>
+        <param name="Высота" unit="см">81</param>
+        <param name="Глубина" unit="см">52</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="7148" available="true" group_id="7148">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_starenie/shkaf_nastennyy_s_2_mya_stekl_dverkami_600_mm_viking_gl_09/</url>
+        <price>12450</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>472</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/f8c/f8c99db9a3e036fbc2d5e49f25adbdf5.jpeg</picture>
+        <name>Шкаф настенный с 2-мя стекл. дверками (600 мм) «Викинг GL» №09</name>
+        <model>Шкаф настенный с 2-мя стекл. дверками (600 мм) «Викинг GL» №09</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">60</param>
+        <param name="Высота" unit="см">72</param>
+        <param name="Глубина" unit="см">38</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="7149" available="true" group_id="7149">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_starenie/shkaf_nastennyy_uglovoy_viking_gl_11/</url>
+        <price>17270</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>472</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/10b/10b1adb6bd5c1b8592645a0c128fa482.jpeg</picture>
+        <name>Шкаф настенный угловой  «Викинг GL» №11</name>
+        <model>Шкаф настенный угловой  «Викинг GL» №11</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">60</param>
+        <param name="Высота" unit="см">72</param>
+        <param name="Глубина" unit="см">32</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="7150" available="true" group_id="7150">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_starenie/shkaf_nastennyy_s_2_mya_dverkami_600_mm_viking_gl_s_sushkoy_10_/</url>
+        <price>12150</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>472</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/3ff/3ff45af53dcc22b1b1942bf2480b45b6.jpeg</picture>
+        <name>Шкаф настенный с 2-мя дверками (600 мм)   Викинг GL с сушкой №10</name>
+        <model>Шкаф настенный с 2-мя дверками (600 мм)   Викинг GL с сушкой №10</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">60</param>
+        <param name="Высота" unit="см">72</param>
+        <param name="Глубина" unit="см">38</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
       <offer id="7154" available="true" group_id="7154">
         <url>https://i-sosna.ru/catalog/komody/shifoner_5_yashchikov_s_serdtsem/</url>
         <price>25970</price>
@@ -2264,6 +2392,22 @@
         <param name="Коллекция">Прованс</param>
         <oldprice>30690</oldprice>
       </offer>
+      <offer id="7147" available="true" group_id="7147">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_starenie/shkaf_nastennyy_450_viking_gl_08/</url>
+        <price>9590</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>472</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/660/6609e0ef3bbcf153d6eec2f49f6d6b6f.jpeg</picture>
+        <name>Шкаф настенный (450)  Викинг GL №08</name>
+        <model>Шкаф настенный (450)  Викинг GL №08</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">45</param>
+        <param name="Высота" unit="см">72</param>
+        <param name="Глубина" unit="см">34</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
       <offer id="7252" available="true" group_id="7252">
         <url>https://i-sosna.ru/catalog/vitriny/shkaf_nord_133_2_kh_stv_/</url>
         <price>36750</price>
@@ -2464,6 +2608,22 @@
         <param name="Глубина" unit="см">50</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Викинг</param>
+      </offer>
+      <offer id="7322" available="true" group_id="7322">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_starenie/shkaf_stol_150_bez_kargo_viking_gl_01/</url>
+        <price>16130</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>472</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/821/82154dbab450c5322f805f4c1d86cb2b.jpeg</picture>
+        <name>Шкаф-стол (150) без карго "Викинг GL" №01</name>
+        <model>Шкаф-стол (150) без карго "Викинг GL" №01</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">15</param>
+        <param name="Высота" unit="см">81</param>
+        <param name="Глубина" unit="см">52</param>
+        <param name="Материал">Массив сосны</param>
       </offer>
       <offer id="7278" available="true" group_id="7278">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_viking_02/</url>
@@ -2888,6 +3048,54 @@
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Викинг</param>
       </offer>
+      <offer id="10133" available="true" group_id="10133">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_starenie/shkaf_stol_150_s_kargo_viking_gl_01/</url>
+        <price>22050</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>472</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/e58/e58d949c59de713f219dc119142e568d.jpeg</picture>
+        <name>Шкаф-стол (150) с карго "Викинг GL" №01</name>
+        <model>Шкаф-стол (150) с карго "Викинг GL" №01</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">15</param>
+        <param name="Высота" unit="см">81</param>
+        <param name="Глубина" unit="см">52</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="10132" available="true" group_id="10132">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_starenie/shkaf_stol_pod_dukhovoy_shkaf_600_viking_gl_12/</url>
+        <price>11350</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>472</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/bef/befeb2ca966dbd53f37e5b7c7cb42da4.jpeg</picture>
+        <name>Шкаф-стол под духовой шкаф (600) "Викинг GL" №12</name>
+        <model>Шкаф-стол под духовой шкаф (600) "Викинг GL" №12</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">60</param>
+        <param name="Высота" unit="см">81</param>
+        <param name="Глубина" unit="см">52</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="10131" available="true" group_id="10131">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_starenie/shkaf_stol_450_mm_viking_gl_s_polkoy_15/</url>
+        <price>13820</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>472</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/2a4/2a45bb821c550b72e3c82ce0505bea52.jpeg</picture>
+        <name>Шкаф-стол (450 мм)  «Викинг GL» (с полкой) №15</name>
+        <model>Шкаф-стол (450 мм)  «Викинг GL» (с полкой) №15</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">45</param>
+        <param name="Высота" unit="см">81</param>
+        <param name="Глубина" unit="см">52</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
       <offer id="10130" available="true" group_id="10130">
         <url>https://i-sosna.ru/catalog/komody/tumba_uglovaya_viking_02/</url>
         <price>42250</price>
@@ -2904,6 +3112,22 @@
         <param name="Глубина" unit="см">60</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Викинг</param>
+      </offer>
+      <offer id="10129" available="true" group_id="10129">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_starenie/shkaf_nastennyy_150_mm_viking_gl_s_rezboy_polka_07/</url>
+        <price>14540</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>472</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/f75/f7541aeaa2924901e59141f574a81645.jpeg</picture>
+        <name>Шкаф настенный (150 мм) «Викинг GL»  (с резьбой + полка) №07</name>
+        <model>Шкаф настенный (150 мм) «Викинг GL»  (с резьбой + полка) №07</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">15</param>
+        <param name="Высота" unit="см">72</param>
+        <param name="Глубина" unit="см">38</param>
+        <param name="Материал">Массив сосны</param>
       </offer>
       <offer id="10188" available="true" group_id="10188">
         <url>https://i-sosna.ru/catalog/divany_krovati/divan_viking_02_s_kovannym_elementami/</url>
@@ -17036,6 +17260,308 @@
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Викинг</param>
       </offer>
+      <offer id="138604" available="true" group_id="138604">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_starenie/shkaf_nastennyy_800_mm_s_2_mya_stekl_dverkami_viking_gl_32/</url>
+        <price>15680</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>472</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/a28/a28bb0acbea799b47cce1a95197129c8.jpeg</picture>
+        <name>Шкаф настенный (800 мм) с 2-мя стекл. дверками «Викинг GL» №32</name>
+        <model>Шкаф настенный (800 мм) с 2-мя стекл. дверками «Викинг GL» №32</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">80</param>
+        <param name="Высота" unit="см">72</param>
+        <param name="Глубина" unit="см">34</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="138605" available="true" group_id="138605">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_starenie/shkaf_nastennyy_800_mm_s_2_mya_gl_dverkami_viking_gl_31/</url>
+        <price>15250</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>472</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/556/5567b2c2983e765e5a7fdde033984619.jpeg</picture>
+        <name>Шкаф настенный (800 мм) с 2-мя гл. дверками «Викинг GL»  №31</name>
+        <model>Шкаф настенный (800 мм) с 2-мя гл. дверками «Викинг GL»  №31</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">80</param>
+        <param name="Высота" unit="см">72</param>
+        <param name="Глубина" unit="см">34</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="138606" available="true" group_id="138606">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_starenie/shkaf_nastennyy_600_mm_so_stekl_dverkoy_viking_gl_30/</url>
+        <price>12070</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>472</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/bd3/bd37750416edee9ed4dc77fe6be080e8.jpeg</picture>
+        <name>Шкаф настенный (600 мм) со стекл. дверкой «Викинг GL»  №30</name>
+        <model>Шкаф настенный (600 мм) со стекл. дверкой «Викинг GL»  №30</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">60</param>
+        <param name="Высота" unit="см">72</param>
+        <param name="Глубина" unit="см">34</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="138607" available="true" group_id="138607">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_starenie/shkaf_nastennyy_600_mm_s_1_y_gl_dveryu_viking_gl_29/</url>
+        <price>11350</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>472</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/3c3/3c3d639d974dc1825c09b78b67e85e75.jpeg</picture>
+        <name>Шкаф настенный (600 мм) с 1-й гл. дверью «Викинг GL»  №29</name>
+        <model>Шкаф настенный (600 мм) с 1-й гл. дверью «Викинг GL»  №29</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">60</param>
+        <param name="Высота" unit="см">72</param>
+        <param name="Глубина" unit="см">34</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="138608" available="true" group_id="138608">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_starenie/shkaf_stol_800_mm_viking_gl_s_2_mya_gl_dveryami_27/</url>
+        <price>17170</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>472</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/6e0/6e02d94bc7042a56b0289ae2f7e95fb5.jpeg</picture>
+        <name>Шкаф-стол (800 мм) «Викинг GL» с 2-мя гл. дверями  №27</name>
+        <model>Шкаф-стол (800 мм) «Викинг GL» с 2-мя гл. дверями  №27</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">80</param>
+        <param name="Высота" unit="см">81</param>
+        <param name="Глубина" unit="см">52</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="138609" available="true" group_id="138609">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_starenie/shkaf_stol_600_mm_viking_gl_s_1_y_gl_dveryu_26/</url>
+        <price>12790</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>472</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/797/7976e3b5f20a5aa87dedfcaba0949fb7.jpeg</picture>
+        <name>Шкаф-стол (600 мм) «Викинг GL» с 1-й гл. дверью №26</name>
+        <model>Шкаф-стол (600 мм) «Викинг GL» с 1-й гл. дверью №26</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">60</param>
+        <param name="Высота" unit="см">81</param>
+        <param name="Глубина" unit="см">52</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="138611" available="true" group_id="138611">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_starenie/shkaf_nastennyy_900_mm_s_2_mya_stekl_dverkami_viking_gl_s_polkoy_24/</url>
+        <price>15640</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>472</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/895/895e86d4b2e930792f99c6054f9e91ce.jpeg</picture>
+        <name>Шкаф настенный (900 мм) с 2-мя стекл. дверками «Викинг GL» (с полкой) №24</name>
+        <model>Шкаф настенный (900 мм) с 2-мя стекл. дверками «Викинг GL» (с полкой) №24</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">90</param>
+        <param name="Высота" unit="см">72</param>
+        <param name="Глубина" unit="см">34</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="138612" available="true" group_id="138612">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_starenie/shkaf_nastennyy_s_2_mya_dverkami_900_mm_viking_gl_s_polkoy_23/</url>
+        <price>16050</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>472</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/e6e/e6e11f342b5680558d18c0f37f90e379.jpeg</picture>
+        <name>Шкаф настенный с 2-мя дверками (900 мм) «Викинг GL» (с полкой) №23</name>
+        <model>Шкаф настенный с 2-мя дверками (900 мм) «Викинг GL» (с полкой) №23</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">90</param>
+        <param name="Высота" unit="см">72</param>
+        <param name="Глубина" unit="см">34</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="138613" available="true" group_id="138613">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_starenie/shkaf_nastennyy_sushka_s_2_mya_stekl_dverkami_600_mm_viking_gl_22/</url>
+        <price>11540</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>472</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/f3a/f3afabd0b1659d93470defa0f617614b.jpeg</picture>
+        <name>Шкаф настенный сушка с 2-мя стекл. дверками (600 мм) «Викинг GL»  №22</name>
+        <model>Шкаф настенный сушка с 2-мя стекл. дверками (600 мм) «Викинг GL»  №22</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">60</param>
+        <param name="Высота" unit="см">72</param>
+        <param name="Глубина" unit="см">35</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="138614" available="true" group_id="138614">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_starenie/shkaf_nastennyy_s_2_mya_glukh_dverkami_600_mm_viking_gl_21/</url>
+        <price>12070</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>472</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/b2f/b2f9c7333730550bb5b2342a2a6fe893.jpeg</picture>
+        <name>Шкаф настенный с 2-мя глух. дверками (600 мм) «Викинг GL»  №21</name>
+        <model>Шкаф настенный с 2-мя глух. дверками (600 мм) «Викинг GL»  №21</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">60</param>
+        <param name="Высота" unit="см">72</param>
+        <param name="Глубина" unit="см">34</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="138615" available="true" group_id="138615">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_starenie/shkaf_nastennyy_so_stekl_dverkoy_450_mm_viking_gl_s_polkoy_20/</url>
+        <price>9380</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>472</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/f15/f15503b4eafc94cd176afb9aceaac167.jpeg</picture>
+        <name>Шкаф настенный со стекл. дверкой (450 мм) «Викинг GL»  (с полкой) №20</name>
+        <model>Шкаф настенный со стекл. дверкой (450 мм) «Викинг GL»  (с полкой) №20</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">45</param>
+        <param name="Высота" unit="см">72</param>
+        <param name="Глубина" unit="см">34</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="138616" available="true" group_id="138616">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_starenie/shkaf_nastennyy_so_stekl_dverkoy_300_mm_viking_gl_s_polkoy_19/</url>
+        <price>6930</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>472</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/3e1/3e17ee202885398b7a0eed6e0f466e2e.jpeg</picture>
+        <name>Шкаф настенный со стекл. дверкой (300 мм) «Викинг GL» с полкой) №19</name>
+        <model>Шкаф настенный со стекл. дверкой (300 мм) «Викинг GL» с полкой) №19</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">30</param>
+        <param name="Высота" unit="см">72</param>
+        <param name="Глубина" unit="см">34</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="138617" available="true" group_id="138617">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_starenie/shkaf_nastennyy_300_mm_viking_gl_s_polkoy_18/</url>
+        <price>7200</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>472</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/562/56296d3c091bd2449f1fa174bf3fea89.jpeg</picture>
+        <name>Шкаф настенный (300 мм) «Викинг GL» (с полкой ) №18</name>
+        <model>Шкаф настенный (300 мм) «Викинг GL» (с полкой ) №18</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">30</param>
+        <param name="Высота" unit="см">72</param>
+        <param name="Глубина" unit="см">34</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="138618" available="true" group_id="138618">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_starenie/shkaf_stol_s_2_mya_dverkami_900_mm_viking_gl_s_polkoy_17/</url>
+        <price>19060</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>472</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/7a8/7a8d9336e88118c128c7a3c817fc6d78.jpeg</picture>
+        <name>Шкаф-стол с 2-мя дверками (900 мм) «Викинг GL» (с полкой) №17</name>
+        <model>Шкаф-стол с 2-мя дверками (900 мм) «Викинг GL» (с полкой) №17</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">90</param>
+        <param name="Высота" unit="см">81</param>
+        <param name="Глубина" unit="см">52</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="138619" available="true" group_id="138619">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_starenie/shkaf_stol_600_mm_viking_gl_s_metaboksami_16/</url>
+        <price>22170</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>472</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/147/1474aeaa71ac102b03df6b157a04ef73.jpeg</picture>
+        <name>Шкаф-стол (600 мм) «Викинг GL» (с метабоксами) №16</name>
+        <model>Шкаф-стол (600 мм) «Викинг GL» (с метабоксами) №16</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">60</param>
+        <param name="Высота" unit="см">81</param>
+        <param name="Глубина" unit="см">52</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="138620" available="true" group_id="138620">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_starenie/shkaf_stol_300_mm_viking_gl_s_polkoy_14/</url>
+        <price>9870</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>472</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/b05/b050f58baa7dd36d5fbba5ab3cb7a7ab.jpeg</picture>
+        <name>Шкаф-стол (300 мм) «Викинг GL» (с полкой) №14</name>
+        <model>Шкаф-стол (300 мм) «Викинг GL» (с полкой) №14</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">30</param>
+        <param name="Высота" unit="см">81</param>
+        <param name="Глубина" unit="см">52</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="138621" available="true" group_id="138621">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_starenie/shkaf_nastennyy_uglovoy_c_1_oy_glukhoy_dveryu_viking_gl_11_1/</url>
+        <price>17710</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>472</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/208/208cbcb2a63bf348f543b9638aad9dce.jpeg</picture>
+        <name>Шкаф настенный угловой c 1-ой глухой дверью «Викинг GL» №11/1</name>
+        <model>Шкаф настенный угловой c 1-ой глухой дверью «Викинг GL» №11/1</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">60</param>
+        <param name="Высота" unit="см">72</param>
+        <param name="Глубина" unit="см">60</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="138622" available="true" group_id="138622">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_starenie/shkaf_nastennyy_800_mm_viking_gl_sushka_33/</url>
+        <price>16320</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>472</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/58e/58e3ae79921042262998bcce0d2056b6.jpeg</picture>
+        <name>Шкаф настенный (800 мм) «Викинг GL»  (сушка) №33</name>
+        <model>Шкаф настенный (800 мм) «Викинг GL»  (сушка) №33</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">80</param>
+        <param name="Высота" unit="см">72</param>
+        <param name="Глубина" unit="см">34</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="138623" available="true" group_id="138623">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_starenie/karniz_viking_gl/</url>
+        <price>1250</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>472</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/ff3/ff3d6f592ac883a5195d66817f67021c.jpeg</picture>
+        <name>Карниз "Викинг GL"</name>
+        <model>Карниз "Викинг GL"</model>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">0</param>
+        <param name="Высота" unit="см">0</param>
+        <param name="Глубина" unit="см">0</param>
+      </offer>
       <offer id="138739" available="true" group_id="138739">
         <url>https://i-sosna.ru/catalog/komody/md_199_tumba_maksi_2_/</url>
         <price>35100</price>
@@ -17152,6 +17678,22 @@
         <param name="Ширина" unit="см">30</param>
         <param name="Высота" unit="см">81</param>
         <param name="Глубина" unit="см">55</param>
+        <param name="Материал">Массив сосны</param>
+      </offer>
+      <offer id="138816" available="true" group_id="138816">
+        <url>https://i-sosna.ru/catalog/kukhnya_viking_starenie/shkaf_nastennyy_150_mm_otkrytyy_s_polkoy_viking_gl_25/</url>
+        <price>4130</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>472</categoryId>
+        <picture>https://i-sosna.ru/upload/iblock/cf4/cf42571197522cec06026adc5edc95d8.jpeg</picture>
+        <name>Шкаф настенный (150 мм) открытый с полкой «Викинг GL» №25</name>
+        <model>Шкаф настенный (150 мм) открытый с полкой «Викинг GL» №25</model>
+        <vendor>Лидская МФ</vendor>
+        <description>Натуральная мебель из массива. Дополнительная гарантия 1 год. Гарантия лучшей цены.</description>
+        <sales_notes>Доставка по всей России бесплатно</sales_notes>
+        <param name="Ширина" unit="см">15</param>
+        <param name="Высота" unit="см">72</param>
+        <param name="Глубина" unit="см">34</param>
         <param name="Материал">Массив сосны</param>
       </offer>
       <offer id="138818" available="true" group_id="138818">
@@ -34987,7 +35529,7 @@
       </offer>
       <offer id="166354" available="true" group_id="166354">
         <url>https://i-sosna.ru/catalog/vitriny/vitrina_icons/</url>
-        <price>55120</price>
+        <price>68120</price>
         <currencyId>RUR</currencyId>
         <categoryId>389</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/185/kaa9v1732o3r6k9ay7trv9eg6g61eyzx.jpeg</picture>
@@ -35004,7 +35546,7 @@
       </offer>
       <offer id="166356" available="true" group_id="166356">
         <url>https://i-sosna.ru/catalog/komody/komod_kombinirovannyy_icons_rv_304/</url>
-        <price>82490</price>
+        <price>102550</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/676/0x9ljxrq8m0ajsx9arrl6shj0zuemkbd.jpeg</picture>
@@ -35021,7 +35563,7 @@
       </offer>
       <offer id="166357" available="true" group_id="166357">
         <url>https://i-sosna.ru/catalog/tumby_pod_tv/tumba_tv_icons_rv_403_/</url>
-        <price>73060</price>
+        <price>90350</price>
         <currencyId>RUR</currencyId>
         <categoryId>403</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/8af/p2bly5uh95b1zb7m9mhf8jhenf82idi8.jpeg</picture>
@@ -35038,7 +35580,7 @@
       </offer>
       <offer id="166358" available="true" group_id="166358">
         <url>https://i-sosna.ru/catalog/konsoli/konsol_icons/</url>
-        <price>41540</price>
+        <price>51350</price>
         <currencyId>RUR</currencyId>
         <categoryId>617</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/fe2/fe2e9292baa9d5975b2365e56cb155c2.jpeg</picture>
@@ -35055,7 +35597,7 @@
       </offer>
       <offer id="166359" available="true" group_id="166359">
         <url>https://i-sosna.ru/catalog/komody/tumba_2dveri_icons/</url>
-        <price>51740</price>
+        <price>63960</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/547/c1a29zbt5sj4c7cuaevo1rxsw6rla0zt.jpeg</picture>
@@ -35072,7 +35614,7 @@
       </offer>
       <offer id="166360" available="true" group_id="166360">
         <url>https://i-sosna.ru/catalog/komody/tumba_2dveri_3yashchika_icons_rv_803/</url>
-        <price>77420</price>
+        <price>95750</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/618/f2gzc7cldgywgpm0a5q126gktdf57y6z.jpeg</picture>
@@ -35089,7 +35631,7 @@
       </offer>
       <offer id="166361" available="true" group_id="166361">
         <url>https://i-sosna.ru/catalog/zerkala/zerkalo_pryamougolnoe_icons/</url>
-        <price>13590</price>
+        <price>16770</price>
         <currencyId>RUR</currencyId>
         <categoryId>399</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/28d/ryjndulscsx9zt97oumj3c2v18kyij69.jpeg</picture>
@@ -35123,7 +35665,7 @@
       </offer>
       <offer id="166363" available="true" group_id="166363">
         <url>https://i-sosna.ru/catalog/zerkala/zerkalo_napolnoe_icons/</url>
-        <price>22690</price>
+        <price>28020</price>
         <currencyId>RUR</currencyId>
         <categoryId>399</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/b83/34pjbgwhyv5r54oq9ww7qdlb5m14aj2a.jpeg</picture>
@@ -41723,7 +42265,7 @@
       </offer>
       <offer id="172707" available="true" group_id="172707">
         <url>https://i-sosna.ru/catalog/krovati_iz_dereva/krovat_icons/</url>
-        <price>70790</price>
+        <price>87560</price>
         <currencyId>RUR</currencyId>
         <categoryId>406</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/e65/p3qemth4ddq1nxdro0ln90jf63i7od53.jpeg</picture>
@@ -41740,7 +42282,7 @@
       </offer>
       <offer id="172708" available="true" group_id="172708">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_dlya_odezhdy_2_kh_dvernyy_icons/</url>
-        <price>139820</price>
+        <price>173680</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/7e8/moqmmzfdikp3pvxetac6llkiu9j1u2j6.jpeg</picture>
@@ -41757,7 +42299,7 @@
       </offer>
       <offer id="172709" available="true" group_id="172709">
         <url>https://i-sosna.ru/catalog/shkafy_raspashnye/shkaf_dlya_odezhdy_3_kh_dvernyy_icons/</url>
-        <price>192530</price>
+        <price>238160</price>
         <currencyId>RUR</currencyId>
         <categoryId>467</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/18f/cpvj4iud2q6nuvxkfolusm3gif8rzjh2.jpeg</picture>
@@ -41774,7 +42316,7 @@
       </offer>
       <offer id="172710" available="true" group_id="172710">
         <url>https://i-sosna.ru/catalog/tumby/tumba_prikrovatnaya_icons/</url>
-        <price>22090</price>
+        <price>27360</price>
         <currencyId>RUR</currencyId>
         <categoryId>402</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/11e/tm1jsiku4f5at2gqentwflavxqt76oa0.jpeg</picture>
@@ -41808,7 +42350,7 @@
       </offer>
       <offer id="172712" available="true" group_id="172712">
         <url>https://i-sosna.ru/catalog/komody/komod_5_yashchikov_icons/</url>
-        <price>65130</price>
+        <price>80590</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/19a/2npi8ch00xf19ijmsb0rbi5ecrkk4eqd.jpeg</picture>
@@ -41825,7 +42367,7 @@
       </offer>
       <offer id="172713" available="true" group_id="172713">
         <url>https://i-sosna.ru/catalog/komody/komod_4_dveri_icons_/</url>
-        <price>109520</price>
+        <price>109530</price>
         <currencyId>RUR</currencyId>
         <categoryId>401</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/e21/zc02afo7fwqpl01m0s8hz20rrf8yo59b.jpeg</picture>
@@ -46204,7 +46746,7 @@
       </offer>
       <offer id="175553" available="true" group_id="175553">
         <url>https://i-sosna.ru/catalog/tumby/tumba_skandi_s_glukhimi_dveryami_232/</url>
-        <price>52660</price>
+        <price>36870</price>
         <currencyId>RUR</currencyId>
         <categoryId>402</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/c38/b6ujni4lr3fxio4xnn8wew0sro4gupfa.jpeg</picture>
@@ -46218,10 +46760,11 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сканди</param>
+        <oldprice>52660</oldprice>
       </offer>
       <offer id="175554" available="true" group_id="175554">
         <url>https://i-sosna.ru/catalog/tumby/tumba_skandi_so_steklyannymi_dveryami_33stch/</url>
-        <price>53260</price>
+        <price>37290</price>
         <currencyId>RUR</currencyId>
         <categoryId>402</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/d78/82bpi01u1aassrfhdeb0et7fh6rb708i.jpeg</picture>
@@ -46235,10 +46778,11 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сканди</param>
+        <oldprice>53260</oldprice>
       </offer>
       <offer id="175555" available="true" group_id="175555">
         <url>https://i-sosna.ru/catalog/tumby/tumba_skandi_s_glukhimi_dveryami_33/</url>
-        <price>52660</price>
+        <price>36870</price>
         <currencyId>RUR</currencyId>
         <categoryId>402</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/a46/gur759il46vltxgnx4ti57r6revzad8k.jpeg</picture>
@@ -46252,10 +46796,11 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сканди</param>
+        <oldprice>52660</oldprice>
       </offer>
       <offer id="175556" available="true" group_id="175556">
         <url>https://i-sosna.ru/catalog/tumby/tumba_skandi_so_steklyannymi_i_glukhimi_dveryami_222stch/</url>
-        <price>60440</price>
+        <price>42310</price>
         <currencyId>RUR</currencyId>
         <categoryId>402</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/833/qedxcqvgngkqrlpdxbggly60kd3d07rb.jpeg</picture>
@@ -46269,6 +46814,7 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сканди</param>
+        <oldprice>60440</oldprice>
       </offer>
       <offer id="175557" available="true" group_id="175557">
         <url>https://i-sosna.ru/catalog/tumby/tumba_skandi_s_glukhimi_dveryami_222/</url>
@@ -46290,7 +46836,7 @@
       </offer>
       <offer id="175558" available="true" group_id="175558">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_posudy/shkaf_dlya_posudy_skandi_steklyannaya_i_glukhaya_dveri_1113stch/</url>
-        <price>64760</price>
+        <price>45340</price>
         <currencyId>RUR</currencyId>
         <categoryId>786</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/9ea/mmu0lxmxdj9jksg4zkyp4ujs3zlxlets.jpeg</picture>
@@ -46304,10 +46850,11 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сканди</param>
+        <oldprice>64760</oldprice>
       </offer>
       <offer id="175559" available="true" group_id="175559">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_posudy/shkaf_dlya_posudy_skandi_s_glukhimi_dveryami_1113/</url>
-        <price>64180</price>
+        <price>44930</price>
         <currencyId>RUR</currencyId>
         <categoryId>786</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/53f/ngzvqcuoack16feybwzoev0lufuzqldd.jpeg</picture>
@@ -46321,10 +46868,11 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сканди</param>
+        <oldprice>64180</oldprice>
       </offer>
       <offer id="175560" available="true" group_id="175560">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_posudy/shkaf_dlya_posudy_skandi_so_steklyannymi_i_glukhimi_dveryami_222stch/</url>
-        <price>71960</price>
+        <price>50380</price>
         <currencyId>RUR</currencyId>
         <categoryId>786</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/c0b/8tc0xnvkdygse5mwo0fcvt4oxvcibr8d.jpeg</picture>
@@ -46338,10 +46886,11 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сканди</param>
+        <oldprice>71960</oldprice>
       </offer>
       <offer id="175561" available="true" group_id="175561">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_posudy/shkaf_dlya_posudy_skandi_s_glukhimi_dveryami_222/</url>
-        <price>71380</price>
+        <price>49970</price>
         <currencyId>RUR</currencyId>
         <categoryId>786</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/22e/rdm8tra8dv7yo4w4aek41jose4v91va8.jpeg</picture>
@@ -46355,10 +46904,11 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сканди</param>
+        <oldprice>71380</oldprice>
       </offer>
       <offer id="175562" available="true" group_id="175562">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_posudy/shkaf_dlya_posudy_skandi_so_steklyannymi_i_glukhimi_dveryami_111stch/</url>
-        <price>41720</price>
+        <price>29210</price>
         <currencyId>RUR</currencyId>
         <categoryId>786</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/859/9g0spjr1mtjhojt7z8brkaqvb2rbfpz8.jpeg</picture>
@@ -46372,10 +46922,11 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сканди</param>
+        <oldprice>41720</oldprice>
       </offer>
       <offer id="175563" available="true" group_id="175563">
         <url>https://i-sosna.ru/catalog/shkafy_dlya_posudy/shkaf_dlya_posudy_skandi_s_glukhimi_dveryami_111/</url>
-        <price>41140</price>
+        <price>28800</price>
         <currencyId>RUR</currencyId>
         <categoryId>786</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/49f/bclcgf9g0y0c2mgfpn6e1oilg1gn911r.jpeg</picture>
@@ -46389,10 +46940,11 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сканди</param>
+        <oldprice>41140</oldprice>
       </offer>
       <offer id="175564" available="true" group_id="175564">
         <url>https://i-sosna.ru/catalog/stellazhi/stellazh_skandi_s_yashchikom/</url>
-        <price>33080</price>
+        <price>23160</price>
         <currencyId>RUR</currencyId>
         <categoryId>452</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/638/8a3cenq516eti3inhr5ep7o7dl6vtjr0.jpeg</picture>
@@ -46406,6 +46958,7 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сканди</param>
+        <oldprice>33080</oldprice>
       </offer>
       <offer id="175616" available="true" group_id="175616">
         <url>https://i-sosna.ru/catalog/stellazhi/shirokiy_stellazh_2_2_belyy/</url>
@@ -48890,7 +49443,7 @@
       </offer>
       <offer id="177310" available="true" group_id="177310">
         <url>https://i-sosna.ru/catalog/bufety/bufet_skandi_so_steklyannymi_i_glukhimi_dvertsami/</url>
-        <price>91940</price>
+        <price>64360</price>
         <currencyId>RUR</currencyId>
         <categoryId>388</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/31f/me8wcyc8u198ig2fosg8gi230ze6k9li.jpeg</picture>
@@ -48904,10 +49457,11 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сканди</param>
+        <oldprice>91940</oldprice>
       </offer>
       <offer id="177311" available="true" group_id="177311">
         <url>https://i-sosna.ru/catalog/bufety/nadstroyka_bufeta_skandi_so_steklyannymi_dvertsami/</url>
-        <price>39280</price>
+        <price>27500</price>
         <currencyId>RUR</currencyId>
         <categoryId>388</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/f73/b0evpecvspji3h2w7ysgfc7s7vs02h5o.jpeg</picture>
@@ -48921,10 +49475,11 @@
         <param name="Глубина" unit="см">43</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сканди</param>
+        <oldprice>39280</oldprice>
       </offer>
       <offer id="177312" available="true" group_id="177312">
         <url>https://i-sosna.ru/catalog/stoly_obedennye/stol_obedennyy_skandi_120kh70/</url>
-        <price>30250</price>
+        <price>21180</price>
         <currencyId>RUR</currencyId>
         <categoryId>457</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/39e/ful3wcpt47svrlq18p66wg96sehyt8xj.jpeg</picture>
@@ -48938,10 +49493,11 @@
         <param name="Глубина" unit="см">70</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сканди</param>
+        <oldprice>30250</oldprice>
       </offer>
       <offer id="177313" available="true" group_id="177313">
         <url>https://i-sosna.ru/catalog/stoly_obedennye/stol_obedennyy_skandi_140kh77_razdvizhnoy/</url>
-        <price>51250</price>
+        <price>35880</price>
         <currencyId>RUR</currencyId>
         <categoryId>457</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/698/wbhh0h9jvtt5h00p5piwp07n3jeql2xw.jpeg</picture>
@@ -48955,6 +49511,7 @@
         <param name="Глубина" unit="см">77</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сканди</param>
+        <oldprice>51250</oldprice>
       </offer>
       <offer id="177324" available="true" group_id="177324">
         <url>https://i-sosna.ru/catalog/stoly_pismennye/stol_tk_5_obrazets/</url>
@@ -53819,7 +54376,7 @@
       </offer>
       <offer id="185707" available="true" group_id="185707">
         <url>https://i-sosna.ru/catalog/stoly_obedennye/stol_obedennyy_raskladnoy_kruglyy_forest_skandi_110/</url>
-        <price>47400</price>
+        <price>33180</price>
         <currencyId>RUR</currencyId>
         <categoryId>457</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/52c/cq19ve3dp2wo697fumcl9llex53xvs9f.jpeg</picture>
@@ -53833,6 +54390,7 @@
         <param name="Глубина" unit="см">110</param>
         <param name="Материал">Массив сосны</param>
         <param name="Коллекция">Сканди</param>
+        <oldprice>47400</oldprice>
       </offer>
       <offer id="185814" available="true" group_id="185814">
         <url>https://i-sosna.ru/catalog/komody/komod_s_5_yashchikami_khemnes_hemnes/</url>
@@ -57383,7 +57941,7 @@
       </offer>
       <offer id="189362" available="true" group_id="189362">
         <url>https://i-sosna.ru/catalog/mebelnaya_komplektatsiya/polki_vstraivaemye_dlya_shkafov_bridzh_2sht/</url>
-        <price>5160</price>
+        <price>3870</price>
         <currencyId>RUR</currencyId>
         <categoryId>840</categoryId>
         <picture>https://i-sosna.ru/upload/iblock/46a/09d6c78vfrum5quaonzd6b9il5jc4tyh.jpeg</picture>
@@ -57396,6 +57954,7 @@
         <param name="Высота" unit="см">54</param>
         <param name="Глубина" unit="см">2</param>
         <param name="Материал">Массив сосны</param>
+        <oldprice>5160</oldprice>
         <collectionId>15</collectionId>
       </offer>
       <offer id="189361" available="true" group_id="189361">
